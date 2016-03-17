@@ -1,0 +1,11 @@
+{
+    "name":	    "Arch1",
+    "url":      "https://archlinuxarm.org/platforms/armv6/raspberry-pi",
+    "version":	    "20160122",
+    "release_date": "2016-01-22",
+    "kernel":	    "?.??",
+    "description":  "An Arch Linux port for ARM devices RPi2",
+    "username": "root",
+    "password": "root",
+    "feature_level": 35644412
+}

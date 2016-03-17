@@ -1,0 +1,62 @@
+{
+    "os_list": [
+        {
+            "os_name": "Arch1",
+            "description": "An Arch Linux port for ARM devices RPi1",
+            "release_date": "2014-10-01",
+            "feature_level": 35644412,
+            "supported_hex_revisions": "2,3,4,5,6,7,8,9,d,e,f,10,11,12,13,14,19,0092",
+            "os_info": "https://github.com/procount/pinn/os/Arch1/os.json",
+            "partitions_info": "https://github.com/procount/pinn/os/Arch1/partitions.json",
+            "icon": "https://github.com/procount/pinn/os/Arch/Arch.png",
+            "marketing_info": "https://github.com/procount/pinn/os/Arch/marketing.tar",
+            "partition_setup": "https://github.com/procount/pinn/os/Arch/partition_setup.sh",
+            "nominal_size": 1600,
+            "tarballs": [
+                "https://github.com/procount/pinn/os/Arch1/boot.tar.xz",
+                "http://archlinuxarm.org/os/ArchLinuxARM-rpi-latest.tar.gz"
+            ]
+        },
+        {
+            "os_name": "Arch2",
+            "description": "An Arch Linux port for ARM devices RPi2",
+            "release_date": "2014-10-01",
+            "feature_level": 0,
+            "supported_hex_revisions": "1040,1041,2082",    
+            "supported_models": [
+                "Pi 2",
+                "Pi 3"
+            ],                
+            "os_info": "https://github.com/procount/pinn/os/Arch2/os.json",
+            "partitions_info": "https://github.com/procount/pinn/os/Arch2/partitions.json",
+            "icon": "https://github.com/procount/pinn/os/Arch/Arch.png",
+            "marketing_info": "https://github.com/procount/pinn/os/Arch/marketing.tar",
+            "partition_setup": "https://github.com/procount/pinn/os/Arch/partition_setup.sh",
+            "nominal_size": 1600,
+            "tarballs": [
+                "https://github.com/procount/pinn/os/Arch2/boot.tar.xz",
+                "http://archlinuxarm.org/os/ArchLinuxARM-rpi-2-latest.tar.gz"
+            ]
+        },
+        {
+            "os_name": "Arch3",
+            "description": "An Arch Linux port for ARM devices RPi3",
+            "release_date": "2014-10-01",
+            "feature_level": 0,
+            "supported_hex_revisions": "2082",    
+            "supported_models": [
+                "Pi 3"
+            ],                
+            "os_info": "https://github.com/procount/pinn/os/Arch3/os.json",
+            "partitions_info": "https://github.com/procount/pinn/os/Arch3/partitions.json",
+            "icon": "https://github.com/procount/pinn/os/Arch/Arch.png",
+            "marketing_info": "https://github.com/procount/pinn/os/Arch/marketing.tar",
+            "partition_setup": "https://github.com/procount/pinn/os/Arch/partition_setup.sh",
+            "nominal_size": 1600,
+            "tarballs": [
+                "https://github.com/procount/pinn/os/Arch3/boot.tar.xz",
+                "http://archlinuxarm.org/os/ArchLinuxARM-rpi-2-latest.tar.gz"
+            ]
+        }
+    ]
+}

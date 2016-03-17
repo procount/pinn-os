@@ -1,0 +1,22 @@
+{
+    "partitions":   [
+        {
+            "label":                        "boot",
+            "filesystem_type":              "FAT",
+            "partition_size_nominal":       100,
+            "want_maximised":               false,
+            "uncompressed_tarball_size":    26,
+            "mkfs_options": "-F 32",
+	        "tarball":			            "http://www.procountsoftware.co.uk/os/Arch/boot.tar.xz"
+        },
+        {
+            "label":                        "root",
+            "filesystem_type":              "ext4",
+            "partition_size_nominal":       1500,
+            "want_maximised":               true,
+            "mkfs_options":                 "-c",
+            "uncompressed_tarball_size":    615,
+            "tarball":                      "http://archlinuxarm.org/os/ArchLinuxARM-rpi-latest.tar.gz"
+        }
+    ]
+}
