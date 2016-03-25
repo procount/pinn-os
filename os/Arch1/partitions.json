@@ -7,7 +7,7 @@
             "want_maximised":               false,
             "uncompressed_tarball_size":    26,
             "mkfs_options": "-F 32",
-            "tarball":                      "https://raw.githubusercontent.com/procount/pinn-os/master/os/Arch/boot.tar.xz"
+            "tarball":                      "https://raw.githubusercontent.com/procount/pinn-os/master/os/Arch1/boot.tar.xz"
         },
         {
             "label":                        "root",

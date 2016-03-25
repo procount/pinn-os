@@ -6,14 +6,19 @@
             "release_date": "2016-03-17",
             "feature_level": 35644412,
             "supported_hex_revisions": "2,3,4,5,6,7,8,9,d,e,f,10,11,12,13,14,19,0092",
+            "supported_models": [
+               "Pi Model",
+               "Pi Compute Module",
+               "Pi Zero"
+            ],                
             "os_info": "https://raw.githubusercontent.com/procount/pinn-os/master/os/Arch1/os.json",
             "partitions_info": "https://raw.githubusercontent.com/procount/pinn-os/master/os/Arch1/partitions.json",
-            "icon": "https://raw.githubusercontent.com/procount/pinn-os/master/os/Arch/Arch.png",
-            "marketing_info": "https://raw.githubusercontent.com/procount/pinn-os/master/os/Arch/marketing.tar",
-            "partition_setup": "https://raw.githubusercontent.com/procount/pinn-os/master/os/Arch/partition_setup.sh",
+            "icon": "https://raw.githubusercontent.com/procount/pinn-os/master/os/Arch1/Arch.png",
+            "marketing_info": "https://raw.githubusercontent.com/procount/pinn-os/master/os/Arch1/marketing.tar",
+            "partition_setup": "https://raw.githubusercontent.com/procount/pinn-os/master/os/Arch1/partition_setup.sh",
             "nominal_size": 1600,
             "tarballs": [
-                "https://raw.githubusercontent.com/procount/pinn-os/master/os/Arch/boot.tar.xz",
+                "https://raw.githubusercontent.com/procount/pinn-os/master/os/Arch1/boot.tar.xz",
                 "http://archlinuxarm.org/os/ArchLinuxARM-rpi-latest.tar.gz"
             ]
         },
@@ -29,12 +34,12 @@
             ],                
             "os_info": "https://raw.githubusercontent.com/procount/pinn-os/master/os/Arch2/os.json",
             "partitions_info": "https://raw.githubusercontent.com/procount/pinn-os/master/os/Arch2/partitions.json",
-            "icon": "https://raw.githubusercontent.com/procount/pinn-os/master/os/Arch/Arch.png",
-            "marketing_info": "https://raw.githubusercontent.com/procount/pinn-os/master/os/Arch/marketing.tar",
-            "partition_setup": "https://raw.githubusercontent.com/procount/pinn-os/master/os/Arch/partition_setup.sh",
+            "icon": "https://raw.githubusercontent.com/procount/pinn-os/master/os/Arch2/Arch.png",
+            "marketing_info": "https://raw.githubusercontent.com/procount/pinn-os/master/os/Arch2/marketing.tar",
+            "partition_setup": "https://raw.githubusercontent.com/procount/pinn-os/master/os/Arch2/partition_setup.sh",
             "nominal_size": 1600,
             "tarballs": [
-                "https://raw.githubusercontent.com/procount/pinn-os/master/os/Arch/boot.tar.xz",
+                "https://raw.githubusercontent.com/procount/pinn-os/master/os/Arch2/boot.tar.xz",
                 "http://archlinuxarm.org/os/ArchLinuxARM-rpi-2-latest.tar.gz"
             ]
         }

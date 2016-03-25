@@ -1,6 +1,6 @@
 {
     "name":	    "Arch2",
-    "url": "https://archlinuxarm.org/platforms/armv7/broadcom/raspberry-pi-2",
+    "url":          "https://archlinuxarm.org/platforms/armv7/broadcom/raspberry-pi-2",
     "version":	    "20160122",
     "release_date": "2016-01-22",
     "kernel":	    "?.??",
