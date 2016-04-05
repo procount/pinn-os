@@ -6,7 +6,6 @@
 #    part1=/dev/mmcblk0p7 part2=/dev/mmcblk0p8 ./partition_setup.sh
 
 # extract and set part1 and part2 variables
-
 if [[ ${part1} == '' || ${part2} == '' ]]; then
   echo "error: part1 and part2 not specified"
   exit 1
