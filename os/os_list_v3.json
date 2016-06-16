@@ -42,6 +42,47 @@
                 "https://raw.githubusercontent.com/procount/pinn-os/master/os/Arch2/boot.tar.xz",
                 "http://archlinuxarm.org/os/ArchLinuxARM-rpi-2-latest.tar.gz"
             ]
+        },
+        {
+            "description": "OpenELEC is a fast and user-friendly Kodi Entertainment Center distribution.",
+            "icon": "http://downloads.raspberrypi.org/openelec_pi1/OpenELEC_Pi1.png",
+            "marketing_info": "http://downloads.raspberrypi.org/openelec_pi1/marketing.tar",
+            "nominal_size": 1024,
+            "os_info": "http://downloads.raspberrypi.org/openelec_pi1/os.json",
+            "os_name": "OpenELEC_RPi1",
+            "partition_setup": "http://downloads.raspberrypi.org/openelec_pi1/partition_setup.sh",
+            "partitions_info": "http://downloads.raspberrypi.org/openelec_pi1/partitions.json",
+            "release_date": "2016-03-01",
+            "supported_hex_revisions": "2,3,4,5,6,7,8,9,d,e,f,10,11,12,14,19,0092",
+            "supported_models": [
+                "Pi Model",
+                "Pi Compute Module",
+                "Pi Zero"
+            ],
+            "tarballs": [
+                "http://downloads.raspberrypi.org/openelec_pi1/OpenELEC_RPi_System.tar.xz",
+                "http://downloads.raspberrypi.org/openelec_pi1/OpenELEC_RPi_Storage.tar.xz"
+            ]
+        },
+        {
+            "description": "OpenELEC is a fast and user-friendly Kodi Entertainment Center distribution.",
+            "icon": "http://downloads.raspberrypi.org/openelec_pi2/OpenELEC_Pi2.png",
+            "marketing_info": "http://downloads.raspberrypi.org/openelec_pi2/marketing.tar",
+            "nominal_size": 1024,
+            "os_info": "http://downloads.raspberrypi.org/openelec_pi2/os.json",
+            "os_name": "OpenELEC_RPi2",
+            "partition_setup": "http://downloads.raspberrypi.org/openelec_pi2/partition_setup.sh",
+            "partitions_info": "http://downloads.raspberrypi.org/openelec_pi2/partitions.json",
+            "release_date": "2016-03-01",
+            "supported_hex_revisions": "1040,1041,2082",
+            "supported_models": [
+                "Pi 2",
+                "Pi 3"
+            ],
+            "tarballs": [
+                "http://downloads.raspberrypi.org/openelec_pi2/OpenELEC_RPi2_System.tar.xz",
+                "http://downloads.raspberrypi.org/openelec_pi2/OpenELEC_RPi2_Storage.tar.xz"
+            ]
         }
     ]
 }
