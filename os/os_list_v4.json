@@ -95,15 +95,15 @@
                "Pi Compute Module",
                "Pi Zero"
             ],                
-            "os_info": "http://downloads.sourceforge.net/projects/pinn/files/os/retropie1/os.json",
-            "partitions_info": "http://downloads.sourceforge.net/projects/pinn/files/os/retropie1/partitions.json",
-            "icon": "http://downloads.sourceforge.net/projects/pinn/files/os/retropie1/retropie1.png",
-            "marketing_info": "http://downloads.sourceforge.net/projects/pinn/files/os/retropie1/marketing.tar",
-            "partition_setup": "http://downloads.sourceforge.net/projects/pinn/files/os/retropie1/partition_setup.sh",
+            "os_info": "http://downloads.sourceforge.net/projects/pinn/os/retropie1/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/projects/pinn/os/retropie1/partitions.json",
+            "icon": "http://downloads.sourceforge.net/projects/pinn/os/retropie1/retropie1.png",
+            "marketing_info": "http://downloads.sourceforge.net/projects/pinn/os/retropie1/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/projects/pinn/os/retropie1/partition_setup.sh",
             "nominal_size": 1600,
             "tarballs": [
-                "http://sourceforge.net/projects/pinn/files/os/retropie1/boot.tar.xz",
-                "http://sourceforge.net/projects/pinn/files/os/retropie1/retropie.tar.xz"
+                "http://sourceforge.net/projects/pinn/os/retropie1/boot.tar.xz",
+                "http://sourceforge.net/projects/pinn/os/retropie1/retropie.tar.xz"
             ]
         },
         {
