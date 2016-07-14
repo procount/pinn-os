@@ -97,13 +97,34 @@
             ],                
             "os_info": "http://sourceforge.net/projects/pinn/files/os/retropie1/os.json",
             "partitions_info": "http://sourceforge.net/projects/pinn/files/os/retropie1/partitions.json",
-            "icon": "http://sourceforge.net/projects/pinn/files/os/retropie1/Arch.png",
+            "icon": "http://sourceforge.net/projects/pinn/files/os/retropie1/retropie1.png",
             "marketing_info": "http://sourceforge.net/projects/pinn/files/os/retropie1/marketing.tar",
             "partition_setup": "http://sourceforge.net/projects/pinn/files/os/retropie1/partition_setup.sh",
             "nominal_size": 1600,
             "tarballs": [
                 "http://sourceforge.net/projects/pinn/files/os/retropie1/boot.tar.xz",
                 "http://sourceforge.net/projects/pinn/files/os/retropie1/retropie.tar.xz"
+            ]
+        },
+        {
+            "os_name": "Retropie2",
+            "description": "Retropie gaming distro using Emulation Station for RPi2/3",
+            "release_date": "2016-04-14",
+            "feature_level": 0,
+            "supported_hex_revisions": "1040,1041,2082",
+            "supported_models": [
+               "Pi 2",
+               "Pi 3"
+            ],                
+            "os_info": "http://sourceforge.net/projects/pinn/files/os/retropie2/os.json",
+            "partitions_info": "http://sourceforge.net/projects/pinn/files/os/retropie2/partitions.json",
+            "icon": "http://sourceforge.net/projects/pinn/files/os/retropie2/retropie2.png",
+            "marketing_info": "http://sourceforge.net/projects/pinn/files/os/retropie2/marketing.tar",
+            "partition_setup": "http://sourceforge.net/projects/pinn/files/os/retropie2/partition_setup.sh",
+            "nominal_size": 1600,
+            "tarballs": [
+                "http://sourceforge.net/projects/pinn/files/os/retropie2/boot.tar.xz",
+                "http://sourceforge.net/projects/pinn/files/os/retropie2/retropie.tar.xz"
             ]
         }
     ]
