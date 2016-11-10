@@ -85,20 +85,9 @@
             ]
         },
         {
-            "flavours": [
-                {
-                    "name":          "Retropie1",
-                    "description":   "Retropie gaming distro using Emulation Station for RPi1/Zero",
-                    "feature_level": 35644412,
-                    "icon":          "http://downloads.sourceforge.net/project/pinn/os/retropie1/retropie1.png"
-                },
-                {
-                    "name":          "Retropie1 - dsi",
-                    "description":   "Retropie for RPi1/Zero for DSI that switches to HDMI",
-                    "feature_level": 35644412,
-                    "icon":          "http://downloads.sourceforge.net/project/pinn/os/retropie1/retropie1.png"
-                }
-            ],
+            "os_name":       "Retropie1",
+            "description":   "Retropie v3.8 gaming distro using Emulation Station for RPi1/Zero",
+            "feature_level": 35644412,
             "release_date": "2016-04-14",
             "feature_level": 35644412,
             "supported_hex_revisions": "2,3,4,5,6,7,8,9,d,e,f,10,11,12,13,14,19,0092",
@@ -119,22 +108,11 @@
             ]
         },
         {
-            "flavours": [
-                {
-                    "name":          "Retropie2",
-                    "description":   "Retropie gaming distro using Emulation Station for RPi1/Zero",
-                    "feature_level": 0,
-                    "icon":          "http://downloads.sourceforge.net/project/pinn/os/retropie2/retropie2.png"
-                },
-                {
-                    "name":          "Retropie2 - dsi",
-                    "description":   "Retropie for RPi1/Zero for DSI that switches to HDMI",
-                    "feature_level": 0,
-                    "icon":          "http://downloads.sourceforge.net/project/pinn/os/retropie2/retropie2.png"
-                }
-            ],
-            "release_date": "2016-04-14",
-            "feature_level": 0,
+            "os_name":         "Retropie2",
+            "description":     "Retropie v3.8 gaming distro using Emulation Station for RPi2/3",
+            "feature_level":   0,
+            "release_date":    "2016-04-14",
+            "feature_level":   0,
             "supported_hex_revisions": "1040,1041,2082",
             "supported_models": [
                "Pi 2",
