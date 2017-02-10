@@ -48,7 +48,7 @@
             "description": "An Arch Linux port for ARM64 devices RPi3",
             "release_date": "2017-01-26",
             "feature_level": 0,
-            "supported_hex_revisions": "1040,1041,2082",    
+            "supported_hex_revisions": "2082",    
             "supported_models": [
                 "Pi 3"
             ],                
@@ -148,6 +148,99 @@
                                "http://downloads.sourceforge.net/project/pinn/os/retropie2/boot.tar.xz",
                                "http://downloads.sourceforge.net/project/pinn/os/retropie2/retropie.tar.xz"
             ]
+        },
+        {
+
+            "os_name":	    "void1",
+            "description":  "A Void Linux port for ARM devices RPi1",
+            "feature_level": 35644412,
+            "release_date": "2016-04-20",
+            "feature_level": 35644412,
+            "supported_hex_revisions": "2,3,4,5,6,7,8,9,d,e,f,10,11,12,13,14,19,0092",
+            "supported_models": [
+               "Pi Model",
+               "Pi Compute Module",
+               "Pi Zero"
+            ],                
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/void1/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/void1/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/void1/void1.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/void1/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/void1/partition_setup.sh",
+            "nominal_size": 350,
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/void1/boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/void1/void1.tar.xz"
+            ]
+        },
+        {
+
+            "os_name":	    "void1_musl",
+            "description":  "A Void Linux musl port for ARM devices RPi1",
+            "feature_level": 35644412,
+            "release_date": "2016-04-20",
+            "feature_level": 35644412,
+            "supported_hex_revisions": "2,3,4,5,6,7,8,9,d,e,f,10,11,12,13,14,19,0092",
+            "supported_models": [
+               "Pi Model",
+               "Pi Compute Module",
+               "Pi Zero"
+            ],                
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/void1_musl/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/void1_musl/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/void1_musl/void1_musl.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/void1_musl/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/void1_musl/partition_setup.sh",
+            "nominal_size": 350,
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/void1_musl/boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/void1_musl/void1_musl.tar.xz"
+            ]
+        },
+        {
+            "os_name":	    "void2",
+            "description":  "A Void Linux port for ARM devices RPi2/3",
+            "feature_level": 35644412,
+            "release_date": "2016-04-20",
+            "feature_level":   0,
+            "supported_hex_revisions": "1040,1041,2082",
+            "supported_models": [
+               "Pi 2",
+               "Pi 3"
+            ],                
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/void2/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/void2/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/void2/void2.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/void2/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/void2/partition_setup.sh",
+            "nominal_size": 350,
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/void2/boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/void2/void2.tar.xz"
+            ]
+        },
+        {
+            "os_name":	    "void2_musl",
+            "description":  "A Void Linux musl port for ARM devices RPi2/3",
+            "release_date": "2016-04-20",
+            "feature_level":   0,
+            "supported_hex_revisions": "1040,1041,2082",
+            "supported_models": [
+               "Pi 2",
+               "Pi 3"
+            ],                
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/void2_musl/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/void2_musl/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/void2_musl/void2_musl.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/void2_musl/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/void2_musl/partition_setup.sh",
+            "nominal_size": 350,
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/void2_musl/boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/void2_musl/void2_musl.tar.xz"
+            ]
         }
     ]
 }
+
+
