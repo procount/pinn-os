@@ -44,26 +44,6 @@
             ]
         },
         {
-            "os_name": "Arch64",
-            "description": "An Arch Linux port for ARM64 devices RPi3",
-            "release_date": "2017-01-26",
-            "feature_level": 0,
-            "supported_hex_revisions": "2082",    
-            "supported_models": [
-                "Pi 3"
-            ],                
-            "os_info": "https://raw.githubusercontent.com/procount/pinn-os/master/os/Arch64/os.json",
-            "partitions_info": "https://raw.githubusercontent.com/procount/pinn-os/master/os/Arch64/partitions.json",
-            "icon": "https://raw.githubusercontent.com/procount/pinn-os/master/os/Arch64/Arch64.png",
-            "marketing_info": "https://raw.githubusercontent.com/procount/pinn-os/master/os/Arch64/marketing.tar",
-            "partition_setup": "https://raw.githubusercontent.com/procount/pinn-os/master/os/Arch64/partition_setup.sh",
-            "nominal_size": 1600,
-            "tarballs": [
-                "https://raw.githubusercontent.com/procount/pinn-os/master/os/Arch64/boot.tar.xz",
-                "http://os.archlinuxarm.org/os/ArchLinuxARM-rpi-3-latest.tar.gz"
-            ]
-        },
-        {
             "description": "OpenELEC is a fast and user-friendly Kodi Entertainment Center distribution.",
             "icon": "http://downloads.raspberrypi.org/openelec_pi1/OpenELEC_Pi1.png",
             "marketing_info": "http://downloads.raspberrypi.org/openelec_pi1/marketing.tar",
@@ -150,7 +130,6 @@
             ]
         },
         {
-
             "os_name":	    "void1",
             "description":  "A Void Linux port for ARM devices RPi1",
             "feature_level": 35644412,
@@ -174,7 +153,6 @@
             ]
         },
         {
-
             "os_name":	    "void1_musl",
             "description":  "A Void Linux musl port for ARM devices RPi1",
             "feature_level": 35644412,
