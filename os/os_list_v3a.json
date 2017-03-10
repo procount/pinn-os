@@ -1,0 +1,357 @@
+
+{
+    "os_list": [
+        {
+            "os_name": "Arch1",
+            "description": "An Arch Linux port for ARM devices RPi1",
+            "release_date": "2016-03-17",
+            "feature_level": 35644412,
+            "supported_hex_revisions": "2,3,4,5,6,7,8,9,d,e,f,10,11,12,13,14,19,0092",
+            "supported_models": [
+               "Pi Model",
+               "Pi Compute Module",
+               "Pi Zero"
+            ],                
+            "os_info": "https://raw.githubusercontent.com/procount/pinn-os/master/os/Arch1/os.json",
+            "partitions_info": "https://raw.githubusercontent.com/procount/pinn-os/master/os/Arch1/partitions.json",
+            "icon": "https://raw.githubusercontent.com/procount/pinn-os/master/os/Arch1/Arch.png",
+            "marketing_info": "https://raw.githubusercontent.com/procount/pinn-os/master/os/Arch1/marketing.tar",
+            "partition_setup": "https://raw.githubusercontent.com/procount/pinn-os/master/os/Arch1/partition_setup.sh",
+            "nominal_size": 1600,
+            "tarballs": [
+                "https://raw.githubusercontent.com/procount/pinn-os/master/os/Arch1/boot.tar.xz",
+                "http://archlinuxarm.org/os/ArchLinuxARM-rpi-latest.tar.gz"
+            ]
+        },
+        {
+            "os_name": "Arch2",
+            "description": "An Arch Linux port for ARM devices RPi2/3",
+            "release_date": "2016-03-17",
+            "feature_level": 0,
+            "supported_hex_revisions": "1040,1041,2082",    
+            "supported_models": [
+                "Pi 2",
+                "Pi 3"
+            ],                
+            "os_info": "https://raw.githubusercontent.com/procount/pinn-os/master/os/Arch2/os.json",
+            "partitions_info": "https://raw.githubusercontent.com/procount/pinn-os/master/os/Arch2/partitions.json",
+            "icon": "https://raw.githubusercontent.com/procount/pinn-os/master/os/Arch2/Arch.png",
+            "marketing_info": "https://raw.githubusercontent.com/procount/pinn-os/master/os/Arch2/marketing.tar",
+            "partition_setup": "https://raw.githubusercontent.com/procount/pinn-os/master/os/Arch2/partition_setup.sh",
+            "nominal_size": 1600,
+            "tarballs": [
+                "https://raw.githubusercontent.com/procount/pinn-os/master/os/Arch2/boot.tar.xz",
+                "http://archlinuxarm.org/os/ArchLinuxARM-rpi-2-latest.tar.gz"
+            ]
+        },
+        {
+            "description": "OpenELEC is a fast and user-friendly Kodi Entertainment Center distribution.",
+            "icon": "http://downloads.raspberrypi.org/openelec_pi1/OpenELEC_Pi1.png",
+            "marketing_info": "http://downloads.raspberrypi.org/openelec_pi1/marketing.tar",
+            "nominal_size": 1024,
+            "os_info": "http://downloads.raspberrypi.org/openelec_pi1/os.json",
+            "os_name": "OpenELEC_RPi1",
+            "partition_setup": "http://downloads.raspberrypi.org/openelec_pi1/partition_setup.sh",
+            "partitions_info": "http://downloads.raspberrypi.org/openelec_pi1/partitions.json",
+            "release_date": "2016-03-01",
+            "supported_hex_revisions": "2,3,4,5,6,7,8,9,d,e,f,10,11,12,14,19,0092",
+            "supported_models": [
+                "Pi Model",
+                "Pi Compute Module",
+                "Pi Zero"
+            ],
+            "tarballs": [
+                "http://downloads.raspberrypi.org/openelec_pi1/OpenELEC_RPi_System.tar.xz",
+                "http://downloads.raspberrypi.org/openelec_pi1/OpenELEC_RPi_Storage.tar.xz"
+            ]
+        },
+        {
+            "description": "OpenELEC is a fast and user-friendly Kodi Entertainment Center distribution.",
+            "icon": "http://downloads.raspberrypi.org/openelec_pi2/OpenELEC_Pi2.png",
+            "marketing_info": "http://downloads.raspberrypi.org/openelec_pi2/marketing.tar",
+            "nominal_size": 1024,
+            "os_info": "http://downloads.raspberrypi.org/openelec_pi2/os.json",
+            "os_name": "OpenELEC_RPi2",
+            "partition_setup": "http://downloads.raspberrypi.org/openelec_pi2/partition_setup.sh",
+            "partitions_info": "http://downloads.raspberrypi.org/openelec_pi2/partitions.json",
+            "release_date": "2016-03-01",
+            "supported_hex_revisions": "1040,1041,2082",
+            "supported_models": [
+                "Pi 2",
+                "Pi 3"
+            ],
+            "tarballs": [
+                "http://downloads.raspberrypi.org/openelec_pi2/OpenELEC_RPi2_System.tar.xz",
+                "http://downloads.raspberrypi.org/openelec_pi2/OpenELEC_RPi2_Storage.tar.xz"
+            ]
+        },
+        {
+            "os_name":       "Retropie1",
+            "description":   "Retropie v3.8 gaming distro using Emulation Station for RPi1/Zero",
+            "feature_level": 35644412,
+            "release_date": "2016-04-14",
+            "feature_level": 35644412,
+            "supported_hex_revisions": "2,3,4,5,6,7,8,9,d,e,f,10,11,12,13,14,19,0092",
+            "supported_models": [
+               "Pi Model",
+               "Pi Compute Module",
+               "Pi Zero"
+            ],                
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/retropie1/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/retropie1/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/retropie1/retropie1.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/retropie1/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/retropie1/partition_setup.sh",
+            "nominal_size": 1600,
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/retropie1/boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/retropie1/retropie.tar.xz"
+            ]
+        },
+        {
+            "os_name":         "Retropie2",
+            "description":     "Retropie v3.8 gaming distro using Emulation Station for RPi2/3",
+            "feature_level":   0,
+            "release_date":    "2016-04-14",
+            "feature_level":   0,
+            "supported_hex_revisions": "1040,1041,2082",
+            "supported_models": [
+               "Pi 2",
+               "Pi 3"
+            ],                
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/retropie2/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/retropie2/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/retropie2/retropie2.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/retropie2/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/retropie2/partition_setup.sh",
+            "nominal_size": 1600,
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/retropie2/boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/retropie2/retropie.tar.xz"
+            ]
+        },
+        {
+            "os_name":	    "void1",
+            "description":  "A Void Linux port for ARM devices RPi1",
+            "feature_level": 35644412,
+            "release_date": "2016-04-20",
+            "feature_level": 35644412,
+            "supported_hex_revisions": "2,3,4,5,6,7,8,9,d,e,f,10,11,12,13,14,19,0092",
+            "supported_models": [
+               "Pi Model",
+               "Pi Compute Module",
+               "Pi Zero"
+            ],                
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/void1/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/void1/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/void1/void1.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/void1/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/void1/partition_setup.sh",
+            "nominal_size": 350,
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/void1/boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/void1/void1.tar.xz"
+            ]
+        },
+        {
+            "os_name":	    "void1_musl",
+            "description":  "A Void Linux musl port for ARM devices RPi1",
+            "feature_level": 35644412,
+            "release_date": "2016-04-20",
+            "feature_level": 35644412,
+            "supported_hex_revisions": "2,3,4,5,6,7,8,9,d,e,f,10,11,12,13,14,19,0092",
+            "supported_models": [
+               "Pi Model",
+               "Pi Compute Module",
+               "Pi Zero"
+            ],                
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/void1_musl/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/void1_musl/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/void1_musl/void1_musl.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/void1_musl/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/void1_musl/partition_setup.sh",
+            "nominal_size": 350,
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/void1_musl/boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/void1_musl/void1_musl.tar.xz"
+            ]
+        },
+        {
+            "os_name":	    "void2",
+            "description":  "A Void Linux port for ARM devices RPi2/3",
+            "feature_level": 35644412,
+            "release_date": "2016-04-20",
+            "feature_level":   0,
+            "supported_hex_revisions": "1040,1041,2082",
+            "supported_models": [
+               "Pi 2",
+               "Pi 3"
+            ],                
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/void2/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/void2/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/void2/void2.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/void2/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/void2/partition_setup.sh",
+            "nominal_size": 350,
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/void2/boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/void2/void2.tar.xz"
+            ]
+        },
+        {
+            "os_name":	    "void2_musl",
+            "description":  "A Void Linux musl port for ARM devices RPi2/3",
+            "release_date": "2016-04-20",
+            "feature_level":   0,
+            "supported_hex_revisions": "1040,1041,2082",
+            "supported_models": [
+               "Pi 2",
+               "Pi 3"
+            ],                
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/void2_musl/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/void2_musl/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/void2_musl/void2_musl.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/void2_musl/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/void2_musl/partition_setup.sh",
+            "nominal_size": 350,
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/void2_musl/boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/void2_musl/void2_musl.tar.xz"
+            ]
+        },
+        {
+            "os_name": "ubuntuMate1604LTS",
+            "description": "Ubuntu Mate 16.04.2 LTS",
+            "release_date": "2016-11-05",
+            "feature_level": 0,
+            "supported_hex_revisions": "1040,1041,2082",    
+            "supported_models": [
+                "Pi 2",
+                "Pi 3"
+            ],                
+            "os_info": "http://downloads.sourceforge.net/project/pinn/os/ubuntuMate1604LTS/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/ubuntuMate1604LTS/partitions.json",
+            "icon": "http://downloads.sourceforge.net/project/pinn/os/ubuntuMate1604LTS/ubuntuMate1604LTS.png",
+            "marketing_info": "http://downloads.sourceforge.net/project/pinn/os/ubuntuMate1604LTS/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/ubuntuMate1604LTS/partition_setup.sh",
+            "nominal_size": 4563,
+            "tarballs": [
+                "http://downloads.sourceforge.net/project/pinn/os/ubuntuMate1604LTS/boot.tar.xz",
+                "http://downloads.sourceforge.net/project/pinn/os/ubuntuMate1604LTS/root.tar.gz"
+            ]
+        },
+        {
+            "os_name": "picoreplayer",
+            "description": "A Squeezebox Audio Device",
+            "release_date": "2017-02-08",
+            "feature_level": 0,
+            "supported_hex_revisions": "2,3,4,5,6,7,8,9,d,e,f,10,11,12,14,19,1040,1041,0092,0093,2082",
+            "supported_models": [
+                "Pi Model",
+                "Pi 2",
+                "Pi Zero",
+                "Pi 3"  
+            ],
+            "os_info": "http://downloads.sourceforge.net/project/pinn/os/picoreplayer/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/picoreplayer/partitions.json",
+            "icon": "http://downloads.sourceforge.net/project/pinn/os/picoreplayer/picoreplayer.png",
+            "marketing_info": "http://downloads.sourceforge.net/project/pinn/os/picoreplayer/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/picoreplayer/partition_setup.sh",
+            "nominal_size": 68,
+            "tarballs": [
+                "http://downloads.sourceforge.net/project/pinn/os/picoreplayer/boot.tar.xz",
+                "http://downloads.sourceforge.net/project/pinn/os/picoreplayer/root.tar.gz"
+            ]
+        },
+        {
+            "os_name": "picoreplayerAudio",
+            "description": "A Squeezebox Audio Device",
+            "release_date": "2017-02-08",
+            "feature_level": 0,
+            "supported_hex_revisions": "2,3,4,5,6,7,8,9,d,e,f,10,11,12,14,19,1040,1041,0092,0093,2082",
+            "supported_models": [
+                "Pi Model",
+                "Pi 2",
+                "Pi Zero",
+                "Pi 3"  
+            ],
+            "os_info": "http://downloads.sourceforge.net/project/pinn/os/picoreplayerAudio/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/picoreplayerAudio/partitions.json",
+            "icon": "http://downloads.sourceforge.net/project/pinn/os/picoreplayerAudio/picoreplayerAudio.png",
+            "marketing_info": "http://downloads.sourceforge.net/project/pinn/os/picoreplayerAudio/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/picoreplayerAudio/partition_setup.sh",
+            "nominal_size": 68,
+            "tarballs": [
+                "http://downloads.sourceforge.net/project/pinn/os/picoreplayerAudio/boot.tar.xz",
+                "http://downloads.sourceforge.net/project/pinn/os/picoreplayerAudio/root.tar.gz"
+            ]
+        },
+        {
+            "os_name":       "Retropie1",
+            "description":   "Retropie v4.1 gaming distro using Emulation Station for RPi1/Zero",
+            "feature_level": 35644412,
+            "release_date": "2016-04-14",
+            "feature_level": 35644412,
+            "supported_hex_revisions": "2,3,4,5,6,7,8,9,d,e,f,10,11,12,13,14,19,0092",
+            "supported_models": [
+               "Pi Model",
+               "Pi Compute Module",
+               "Pi Zero"
+            ],                
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/retropie41/retropie1/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/retropie41/retropie1/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/retropie41/retropie1/retropie1.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/retropie41/retropie1/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/retropie41/retropie1/partition_setup.sh",
+            "nominal_size": 1878,
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/retropie41/retropie1/boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/retropie41/retropie1/retropie.tar.xz"
+            ]
+        },
+        {
+            "os_name":         "Retropie2",
+            "description":     "Retropie v4.1 gaming distro using Emulation Station for RPi2/3",
+            "feature_level":   0,
+            "release_date":    "2016-04-14",
+            "feature_level":   0,
+            "supported_hex_revisions": "1040,1041,2082",
+            "supported_models": [
+               "Pi 2",
+               "Pi 3"
+            ],                
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/retropie41/retropie2/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/retropie41/retropie2/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/retropie41/retropie2/retropie2.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/retropie41/retropie2/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/retropie41/retropie2/partition_setup.sh",
+            "nominal_size": 1914,
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/retropie41/retropie2/boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/retropie41/retropie2/retropie.tar.xz"
+            ]
+        },
+        {
+            "os_name":         "PiTop",
+            "description":     "Pi-Top OS for the Pi2/Pi3",
+            "release_date":    "2017-02-23",
+            "feature_level":   0,
+            "supported_hex_revisions": "1040,1041,2082",
+            "supported_models": [
+               "Pi 2",
+               "Pi 3"
+            ],                
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/PiTop/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/PiTop/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/PiTop/PiTop.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/PiTop/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/PiTop/partition_setup.sh",
+            "nominal_size": 1914,
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/PiTop/boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/PiTop/root.tar.xz"
+            ]
+        }
+     ]
+}
+
