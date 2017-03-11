@@ -237,7 +237,7 @@
             "nominal_size": 4563,
             "tarballs": [
                 "http://downloads.sourceforge.net/project/pinn/os/ubuntuMate1604LTS/boot.tar.xz",
-                "http://downloads.sourceforge.net/project/pinn/os/ubuntuMate1604LTS/root.tar.gz"
+                "http://downloads.sourceforge.net/project/pinn/os/ubuntuMate1604LTS/root.tar.xz"
             ]
         },
         {
@@ -260,7 +260,7 @@
             "nominal_size": 68,
             "tarballs": [
                 "http://downloads.sourceforge.net/project/pinn/os/picoreplayer/boot.tar.xz",
-                "http://downloads.sourceforge.net/project/pinn/os/picoreplayer/root.tar.gz"
+                "http://downloads.sourceforge.net/project/pinn/os/picoreplayer/root.tar.xz"
             ]
         },
         {
@@ -283,7 +283,7 @@
             "nominal_size": 68,
             "tarballs": [
                 "http://downloads.sourceforge.net/project/pinn/os/picoreplayerAudio/boot.tar.xz",
-                "http://downloads.sourceforge.net/project/pinn/os/picoreplayerAudio/root.tar.gz"
+                "http://downloads.sourceforge.net/project/pinn/os/picoreplayerAudio/root.tar.xz"
             ]
         },
         {
