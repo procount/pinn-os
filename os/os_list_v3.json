@@ -217,6 +217,48 @@
                                "http://downloads.sourceforge.net/project/pinn/os/void2_musl/boot.tar.xz",
                                "http://downloads.sourceforge.net/project/pinn/os/void2_musl/void2_musl.tar.xz"
             ]
+        },
+        {
+            "os_name": "ubuntuMate1604LTS",
+            "description": "Ubuntu Mate 16.04.2 LTS",
+            "release_date": "2016-11-05",
+            "feature_level": 0,
+            "supported_hex_revisions": "1040,1041,2082",    
+            "supported_models": [
+                "Pi 2",
+                "Pi 3"
+            ],                
+            "os_info": "http://downloads.sourceforge.net/project/pinn/os/ubuntuMate1604LTS/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/ubuntuMate1604LTS/partitions.json",
+            "icon": "http://downloads.sourceforge.net/project/pinn/os/ubuntuMate1604LTS/ubuntuMate1604LTS.png",
+            "marketing_info": "http://downloads.sourceforge.net/project/pinn/os/ubuntuMate1604LTS/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/ubuntuMate1604LTS/partition_setup.sh",
+            "nominal_size": 4563,
+            "tarballs": [
+                "http://downloads.sourceforge.net/project/pinn/os/ubuntuMate1604LTS/boot.tar.xz",
+                "http://downloads.sourceforge.net/project/pinn/os/ubuntuMate1604LTS/root.tar.xz"
+            ]
+        },
+        {
+            "os_name":         "PiTop",
+            "description":     "Pi-Top OS for the Pi2/Pi3",
+            "release_date":    "2017-02-23",
+            "feature_level":   0,
+            "supported_hex_revisions": "1040,1041,2082",
+            "supported_models": [
+               "Pi 2",
+               "Pi 3"
+            ],                
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/PiTop/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/PiTop/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/PiTop/PiTop.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/PiTop/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/PiTop/partition_setup.sh",
+            "nominal_size": 1914,
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/PiTop/boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/PiTop/root.tar.xz"
+            ]
         }
     ]
 }

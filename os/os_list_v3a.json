@@ -86,7 +86,7 @@
             ]
         },
         {
-            "os_name":       "Retropie1",
+            "os_name":       "Retropie1_38",
             "description":   "Retropie v3.8 gaming distro using Emulation Station for RPi1/Zero",
             "feature_level": 35644412,
             "release_date": "2016-04-14",
@@ -109,7 +109,7 @@
             ]
         },
         {
-            "os_name":         "Retropie2",
+            "os_name":         "Retropie2_38",
             "description":     "Retropie v3.8 gaming distro using Emulation Station for RPi2/3",
             "feature_level":   0,
             "release_date":    "2016-04-14",
