@@ -259,6 +259,26 @@
                                "http://downloads.sourceforge.net/project/pinn/os/retropie41/retropie2/boot.tar.xz",
                                "http://downloads.sourceforge.net/project/pinn/os/retropie41/retropie2/retropie.tar.xz"
             ]
+        },
+        {
+            "os_name":         "rtandroid",
+            "description":     "Real TIme Android 7.1.1 (Nougat) for the RPi3",
+            "release_date":    "2017-03-15",
+            "feature_level":   0,
+            "supported_hex_revisions": "2082",
+            "supported_models": [
+               "Pi 3"
+            ],                
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/rtandroid/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/rtandroid/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/rtandroid/rtandroid.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/rtandroid/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/rtandroid/partition_setup.sh",
+            "nominal_size": 2058,
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/rtandroid/boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/rtandroid/system.img.gz"
+            ]
         }
     ]
 }
