@@ -7,7 +7,7 @@
     "description":  "An Arch Linux port for ARM devices RPi1",
     "username": "root",
     "password": "root",
-    "feature_level": 35644412
+    "feature_level": 35644412,
     "supported_models": [
 	"Pi Model",
 	"Pi Compute Module",
