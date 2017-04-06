@@ -261,6 +261,27 @@
             ]
         },
         {
+            "os_name":         "kali2",
+            "description":     "Kali Penetration Testing for Pi2/3",
+            "release_date":    "2016-08-31",
+            "feature_level":   0,
+            "supported_hex_revisions": "1040,1041,2082",
+            "supported_models": [
+               "Pi 2",
+               "Pi 3"
+            ],                
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/kali2/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/kali2/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/kali2/kali2.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/kali2/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/kali2/partition_setup.sh",
+            "nominal_size": 6763,
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/kali2/boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/kali2/root.tar.xz"
+            ]
+        },
+        {
             "os_name":         "rtandroid",
             "description":     "Real TIme Android 7.1.1 (Nougat) for the RPi3",
             "release_date":    "2017-03-15",
