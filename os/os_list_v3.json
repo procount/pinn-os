@@ -217,47 +217,45 @@
         },
         {
             "os_name":       "Retropie1",
-            "description":   "Retropie v4.1 gaming distro using Emulation Station for RPi1/Zero",
+            "description":   "Retropie v4.2 gaming distro using Emulation Station for RPi1/Zero",
             "feature_level": 35644412,
-            "release_date": "2016-04-14",
-            "feature_level": 35644412,
+            "release_date": "2017-03-20",
             "supported_hex_revisions": "2,3,4,5,6,7,8,9,d,e,f,10,11,12,13,14,19,0092",
             "supported_models": [
                "Pi Model",
                "Pi Compute Module",
                "Pi Zero"
             ],                
-            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/retropie41/retropie1/os.json",
-            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/retropie41/retropie1/partitions.json",
-            "icon":            "http://downloads.sourceforge.net/project/pinn/os/retropie41/retropie1/retropie1.png",
-            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/retropie41/retropie1/marketing.tar",
-            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/retropie41/retropie1/partition_setup.sh",
-            "nominal_size": 1878,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/Retropie1/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/Retropie1/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/Retropie1/Retropie1.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/Retropie1/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/Retropie1/partition_setup.sh",
+            "nominal_size": 1993,
             "tarballs": [
-                               "http://downloads.sourceforge.net/project/pinn/os/retropie41/retropie1/boot.tar.xz",
-                               "http://downloads.sourceforge.net/project/pinn/os/retropie41/retropie1/retropie.tar.xz"
+                               "http://downloads.sourceforge.net/project/pinn/os/Retropie1/boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/Retropie1/retropie.tar.xz"
             ]
         },
         {
             "os_name":         "Retropie2",
-            "description":     "Retropie v4.1 gaming distro using Emulation Station for RPi2/3",
+            "description":     "Retropie v4.2 gaming distro using Emulation Station for RPi2/3",
             "feature_level":   0,
-            "release_date":    "2016-04-14",
-            "feature_level":   0,
+            "release_date":    "2017-03-20",
             "supported_hex_revisions": "1040,1041,2082",
             "supported_models": [
                "Pi 2",
                "Pi 3"
             ],                
-            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/retropie41/retropie2/os.json",
-            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/retropie41/retropie2/partitions.json",
-            "icon":            "http://downloads.sourceforge.net/project/pinn/os/retropie41/retropie2/retropie2.png",
-            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/retropie41/retropie2/marketing.tar",
-            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/retropie41/retropie2/partition_setup.sh",
-            "nominal_size": 1914,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/Retropie2/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/Retropie2/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/Retropie2/Retropie2.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/Retropie2/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/Retropie2/partition_setup.sh",
+            "nominal_size": 1996,
             "tarballs": [
-                               "http://downloads.sourceforge.net/project/pinn/os/retropie41/retropie2/boot.tar.xz",
-                               "http://downloads.sourceforge.net/project/pinn/os/retropie41/retropie2/retropie.tar.xz"
+                               "http://downloads.sourceforge.net/project/pinn/os/Retropie2/boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/Retropie2/retropie.tar.xz"
             ]
         },
         {
