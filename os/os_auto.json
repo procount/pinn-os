@@ -110,7 +110,7 @@
             "nominal_size": 350,
             "tarballs": [
                                "http://downloads.sourceforge.net/project/pinn/os_auto/void1/boot.tar.xz",
-                               "http://downloads.sourceforge.net/project/pinn/os_auto/void1/void1.tar.xz"
+                               "http://downloads.sourceforge.net/project/pinn/os_auto/void1/root.tar.xz"
             ]
         },
         {
@@ -133,7 +133,7 @@
             "nominal_size": 350,
             "tarballs": [
                                "http://downloads.sourceforge.net/project/pinn/os_auto/void1_musl/boot.tar.xz",
-                               "http://downloads.sourceforge.net/project/pinn/os_auto/void1_musl/void1_musl.tar.xz"
+                               "http://downloads.sourceforge.net/project/pinn/os_auto/void1_musl/root.tar.xz"
             ]
         },
         {
@@ -155,7 +155,7 @@
             "nominal_size": 350,
             "tarballs": [
                                "http://downloads.sourceforge.net/project/pinn/os_auto/void2/boot.tar.xz",
-                               "http://downloads.sourceforge.net/project/pinn/os_auto/void2/void2.tar.xz"
+                               "http://downloads.sourceforge.net/project/pinn/os_auto/void2/root.tar.xz"
             ]
         },
         {
@@ -176,7 +176,7 @@
             "nominal_size": 350,
             "tarballs": [
                                "http://downloads.sourceforge.net/project/pinn/os_auto/void2_musl/boot.tar.xz",
-                               "http://downloads.sourceforge.net/project/pinn/os_auto/void2_musl/void2_musl.tar.xz"
+                               "http://downloads.sourceforge.net/project/pinn/os_auto/void2_musl/root.tar.xz"
             ]
         },
         {
