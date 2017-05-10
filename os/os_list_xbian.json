@@ -10,18 +10,19 @@
                 "Pi Compute Module",
                 "Pi Zero"
             ],
-            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/XBian_RPi1/os.json",
-            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/XBian_RPi1/partitions.json",
-            "icon":            "http://downloads.sourceforge.net/project/pinn/os/XBian_RPi1/XBian.png",
-            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/XBian_RPi1/marketing.tar",
-            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/XBian_RPi1/partition_setup.sh",
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os_auto/XBian_RPi1/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os_auto/XBian_RPi1/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os_auto/XBian_RPi1/XBian_RPi1.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os_auto/XBian_RPi1/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os_auto/XBian_RPi1/partition_setup.sh",
             "tarballs": [
-                               "https://sourceforge.net/projects/xbian/files/noobs/xbianboot-rpi.tar.xz",
-                               "https://sourceforge.net/projects/xbian/files/noobs/xbianroot-rpi.xz"
+                               "http://downloads.sourceforge.net/project/pinn/os_auto/XBian_RPi1/xbianboot-rpi.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os_auto/XBian_RPi1/xbianroot-rpi.xz"
             ],
             "nominal_size": 1740
         },
         {
+
             "os_name":	    "XBian_RPi3",
             "description":  "XBian is small, fast and lightweight media center distribution",
             "release_date": "2016-02-04",
@@ -31,18 +32,18 @@
                 "Pi 2",
                 "Pi 3"
             ],            
-            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/XBian_RPi3/os.json",
-            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/XBian_RPi3/partitions.json",
-            "icon":            "http://downloads.sourceforge.net/project/pinn/os/XBian_RPi3/XBian.png",
-            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/XBian_RPi3/marketing.tar",
-            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/XBian_RPi3/partition_setup.sh",
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os_auto/XBian_RPi3/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os_auto/XBian_RPi3/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os_auto/XBian_RPi3/XBian_RPi3.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os_auto/XBian_RPi3/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os_auto/XBian_RPi3/partition_setup.sh",
             "tarballs": [
-                               "https://sourceforge.net/projects/xbian/files/noobs/xbianboot-rpi3.tar.xz",
-                               "https://sourceforge.net/projects/xbian/files/noobs/xbianroot-rpi3.xz"
+                               "http://downloads.sourceforge.net/project/pinn/os_auto/XBian_RPi3/xbianboot-rpi3.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os_auto/XBian_RPi3/xbianroot-rpi3.xz"
             ],
             "nominal_size": 1740
         }
     ]
 }
 
-    
+
