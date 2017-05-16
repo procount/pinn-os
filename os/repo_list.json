@@ -1,0 +1,17 @@
+{
+	"repo_list" : [
+		{
+			"name" : "RaspberryPi",
+			"url"  : "http://downloads.raspberrypi.org/os_list_v3.json"
+		},
+		{
+			"name" : "PINN",
+			"url"  : "http://raw.githubusercontent.com/procount/pinn-os/master/os/os_list_v3.json"
+		},
+		{
+			"name" : "Matt Huisman",
+			"url"  : "https://bitbucket.org/matthuisman/pinn-os/raw/master/os_list_v3.json"
+		}
+	]
+}
+
