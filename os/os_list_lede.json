@@ -1,0 +1,70 @@
+{
+    "os_list": [
+        {
+            "os_name":	    "lede2RPi",
+            "description":  "LEDE for the Raspberry Pi (open-wrt)",
+            "release_date": "2017-04-18",
+            "feature_level": 0,
+            "supported_hex_revisions": "2,3,4,5,6,7,8,9,d,e,f,10,11,12,13,14,19,0092",
+            "supported_models": [
+              "Pi Model", 
+              "Pi Compute Module", 
+              "Pi Zero"
+            ],
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/lede2RPi/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/lede2RPi/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/lede2RPi/lede2RPi.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/lede2RPi/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/lede2RPi/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/lede2RPi/LEDE_boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/lede2RPi/LEDE_root.tar.xz"
+            ],
+            "nominal_size": 325
+        },
+        {
+            "os_name":	    "lede2RPi2",
+            "description":  "LEDE for the Raspberry Pi (open-wrt)",
+            "release_date": "2017-04-18",
+            "feature_level": 0,
+            "supported_hex_revisions": "1040,1041",
+            "supported_models": [
+              "Pi 2"
+            ],
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/lede2RPi2/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/lede2RPi2/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/lede2RPi2/lede2RPi2.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/lede2RPi2/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/lede2RPi2/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/lede2RPi2/LEDE_boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/lede2RPi2/LEDE_root.tar.xz"
+            ],
+            "nominal_size": 325
+        },        
+        {
+            "os_name":	    "lede2RPi3",
+            "description":  "LEDE for the Raspberry Pi (open-wrt)",
+            "release_date": "2017-04-18",
+            "feature_level": 0,
+            "supported_hex_revisions": "2082",
+            "supported_models": [
+              "Pi 3"
+            ],
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/lede2RPi3/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/lede2RPi3/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/lede2RPi3/lede2RPi3.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/lede2RPi3/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/lede2RPi3/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/lede2RPi3/LEDE_boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/lede2RPi3/LEDE_root.tar.xz"
+            ],
+            "nominal_size": 325
+        }
+        
+
+
+    ]
+}
+
