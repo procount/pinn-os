@@ -1,0 +1,26 @@
+{
+  "os_list" : [
+        {
+            "os_name":	    "solydx",
+            "description":  "Solydxk for RPI2/3",
+            "release_date": "2017-01-01",
+            "feature_level": 0,
+            "supported_hex_revisions": "1040,1041,2082",    
+            "supported_models": [
+                "Pi 2",
+                "Pi 3"
+            ],            
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/host/solydx/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/host/solydx/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/host/solydx/solydx.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/host/solydx/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/host/solydx/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/host/solydx/boot_solydxk.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/host/solydx/root_solydxk.tar.xz"
+            ],
+            "nominal_size": 3515
+        }
+
+  ]
+}
