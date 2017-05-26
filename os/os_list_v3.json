@@ -1,199 +1,53 @@
 {
     "os_list": [
         {
-            "os_name": "Arch1",
-            "description": "An Arch Linux port for ARM devices RPi1",
-            "release_date": "2016-03-17",
-            "feature_level": 35644412,
-            "supported_hex_revisions": "2,3,4,5,6,7,8,9,d,e,f,10,11,12,13,14,19,0092",
-            "supported_models": [
-               "Pi Model",
-               "Pi Compute Module",
-               "Pi Zero"
-            ],                
-            "os_info": "https://raw.githubusercontent.com/procount/pinn-os/master/os/Arch1/os.json",
-            "partitions_info": "https://raw.githubusercontent.com/procount/pinn-os/master/os/Arch1/partitions.json",
-            "icon": "https://raw.githubusercontent.com/procount/pinn-os/master/os/Arch1/Arch.png",
-            "marketing_info": "https://raw.githubusercontent.com/procount/pinn-os/master/os/Arch1/marketing.tar",
-            "partition_setup": "https://raw.githubusercontent.com/procount/pinn-os/master/os/Arch1/partition_setup.sh",
-            "nominal_size": 1600,
-            "tarballs": [
-                "https://raw.githubusercontent.com/procount/pinn-os/master/os/Arch1/boot.tar.xz",
-                "http://archlinuxarm.org/os/ArchLinuxARM-rpi-latest.tar.gz"
-            ]
-        },
-        {
-            "os_name": "Arch2",
-            "description": "An Arch Linux port for ARM devices RPi2/3",
-            "release_date": "2016-03-17",
+            "os_name":	    "AIYprojects",
+            "description":  "Raspbian image for Google Assistant projects",
+            "release_date": "2017-05-03",
             "feature_level": 0,
-            "supported_hex_revisions": "1040,1041,2082",    
+            "supported_hex_revisions": "2,3,4,5,6,7,8,9,d,e,f,10,11,12,14,19,1040,1041,0092,0093,2082",
             "supported_models": [
-                "Pi 2",
-                "Pi 3"
-            ],                
-            "os_info": "https://raw.githubusercontent.com/procount/pinn-os/master/os/Arch2/os.json",
-            "partitions_info": "https://raw.githubusercontent.com/procount/pinn-os/master/os/Arch2/partitions.json",
-            "icon": "https://raw.githubusercontent.com/procount/pinn-os/master/os/Arch2/Arch.png",
-            "marketing_info": "https://raw.githubusercontent.com/procount/pinn-os/master/os/Arch2/marketing.tar",
-            "partition_setup": "https://raw.githubusercontent.com/procount/pinn-os/master/os/Arch2/partition_setup.sh",
-            "nominal_size": 1600,
-            "tarballs": [
-                "https://raw.githubusercontent.com/procount/pinn-os/master/os/Arch2/boot.tar.xz",
-                "http://archlinuxarm.org/os/ArchLinuxARM-rpi-2-latest.tar.gz"
-            ]
-        },
-        {
-            "description": "OpenELEC is a fast and user-friendly Kodi Entertainment Center distribution.",
-            "icon": "http://downloads.raspberrypi.org/openelec_pi1/OpenELEC_Pi1.png",
-            "marketing_info": "http://downloads.raspberrypi.org/openelec_pi1/marketing.tar",
-            "nominal_size": 1024,
-            "os_info": "http://downloads.raspberrypi.org/openelec_pi1/os.json",
-            "os_name": "OpenELEC_RPi1",
-            "partition_setup": "http://downloads.raspberrypi.org/openelec_pi1/partition_setup.sh",
-            "partitions_info": "http://downloads.raspberrypi.org/openelec_pi1/partitions.json",
-            "release_date": "2016-03-01",
-            "supported_hex_revisions": "2,3,4,5,6,7,8,9,d,e,f,10,11,12,14,19,0092",
-            "supported_models": [
-                "Pi Model",
-                "Pi Compute Module",
-                "Pi Zero"
+              "Pi Model",
+              "Pi 2",
+              "Pi Zero",
+              "Pi 3"  
             ],
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/host/AIYprojects/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/host/AIYprojects/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/host/AIYprojects/AIYprojects.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/host/AIYprojects/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/host/AIYprojects/partition_setup.sh",
             "tarballs": [
-                "http://downloads.raspberrypi.org/openelec_pi1/OpenELEC_RPi_System.tar.xz",
-                "http://downloads.raspberrypi.org/openelec_pi1/OpenELEC_RPi_Storage.tar.xz"
-            ]
-        },
-        {
-            "description": "OpenELEC is a fast and user-friendly Kodi Entertainment Center distribution.",
-            "icon": "http://downloads.raspberrypi.org/openelec_pi2/OpenELEC_Pi2.png",
-            "marketing_info": "http://downloads.raspberrypi.org/openelec_pi2/marketing.tar",
-            "nominal_size": 1024,
-            "os_info": "http://downloads.raspberrypi.org/openelec_pi2/os.json",
-            "os_name": "OpenELEC_RPi2",
-            "partition_setup": "http://downloads.raspberrypi.org/openelec_pi2/partition_setup.sh",
-            "partitions_info": "http://downloads.raspberrypi.org/openelec_pi2/partitions.json",
-            "release_date": "2016-03-01",
-            "supported_hex_revisions": "1040,1041,2082",
-            "supported_models": [
-                "Pi 2",
-                "Pi 3"
+                               "http://downloads.sourceforge.net/project/pinn/host/AIYprojects/boot_aiy.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/host/AIYprojects/root_aiy.tar.xz"
             ],
-            "tarballs": [
-                "http://downloads.raspberrypi.org/openelec_pi2/OpenELEC_RPi2_System.tar.xz",
-                "http://downloads.raspberrypi.org/openelec_pi2/OpenELEC_RPi2_Storage.tar.xz"
-            ]
-        },
+            "nominal_size": 3088
+        }
+,
         {
-            "os_name":	    "void1",
-            "description":  "A Void Linux port for ARM devices RPi1",
-            "feature_level": 35644412,
-            "release_date": "2016-04-20",
-            "feature_level": 35644412,
-            "supported_hex_revisions": "2,3,4,5,6,7,8,9,d,e,f,10,11,12,13,14,19,0092",
-            "supported_models": [
-               "Pi Model",
-               "Pi Compute Module",
-               "Pi Zero"
-            ],                
-            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/void1/os.json",
-            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/void1/partitions.json",
-            "icon":            "http://downloads.sourceforge.net/project/pinn/os/void1/void1.png",
-            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/void1/marketing.tar",
-            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/void1/partition_setup.sh",
-            "nominal_size": 350,
-            "tarballs": [
-                               "http://downloads.sourceforge.net/project/pinn/os/void1/boot.tar.xz",
-                               "http://downloads.sourceforge.net/project/pinn/os/void1/void1.tar.xz"
-            ]
-        },
-        {
-            "os_name":	    "void1_musl",
-            "description":  "A Void Linux musl port for ARM devices RPi1",
-            "feature_level": 35644412,
-            "release_date": "2016-04-20",
-            "feature_level": 35644412,
-            "supported_hex_revisions": "2,3,4,5,6,7,8,9,d,e,f,10,11,12,13,14,19,0092",
-            "supported_models": [
-               "Pi Model",
-               "Pi Compute Module",
-               "Pi Zero"
-            ],                
-            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/void1_musl/os.json",
-            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/void1_musl/partitions.json",
-            "icon":            "http://downloads.sourceforge.net/project/pinn/os/void1_musl/void1_musl.png",
-            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/void1_musl/marketing.tar",
-            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/void1_musl/partition_setup.sh",
-            "nominal_size": 350,
-            "tarballs": [
-                               "http://downloads.sourceforge.net/project/pinn/os/void1_musl/boot.tar.xz",
-                               "http://downloads.sourceforge.net/project/pinn/os/void1_musl/void1_musl.tar.xz"
-            ]
-        },
-        {
-            "os_name":	    "void2",
-            "description":  "A Void Linux port for ARM devices RPi2/3",
-            "feature_level": 35644412,
-            "release_date": "2016-04-20",
-            "feature_level":   0,
-            "supported_hex_revisions": "1040,1041,2082",
-            "supported_models": [
-               "Pi 2",
-               "Pi 3"
-            ],                
-            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/void2/os.json",
-            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/void2/partitions.json",
-            "icon":            "http://downloads.sourceforge.net/project/pinn/os/void2/void2.png",
-            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/void2/marketing.tar",
-            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/void2/partition_setup.sh",
-            "nominal_size": 350,
-            "tarballs": [
-                               "http://downloads.sourceforge.net/project/pinn/os/void2/boot.tar.xz",
-                               "http://downloads.sourceforge.net/project/pinn/os/void2/void2.tar.xz"
-            ]
-        },
-        {
-            "os_name":	    "void2_musl",
-            "description":  "A Void Linux musl port for ARM devices RPi2/3",
-            "release_date": "2016-04-20",
-            "feature_level":   0,
-            "supported_hex_revisions": "1040,1041,2082",
-            "supported_models": [
-               "Pi 2",
-               "Pi 3"
-            ],                
-            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/void2_musl/os.json",
-            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/void2_musl/partitions.json",
-            "icon":            "http://downloads.sourceforge.net/project/pinn/os/void2_musl/void2_musl.png",
-            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/void2_musl/marketing.tar",
-            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/void2_musl/partition_setup.sh",
-            "nominal_size": 350,
-            "tarballs": [
-                               "http://downloads.sourceforge.net/project/pinn/os/void2_musl/boot.tar.xz",
-                               "http://downloads.sourceforge.net/project/pinn/os/void2_musl/void2_musl.tar.xz"
-            ]
-        },
-        {
-            "os_name": "ubuntuMate1604LTS",
-            "description": "Ubuntu Mate 16.04.2 LTS",
-            "release_date": "2016-11-05",
+            "os_name":	    "CStemBian",
+            "description":  "Learn C-STEM and robotics from UC-Davis RPi0/1/2/3",
+            "release_date": "2017-03-18",
             "feature_level": 0,
-            "supported_hex_revisions": "1040,1041,2082",    
+            "supported_hex_revisions": "2,3,4,5,6,7,8,9,d,e,f,10,11,12,14,19,1040,1041,0092,0093,2082",
             "supported_models": [
-                "Pi 2",
-                "Pi 3"
-            ],                
-            "os_info": "http://downloads.sourceforge.net/project/pinn/os/ubuntuMate1604LTS/os.json",
-            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/ubuntuMate1604LTS/partitions.json",
-            "icon": "http://downloads.sourceforge.net/project/pinn/os/ubuntuMate1604LTS/ubuntuMate1604LTS.png",
-            "marketing_info": "http://downloads.sourceforge.net/project/pinn/os/ubuntuMate1604LTS/marketing.tar",
-            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/ubuntuMate1604LTS/partition_setup.sh",
-            "nominal_size": 4563,
+              "Pi Model",
+              "Pi 2",
+              "Pi Zero",
+              "Pi 3"  
+            ],
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/host/CStemBian/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/host/CStemBian/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/host/CStemBian/CStemBian.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/host/CStemBian/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/host/CStemBian/partition_setup.sh",
             "tarballs": [
-                "http://downloads.sourceforge.net/project/pinn/os/ubuntuMate1604LTS/boot.tar.xz",
-                "http://downloads.sourceforge.net/project/pinn/os/ubuntuMate1604LTS/root.tar.xz"
-            ]
-        },
+                               "http://downloads.sourceforge.net/project/pinn/host/CStemBian/boot_cstem.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/host/CStemBian/root_cstem.tar.xz"
+            ],
+            "nominal_size": 4143
+        }
+,
         {
             "os_name":         "PiTop",
             "description":     "Pi-Top OS for the Pi2/Pi3",
@@ -204,17 +58,151 @@
                "Pi 2",
                "Pi 3"
             ],                
-            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/PiTop/os.json",
-            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/PiTop/partitions.json",
-            "icon":            "http://downloads.sourceforge.net/project/pinn/os/PiTop/PiTop.png",
-            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/PiTop/marketing.tar",
-            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/PiTop/partition_setup.sh",
-            "nominal_size": 1914,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/host/PiTop/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/host/PiTop/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/host/PiTop/PiTop.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/host/PiTop/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/host/PiTop/partition_setup.sh",
             "tarballs": [
-                               "http://downloads.sourceforge.net/project/pinn/os/PiTop/boot.tar.xz",
-                               "http://downloads.sourceforge.net/project/pinn/os/PiTop/root.tar.xz"
-            ]
-        },
+                               "http://downloads.sourceforge.net/project/pinn/host/PiTop/boot_pitop.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/host/PiTop/root_pitop.tar.xz"
+            ],
+            "nominal_size": 4589
+        }
+,
+        {
+            "os_name":	    "solydx",
+            "description":  "Solydxk for RPI2/3",
+            "release_date": "2017-01-01",
+            "feature_level": 0,
+            "supported_hex_revisions": "1040,1041,2082",    
+            "supported_models": [
+                "Pi 2",
+                "Pi 3"
+            ],            
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/host/solydx/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/host/solydx/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/host/solydx/solydx.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/host/solydx/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/host/solydx/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/host/solydx/boot_solydxk.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/host/solydx/root_solydxk.tar.xz"
+            ],
+            "nominal_size": 3515
+        }
+,
+        {
+            "os_name":	    "ubuntuMate1604LTS",
+            "description": "Ubuntu Mate 16.04.2 LTS",
+            "release_date": "2016-11-05",
+            "feature_level": 0,
+            "supported_hex_revisions": "1040,1041,2082",    
+            "supported_models": [
+                "Pi 2",
+                "Pi 3"
+            ],                
+            "os_info":          "http://downloads.sourceforge.net/project/pinn/host/ubuntuMate1604LTS/os.json",
+            "partitions_info":  "http://downloads.sourceforge.net/project/pinn/host/ubuntuMate1604LTS/partitions.json",
+            "icon":             "http://downloads.sourceforge.net/project/pinn/host/ubuntuMate1604LTS/ubuntuMate1604LTS.png",
+            "marketing_info":   "http://downloads.sourceforge.net/project/pinn/host/ubuntuMate1604LTS/marketing.tar",
+            "partition_setup":  "http://downloads.sourceforge.net/project/pinn/host/ubuntuMate1604LTS/partition_setup.sh",
+            "tarballs": [
+                                "http://downloads.sourceforge.net/project/pinn/host/ubuntuMate1604LTS/boot_ub.tar.xz",
+                                "http://downloads.sourceforge.net/project/pinn/host/ubuntuMate1604LTS/root_ub.tar.xz"
+            ],
+            "nominal_size": 4568
+        }
+,
+        {
+            "os_name":	    "openelec_rpi1",
+            "description":  "OpenELEC is a fast and user-friendly Kodi Entertainment Center distribution.",
+            "release_date": "2016-04-30",
+            "feature_level": 35644412,
+            "supported_hex_revisions": "2,3,4,5,6,7,8,9,d,e,f,10,11,12,14,19,0092",
+            "supported_models": [
+              "Pi Model",
+              "Pi Compute Module",
+              "Pi Zero"
+            ],
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/host/openelec_rpi1/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/host/openelec_rpi1/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/host/openelec_rpi1/openelec_rpi1.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/host/openelec_rpi1/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/host/openelec_rpi1/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/host/openelec_rpi1/system.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/host/openelec_rpi1/storage.tar.xz"
+            ],
+            "nominal_size": 541
+        }
+,
+        {
+            "os_name":	    "openelec_rpi2",
+            "description":  "A openelec_rpi Linux port for ARM devices RPi2/3",
+            "release_date": "2017-04-30",
+            "feature_level": 0,
+            "supported_hex_revisions": "1040,1041,2082",    
+            "supported_models": [
+                "Pi 2",
+                "Pi 3"
+            ],            
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/host/openelec_rpi2/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/host/openelec_rpi2/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/host/openelec_rpi2/openelec_rpi2.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/host/openelec_rpi2/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/host/openelec_rpi2/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/host/openelec_rpi2/system.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/host/openelec_rpi2/storage.tar.xz"
+            ],
+            "nominal_size": 541
+        }
+,
+        {
+            "os_name":	    "XBian_RPi1",
+            "description":  "XBian is small, fast and lightweight media center distribution",
+            "release_date": "2016-02-04",
+            "feature_level": 35644412,
+            "supported_models": [
+                "Pi Model",
+                "Pi Compute Module",
+                "Pi Zero"
+            ],
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/host/XBian_RPi1/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/host/XBian_RPi1/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/host/XBian_RPi1/XBian_RPi1.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/host/XBian_RPi1/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/host/XBian_RPi1/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/host/XBian_RPi1/boot_xbian1.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/host/XBian_RPi1/root_xbian1.img.xz"
+            ],
+            "nominal_size": 1063
+        }
+,
+        {
+            "os_name":	    "XBian_RPi3",
+            "description":  "XBian is small, fast and lightweight media center distribution",
+            "release_date": "2016-02-04",
+            "feature_level": 0,
+            "supported_hex_revisions": "1040,1041,2082",    
+            "supported_models": [
+                "Pi 2",
+                "Pi 3"
+            ],            
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/host/XBian_RPi3/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/host/XBian_RPi3/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/host/XBian_RPi3/XBian_RPi3.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/host/XBian_RPi3/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/host/XBian_RPi3/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/host/XBian_RPi3/boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/host/XBian_RPi3/root.tar.xz"
+            ],
+            "nominal_size": 1063
+        }
+,
         {
             "os_name":       "Retropie1",
             "description":   "Retropie v4.2 gaming distro using Emulation Station for RPi1/Zero",
@@ -257,7 +245,8 @@
                                "http://downloads.sourceforge.net/project/pinn/os/Retropie2/boot.tar.xz",
                                "http://downloads.sourceforge.net/project/pinn/os/Retropie2/root.tar.xz"
             ]
-        },
+        }
+,
         {
             "os_name":         "kali2",
             "description":     "Kali Penetration Testing for Pi2/3",
@@ -278,7 +267,8 @@
                                "http://downloads.sourceforge.net/project/pinn/os/kali2/boot.tar.xz",
                                "http://downloads.sourceforge.net/project/pinn/os/kali2/root.tar.xz"
             ]
-        },
+        }
+,
         {
             "os_name":         "rtandroid",
             "description":     "Real TIme Android 7.1.1 (Nougat) for the RPi3",
@@ -297,6 +287,209 @@
             "tarballs": [
                                "http://downloads.sourceforge.net/project/pinn/os/rtandroid/boot.tar.xz",
                                "http://downloads.sourceforge.net/project/pinn/os/rtandroid/system.img.gz"
+            ]
+        }
+,
+        {
+            "os_name":	    "lede2RPi1",
+            "description":  "LEDE for the Raspberry Pi0/1 (open-wrt)",
+            "release_date": "2017-04-18",
+            "feature_level": 35644412,
+            "supported_hex_revisions": "2,3,4,5,6,7,8,9,d,e,f,10,11,12,13,14,19,0092",
+            "supported_models": [
+                "Pi Model",
+                "Pi Compute Module",
+                "Pi Zero"
+            ],
+            "os_info":          "http://downloads.sourceforge.net/project/pinn/host/lede2RPi1/os.json",
+            "partitions_info":  "http://downloads.sourceforge.net/project/pinn/host/lede2RPi1/partitions.json",
+            "icon":             "http://downloads.sourceforge.net/project/pinn/host/lede2RPi1/lede2RPi1.png",
+            "marketing_info":   "http://downloads.sourceforge.net/project/pinn/host/lede2RPi1/marketing.tar",
+            "partition_setup":  "http://downloads.sourceforge.net/project/pinn/host/lede2RPi1/partition_setup.sh",
+            "tarballs": [
+                                "http://downloads.sourceforge.net/project/pinn/host/lede2RPi1/boot_lede1.tar.xz",
+                                "http://downloads.sourceforge.net/project/pinn/host/lede2RPi1/root_lede1.tar.xz"
+            ],
+            "nominal_size": 274
+        }
+,
+        {
+            "os_name":	    "lede2RPi2",
+            "description":  "LEDE for the Raspberry Pi2 (open-wrt)",
+            "release_date": "2017-04-18",
+            "feature_level": 0,
+            "supported_hex_revisions": "1040,1041",    
+            "supported_models": [
+                "Pi 2"
+            ],            
+            "os_info":          "http://downloads.sourceforge.net/project/pinn/host/lede2RPi2/os.json",
+            "partitions_info":  "http://downloads.sourceforge.net/project/pinn/host/lede2RPi2/partitions.json",
+            "icon":             "http://downloads.sourceforge.net/project/pinn/host/lede2RPi2/lede2RPi2.png",
+            "marketing_info":   "http://downloads.sourceforge.net/project/pinn/host/lede2RPi2/marketing.tar",
+            "partition_setup":  "http://downloads.sourceforge.net/project/pinn/host/lede2RPi2/partition_setup.sh",
+            "tarballs": [
+                                "http://downloads.sourceforge.net/project/pinn/host/lede2RPi2/boot_lede2.tar.xz",
+                                "http://downloads.sourceforge.net/project/pinn/host/lede2RPi2/root_lede2.tar.xz"
+            ],
+            "nominal_size": 274
+        }
+,
+        {
+            "os_name":	    "lede2RPi3",
+            "description":  "LEDE for the Raspberry Pi3 (open-wrt)",
+            "release_date": "2017-04-18",
+            "feature_level": 0,
+            "supported_hex_revisions": "2082",    
+            "supported_models": [
+                "Pi 3"
+            ],            
+            "os_info":          "http://downloads.sourceforge.net/project/pinn/host/lede2RPi3/os.json",
+            "partitions_info":  "http://downloads.sourceforge.net/project/pinn/host/lede2RPi3/partitions.json",
+            "icon":             "http://downloads.sourceforge.net/project/pinn/host/lede2RPi3/lede2RPi3.png",
+            "marketing_info":   "http://downloads.sourceforge.net/project/pinn/host/lede2RPi3/marketing.tar",
+            "partition_setup":  "http://downloads.sourceforge.net/project/pinn/host/lede2RPi3/partition_setup.sh",
+            "tarballs": [
+                                "http://downloads.sourceforge.net/project/pinn/host/lede2RPi3/boot_lede3.tar.xz",
+                                "http://downloads.sourceforge.net/project/pinn/host/lede2RPi3/root_lede3.tar.xz"
+            ],
+            "nominal_size": 274
+        }
+,
+        {
+            "os_name": "Arch1",
+            "description": "An Arch Linux port for ARM devices RPi1",
+            "release_date": "2016-03-17",
+            "feature_level": 35644412,
+            "supported_hex_revisions": "2,3,4,5,6,7,8,9,d,e,f,10,11,12,13,14,19,0092",
+            "supported_models": [
+               "Pi Model",
+               "Pi Compute Module",
+               "Pi Zero"
+            ],                
+            "os_info": "https://raw.githubusercontent.com/procount/pinn-os/master/os/Arch1/os.json",
+            "partitions_info": "https://raw.githubusercontent.com/procount/pinn-os/master/os/Arch1/partitions.json",
+            "icon": "https://raw.githubusercontent.com/procount/pinn-os/master/os/Arch1/Arch.png",
+            "marketing_info": "https://raw.githubusercontent.com/procount/pinn-os/master/os/Arch1/marketing.tar",
+            "partition_setup": "https://raw.githubusercontent.com/procount/pinn-os/master/os/Arch1/partition_setup.sh",
+            "nominal_size": 1600,
+            "tarballs": [
+                "https://raw.githubusercontent.com/procount/pinn-os/master/os/Arch1/boot.tar.xz",
+                "http://archlinuxarm.org/os/ArchLinuxARM-rpi-latest.tar.gz"
+            ]
+        }
+,
+        {
+            "os_name": "Arch2",
+            "description": "An Arch Linux port for ARM devices RPi2/3",
+            "release_date": "2016-03-17",
+            "feature_level": 0,
+            "supported_hex_revisions": "1040,1041,2082",    
+            "supported_models": [
+                "Pi 2",
+                "Pi 3"
+            ],                
+            "os_info": "https://raw.githubusercontent.com/procount/pinn-os/master/os/Arch2/os.json",
+            "partitions_info": "https://raw.githubusercontent.com/procount/pinn-os/master/os/Arch2/partitions.json",
+            "icon": "https://raw.githubusercontent.com/procount/pinn-os/master/os/Arch2/Arch.png",
+            "marketing_info": "https://raw.githubusercontent.com/procount/pinn-os/master/os/Arch2/marketing.tar",
+            "partition_setup": "https://raw.githubusercontent.com/procount/pinn-os/master/os/Arch2/partition_setup.sh",
+            "nominal_size": 1600,
+            "tarballs": [
+                "https://raw.githubusercontent.com/procount/pinn-os/master/os/Arch2/boot.tar.xz",
+                "http://archlinuxarm.org/os/ArchLinuxARM-rpi-2-latest.tar.gz"
+            ]
+        }
+,
+        {
+            "os_name":	    "void1",
+            "description":  "A Void Linux port for ARM devices RPi1",
+            "feature_level": 35644412,
+            "release_date": "2016-04-20",
+            "feature_level": 35644412,
+            "supported_hex_revisions": "2,3,4,5,6,7,8,9,d,e,f,10,11,12,13,14,19,0092",
+            "supported_models": [
+               "Pi Model",
+               "Pi Compute Module",
+               "Pi Zero"
+            ],                
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/void1/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/void1/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/void1/void1.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/void1/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/void1/partition_setup.sh",
+            "nominal_size": 350,
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/void1/boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/void1/void1.tar.xz"
+            ]
+        }
+,
+        {
+            "os_name":	    "void1_musl",
+            "description":  "A Void Linux musl port for ARM devices RPi1",
+            "feature_level": 35644412,
+            "release_date": "2016-04-20",
+            "feature_level": 35644412,
+            "supported_hex_revisions": "2,3,4,5,6,7,8,9,d,e,f,10,11,12,13,14,19,0092",
+            "supported_models": [
+               "Pi Model",
+               "Pi Compute Module",
+               "Pi Zero"
+            ],                
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/void1_musl/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/void1_musl/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/void1_musl/void1_musl.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/void1_musl/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/void1_musl/partition_setup.sh",
+            "nominal_size": 350,
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/void1_musl/boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/void1_musl/void1_musl.tar.xz"
+            ]
+        }
+,
+        {
+            "os_name":	    "void2",
+            "description":  "A Void Linux port for ARM devices RPi2/3",
+            "feature_level": 35644412,
+            "release_date": "2016-04-20",
+            "feature_level":   0,
+            "supported_hex_revisions": "1040,1041,2082",
+            "supported_models": [
+               "Pi 2",
+               "Pi 3"
+            ],                
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/void2/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/void2/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/void2/void2.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/void2/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/void2/partition_setup.sh",
+            "nominal_size": 350,
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/void2/boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/void2/void2.tar.xz"
+            ]
+        }
+,
+        {
+            "os_name":	    "void2_musl",
+            "description":  "A Void Linux musl port for ARM devices RPi2/3",
+            "release_date": "2016-04-20",
+            "feature_level":   0,
+            "supported_hex_revisions": "1040,1041,2082",
+            "supported_models": [
+               "Pi 2",
+               "Pi 3"
+            ],                
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/void2_musl/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/void2_musl/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/void2_musl/void2_musl.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/void2_musl/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/void2_musl/partition_setup.sh",
+            "nominal_size": 350,
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/void2_musl/boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/void2_musl/void2_musl.tar.xz"
             ]
         }
     ]
