@@ -5,3 +5,4 @@ Download PINN
 [![Download PINN](https://img.shields.io/sourceforge/dt/pinn.svg)](https://sourceforge.net/projects/pinn/files/latest/download)
 
 
+![alt text](http://downloads.sourceforge.net/project/pinn/host/AIYprojects/AIYprojects.png)
