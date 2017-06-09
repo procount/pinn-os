@@ -1,7 +1,7 @@
 {
 	"repo_list" : [
 		{
-			"name" : "Raspberry Pi",
+			"name" : "NOOBS",
 			"url"  : "http://downloads.raspberrypi.org/os_list_v3.json"
 		},
 		{
