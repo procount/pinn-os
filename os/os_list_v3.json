@@ -197,8 +197,8 @@
             "marketing_info":  "http://downloads.sourceforge.net/project/pinn/host/XBian_RPi3/marketing.tar",
             "partition_setup": "http://downloads.sourceforge.net/project/pinn/host/XBian_RPi3/partition_setup.sh",
             "tarballs": [
-                               "http://downloads.sourceforge.net/project/pinn/host/XBian_RPi3/boot.tar.xz",
-                               "http://downloads.sourceforge.net/project/pinn/host/XBian_RPi3/root.tar.xz"
+                               "http://downloads.sourceforge.net/project/pinn/host/XBian_RPi3/boot_xbian3.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/host/XBian_RPi3/root_xbian3.img.xz"
             ],
             "nominal_size": 1063
         }
