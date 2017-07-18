@@ -10,7 +10,7 @@
 		},
 		{
 			"name" : "Matt Huisman",
-			"url"  : "https://bitbucket.org/matthuisman/pinn-os/raw/master/os_list_v3.json"
+			"url"  : "http://raw.githubusercontent.com/matthuisman/pinn-os/master/os/os_list_v3.json"
 		}
 	]
 }
