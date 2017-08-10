@@ -1,0 +1,24 @@
+{
+    "os_list": [
+        {
+            "os_name":	    "gentoo64",
+            "description":  "A gentoo64 Linux port for ARM devices RPi3",
+            "release_date": "2017-08-04",
+            "feature_level": 0,
+            "supported_hex_revisions": "2082",    
+            "supported_models": [
+                "Pi 3"
+            ],            
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/host/gentoo64/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/host/gentoo64/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/host/gentoo64/gentoo64.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/host/gentoo64/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/host/gentoo64/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/host/gentoo64/boot_gen.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/host/gentoo64/root_gen.tar.xz"
+            ],
+            "nominal_size": 6962
+        }
+    ]
+}
