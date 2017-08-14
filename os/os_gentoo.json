@@ -19,6 +19,26 @@
                                "http://downloads.sourceforge.net/project/pinn/host/gentoo64/root_gen.tar.xz"
             ],
             "nominal_size": 6962
+        },
+        {
+            "os_name":	    "gentoo64pt",
+            "description":  "A gentoo64pt Linux port for ARM devices RPi3 on PiTop",
+            "release_date": "2017-08-04",
+            "feature_level": 0,
+            "supported_hex_revisions": "2082",    
+            "supported_models": [
+                "Pi 3"
+            ],            
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/host/gentoo64pt/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/host/gentoo64pt/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/host/gentoo64pt/gentoo64pt.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/host/gentoo64pt/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/host/gentoo64pt/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/host/gentoo64pt/boot_genpt.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/host/gentoo64pt/root_genpt.tar.xz"
+            ],
+            "nominal_size": 6962
         }
     ]
 }
