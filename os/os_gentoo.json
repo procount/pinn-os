@@ -2,7 +2,7 @@
     "os_list": [
         {
             "os_name":	    "gentoo64",
-            "description":  "A gentoo64 Linux port for ARM devices RPi3",
+            "description":  "64-bit Gentoo Linux for the RPi3, with Xfce4 desktop",
             "release_date": "2017-08-04",
             "feature_level": 0,
             "supported_hex_revisions": "2082",    
@@ -22,7 +22,7 @@
         },
         {
             "os_name":	    "gentoo64pt",
-            "description":  "A gentoo64pt Linux port for ARM devices RPi3 on PiTop",
+            "description":  "64-bit Gentoo Linux for the Pi-Top, with Xfce4 desktop",
             "release_date": "2017-08-04",
             "feature_level": 0,
             "supported_hex_revisions": "2082",    
