@@ -534,6 +534,56 @@
             ],
             "nominal_size": 6962
         }
+,
+        {
+            "os_name":	    "hypriotos",
+            "description":  "A hypriotos Linux port for ARM devices RPi0/1/2/3",
+            "release_date": "2017-03-19",
+            "feature_level": 35644412,
+            "supported_hex_revisions": "2,3,4,5,6,7,8,9,0d,0e,0f,10,11,12,13,14,1040,1041,2042,2082,20a0",    
+            "supported_models": [
+                "Pi Model",
+                "Pi Compute Module",
+                "Pi Zero",
+                "Pi 2",
+                "Pi 3"
+            ],
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/host/hypriotos/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/host/hypriotos/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/host/hypriotos/hypriotos.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/host/hypriotos/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/host/hypriotos/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/host/hypriotos/boot_hyp.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/host/hypriotos/root_hyp.tar.xz"
+            ],
+            "nominal_size": 927
+        }
+,
+        {
+            "os_name":      "raspbianvi",
+            "description":  "Raspbian for the Visually Impaired using RPi0/1/2/3",
+            "release_date": "2017-03-10",
+            "feature_level": 35644412,
+            "supported_hex_revisions": "2,3,4,5,6,7,8,9,0d,0e,0f,10,11,12,13,14,1040,1041,2042,2082,20a0",    
+            "supported_models": [
+                "Pi Model",
+                "Pi Compute Module",
+                "Pi Zero",
+                "Pi 2",
+                "Pi 3"
+            ],
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/host/raspbianvi/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/host/raspbianvi/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/host/raspbianvi/raspbianvi.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/host/raspbianvi/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/host/raspbianvi/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/host/raspbianvi/boot_raspvi.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/host/raspbianvi/root_raspivi.tar.xz"
+            ],
+            "nominal_size": 3382
+        }
     ]
 }
 
