@@ -561,7 +561,7 @@
         }
 ,
         {
-            "os_name":      "raspbianvi",
+            "os_name":      "raspberry-vi",
             "description":  "Raspbian for the Visually Impaired using RPi0/1/2/3",
             "release_date": "2017-03-10",
             "feature_level": 35644412,
@@ -573,14 +573,14 @@
                 "Pi 2",
                 "Pi 3"
             ],
-            "os_info":         "http://downloads.sourceforge.net/project/pinn/host/raspbianvi/os.json",
-            "partitions_info": "http://downloads.sourceforge.net/project/pinn/host/raspbianvi/partitions.json",
-            "icon":            "http://downloads.sourceforge.net/project/pinn/host/raspbianvi/raspbianvi.png",
-            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/host/raspbianvi/marketing.tar",
-            "partition_setup": "http://downloads.sourceforge.net/project/pinn/host/raspbianvi/partition_setup.sh",
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/host/raspberry-vi/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/host/raspberry-vi/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/host/raspberry-vi/raspberry-vi.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/host/raspberry-vi/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/host/raspberry-vi/partition_setup.sh",
             "tarballs": [
-                               "http://downloads.sourceforge.net/project/pinn/host/raspbianvi/boot_raspvi.tar.xz",
-                               "http://downloads.sourceforge.net/project/pinn/host/raspbianvi/root_raspivi.tar.xz"
+                               "http://downloads.sourceforge.net/project/pinn/host/raspberry-vi/boot_raspvi.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/host/raspberry-vi/root_raspivi.tar.xz"
             ],
             "nominal_size": 3382
         }
