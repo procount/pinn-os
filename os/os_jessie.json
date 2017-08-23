@@ -1,0 +1,51 @@
+{
+    "os_list": [
+    {
+            "description": "A port of Debian Jessie for the Raspberry Pi (minimal version)",
+            "feature_level": 35120124,
+            "icon": "http://downloads.raspberrypi.org/raspbian_lite/archive/2017-08-17-09:08/Raspbian_Lite.png",
+            "marketing_info": "http://downloads.raspberrypi.org/raspbian_lite/archive/2017-08-17-09:08/marketing.tar",
+            "nominal_size": 1395,
+            "os_info": "http://downloads.raspberrypi.org/raspbian_lite/archive/2017-08-17-09:08/os.json",
+            "os_name": "Raspbian Jessie Lite",
+            "partition_setup": "http://downloads.raspberrypi.org/raspbian_lite/archive/2017-08-17-09:08/partition_setup.sh",
+            "partitions_info": "http://downloads.raspberrypi.org/raspbian_lite/archive/2017-08-17-09:08/partitions.json",
+            "release_date": "2017-08-16",
+            "supported_hex_revisions": "2,3,4,5,6,7,8,9,d,e,f,10,11,12,14,19,1040,1041,0092,0093,2082",
+            "supported_models": [
+                "Pi Model",
+                "Pi 2",
+                "Pi Zero",
+                "Pi 3",
+                "Pi Compute Module"
+            ],
+            "tarballs": [
+                "http://downloads.raspberrypi.org/raspbian_lite/archive/2017-08-17-09:08/boot.tar.xz",
+                "http://downloads.raspberrypi.org/raspbian_lite/archive/2017-08-17-09:08/root.tar.xz"
+            ]
+        },
+        {
+            "description": "A port of Debian Jessie for the Raspberry Pi (full desktop version)",
+            "feature_level": 35120124,
+            "icon": "http://downloads.raspberrypi.org/raspbian/archive/2017-08-17-09:07/Raspbian.png",
+            "marketing_info": "http://downloads.raspberrypi.org/raspbian/archive/2017-08-17-09:07/marketing.tar",
+            "nominal_size": 4495,
+            "os_info": "http://downloads.raspberrypi.org/raspbian/archive/2017-08-17-09:07/os.json",
+            "os_name": "Raspbian Jessie",
+            "partition_setup": "http://downloads.raspberrypi.org/raspbian/archive/2017-08-17-09:07/partition_setup.sh",
+            "partitions_info": "http://downloads.raspberrypi.org/raspbian/archive/2017-08-17-09:07/partitions.json",
+            "release_date": "2017-08-16",
+            "supported_hex_revisions": "2,3,4,5,6,7,8,9,d,e,f,10,11,12,14,19,1040,1041,0092,0093,2082",
+            "supported_models": [
+                "Pi Model",
+                "Pi 2",
+                "Pi Zero",
+                "Pi 3"
+            ],
+            "tarballs": [
+                "http://downloads.raspberrypi.org/raspbian/archive/2017-08-17-09:07/boot.tar.xz",
+                "http://downloads.raspberrypi.org/raspbian/archive/2017-08-17-09:07/root.tar.xz"
+            ]
+        }
+    ]
+}    
