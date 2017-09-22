@@ -214,15 +214,15 @@
                "Pi Compute Module",
                "Pi Zero"
             ],                
-            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/Retropie1/os.json",
-            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/Retropie1/partitions.json",
-            "icon":            "http://downloads.sourceforge.net/project/pinn/os/Retropie1/Retropie1.png",
-            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/Retropie1/marketing.tar",
-            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/Retropie1/partition_setup.sh",
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os1/Retropie1/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os1/Retropie1/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os1/Retropie1/Retropie1.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os1/Retropie1/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os1/Retropie1/partition_setup.sh",
             "nominal_size": 1993,
             "tarballs": [
-                               "http://downloads.sourceforge.net/project/pinn/os/Retropie1/boot.tar.xz",
-                               "http://downloads.sourceforge.net/project/pinn/os/Retropie1/root.tar.xz"
+                               "http://downloads.sourceforge.net/project/pinn/os1/Retropie1/boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os1/Retropie1/root.tar.xz"
             ]
         },
         {
@@ -235,15 +235,15 @@
                "Pi 2",
                "Pi 3"
             ],                
-            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/Retropie2/os.json",
-            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/Retropie2/partitions.json",
-            "icon":            "http://downloads.sourceforge.net/project/pinn/os/Retropie2/Retropie2.png",
-            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/Retropie2/marketing.tar",
-            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/Retropie2/partition_setup.sh",
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os1/Retropie2/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os1/Retropie2/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os1/Retropie2/Retropie2.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os1/Retropie2/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os1/Retropie2/partition_setup.sh",
             "nominal_size": 1996,
             "tarballs": [
-                               "http://downloads.sourceforge.net/project/pinn/os/Retropie2/boot.tar.xz",
-                               "http://downloads.sourceforge.net/project/pinn/os/Retropie2/root.tar.xz"
+                               "http://downloads.sourceforge.net/project/pinn/os1/Retropie2/boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os1/Retropie2/root.tar.xz"
             ]
         }
 ,
@@ -257,15 +257,15 @@
                "Pi 2",
                "Pi 3"
             ],                
-            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/kali2/os.json",
-            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/kali2/partitions.json",
-            "icon":            "http://downloads.sourceforge.net/project/pinn/os/kali2/kali2.png",
-            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/kali2/marketing.tar",
-            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/kali2/partition_setup.sh",
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os1/kali2/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os1/kali2/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os1/kali2/kali2.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os1/kali2/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os1/kali2/partition_setup.sh",
             "nominal_size": 6763,
             "tarballs": [
-                               "http://downloads.sourceforge.net/project/pinn/os/kali2/boot.tar.xz",
-                               "http://downloads.sourceforge.net/project/pinn/os/kali2/root.tar.xz"
+                               "http://downloads.sourceforge.net/project/pinn/os1/kali2/boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os1/kali2/root.tar.xz"
             ]
         }
 ,
@@ -278,15 +278,15 @@
             "supported_models": [
                "Pi 3"
             ],                
-            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/rtandroid/os.json",
-            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/rtandroid/partitions.json",
-            "icon":            "http://downloads.sourceforge.net/project/pinn/os/rtandroid/rtandroid.png",
-            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/rtandroid/marketing.tar",
-            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/rtandroid/partition_setup.sh",
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os1/rtandroid/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os1/rtandroid/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os1/rtandroid/rtandroid.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os1/rtandroid/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os1/rtandroid/partition_setup.sh",
             "nominal_size": 2058,
             "tarballs": [
-                               "http://downloads.sourceforge.net/project/pinn/os/rtandroid/boot.tar.xz",
-                               "http://downloads.sourceforge.net/project/pinn/os/rtandroid/system.img.gz"
+                               "http://downloads.sourceforge.net/project/pinn/os1/rtandroid/boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os1/rtandroid/system.img.gz"
             ]
         }
 ,
@@ -412,15 +412,15 @@
                "Pi Compute Module",
                "Pi Zero"
             ],                
-            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/void1/os.json",
-            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/void1/partitions.json",
-            "icon":            "http://downloads.sourceforge.net/project/pinn/os/void1/void1.png",
-            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/void1/marketing.tar",
-            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/void1/partition_setup.sh",
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os1/void1/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os1/void1/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os1/void1/void1.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os1/void1/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os1/void1/partition_setup.sh",
             "nominal_size": 350,
             "tarballs": [
-                               "http://downloads.sourceforge.net/project/pinn/os/void1/boot.tar.xz",
-                               "http://downloads.sourceforge.net/project/pinn/os/void1/void1.tar.xz"
+                               "http://downloads.sourceforge.net/project/pinn/os1/void1/boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os1/void1/void1.tar.xz"
             ]
         }
 ,
@@ -436,15 +436,15 @@
                "Pi Compute Module",
                "Pi Zero"
             ],                
-            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/void1_musl/os.json",
-            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/void1_musl/partitions.json",
-            "icon":            "http://downloads.sourceforge.net/project/pinn/os/void1_musl/void1_musl.png",
-            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/void1_musl/marketing.tar",
-            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/void1_musl/partition_setup.sh",
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os1/void1_musl/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os1/void1_musl/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os1/void1_musl/void1_musl.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os1/void1_musl/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os1/void1_musl/partition_setup.sh",
             "nominal_size": 350,
             "tarballs": [
-                               "http://downloads.sourceforge.net/project/pinn/os/void1_musl/boot.tar.xz",
-                               "http://downloads.sourceforge.net/project/pinn/os/void1_musl/void1_musl.tar.xz"
+                               "http://downloads.sourceforge.net/project/pinn/os1/void1_musl/boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os1/void1_musl/void1_musl.tar.xz"
             ]
         }
 ,
@@ -459,15 +459,15 @@
                "Pi 2",
                "Pi 3"
             ],                
-            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/void2/os.json",
-            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/void2/partitions.json",
-            "icon":            "http://downloads.sourceforge.net/project/pinn/os/void2/void2.png",
-            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/void2/marketing.tar",
-            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/void2/partition_setup.sh",
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os1/void2/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os1/void2/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os1/void2/void2.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os1/void2/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os1/void2/partition_setup.sh",
             "nominal_size": 350,
             "tarballs": [
-                               "http://downloads.sourceforge.net/project/pinn/os/void2/boot.tar.xz",
-                               "http://downloads.sourceforge.net/project/pinn/os/void2/void2.tar.xz"
+                               "http://downloads.sourceforge.net/project/pinn/os1/void2/boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os1/void2/void2.tar.xz"
             ]
         }
 ,
@@ -481,15 +481,15 @@
                "Pi 2",
                "Pi 3"
             ],                
-            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/void2_musl/os.json",
-            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/void2_musl/partitions.json",
-            "icon":            "http://downloads.sourceforge.net/project/pinn/os/void2_musl/void2_musl.png",
-            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/void2_musl/marketing.tar",
-            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/void2_musl/partition_setup.sh",
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os1/void2_musl/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os1/void2_musl/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os1/void2_musl/void2_musl.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os1/void2_musl/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os1/void2_musl/partition_setup.sh",
             "nominal_size": 350,
             "tarballs": [
-                               "http://downloads.sourceforge.net/project/pinn/os/void2_musl/boot.tar.xz",
-                               "http://downloads.sourceforge.net/project/pinn/os/void2_musl/void2_musl.tar.xz"
+                               "http://downloads.sourceforge.net/project/pinn/os1/void2_musl/boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os1/void2_musl/void2_musl.tar.xz"
             ]
         }
 ,
