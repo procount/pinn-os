@@ -713,6 +713,50 @@
             ],
             "nominal_size":     1063
         }
-
+,
+        {
+            "os_name":	    "openelec_rpi1",
+            "description":  "OpenELEC is a fast and user-friendly Kodi Entertainment Center distribution.",
+            "release_date": "2016-04-30",
+            "feature_level": 35644412,
+            "supported_hex_revisions": "2,3,4,5,6,7,8,9,d,e,f,10,11,12,14,19,0092",
+            "supported_models": [
+              "Pi Model",
+              "Pi Compute Module",
+              "Pi Zero"
+            ],
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/host/openelec_rpi1/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/host/openelec_rpi1/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/host/openelec_rpi1/openelec_rpi1.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/host/openelec_rpi1/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/host/openelec_rpi1/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/host/openelec_rpi1/system.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/host/openelec_rpi1/storage.tar.xz"
+            ],
+            "nominal_size": 541
+        }
+,
+        {
+            "os_name":	    "openelec_rpi2",
+            "description":  "A openelec_rpi Linux port for ARM devices RPi2/3",
+            "release_date": "2017-04-30",
+            "feature_level": 0,
+            "supported_hex_revisions": "1040,1041,2082",    
+            "supported_models": [
+                "Pi 2",
+                "Pi 3"
+            ],            
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/host/openelec_rpi2/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/host/openelec_rpi2/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/host/openelec_rpi2/openelec_rpi2.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/host/openelec_rpi2/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/host/openelec_rpi2/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/host/openelec_rpi2/system.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/host/openelec_rpi2/storage.tar.xz"
+            ],
+            "nominal_size": 541
+        }
   ]
 }
