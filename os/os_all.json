@@ -504,7 +504,7 @@
             "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/rtandroid/marketing.tar",
             "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/rtandroid/partition_setup.sh",
             "tarballs": [
-                               "http://downloads.sourceforge.net/project/pinn/os/rtandroid/boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/rtandroid/boot_and.tar.xz",
                                "http://downloads.sourceforge.net/project/pinn/os/rtandroid/system.img.gz"
             ],
             "nominal_size": 4566
