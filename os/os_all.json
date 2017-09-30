@@ -41,7 +41,7 @@
             "group":    "Minimal",
             "os_info":          "http://downloads.sourceforge.net/project/pinn/os/Arch1/os.json",
             "partitions_info":  "http://downloads.sourceforge.net/project/pinn/os/Arch1/partitions.json",
-            "icon":             "http://downloads.sourceforge.net/project/pinn/os/Arch1/Arch.png",
+            "icon":             "http://downloads.sourceforge.net/project/pinn/os/Arch1/Arch1.png",
             "marketing_info":   "http://downloads.sourceforge.net/project/pinn/os/Arch1/marketing.tar",
             "partition_setup":  "http://downloads.sourceforge.net/project/pinn/os/Arch1/partition_setup.sh",
             "tarballs": [
@@ -67,7 +67,7 @@
             "group":    "Minimal",
             "os_info":          "http://downloads.sourceforge.net/project/pinn/os/Arch2/os.json",
             "partitions_info":  "http://downloads.sourceforge.net/project/pinn/os/Arch2/partitions.json",
-            "icon":             "http://downloads.sourceforge.net/project/pinn/os/Arch2/Arch.png",
+            "icon":             "http://downloads.sourceforge.net/project/pinn/os/Arch2/Arch2.png",
             "marketing_info":   "http://downloads.sourceforge.net/project/pinn/os/Arch2/marketing.tar",
             "partition_setup":  "http://downloads.sourceforge.net/project/pinn/os/Arch2/partition_setup.sh",
             "tarballs": [
