@@ -39,13 +39,13 @@
             ],
             "url":      "https://archlinuxarm.org/platforms/armv6/raspberry-pi",
             "group":    "Minimal",
-            "os_info":          "https://raw.githubusercontent.com/procount/pinn-os/master/os/Arch1/os.json",
-            "partitions_info":  "https://raw.githubusercontent.com/procount/pinn-os/master/os/Arch1/partitions.json",
-            "icon":             "https://raw.githubusercontent.com/procount/pinn-os/master/os/Arch1/Arch.png",
-            "marketing_info":   "https://raw.githubusercontent.com/procount/pinn-os/master/os/Arch1/marketing.tar",
-            "partition_setup":  "https://raw.githubusercontent.com/procount/pinn-os/master/os/Arch1/partition_setup.sh",
+            "os_info":          "http://downloads.sourceforge.net/project/pinn/os/Arch1/os.json",
+            "partitions_info":  "http://downloads.sourceforge.net/project/pinn/os/Arch1/partitions.json",
+            "icon":             "http://downloads.sourceforge.net/project/pinn/os/Arch1/Arch.png",
+            "marketing_info":   "http://downloads.sourceforge.net/project/pinn/os/Arch1/marketing.tar",
+            "partition_setup":  "http://downloads.sourceforge.net/project/pinn/os/Arch1/partition_setup.sh",
             "tarballs": [
-                                "https://raw.githubusercontent.com/procount/pinn-os/master/os/Arch1/boot_arch.tar.xz",
+                                "http://downloads.sourceforge.net/project/pinn/os/Arch1/boot_arch.tar.xz",
                                 "http://archlinuxarm.org/os/ArchLinuxARM-rpi-latest.tar.gz"
             ],
             "nominal_size": 916
@@ -65,13 +65,13 @@
             ],            
             "url":      "https://archlinuxarm.org/platforms/armv6/raspberry-pi",
             "group":    "Minimal",
-            "os_info":          "https://raw.githubusercontent.com/procount/pinn-os/master/os/Arch2/os.json",
-            "partitions_info":  "https://raw.githubusercontent.com/procount/pinn-os/master/os/Arch2/partitions.json",
-            "icon":             "https://raw.githubusercontent.com/procount/pinn-os/master/os/Arch2/Arch.png",
-            "marketing_info":   "https://raw.githubusercontent.com/procount/pinn-os/master/os/Arch2/marketing.tar",
-            "partition_setup":  "https://raw.githubusercontent.com/procount/pinn-os/master/os/Arch2/partition_setup.sh",
+            "os_info":          "http://downloads.sourceforge.net/project/pinn/os/Arch2/os.json",
+            "partitions_info":  "http://downloads.sourceforge.net/project/pinn/os/Arch2/partitions.json",
+            "icon":             "http://downloads.sourceforge.net/project/pinn/os/Arch2/Arch.png",
+            "marketing_info":   "http://downloads.sourceforge.net/project/pinn/os/Arch2/marketing.tar",
+            "partition_setup":  "http://downloads.sourceforge.net/project/pinn/os/Arch2/partition_setup.sh",
             "tarballs": [
-                                "https://raw.githubusercontent.com/procount/pinn-os/master/os/Arch2/boot_arch.tar.xz",
+                                "http://downloads.sourceforge.net/project/pinn/os/Arch2/boot_arch.tar.xz",
                                 "http://archlinuxarm.org/os/ArchLinuxARM-rpi-2-latest.tar.gz"
             ],
             "nominal_size": 916
