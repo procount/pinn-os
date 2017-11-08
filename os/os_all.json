@@ -736,6 +736,7 @@
               "Pi Compute Module",
               "Pi Zero"
             ],
+            "url":             "http://openelec.tv/",
             "os_info":         "http://downloads.sourceforge.net/project/pinn/host/openelec_rpi1/os.json",
             "partitions_info": "http://downloads.sourceforge.net/project/pinn/host/openelec_rpi1/partitions.json",
             "icon":            "http://downloads.sourceforge.net/project/pinn/host/openelec_rpi1/openelec_rpi1.png",
@@ -758,6 +759,7 @@
                 "Pi 2",
                 "Pi 3"
             ],            
+            "url":             "http://openelec.tv/",
             "os_info":         "http://downloads.sourceforge.net/project/pinn/host/openelec_rpi2/os.json",
             "partitions_info": "http://downloads.sourceforge.net/project/pinn/host/openelec_rpi2/partitions.json",
             "icon":            "http://downloads.sourceforge.net/project/pinn/host/openelec_rpi2/openelec_rpi2.png",
