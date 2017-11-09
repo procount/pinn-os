@@ -167,7 +167,7 @@
                 "Pi 2",
                 "Pi 3"
             ],
-            "url": "https://blog.hypriot.org",
+            "url": "https://blog.hypriot.com",
             "group": "General",
             "os_info":         "http://downloads.sourceforge.net/project/pinn/os/hypriotos/os.json",
             "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/hypriotos/partitions.json",
