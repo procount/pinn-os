@@ -1,0 +1,62 @@
+{
+    "os_list": [
+        {
+            "os_name":	    "lede2RPi2",
+            "description":  "LEDE for the Raspberry Pi2 (open-wrt)",
+            "release_date": "2017-04-18",
+            "feature_level": 0,
+            "supported_hex_revisions": "1040,1041",    
+            "supported_models": [
+                "Pi 2"
+            ],            
+            "url":              "https://downloads.lede-project.org/releases/17.01.1/targets/brcm2708/bcm2710",
+            "group":            "Minimal",
+            "os_info":          "http://downloads.sourceforge.net/project/pinn/os/lede2RPi2/os.json",
+            "partitions_info":  "http://downloads.sourceforge.net/project/pinn/os/lede2RPi2/partitions.json",
+            "icon":             "http://downloads.sourceforge.net/project/pinn/os/lede2RPi2/lede2RPi2.png",
+            "marketing_info":   "http://downloads.sourceforge.net/project/pinn/os/lede2RPi2/marketing.tar",
+            "partition_setup":  "http://downloads.sourceforge.net/project/pinn/os/lede2RPi2/partition_setup.sh",
+            "tarballs": [
+                                "http://downloads.sourceforge.net/project/pinn/os/lede2RPi2/boot_lede2.tar.xz",
+                                "http://downloads.sourceforge.net/project/pinn/os/lede2RPi2/root_lede2.tar.xz"
+            ],
+            "nominal_size": 274
+        }
+,
+        {
+            "os_name":	    "lede2RPi3",
+            "description":  "LEDE for the Raspberry Pi3 (open-wrt)",
+            "release_date": "2017-04-18",
+            "feature_level": 0,
+            "supported_hex_revisions": "2082",    
+            "supported_models": [
+                "Pi 3"
+            ],            
+	    "flavours": [
+                {
+                    "name":        "lede2RPi3",
+                    "description":  "LEDE for the Raspberry Pi3 (open-wrt) one",
+                    "icon":        "http://downloads.sourceforge.net/project/pinn/os/lede2RPi3/lede2RPi3.png"
+                },
+                {
+                    "name":        "lede2RPi3 - two",
+                    "description": "lede2RPi3 flavour two",
+                    "icon":        "http://downloads.sourceforge.net/project/pinn/os/lede2RPi3/lede2RPi3.png"
+                }
+	    ],
+            "url":              "https://downloads.lede-project.org/releases/17.01.1/targets/brcm2708/bcm2710",
+            "group":            "Minimal",
+            "os_info":          "http://downloads.sourceforge.net/project/pinn/os/lede2RPi3/os.json",
+            "partitions_info":  "http://downloads.sourceforge.net/project/pinn/os/lede2RPi3/partitions.json",
+            "icon":             "http://downloads.sourceforge.net/project/pinn/os/lede2RPi3/lede2RPi3.png",
+            "marketing_info":   "http://downloads.sourceforge.net/project/pinn/os/lede2RPi3/marketing.tar",
+            "partition_setup":  "http://downloads.sourceforge.net/project/pinn/os/lede2RPi3/partition_setup.sh",
+            "tarballs": [
+                                "http://downloads.sourceforge.net/project/pinn/os/lede2RPi3/boot_lede3.tar.xz",
+                                "http://downloads.sourceforge.net/project/pinn/os/lede2RPi3/root_lede3.tar.xz"
+            ],
+            "nominal_size": 274
+        }
+    ]
+}
+
