@@ -236,7 +236,7 @@
         {
             "os_name":	    "lede2RPi1",
             "description":  "LEDE for the Raspberry Pi0/1 (open-wrt)",
-            "release_date": "2017-04-18",
+            "release_date": "2017-10-18",
             "feature_level": 35644412,
             "supported_hex_revisions": "2,3,4,5,6,7,8,9,d,e,f,10,11,12,13,14,19,0092",
             "supported_models": [
@@ -244,7 +244,7 @@
                 "Pi Compute Module",
                 "Pi Zero"
             ],
-            "url":              "https://downloads.lede-project.org/releases/17.01.1/targets/brcm2708/bcm2710",
+            "url":              "https://lede-project.org/start",
             "group":            "Minimal",
             "os_info":          "http://downloads.sourceforge.net/project/pinn/os/lede2RPi1/os.json",
             "partitions_info":  "http://downloads.sourceforge.net/project/pinn/os/lede2RPi1/partitions.json",
@@ -262,13 +262,13 @@
         {
             "os_name":	    "lede2RPi2",
             "description":  "LEDE for the Raspberry Pi2 (open-wrt)",
-            "release_date": "2017-04-18",
+            "release_date": "2017-10-18",
             "feature_level": 0,
             "supported_hex_revisions": "1040,1041",    
             "supported_models": [
                 "Pi 2"
             ],            
-            "url":              "https://downloads.lede-project.org/releases/17.01.1/targets/brcm2708/bcm2710",
+            "url":              "https://lede-project.org/start",
             "group":            "Minimal",
             "os_info":          "http://downloads.sourceforge.net/project/pinn/os/lede2RPi2/os.json",
             "partitions_info":  "http://downloads.sourceforge.net/project/pinn/os/lede2RPi2/partitions.json",
@@ -279,20 +279,20 @@
                                 "http://downloads.sourceforge.net/project/pinn/os/lede2RPi2/boot_lede2.tar.xz",
                                 "http://downloads.sourceforge.net/project/pinn/os/lede2RPi2/root_lede2.tar.xz"
             ],
-            "nominal_size": 274
+            "nominal_size": 254
         }
 
 ,
         {
             "os_name":	    "lede2RPi3",
             "description":  "LEDE for the Raspberry Pi3 (open-wrt)",
-            "release_date": "2017-04-18",
+            "release_date": "2017-10-18",
             "feature_level": 0,
             "supported_hex_revisions": "2082",    
             "supported_models": [
                 "Pi 3"
             ],            
-            "url":              "https://downloads.lede-project.org/releases/17.01.1/targets/brcm2708/bcm2710",
+            "url":              "https://lede-project.org/start",
             "group":            "Minimal",
             "os_info":          "http://downloads.sourceforge.net/project/pinn/os/lede2RPi3/os.json",
             "partitions_info":  "http://downloads.sourceforge.net/project/pinn/os/lede2RPi3/partitions.json",
