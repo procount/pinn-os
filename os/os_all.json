@@ -12,7 +12,7 @@
               "Pi Zero",
               "Pi 3"  
             ],
-            "supports_usb_root": false,
+            "supports_usb_boot": false,
             "url": "https://aiyprojects.withgoogle.com",
             "group": "General",
             "os_info":         "http://downloads.sourceforge.net/project/pinn/os/AIYprojects/os.json",
