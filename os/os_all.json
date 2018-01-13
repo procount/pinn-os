@@ -305,7 +305,43 @@
             ],
             "nominal_size": 274
         }
-
+,
+        {
+            "os_name":	    "lineage",
+            "description":  "Lineage OS (KonstaKANG) 7.1.2 Nougat for RPI3",
+            "release_date": "2017-11-17",
+            "feature_level": 0,
+            "supported_hex_revisions": "2082",    
+            "supported_models": [
+                "Pi 3"
+            ],
+            "flavours": [
+              {
+                "name": "lineage",
+                "description": "Lineage OS (KonstaKANG) 7.1.2 Nougat for RPI3"
+              },
+              {
+                "name": "lineage - touchscreen",
+                "description": "Lineage OS 7.1.2 for RPF 7 inch touchscreen"
+              },
+              {
+                "name": "lineage - waveshare",
+                "description": "Lineage OS 7.1.2 for Waveshare 7 inch HDMI LCD"
+              }
+            ],
+            "url":             "http://konstakang.com/devices/rpi3/CM14.1/",
+            "group":           "General",
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/lineage/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/lineage/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/lineage/lineage.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/lineage/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/lineage/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage/boot_lin.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage/system_lin.tar.xz"
+            ],
+            "nominal_size": 3955
+        }
 ,
         {
             "os_name": "picoreplayer",
@@ -442,8 +478,8 @@
 ,
         {
             "os_name":	    "Retropie1",
-            "description":  "Retropie1 v4.2 gaming distro using Emulation Station for RPi1/Zero",
-            "release_date": "2017-03-20",
+            "description":  "Retropie1 v4.3 gaming distro using Emulation Station for RPi1/Zero",
+            "release_date": "2017-09-21",
             "feature_level": 35644412,
             "supported_models": [
                 "Pi Model",
@@ -458,17 +494,16 @@
             "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/Retropie1/marketing.tar",
             "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/Retropie1/partition_setup.sh",
             "tarballs": [
-                               "http://downloads.sourceforge.net/project/pinn/os/Retropie1/boot_rp42.tar.xz",
-                               "http://downloads.sourceforge.net/project/pinn/os/Retropie1/root_rp42.tar.xz"
+                               "http://downloads.sourceforge.net/project/pinn/os/Retropie1/boot_rp43.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/Retropie1/root_rp43.tar.xz"
             ],
-            "nominal_size": 1993
+            "nominal_size": 2043
         }
-
 ,
         {
             "os_name":	    "Retropie2",
-            "description":  "Retropie v4.2 gaming distro using Emulation Station for RPi2/3",
-            "release_date": "2017-03-20",
+            "description":  "Retropie v4.3 gaming distro using Emulation Station for RPi2/3",
+            "release_date": "2017-09-21",
             "feature_level": 0,
             "supported_hex_revisions": "1040,1041,2082",    
             "supported_models": [
@@ -483,12 +518,11 @@
             "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/Retropie2/marketing.tar",
             "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/Retropie2/partition_setup.sh",
             "tarballs": [
-                               "http://downloads.sourceforge.net/project/pinn/os/Retropie2/boot_rp4.tar.xz",
-                               "http://downloads.sourceforge.net/project/pinn/os/Retropie2/root_rp42.tar.xz"
+                               "http://downloads.sourceforge.net/project/pinn/os/Retropie2/boot_rp43.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/Retropie2/root_rp43.tar.xz"
             ],
-            "nominal_size": 1996
+            "nominal_size": 2046
         }
-
 ,
         {
             "os_name":	    "rtandroid",
