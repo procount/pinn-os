@@ -55,6 +55,15 @@
         "group": "Media",
         "+download_size" : 115670980
     },
+    "lineage": {
+        "+download_size" : 200476332
+    },
+    "lineage - waveshare": {
+        "+download_size" : 200476332
+    },
+    "lineage - touchscreen": {
+        "+download_size" : 200476332
+    },
     "OSMC_Pi1": {
         "url": "https://osmc.tv/",
         "group": "Media",
