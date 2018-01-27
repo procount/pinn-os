@@ -706,7 +706,6 @@
             ],
             "nominal_size":     374
         }
-
 ,
         {
             "os_name":	    "XBian_RPi1",
@@ -720,6 +719,7 @@
             ],
             "url":              "http://www.xbian.org/",
             "group":            "Media",
+            "download_size":    315198768,
             "os_info":          "http://downloads.sourceforge.net/project/pinn/os/XBian_RPi1/os.json",
             "partitions_info":  "http://downloads.sourceforge.net/project/pinn/os/XBian_RPi1/partitions.json",
             "icon":             "http://downloads.sourceforge.net/project/pinn/os/XBian_RPi1/XBian_RPi1.png",
@@ -744,6 +744,7 @@
             ],            
             "url":              "http://www.xbian.org/",
             "group":            "Media",
+            "download_size":    302322144,
             "os_info":          "http://downloads.sourceforge.net/project/pinn/os/XBian_RPi3/os.json",
             "partitions_info":  "http://downloads.sourceforge.net/project/pinn/os/XBian_RPi3/partitions.json",
             "icon":             "http://downloads.sourceforge.net/project/pinn/os/XBian_RPi3/XBian_RPi3.png",
