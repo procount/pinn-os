@@ -133,12 +133,10 @@
         "group": "General"
     },
     "XBian_RPi1": {
-        "group": "Media",
-        "+download_size" : 227208052
+        "group": "Media"
         },
     "XBian_RPi3": {
-        "group": "Media",
-        "+download_size" : 230942680
+        "group": "Media"
     },
     "batocera_RPi1": {
         "group": "Games",
