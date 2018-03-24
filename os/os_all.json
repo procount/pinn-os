@@ -10,7 +10,7 @@
               "Pi Model",
               "Pi 2",
               "Pi Zero",
-              "Pi 3"  
+              "Pi 3 Model B Rev"
             ],
             "supports_usb_boot": false,
             "url": "https://aiyprojects.withgoogle.com",
@@ -89,7 +89,7 @@
               "Pi Model",
               "Pi 2",
               "Pi Zero",
-              "Pi 3"  
+              "Pi 3 Model B Rev"
             ],
             "url":             "http://c-stem.ucdavis.edu/",
             "group":           "Education",
@@ -112,7 +112,7 @@
             "feature_level":   0,
             "supported_hex_revisions": "2082",    
             "supported_models": [
-                "Pi 3"
+                "Pi 3 Model B Rev"
             ],            
             "url":             "https://github.com/sakaki-/gentoo-on-rpi3-64bit",
             "group":           "General",
@@ -135,7 +135,7 @@
             "feature_level": 0,
             "supported_hex_revisions": "2082",    
             "supported_models": [
-                "Pi 3"
+                 "Pi 3 Model B Rev"
             ],
             "url":             "https://github.com/sakaki-/gentoo-on-rpi3-64bit",
             "group":           "General",
@@ -162,7 +162,7 @@
                 "Pi Compute Module",
                 "Pi Zero",
                 "Pi 2",
-                "Pi 3"
+                "Pi 3 Model B Rev"
             ],
             "url": "https://blog.hypriot.com",
             "group": "General",
@@ -213,7 +213,7 @@
             "supported_hex_revisions": "1040,1041,2082",
             "supported_models": [
                "Pi 2",
-               "Pi 3"
+               "Pi 3 Model B Rev"
             ],  
             "url":              "https://www.kali.org/",
             "group":            "General",
@@ -287,7 +287,7 @@
             "feature_level": 0,
             "supported_hex_revisions": "2082",    
             "supported_models": [
-                "Pi 3"
+                 "Pi 3 Model B Rev"
             ],            
             "url":              "https://lede-project.org/start",
             "group":            "Minimal",
@@ -310,7 +310,7 @@
             "feature_level": 0,
             "supported_hex_revisions": "2082",    
             "supported_models": [
-                "Pi 3"
+                "Pi 3 Model B Rev"
             ],
             "flavours": [
               {
@@ -353,7 +353,7 @@
                 "Pi Model",
                 "Pi 2",
                 "Pi Zero",
-                "Pi 3"  
+                "Pi 3 Model B Rev"
             ],
             "url":              "https://sites.google.com/site/picoreplayer/home",
             "group":            "Media",
@@ -380,7 +380,7 @@
                 "Pi Model",
                 "Pi 2",
                 "Pi Zero",
-                "Pi 3"  
+                "Pi 3 Model B Rev"
             ],
             "url":              "https://sites.google.com/site/picoreplayer/home",
             "group":            "Media",
@@ -404,7 +404,7 @@
             "supported_hex_revisions": "1040,1041,2082",
             "supported_models": [
                "Pi 2",
-               "Pi 3"
+               "Pi 3 Model B Rev"
             ],                
             "url":             "https://pi-top.com/get-started",
             "group":           "Education",
@@ -429,7 +429,7 @@
             "supported_hex_revisions": "1040,1041,2082",    
             "supported_models": [
                 "Pi 2",
-                "Pi 3"
+                "Pi 3 Model B Rev"
             ],            
             "supports_usb_boot": false,
             "url":             "http://barryk.org/quirky/",
@@ -457,7 +457,7 @@
                 "Pi Compute Module",
                 "Pi Zero",
                 "Pi 2",
-                "Pi 3"
+                "Pi 3 Model B Rev"
             ],
             "supports_usb_root": false,
             "url":             "http://www.raspberryvi.org/stories/index.html",
@@ -508,7 +508,7 @@
             "supported_hex_revisions": "1040,1041,2082",    
             "supported_models": [
                 "Pi 2",
-                "Pi 3"
+                "Pi 3 Model B Rev"
             ],            
             "url":             "https://retropie.org.uk/",
             "group":           "Games",
@@ -531,7 +531,7 @@
             "feature_level": 0,
             "supported_hex_revisions": "2082",    
             "supported_models": [
-                "Pi 3"
+                "Pi 3 Model B Rev"
             ],
             "url":             "https://rtandroid.embedded.rwth-aachen.de/downloads/raspberry-pi/",
             "group":           "General",
@@ -556,7 +556,7 @@
             "supported_hex_revisions": "1040,1041,2082",    
             "supported_models": [
                 "Pi 2",
-                "Pi 3"
+                "Pi 3 Model B Rev"
             ],            
             "supports_usb_root": false,
             "url":              "https://solydxk.com/downloads/solydx-rpi/",
@@ -582,7 +582,7 @@
             "supported_hex_revisions": "1040,1041,2082",    
             "supported_models": [
                 "Pi 2",
-                "Pi 3"
+                "Pi 3 Model B Rev"
             ],                
             "supports_usb_boot": false,
             "url":              "https://ubuntu-mate.org/download/",
@@ -664,7 +664,7 @@
             "supported_hex_revisions": "1040,1041,2082",
             "supported_models": [
                "Pi 2",
-               "Pi 3"
+               "Pi 3 Model B Rev"
             ],                
             "supports_usb_root": false,
             "url":              "http://http://www.voidlinux.eu/",
@@ -690,7 +690,7 @@
             "supported_hex_revisions": "1040,1041,2082",
             "supported_models": [
                "Pi 2",
-               "Pi 3"
+               "Pi 3 Model B Rev"
             ],                
             "supports_usb_root": false,
             "url":              "http://http://www.voidlinux.eu/",
@@ -789,7 +789,7 @@
             "supported_hex_revisions": "1040,1041,2082",    
             "supported_models": [
                 "Pi 2",
-                "Pi 3"
+                "Pi 3 Model B Rev"
             ],            
             "url":             "http://openelec.tv/",
             "os_info":         "http://downloads.sourceforge.net/project/pinn/host/openelec_rpi2/os.json",
