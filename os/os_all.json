@@ -353,14 +353,14 @@
             ],
             "url":              "http://www.sailoog.com/",
             "group":            "General",
-            "os_info":          "https://raw.githubusercontent.com/procount/pinn-os/master/os/OpenPlotter/os.json",
-            "partitions_info":  "https://raw.githubusercontent.com/procount/pinn-os/master/os/OpenPlotter/partitions.json",
-            "icon":             "https://raw.githubusercontent.com/procount/pinn-os/master/os/OpenPlotter/OpenPlotter.png",
-            "marketing_info":   "https://raw.githubusercontent.com/procount/pinn-os/master/os/OpenPlotter/marketing.tar",
-            "partition_setup":  "https://raw.githubusercontent.com/procount/pinn-os/master/os/OpenPlotter/partition_setup.sh",
+            "os_info":          "http://downloads.sourceforge.net/project/pinn/os/OpenPlotter/os.json",
+            "partitions_info":  "http://downloads.sourceforge.net/project/pinn/os/OpenPlotter/partitions.json",
+            "icon":             "http://downloads.sourceforge.net/project/pinn/os/OpenPlotter/OpenPlotter.png",
+            "marketing_info":   "http://downloads.sourceforge.net/project/pinn/os/OpenPlotter/marketing.tar",
+            "partition_setup":  "http://downloads.sourceforge.net/project/pinn/os/OpenPlotter/partition_setup.sh",
             "tarballs": [
-                                "https://raw.githubusercontent.com/procount/pinn-os/master/os/OpenPlotter/boot.tar.xz",
-                                "https://raw.githubusercontent.com/procount/pinn-os/master/os/OpenPlotter/root.tar.xz"
+                                "http://downloads.sourceforge.net/project/pinn/os/OpenPlotter/boot.tar.xz",
+                                "http://downloads.sourceforge.net/project/pinn/os/OpenPlotter/root.tar.xz"
             ],
             "nominal_size": 4067
         }
