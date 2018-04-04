@@ -51,9 +51,8 @@
             ],
             "nominal_size": 916
         }
-
-
 ,
+
         {
             "os_name":	    "Arch2",
             "description":  "An Arch Linux port for ARM devices RPi2/3",
@@ -108,11 +107,11 @@
         {
             "os_name":	       "gentoo64",
             "description":     "64-bit Gentoo Linux for the RPi3, with Xfce4 desktop",
-            "release_date":    "2018-01-25",
+            "release_date":    "2018-04-04",
             "feature_level":   0,
             "supported_hex_revisions": "2082",    
             "supported_models": [
-                "Pi 3 Model B Rev"
+                "Pi 3"
             ],            
             "url":             "https://github.com/sakaki-/gentoo-on-rpi3-64bit",
             "group":           "General",
@@ -128,14 +127,14 @@
             "nominal_size": 6962
         }
 ,
-        {
+       {
             "os_name":	    "gentoo64pt",
             "description":  "64-bit Gentoo Linux for the Pi-Top, with Xfce4 desktop",
-            "release_date": "2018-01-25",
+            "release_date": "2018-04-04",
             "feature_level": 0,
             "supported_hex_revisions": "2082",    
             "supported_models": [
-                 "Pi 3 Model B Rev"
+                "Pi 3"
             ],
             "url":             "https://github.com/sakaki-/gentoo-on-rpi3-64bit",
             "group":           "General",
@@ -341,6 +340,29 @@
                                "http://downloads.sourceforge.net/project/pinn/os/lineage/system_lin.tar.xz"
             ],
             "nominal_size": 3955
+        }
+,
+        {
+            "os_name":	    "OpenPlotter",
+            "description":  "v0.10.0alpha. The open-source sailing platform for ARM computers",
+            "release_date": "2017-03-02",
+            "feature_level": 0,
+            "supported_models": [
+                "Pi 2",
+                "Pi 3 Model B Rev"
+            ],
+            "url":              "http://www.sailoog.com/",
+            "group":            "General",
+            "os_info":          "https://raw.githubusercontent.com/procount/pinn-os/master/os/OpenPlotter/os.json",
+            "partitions_info":  "https://raw.githubusercontent.com/procount/pinn-os/master/os/OpenPlotter/partitions.json",
+            "icon":             "https://raw.githubusercontent.com/procount/pinn-os/master/os/OpenPlotter/OpenPlotter.png",
+            "marketing_info":   "https://raw.githubusercontent.com/procount/pinn-os/master/os/OpenPlotter/marketing.tar",
+            "partition_setup":  "https://raw.githubusercontent.com/procount/pinn-os/master/os/OpenPlotter/partition_setup.sh",
+            "tarballs": [
+                                "https://raw.githubusercontent.com/procount/pinn-os/master/os/OpenPlotter/boot.tar.xz",
+                                "https://raw.githubusercontent.com/procount/pinn-os/master/os/OpenPlotter/root.tar.xz"
+            ],
+            "nominal_size": 4067
         }
 ,
         {
