@@ -495,8 +495,28 @@
             ],
             "nominal_size": 3382
         }
-
-
+,
+        {
+            "os_name":	    "Raspex",
+            "description":  "Raspex with LXDE based on Ubuntu 18.04 LTS",
+            "release_date": "2018-03-28",
+            "feature_level": 0,
+            "supported_hex_revisions": "1040,1041,2082",    
+            "supported_models": [
+                "Pi 2",
+                "Pi 3"
+            ],            
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/Raspex/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/Raspex/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/Raspex/Raspex.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/Raspex/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/Raspex/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/Raspex/boot-raspx.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/Raspex/root-raspx.tar.xz"
+            ],
+            "nominal_size": 4019
+        }
 ,
         {
             "os_name":	    "Retropie1",
