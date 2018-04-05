@@ -1,0 +1,30 @@
+{
+    "os_list": [
+        {
+            "os_name":	    "volumio",
+            "description":  "volumio Audio player",
+            "release_date": "2017-07-31",
+            "supported_hex_revisions": "2,3,4,5,6,7,8,9,d,e,f,10,11,12,13,14,19,0092,1040,1041,2082",
+            "supported_models": [
+              "Pi Model",
+              "Pi Compute Module",
+              "Pi Zero",
+              "Pi 2",
+              "Pi_3 Model B Rev"
+            ],
+            "url":              "https://volumio/",
+            "group":            "Media",
+            "os_info":          "http://downloads.sourceforge.net/project/pinn/host/volumio/os.json",
+            "partitions_info":  "http://downloads.sourceforge.net/project/pinn/host/volumio/partitions.json",
+            "icon":             "http://downloads.sourceforge.net/project/pinn/host/volumio/volumio.png",
+            "marketing_info":   "http://downloads.sourceforge.net/project/pinn/host/volumio/marketing.tar",
+            "partition_setup":  "http://downloads.sourceforge.net/project/pinn/host/volumio/partition_setup.sh",
+            "tarballs": [
+                                "http://downloads.sourceforge.net/project/pinn/host/volumio/boot_volum.tar.xz",
+                                "http://downloads.sourceforge.net/project/pinn/host/volumio/volumio.tar.xz",
+                                "http://downloads.sourceforge.net/project/pinn/host/volumio/volumio_data.tar.xz"
+            ],
+            "nominal_size": 2549
+        }
+    ]
+}
