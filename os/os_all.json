@@ -506,6 +506,7 @@
                 "Pi 2",
                 "Pi 3"
             ],            
+            "url":             "http://raspex.exton.se/?p=843",
             "os_info":         "http://downloads.sourceforge.net/project/pinn/os/Raspex/os.json",
             "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/Raspex/partitions.json",
             "icon":            "http://downloads.sourceforge.net/project/pinn/os/Raspex/Raspex.png",
