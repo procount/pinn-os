@@ -521,8 +521,8 @@
 ,
         {
             "os_name":	    "Retropie1",
-            "description":  "Retropie1 v4.3 gaming distro using Emulation Station for RPi1/Zero",
-            "release_date": "2017-09-21",
+            "description":  "Retropie1 v4.4 gaming distro using Emulation Station for RPi1/Zero",
+            "release_date": "2018-04-14",
             "feature_level": 35644412,
             "supported_models": [
                 "Pi Model",
@@ -531,46 +531,23 @@
             ],
             "url":             "https://retropie.org.uk/",
             "group":           "Games",
-            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/Retropie1/os.json",
-            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/Retropie1/partitions.json",
-            "icon":            "http://downloads.sourceforge.net/project/pinn/os/Retropie1/Retropie1.png",
-            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/Retropie1/marketing.tar",
-            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/Retropie1/partition_setup.sh",
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/host/Retropie1/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/host/Retropie1/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/host/Retropie1/Retropie1.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/host/Retropie1/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/host/Retropie1/partition_setup.sh",
             "tarballs": [
-                               "http://downloads.sourceforge.net/project/pinn/os/Retropie1/boot_rp43.tar.xz",
-                               "http://downloads.sourceforge.net/project/pinn/os/Retropie1/root_rp43.tar.xz"
+                               "http://downloads.sourceforge.net/project/pinn/host/Retropie1/boot_rp44.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/host/Retropie1/root_rp44.tar.xz"
             ],
-            "nominal_size": 2043
+            "nominal_size": 2201
         }
+
 ,
         {
             "os_name":	    "Retropie2",
-            "description":  "Retropie v4.3 gaming distro using Emulation Station for RPi2/3",
-            "release_date": "2017-09-21",
-            "feature_level": 0,
-            "supported_hex_revisions": "1040,1041,2082",    
-            "supported_models": [
-                "Pi 2",
-                "Pi 3 Model B Rev"
-            ],            
-            "url":             "https://retropie.org.uk/",
-            "group":           "Games",
-            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/Retropie2/os.json",
-            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/Retropie2/partitions.json",
-            "icon":            "http://downloads.sourceforge.net/project/pinn/os/Retropie2/Retropie2.png",
-            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/Retropie2/marketing.tar",
-            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/Retropie2/partition_setup.sh",
-            "tarballs": [
-                               "http://downloads.sourceforge.net/project/pinn/os/Retropie2/boot_rp43.tar.xz",
-                               "http://downloads.sourceforge.net/project/pinn/os/Retropie2/root_rp43.tar.xz"
-            ],
-            "nominal_size": 2046
-        }
-,
-        {
-            "os_name":	    "Retropie3",
-            "description":  "Retropie3 v4.3.15 gaming distro using Emulation Station for RPi2/3B+",
-            "release_date": "2018-04-06",
+            "description":  "Retropie v4.4 gaming distro using Emulation Station for RPi2/3",
+            "release_date": "2018-04-14",
             "feature_level": 0,
             "supported_hex_revisions": "1040,1041,2082",    
             "supported_models": [
@@ -579,16 +556,16 @@
             ],            
             "url":             "https://retropie.org.uk/",
             "group":           "Games",
-            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/Retropie3/os.json",
-            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/Retropie3/partitions.json",
-            "icon":            "http://downloads.sourceforge.net/project/pinn/os/Retropie3/Retropie3.png",
-            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/Retropie3/marketing.tar",
-            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/Retropie3/partition_setup.sh",
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/host/Retropie2/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/host/Retropie2/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/host/Retropie2/Retropie2.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/host/Retropie2/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/host/Retropie2/partition_setup.sh",
             "tarballs": [
-                               "http://downloads.sourceforge.net/project/pinn/os/Retropie3/boot_rp43.tar.xz",
-                               "http://downloads.sourceforge.net/project/pinn/os/Retropie3/root_rp43.tar.xz"
+                               "http://downloads.sourceforge.net/project/pinn/host/Retropie2/boot_rp44.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/host/Retropie2/root_rp44.tar.xz"
             ],
-            "nominal_size": 2245
+            "nominal_size": 2203
         }
 ,
         {
