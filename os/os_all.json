@@ -421,25 +421,25 @@
         {
             "os_name":         "PiTop",
             "description":     "Pi-Top OS for the Pi2/Pi3",
-            "release_date":    "2017-02-23",
+            "release_date":    "2018-04-03",
             "feature_level":   0,
             "supported_hex_revisions": "1040,1041,2082",
             "supported_models": [
                "Pi 2",
-               "Pi 3 Model B Rev"
+               "Pi 3"
             ],                
             "url":             "https://pi-top.com/get-started",
             "group":           "Education",
-            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/PiTop/os.json",
-            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/PiTop/partitions.json",
-            "icon":            "http://downloads.sourceforge.net/project/pinn/os/PiTop/PiTop.png",
-            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/PiTop/marketing.tar",
-            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/PiTop/partition_setup.sh",
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/host/PiTop/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/host/PiTop/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/host/PiTop/PiTop.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/host/PiTop/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/host/PiTop/partition_setup.sh",
             "tarballs": [
-                               "http://downloads.sourceforge.net/project/pinn/os/PiTop/boot_pitop.tar.xz",
-                               "http://downloads.sourceforge.net/project/pinn/os/PiTop/root_pitop.tar.xz"
+                               "http://downloads.sourceforge.net/project/pinn/host/PiTop/boot_pitop.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/host/PiTop/root_pitop.tar.xz"
             ],
-            "nominal_size": 4833
+            "nominal_size": 4993
         }
 
 ,
