@@ -866,43 +866,43 @@
             "flavours": [
               {
                 "name": "ProjectSpace - 1",
-                "description": "A Project Space to partition the SD card equally"
-                "icon":        "http://downloads.sourceforge.net/project/pinn/os/ProjectSpace/ProjectSpace.png",
+                "description": "A Project Space to partition the SD card equally",
+                "icon":        "http://downloads.sourceforge.net/project/pinn/os/ProjectSpace/ProjectSpace.png"
               },
               {
                 "name": "ProjectSpace - 2",
-                "description": "A Project Space to partition the SD card equally"
-                "icon":        "http://downloads.sourceforge.net/project/pinn/os/ProjectSpace/ProjectSpace.png",
+                "description": "A Project Space to partition the SD card equally",
+                "icon":        "http://downloads.sourceforge.net/project/pinn/os/ProjectSpace/ProjectSpace.png"
               },
               {
                 "name": "ProjectSpace - 3",
-                "description": "A Project Space to partition the SD card equally"
-                "icon":        "http://downloads.sourceforge.net/project/pinn/os/ProjectSpace/ProjectSpace.png",
+                "description": "A Project Space to partition the SD card equally",
+                "icon":        "http://downloads.sourceforge.net/project/pinn/os/ProjectSpace/ProjectSpace.png"
               },
               {
                 "name": "ProjectSpace - 4",
-                "description": "A Project Space to partition the SD card equally"
-                "icon":        "http://downloads.sourceforge.net/project/pinn/os/ProjectSpace/ProjectSpace.png",
+                "description": "A Project Space to partition the SD card equally",
+                "icon":        "http://downloads.sourceforge.net/project/pinn/os/ProjectSpace/ProjectSpace.png"
               },
               {
                 "name": "ProjectSpace - 5",
-                "description": "A Project Space to partition the SD card equally"
-                "icon":        "http://downloads.sourceforge.net/project/pinn/os/ProjectSpace/ProjectSpace.png",
+                "description": "A Project Space to partition the SD card equally",
+                "icon":        "http://downloads.sourceforge.net/project/pinn/os/ProjectSpace/ProjectSpace.png"
               },
               {
                 "name": "ProjectSpace - 6",
-                "description": "A Project Space to partition the SD card equally"
-                "icon":        "http://downloads.sourceforge.net/project/pinn/os/ProjectSpace/ProjectSpace.png",
+                "description": "A Project Space to partition the SD card equally",
+                "icon":        "http://downloads.sourceforge.net/project/pinn/os/ProjectSpace/ProjectSpace.png"
               },
               {
                 "name": "ProjectSpace - 7",
-                "description": "A Project Space to partition the SD card equally"
-                "icon":        "http://downloads.sourceforge.net/project/pinn/os/ProjectSpace/ProjectSpace.png",
+                "description": "A Project Space to partition the SD card equally",
+                "icon":        "http://downloads.sourceforge.net/project/pinn/os/ProjectSpace/ProjectSpace.png"
               },
               {
                 "name": "ProjectSpace - 8",
-                "description": "A Project Space to partition the SD card equally"
-                "icon":        "http://downloads.sourceforge.net/project/pinn/os/ProjectSpace/ProjectSpace.png",
+                "description": "A Project Space to partition the SD card equally",
+                "icon":        "http://downloads.sourceforge.net/project/pinn/os/ProjectSpace/ProjectSpace.png"
               }
             ],
             "os_info":         "http://downloads.sourceforge.net/project/pinn/os/ProjectSpace/os.json",
