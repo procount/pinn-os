@@ -107,7 +107,7 @@
         {
             "os_name":	       "gentoo64",
             "description":     "64-bit Gentoo Linux for the RPi3, with Xfce4 desktop",
-            "release_date":    "2018-04-04",
+            "release_date":    "2018-06-10",
             "feature_level":   0,
             "supported_hex_revisions": "2082",    
             "supported_models": [
@@ -115,22 +115,23 @@
             ],            
             "url":             "https://github.com/sakaki-/gentoo-on-rpi3-64bit",
             "group":           "General",
-            "os_info":         "http://downloads.sourceforge.net/project/pinn/os_previous/gentoo64/os.json",
-            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os_previous/gentoo64/partitions.json",
-            "icon":            "http://downloads.sourceforge.net/project/pinn/os_previous/gentoo64/gentoo64.png",
-            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os_previous/gentoo64/marketing.tar",
-            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os_previous/gentoo64/partition_setup.sh",
+            "download_size":   1206822224,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/gentoo64/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/gentoo64/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/gentoo64/gentoo64.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/gentoo64/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/gentoo64/partition_setup.sh",
             "tarballs": [
-                               "http://downloads.sourceforge.net/project/pinn/os_previous/gentoo64/boot_gen.tar.xz",
-                               "http://downloads.sourceforge.net/project/pinn/os_previous/gentoo64/root_gen.tar.xz"
+                               "http://downloads.sourceforge.net/project/pinn/os/gentoo64/boot_gen.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/gentoo64/root_gen.tar.xz"
             ],
             "nominal_size": 6962
         }
 ,
-       {
+        {
             "os_name":	    "gentoo64pt",
             "description":  "64-bit Gentoo Linux for the Pi-Top, with Xfce4 desktop",
-            "release_date": "2018-04-04",
+            "release_date": "2018-06-10",
             "feature_level": 0,
             "supported_hex_revisions": "2082",    
             "supported_models": [
@@ -138,14 +139,15 @@
             ],
             "url":             "https://github.com/sakaki-/gentoo-on-rpi3-64bit",
             "group":           "General",
-            "os_info":         "http://downloads.sourceforge.net/project/pinn/os_previous/gentoo64pt/os.json",
-            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os_previous/gentoo64pt/partitions.json",
-            "icon":            "http://downloads.sourceforge.net/project/pinn/os_previous/gentoo64pt/gentoo64pt.png",
-            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os_previous/gentoo64pt/marketing.tar",
-            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os_previous/gentoo64pt/partition_setup.sh",
+            "download_size":   1207050944,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/gentoo64pt/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/gentoo64pt/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/gentoo64pt/gentoo64pt.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/gentoo64pt/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/gentoo64pt/partition_setup.sh",
             "tarballs": [
-                               "http://downloads.sourceforge.net/project/pinn/os_previous/gentoo64pt/boot_genpt.tar.xz",
-                               "http://downloads.sourceforge.net/project/pinn/os_previous/gentoo64pt/root_genpt.tar.xz"
+                               "http://downloads.sourceforge.net/project/pinn/os/gentoo64pt/boot_genpt.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/gentoo64pt/root_genpt.tar.xz"
             ],
             "nominal_size": 6962
         }
