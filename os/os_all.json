@@ -115,14 +115,14 @@
             ],            
             "url":             "https://github.com/sakaki-/gentoo-on-rpi3-64bit",
             "group":           "General",
-            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/gentoo64/os.json",
-            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/gentoo64/partitions.json",
-            "icon":            "http://downloads.sourceforge.net/project/pinn/os/gentoo64/gentoo64.png",
-            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/gentoo64/marketing.tar",
-            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/gentoo64/partition_setup.sh",
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os_previous/gentoo64/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os_previous/gentoo64/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os_previous/gentoo64/gentoo64.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os_previous/gentoo64/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os_previous/gentoo64/partition_setup.sh",
             "tarballs": [
-                               "http://downloads.sourceforge.net/project/pinn/os/gentoo64/boot_gen.tar.xz",
-                               "http://downloads.sourceforge.net/project/pinn/os/gentoo64/root_gen.tar.xz"
+                               "http://downloads.sourceforge.net/project/pinn/os_previous/gentoo64/boot_gen.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os_previous/gentoo64/root_gen.tar.xz"
             ],
             "nominal_size": 6962
         }
@@ -138,14 +138,14 @@
             ],
             "url":             "https://github.com/sakaki-/gentoo-on-rpi3-64bit",
             "group":           "General",
-            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/gentoo64pt/os.json",
-            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/gentoo64pt/partitions.json",
-            "icon":            "http://downloads.sourceforge.net/project/pinn/os/gentoo64pt/gentoo64pt.png",
-            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/gentoo64pt/marketing.tar",
-            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/gentoo64pt/partition_setup.sh",
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os_previous/gentoo64pt/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os_previous/gentoo64pt/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os_previous/gentoo64pt/gentoo64pt.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os_previous/gentoo64pt/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os_previous/gentoo64pt/partition_setup.sh",
             "tarballs": [
-                               "http://downloads.sourceforge.net/project/pinn/os/gentoo64pt/boot_genpt.tar.xz",
-                               "http://downloads.sourceforge.net/project/pinn/os/gentoo64pt/root_genpt.tar.xz"
+                               "http://downloads.sourceforge.net/project/pinn/os_previous/gentoo64pt/boot_genpt.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os_previous/gentoo64pt/root_genpt.tar.xz"
             ],
             "nominal_size": 6962
         }
@@ -529,6 +529,16 @@
                 "Pi Compute Module",
                 "Pi Zero"
             ],
+	    "flavours": [
+	      {
+	        "name": "Retropie1",
+	        "description": "Retropie v4.4 gaming distro using Emulation Station for RPi1/Zero"
+	      },
+	      {
+	        "name": "Retropie1 - dsi",
+	        "description": "Retropie v4.4 for RPi1/Zero for DSI that switches to HDMI"
+	      }
+	    ],	
             "url":             "https://retropie.org.uk/",
             "group":           "Games",
             "os_info":         "http://downloads.sourceforge.net/project/pinn/host/Retropie1/os.json",
@@ -553,7 +563,17 @@
             "supported_models": [
                 "Pi 2",
                 "Pi 3"
-            ],            
+            ],
+	    "flavours": [
+	      {
+	        "name": "Retropie2",
+	        "description": "Retropie v4.4 gaming distro using Emulation Station for RPi2/3"
+	      },
+	      {
+	        "name": "Retropie2 - dsi",
+	        "description": "Retropie v4.4 for RPi2/3 for DSI that switches to HDMI"
+	      }
+	    ],	
             "url":             "https://retropie.org.uk/",
             "group":           "Games",
             "os_info":         "http://downloads.sourceforge.net/project/pinn/host/Retropie2/os.json",
@@ -863,6 +883,7 @@
                 "Pi 2",
                 "Pi 3"
             ],
+            "url":             "https://github.com/procount/pinn/blob/master/README_PINN.md#project-spaces",
             "flavours": [
               {
                 "name": "ProjectSpace - 1",
