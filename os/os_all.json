@@ -368,6 +368,34 @@
         }
 ,
         {
+            "os_name":	    "picore",
+            "description":  "A picore port of Tiny Core Linux RPi0/1/2/3",
+            "release_date": "2017-06-20",
+            "feature_level": 35644412,
+            "supported_hex_revisions": "1040,1041,2082",    
+            "supported_models": [
+                "Pi Model",
+                "Pi Compute Module",
+                "Pi Zero",
+                "Pi 2",
+                "Pi 3 Model B Rev"
+            ],
+            "url": "http://tinycorelinux.net/",
+            "group":           "Minimal",
+            "download_size":    29423256,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/picore/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/picore/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/picore/picore.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/picore/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/picore/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/picore/boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/picore/boot.tar.xz"
+            ],
+            "nominal_size": 46
+        }
+,
+        {
             "os_name": "picoreplayer",
             "description": "A Squeezebox Audio Device",
             "release_date": "2017-09-23",
