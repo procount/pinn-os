@@ -864,14 +864,14 @@
               "Pi Zero"
             ],
             "url":             "http://openelec.tv/",
-            "os_info":         "http://downloads.sourceforge.net/project/pinn/host/openelec_rpi1/os.json",
-            "partitions_info": "http://downloads.sourceforge.net/project/pinn/host/openelec_rpi1/partitions.json",
-            "icon":            "http://downloads.sourceforge.net/project/pinn/host/openelec_rpi1/openelec_rpi1.png",
-            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/host/openelec_rpi1/marketing.tar",
-            "partition_setup": "http://downloads.sourceforge.net/project/pinn/host/openelec_rpi1/partition_setup.sh",
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/openelec_rpi1/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/openelec_rpi1/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/openelec_rpi1/openelec_rpi1.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/openelec_rpi1/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/openelec_rpi1/partition_setup.sh",
             "tarballs": [
-                               "http://downloads.sourceforge.net/project/pinn/host/openelec_rpi1/system.tar.xz",
-                               "http://downloads.sourceforge.net/project/pinn/host/openelec_rpi1/storage.tar.xz"
+                               "http://downloads.sourceforge.net/project/pinn/os/openelec_rpi1/system.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/openelec_rpi1/storage.tar.xz"
             ],
             "nominal_size": 541
         }
@@ -887,14 +887,14 @@
                 "Pi 3 Model B Rev"
             ],            
             "url":             "http://openelec.tv/",
-            "os_info":         "http://downloads.sourceforge.net/project/pinn/host/openelec_rpi2/os.json",
-            "partitions_info": "http://downloads.sourceforge.net/project/pinn/host/openelec_rpi2/partitions.json",
-            "icon":            "http://downloads.sourceforge.net/project/pinn/host/openelec_rpi2/openelec_rpi2.png",
-            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/host/openelec_rpi2/marketing.tar",
-            "partition_setup": "http://downloads.sourceforge.net/project/pinn/host/openelec_rpi2/partition_setup.sh",
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/openelec_rpi2/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/openelec_rpi2/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/openelec_rpi2/openelec_rpi2.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/openelec_rpi2/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/openelec_rpi2/partition_setup.sh",
             "tarballs": [
-                               "http://downloads.sourceforge.net/project/pinn/host/openelec_rpi2/system.tar.xz",
-                               "http://downloads.sourceforge.net/project/pinn/host/openelec_rpi2/storage.tar.xz"
+                               "http://downloads.sourceforge.net/project/pinn/os/openelec_rpi2/system.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/openelec_rpi2/storage.tar.xz"
             ],
             "nominal_size": 541
         }
