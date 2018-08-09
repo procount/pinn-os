@@ -229,12 +229,11 @@
             ],
             "nominal_size": 6765
         }
-
 ,
         {
             "os_name":	    "lede2RPi1",
-            "description":  "LEDE for the Raspberry Pi0/1 (open-wrt)",
-            "release_date": "2017-10-18",
+            "description":  "lede2RPi1 for the Raspberry Pi0/1 (open-wrt)",
+            "release_date": "2018-07-31",
             "feature_level": 35644412,
             "supported_hex_revisions": "2,3,4,5,6,7,8,9,d,e,f,10,11,12,13,14,19,0092",
             "supported_models": [
@@ -242,8 +241,9 @@
                 "Pi Compute Module",
                 "Pi Zero"
             ],
-            "url":              "https://lede-project.org/start",
+            "url":              "https://openwrt.org/",
             "group":            "Minimal",
+            "download_size":    6437656,
             "os_info":          "http://downloads.sourceforge.net/project/pinn/os/lede2RPi1/os.json",
             "partitions_info":  "http://downloads.sourceforge.net/project/pinn/os/lede2RPi1/partitions.json",
             "icon":             "http://downloads.sourceforge.net/project/pinn/os/lede2RPi1/lede2RPi1.png",
@@ -255,19 +255,19 @@
             ],
             "nominal_size": 274
         }
-
 ,
         {
             "os_name":	    "lede2RPi2",
-            "description":  "LEDE for the Raspberry Pi2 (open-wrt)",
-            "release_date": "2017-10-18",
+            "description":  "lede2RPi2 for the Raspberry Pi2 (open-wrt)",
+            "release_date": "2018-07-31",
             "feature_level": 0,
             "supported_hex_revisions": "1040,1041",    
             "supported_models": [
                 "Pi 2"
             ],            
-            "url":              "https://lede-project.org/start",
+            "url":              "https://openwrt.org",
             "group":            "Minimal",
+            "download_size":    6564028,
             "os_info":          "http://downloads.sourceforge.net/project/pinn/os/lede2RPi2/os.json",
             "partitions_info":  "http://downloads.sourceforge.net/project/pinn/os/lede2RPi2/partitions.json",
             "icon":             "http://downloads.sourceforge.net/project/pinn/os/lede2RPi2/lede2RPi2.png",
@@ -277,21 +277,21 @@
                                 "http://downloads.sourceforge.net/project/pinn/os/lede2RPi2/boot_lede2.tar.xz",
                                 "http://downloads.sourceforge.net/project/pinn/os/lede2RPi2/root_lede2.tar.xz"
             ],
-            "nominal_size": 254
+            "nominal_size": 274
         }
-
 ,
         {
             "os_name":	    "lede2RPi3",
-            "description":  "LEDE for the Raspberry Pi3 (open-wrt)",
-            "release_date": "2017-10-18",
+            "description":  "lede2RPi3 for the Raspberry Pi3 (open-wrt)",
+            "release_date": "2018-07-31",
             "feature_level": 0,
             "supported_hex_revisions": "2082",    
             "supported_models": [
-                 "Pi 3 Model B Rev"
+                  "Pi 3 Model B Rev"
             ],            
-            "url":              "https://lede-project.org/start",
+            "url":              "https://openwrt.org",
             "group":            "Minimal",
+            "download_size":    6570816,
             "os_info":          "http://downloads.sourceforge.net/project/pinn/os/lede2RPi3/os.json",
             "partitions_info":  "http://downloads.sourceforge.net/project/pinn/os/lede2RPi3/partitions.json",
             "icon":             "http://downloads.sourceforge.net/project/pinn/os/lede2RPi3/lede2RPi3.png",
@@ -451,7 +451,7 @@
         {
             "os_name":         "PiTop",
             "description":     "Pi-Top OS for the Pi2/Pi3",
-            "release_date":    "2018-04-03",
+            "release_date":    "2018-07-09",
             "feature_level":   0,
             "supported_hex_revisions": "1040,1041,2082",
             "supported_models": [
@@ -460,18 +460,18 @@
             ],                
             "url":             "https://pi-top.com/get-started",
             "group":           "Education",
-            "os_info":         "http://downloads.sourceforge.net/project/pinn/host/PiTop/os.json",
-            "partitions_info": "http://downloads.sourceforge.net/project/pinn/host/PiTop/partitions.json",
-            "icon":            "http://downloads.sourceforge.net/project/pinn/host/PiTop/PiTop.png",
-            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/host/PiTop/marketing.tar",
-            "partition_setup": "http://downloads.sourceforge.net/project/pinn/host/PiTop/partition_setup.sh",
+            "download_size":    1356284612,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/PiTop/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/PiTop/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/PiTop/PiTop.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/PiTop/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/PiTop/partition_setup.sh",
             "tarballs": [
-                               "http://downloads.sourceforge.net/project/pinn/host/PiTop/boot_pitop.tar.xz",
-                               "http://downloads.sourceforge.net/project/pinn/host/PiTop/root_pitop.tar.xz"
+                               "http://downloads.sourceforge.net/project/pinn/os/PiTop/boot_pitop.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/PiTop/root_pitop.tar.xz"
             ],
-            "nominal_size": 4993
+            "nominal_size": 4797
         }
-
 ,
         {
             "os_name":	    "quirky",
