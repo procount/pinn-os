@@ -105,30 +105,6 @@
         }
 ,
         {
-            "os_name":	    "Emteria",
-            "description":  "A Emteria Linux port for ARM devices RPi3",
-            "release_date": "2018-07-30",
-            "feature_level": 0,
-            "supported_hex_revisions": "2082",    
-            "supported_models": [
-                "Pi 3"
-            ],            
-            "group":           "General",
-            "download_size":    360449257,
-            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/Emteria/os.json",
-            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/Emteria/partitions.json",
-            "icon":            "http://downloads.sourceforge.net/project/pinn/os/Emteria/Emteria.png",
-            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/Emteria/marketing.tar",
-            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/Emteria/partition_setup.sh",
-            "tarballs": [
-                               "http://downloads.sourceforge.net/project/pinn/os/Emteria/boot.tar.xz",
-                               "http://downloads.sourceforge.net/project/pinn/os/Emteria/system.tar.xz",
-                               "http://downloads.sourceforge.net/project/pinn/os/Emteria/oem.tar.xz"
-            ],
-            "nominal_size": 2545
-        }
-,
-        {
             "os_name":	       "gentoo64",
             "description":     "64-bit Gentoo Linux for the RPi3, with Xfce4 desktop",
             "release_date":    "2018-06-10",
