@@ -13,6 +13,7 @@
     },
     "Arch2": {
         "group": "Minimal",
+        "+supports_backup": "update",
         "+download_size" : 331421544
     },
     "CStemBian": {
