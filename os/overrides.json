@@ -256,5 +256,29 @@
     "void2_musl": {
         "group": "Minimal",
         "+download_size" : 49632908
+    },
+    "ProjectSpace - 1": {
+        "+download_size": 416
+    },
+    "ProjectSpace - 2": {
+        "+download_size": 416
+    },
+    "ProjectSpace - 3": {
+        "+download_size": 416
+    },
+    "ProjectSpace - 4": {
+        "+download_size": 416
+    },
+    "ProjectSpace - 5": {
+        "+download_size": 416
+    },
+    "ProjectSpace - 6": {
+        "+download_size": 416
+    },
+    "ProjectSpace - 7": {
+        "+download_size": 416
+    },
+    "ProjectSpace - 8": {
+        "+download_size": 416
     }
 }
