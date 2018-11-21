@@ -98,15 +98,18 @@
     },
     "Raspbian Full": {
         "url": "https://www.raspbian.org/",
-        "group": "General"
+        "group": "General",
+        "+download_size" : 1492777304
     },
     "Raspbian": {
         "url": "https://www.raspbian.org/",
-        "group": "General"
+        "group": "General",
+        "+download_size" : 801462256
     },
     "Raspbian Lite": {
         "url": "https://www.raspbian.org/",
-        "group": "Minimal"
+        "group": "Minimal",
+        "+download_size" : 258296084
     },
     "RetroX Frambu": {
         "group": "Games",
