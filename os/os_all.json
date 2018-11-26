@@ -61,7 +61,8 @@
             "supported_hex_revisions": "1040,1041,2082",    
             "supported_models": [
                 "Pi 2",
-                "Pi 3"
+                "Pi 3 Model B Rev",
+                "Pi 3 Model B Plus Rev"
             ],            
             "url":      "https://archlinuxarm.org/platforms/armv6/raspberry-pi",
             "group":    "Minimal",
@@ -111,7 +112,8 @@
             "feature_level":   0,
             "supported_hex_revisions": "2082",    
             "supported_models": [
-                "Pi 3"
+                "Pi 3 Model B Rev",
+                "Pi 3 Model B Plus Rev"
             ],            
             "url":             "https://github.com/sakaki-/gentoo-on-rpi3-64bit",
             "group":           "General",
@@ -135,7 +137,8 @@
             "feature_level": 0,
             "supported_hex_revisions": "2082",    
             "supported_models": [
-                "Pi 3"
+                "Pi 3 Model B Rev",
+                "Pi 3 Model B Plus Rev"
             ],
             "url":             "https://github.com/sakaki-/gentoo-on-rpi3-64bit",
             "group":           "General",
@@ -456,7 +459,8 @@
             "supported_hex_revisions": "1040,1041,2082",
             "supported_models": [
                "Pi 2",
-               "Pi 3"
+                "Pi 3 Model B Rev",
+                "Pi 3 Model B Plus Rev"
             ],                
             "url":             "https://pi-top.com/get-started",
             "group":           "Education",
@@ -534,7 +538,8 @@
             "supported_hex_revisions": "1040,1041,2082",    
             "supported_models": [
                 "Pi 2",
-                "Pi 3"
+                "Pi 3 Model B Rev",
+                "Pi 3 Model B Plus Rev"
             ],            
             "url":             "http://raspex.exton.se/?p=843",
             "os_info":         "http://downloads.sourceforge.net/project/pinn/os/Raspex/os.json",
@@ -592,7 +597,8 @@
             "supported_hex_revisions": "1040,1041,2082",    
             "supported_models": [
                 "Pi 2",
-                "Pi 3"
+                "Pi 3 Model B Rev",
+                "Pi 3 Model B Plus Rev"
             ],
             "flavours": [
                 {
@@ -833,7 +839,8 @@
             "supported_hex_revisions": "1040,1041,2082",    
             "supported_models": [
                 "Pi 2",
-                "Pi 3"
+                "Pi 3 Model B Rev",
+                "Pi 3 Model B Plus Rev"
             ],            
             "url":              "http://www.xbian.org/",
             "group":            "Media",
