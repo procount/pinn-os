@@ -62,7 +62,8 @@
             "supported_models": [
                 "Pi 2",
                 "Pi 3 Model B Rev",
-                "Pi 3 Model B Plus Rev"
+                "Pi 3 Model B Plus Rev",
+                "Pi 3 Model A Plus Rev"
             ],            
             "url":      "https://archlinuxarm.org/platforms/armv6/raspberry-pi",
             "group":    "Minimal",
@@ -113,7 +114,8 @@
             "supported_hex_revisions": "2082",    
             "supported_models": [
                 "Pi 3 Model B Rev",
-                "Pi 3 Model B Plus Rev"
+                "Pi 3 Model B Plus Rev",
+                "Pi 3 Model A Plus Rev"
             ],            
             "url":             "https://github.com/sakaki-/gentoo-on-rpi3-64bit",
             "group":           "General",
@@ -138,7 +140,8 @@
             "supported_hex_revisions": "2082",    
             "supported_models": [
                 "Pi 3 Model B Rev",
-                "Pi 3 Model B Plus Rev"
+                "Pi 3 Model B Plus Rev",
+                "Pi 3 Model A Plus Rev"
             ],
             "url":             "https://github.com/sakaki-/gentoo-on-rpi3-64bit",
             "group":           "General",
