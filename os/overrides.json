@@ -3,34 +3,31 @@
         "group": "General",
         "+download_size" : 859270460
     },
-    "Amibian": {
-        "group": "Games",
-        "+download_size" : 213913328
-    },
     "Arch1": {
         "group": "Minimal",
-        "+download_size" : 331118763
+        "+supports_backup": "update",
+        "+download_size" : 381078875
     },
     "Arch2": {
         "group": "Minimal",
         "+supports_backup": "update",
-        "+download_size" : 331421544
+        "+download_size" : 381719971
     },
     "CStemBian": {
-        "group": "Education",
         "+download_size" : 1166615812
     },
     "Data Partition": {
         "group": "Utility",
         "+download_size" : 332
     },
-    "FedBerry": {
-        "group": "General",
-        "+download_size" : 686459008
+    "hypriotos": {
+        "+download_size" : 134689916
     },
-    "Flint OS": {
-        "group": "General",
-        "+download_size" : 435287898
+    "kali1": {
+        "+download_size" : 875918356
+    },
+    "kali2": {
+        "+download_size" : 791071940
     },
     "Kano_OS": {
         "group": "Education",
@@ -49,12 +46,12 @@
     "LibreELEC_RPi": {
         "url": "https://libreelec.tv/",
         "group": "Media",
-        "+download_size" : 115746296
+        "+download_size" : 117099592
     },
     "LibreELEC_RPi2": {
         "url": "https://libreelec.tv/",
         "group": "Media",
-        "+download_size" : 115670980
+        "+download_size" : 117044228
     },
     "lineage": {
         "+download_size" : 200476332
@@ -65,131 +62,6 @@
     "lineage - touchscreen": {
         "+download_size" : 200476332
     },
-    "OSMC_Pi1": {
-        "url": "https://osmc.tv/",
-        "group": "Media",
-        "+download_size" : 157265344
-    },
-    "OSMC_Pi2": {
-        "url": "https://osmc.tv/",
-        "group": "Media",
-        "+download_size" : 158031360
-    },
-    "PiTop": {
-        "group": "Education",
-        "+download_size" : 1296239908
-    },
-    "Pi MusicBox": {
-        "group": "Media",
-        "+download_size" : 198043064
-    },
-    "RISC OS": {
-        "url": "https://www.riscosopen.org/wiki/documentation/show/Welcome%20to%20RISC%20OS%20Pi",
-        "+download_size" : 75127544,
-        "group": "General"
-    },
-    "RasPlex_RPi": {
-        "group": "Media",
-        "+download_size" : 116791108
-    },
-    "RasPlex_RPi2": {
-        "group": "Media",
-        "+download_size" : 116592712
-    },
-    "Raspbian Full": {
-        "url": "https://www.raspbian.org/",
-        "group": "General",
-        "+download_size" : 1492777304
-    },
-    "Raspbian": {
-        "url": "https://www.raspbian.org/",
-        "group": "General",
-        "+download_size" : 801462256
-    },
-    "Raspbian Lite": {
-        "url": "https://www.raspbian.org/",
-        "group": "Minimal",
-        "+download_size" : 258296084
-    },
-    "RetroX Frambu": {
-        "group": "Games",
-        "+download_size" : 215298128
-    },
-    "Retropie1": {
-        "group": "Games",
-        "+download_size" : 396816280
-    },
-    "Retropie2": {
-        "group": "Games",
-        "+download_size" : 407778720
-    },
-    "Screenly OSE": {
-        "url": "http://www.screenly.io/ose/",
-        "+download_size" : 389664744,
-        "group": "General"
-    },
-    "TLXOS ": {
-        "url": "http://www.thinlinx.com/",
-        "+download_size" : 599991300,
-        "group": "General"
-    },
-    "Windows 10 IoT Core": {
-        "url": "http://windowsondevices.com",
-        "+download_size" : 78408,
-        "group": "General"
-    },
-    "XBian_RPi1": {
-        "group": "Media",
-        "+download_size" : 315198768
-        },
-    "XBian_RPi3": {
-        "group": "Media",
-        "+download_size" : 302322144
-    },
-    "batocera_RPi1": {
-        "group": "Games",
-        "+download_size" : 291424680
-    },
-    "batocera_RPi2": {
-        "group": "Games",
-        "+download_size" : 348266852
-    },
-    "batocera_RPi3": {
-        "group": "Games",
-        "+download_size" : 361265676
-    },
-    "gentoo64": {
-        "group": "General",
-        "+download_size" : 1081417452
-    },
-    "gentoo64pt": {
-        "group": "General",
-        "+download_size" : 1081667372
-    },
-    "hypriotos": {
-        "group": "General",
-        "+download_size" : 134689916
-    },
-    "kali1": {
-        "group": "General",
-        "+download_size" : 875918356
-    },
-    "kali2": {
-        "group": "General",
-        "+download_size" : 791071940
-    },
-    "lede2RPi1": { 
-        "group": "Minimal",
-        "+download_size" : 7633704
-    },
-    "lede2RPi2": {
-        "group": "Minimal",
-        "+download_size" : 6760396
-    },
-    "lede2RPi3": {
-        "group": "Minimal",
-        "+download_size" : 7766476
-    },
     "openelec_rpi1": {
         "group": "Media",
         "+download_size" : 120890540
@@ -198,64 +70,24 @@
         "group": "Media",
         "+download_size" : 120545860
     },
-    "picoreplayer": {
+    "OpenPlotter": {
+        "+download_size": 1008759660
+    },
+    "OSMC_Pi1": {
+        "url": "https://osmc.tv/",
         "group": "Media",
+        "+download_size" : 164815592
+    },
+    "OSMC_Pi2": {
+        "url": "https://osmc.tv/",
+        "group": "Media",
+        "+download_size" : 165866012
+    },
+    "picoreplayer": {
         "+download_size" : 39818320
     },
     "picoreplayerAudio": {
-        "group": "Media",
         "+download_size" : 39750240
-    },
-    "quirky": {
-        "group": "General",
-        "+download_size" : 351864680
-    },
-    "raspberry-vi": {
-        "group": "General",
-        "+download_size" : 799232064
-    },
-    "recalboxOS-rpi1": {
-        "url": "https://www.recalbox.com/",
-        "group": "Games",
-        "+download_size" : 156627548
-    },
-    "recalboxOS-rpi2": {
-        "url": "https://www.recalbox.com/",
-        "+download_size" : 164610112,
-        "group": "Games"
-    },
-    "recalboxOS-rpi3": {
-        "url": "https://www.recalbox.com/",
-        "+download_size" : 165170812,
-        "group": "Games"
-    },
-    "rtandroid": {
-        "group": "General",
-        "+download_size" : 296790663
-    },
-    "solydx": {
-        "group": "General",
-        "+download_size" : 874207196
-    },
-    "ubuntuMate1604LTS": {
-        "group": "General",
-        "+download_size" : 1115961152
-    },
-    "void1": {
-        "group": "Minimal",
-        "+download_size" : 54551560
-    },
-    "void1_musl": {
-        "group": "Minimal",
-        "+download_size" : 48966536
-    },
-    "void2": {
-        "group": "Minimal",
-        "+download_size" : 55193168
-    },
-    "void2_musl": {
-        "group": "Minimal",
-        "+download_size" : 49632908
     },
     "ProjectSpace - 1": {
         "+download_size": 416
@@ -281,10 +113,89 @@
     "ProjectSpace - 8": {
         "+download_size": 416
     },
-    "OpenPlotter": {
-        "+download_size": 1008759660
+    "raspberry-vi": {
+        "group": "General",
+        "+download_size" : 799232064
+    },
+    "Raspbian Full": {
+        "url": "https://www.raspbian.org/",
+        "group": "General",
+        "+download_size" : 1492777304
+    },
+    "Raspbian": {
+        "url": "https://www.raspbian.org/",
+        "group": "General",
+        "+download_size" : 801462256
+    },
+    "Raspbian Lite": {
+        "url": "https://www.raspbian.org/",
+        "group": "Minimal",
+        "+download_size" : 258296084
     },
     "Raspex": {
+        "group": "General",
         "+download_size": 714992088
+    },
+    "recalboxOS-rpi1": {
+        "url": "https://www.recalbox.com/",
+        "group": "Games",
+        "+download_size" : 231191348
+    },
+    "recalboxOS-rpi2": {
+        "url": "https://www.recalbox.com/",
+        "+download_size" : 247498632,
+        "group": "Games"
+    },
+    "recalboxOS-rpi3": {
+        "url": "https://www.recalbox.com/",
+        "+download_size" : 258111028,
+        "group": "Games"
+    },
+    "RISC OS": {
+        "url": "https://www.riscosopen.org/wiki/documentation/show/Welcome%20to%20RISC%20OS%20Pi",
+        "+download_size" : 99266620,
+        "group": "General"
+    },
+    "rtandroid": {
+        "+download_size" : 296790663
+    },
+    "Screenly OSE": {
+        "url": "http://www.screenly.io/ose/",
+        "+download_size" : 343983012,
+        "group": "General"
+    },
+    "solydx": {
+        "+download_size" : 874207196
+    },
+    "TLXOS ": {
+        "url": "http://www.thinlinx.com/",
+        "+download_size" : 611730348,
+        "group": "General"
+    },
+    "ubuntuMate1604LTS": {
+        "+download_size" : 1115961152
+    },
+    "void1": {
+        "+download_size" : 54551560
+    },
+    "void1_musl": {
+        "+download_size" : 48966536
+    },
+    "void2": {
+        "+download_size" : 55193168
+    },
+    "void2_musl": {
+        "+download_size" : 49632908
+    },
+    "Windows 10 IoT Core": {
+        "url": "http://windowsondevices.com",
+        "+download_size" : 69272,
+        "group": "General"
+    },
+    "XBian_RPi1": {
+        "+download_size" : 315198768
+        },
+    "XBian_RPi3": {
+        "+download_size" : 302322144
     }
 }
