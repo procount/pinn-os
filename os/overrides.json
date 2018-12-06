@@ -20,6 +20,18 @@
         "group": "Utility",
         "+download_size" : 332
     },
+    "DietPi": {
+        "+supports_backup": "update"
+    },
+    "FedBerry": {
+        "+supports_backup": "update"
+    },
+    "gentoo64": {
+        "+supports_backup": "update"
+    },
+    "gentoo64pt": {
+        "+supports_backup": "update"
+    },
     "hypriotos": {
         "+download_size" : 134689916
     },
@@ -31,6 +43,7 @@
     },
     "Kano_OS": {
         "group": "Education",
+        "+supports_backup": "update",
         "+download_size" : 964510824
     },
     "Lakka_RPi": {
@@ -75,6 +88,7 @@
         "+download_size" : 120545860
     },
     "OpenPlotter": {
+        "+supports_backup": "update",
         "+download_size": 1008759660
     },
     "OSMC_Pi1": {
@@ -193,18 +207,23 @@
         "group": "General"
     },
     "ubuntuMate1604LTS": {
+        "+supports_backup": "update",
         "+download_size" : 1115961152
     },
     "void1": {
+        "+supports_backup": "update",
         "+download_size" : 54551560
     },
     "void1_musl": {
+        "+supports_backup": "update",
         "+download_size" : 48966536
     },
     "void2": {
+        "+supports_backup": "update",
         "+download_size" : 55193168
     },
     "void2_musl": {
+        "+supports_backup": "update",
         "+download_size" : 49632908
     },
     "Windows 10 IoT Core": {
