@@ -168,6 +168,11 @@
         "+download_size" : 874207196
     },
     "TLXOS ": {
+        "supported_models": [
+            "Pi 2",
+            "Pi 3 Model B",
+            "Pi Compute Module 3"
+        ],
         "url": "http://www.thinlinx.com/",
         "+download_size" : 611730348,
         "group": "General"
@@ -188,6 +193,13 @@
         "+download_size" : 49632908
     },
     "Windows 10 IoT Core": {
+         "description": "Windows for devices. (Pi3 requires Insider version)",
+         "supported_models": [
+                "Pi 2",
+                "Pi 3 Model B",
+                "Pi 3 Model B Plus Rev",
+                "Pi Compute Module 3"
+            ],
         "url": "http://windowsondevices.com",
         "+download_size" : 69272,
         "group": "General"
