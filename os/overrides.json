@@ -36,21 +36,25 @@
     "Lakka_RPi": {
         "url": "http://www.lakka.tv/",
         "group": "Games",
+        "+supports_backup" : true,
         "+download_size" : 254218012
     },
     "Lakka_RPi2": {
         "url": "http://www.lakka.tv/",
         "group": "Games",
+        "+supports_backup" : true,
         "+download_size" : 262176988
     },
     "LibreELEC_RPi": {
         "url": "https://libreelec.tv/",
         "group": "Media",
+        "+supports_backup" : true,
         "+download_size" : 117099592
     },
     "LibreELEC_RPi2": {
         "url": "https://libreelec.tv/",
         "group": "Media",
+        "+supports_backup" : true,
         "+download_size" : 117044228
     },
     "lineage": {
@@ -120,16 +124,22 @@
     "Raspbian Full": {
         "url": "https://www.raspbian.org/",
         "group": "General",
+        "+supports_backup" : "update",
+        "partition_setup": "https://raw.githubusercontent.com/procount/pinn-os/master/partitions/Raspbian/partition_setup.sh",
         "+download_size" : 1492777304
     },
     "Raspbian": {
         "url": "https://www.raspbian.org/",
         "group": "General",
+        "+supports_backup" : "update",
+        "partition_setup": "https://raw.githubusercontent.com/procount/pinn-os/master/partitions/Raspbian/partition_setup.sh",
         "+download_size" : 801462256
     },
     "Raspbian Lite": {
         "url": "https://www.raspbian.org/",
         "group": "Minimal",
+        "+supports_backup" : "update",
+        "partition_setup": "https://raw.githubusercontent.com/procount/pinn-os/master/partitions/Raspbian/partition_setup.sh",
         "+download_size" : 258296084
     },
     "Raspex": {
@@ -139,16 +149,22 @@
     "recalboxOS-rpi1": {
         "url": "https://www.recalbox.com/",
         "group": "Games",
+        "+supports_backup" : "update",
+        "partition_setup": "https://raw.githubusercontent.com/procount/pinn-os/master/partitions/recalbox/partition_setup.sh",
         "+download_size" : 231191348
     },
     "recalboxOS-rpi2": {
         "url": "https://www.recalbox.com/",
         "+download_size" : 247498632,
+        "+supports_backup" : "update",
+        "partition_setup": "https://raw.githubusercontent.com/procount/pinn-os/master/partitions/recalbox/partition_setup.sh",
         "group": "Games"
     },
     "recalboxOS-rpi3": {
         "url": "https://www.recalbox.com/",
         "+download_size" : 258111028,
+        "+supports_backup" : "update",
+        "partition_setup": "https://raw.githubusercontent.com/procount/pinn-os/master/partitions/recalbox/partition_setup.sh",
         "group": "Games"
     },
     "RISC OS": {
@@ -161,6 +177,8 @@
     },
     "Screenly OSE": {
         "url": "http://www.screenly.io/ose/",
+        "+supports_backup" : "update",
+        "partition_setup": "https://raw.githubusercontent.com/procount/pinn-os/master/partitions/Screenly/partition_setup.sh",
         "+download_size" : 343983012,
         "group": "General"
     },
@@ -169,6 +187,8 @@
     },
     "TLXOS ": {
         "url": "http://www.thinlinx.com/",
+        "+supports_backup" : "update",
+        "partition_setup": "https://raw.githubusercontent.com/procount/pinn-os/master/partitions/TlxRpi/partition_setup.sh",
         "+download_size" : 611730348,
         "group": "General"
     },
