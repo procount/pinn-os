@@ -232,7 +232,7 @@
         "+download_size" : 49632908
     },
     "Windows 10 IoT Core": {
-         "description": "Windows for devices. (Pi3 requires Insider version)",
+         "description": "Windows for devices. (Pi3B+ requires Insider version)",
          "supported_models": [
                 "Pi 2",
                 "Pi 3 Model B",
