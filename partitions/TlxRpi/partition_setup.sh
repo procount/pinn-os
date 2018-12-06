@@ -1,4 +1,5 @@
 #!/bin/sh
+#supports_backup in PINN
 
 set -ex
 
@@ -10,6 +11,6 @@ fi
 mkdir -p /tmp/1
 mount "$part1" /tmp/1
 
-sed /tmp/1/cmdline.txt -i -e "s|root=/dev/[^ ]*|root=${part3}|"
+sed /tmp/1/cmdline.txt -i -e "s|root=[^ ]*|root=${part3}|"
 
 umount /tmp/1
