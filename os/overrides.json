@@ -1,7 +1,13 @@
 {
     "AIYprojects": {
         "group": "General",
+        "+supports_backup": true,
         "+download_size" : 859270460
+    },
+    "Amibian": {
+        "group": "Games",
+        "+supports_backup": true,
+        "+download_size" : 213913328
     },
     "Arch1": {
         "group": "Minimal",
@@ -13,11 +19,29 @@
         "+supports_backup": "update",
         "+download_size" : 381719971
     },
+    "batocera_RPi1": {
+        "group": "Games",
+        "+supports_backup": true,
+        "+download_size" : 291424680
+    },
+    "batocera_RPi2": {
+        "group": "Games",
+        "+supports_backup": true,
+        "+download_size" : 348266852
+    },
+    "batocera_RPi3": {
+        "group": "Games",
+        "+supports_backup": true,
+        "+download_size" : 361265676
+    },
     "CStemBian": {
+        "group": "Education",
+        "+supports_backup": true,
         "+download_size" : 1166615812
     },
     "Data Partition": {
         "group": "Utility",
+        "+supports_backup": true,
         "+download_size" : 332
     },
     "DietPi": {
@@ -32,13 +56,19 @@
     "gentoo64pt": {
         "+supports_backup": "update"
     },
+    "Gladys": {
+        "+supports_backup": true
+    },
     "hypriotos": {
+        "+supports_backup": true,
         "+download_size" : 134689916
     },
     "kali1": {
+        "+supports_backup": true,
         "+download_size" : 875918356
     },
     "kali2": {
+        "+supports_backup": true,
         "+download_size" : 791071940
     },
     "Kano_OS": {
@@ -58,6 +88,21 @@
         "+supports_backup" : true,
         "+download_size" : 262176988
     },
+    "lede2RPi1": { 
+        "group": "Minimal",
+        "+supports_backup": true,
+        "+download_size" : 7633704
+    },
+    "lede2RPi2": {
+        "group": "Minimal",
+        "+supports_backup": true,
+        "+download_size" : 6760396
+    },
+    "lede2RPi3": {
+        "group": "Minimal",
+        "+supports_backup": true,
+        "+download_size" : 7766476
+    },
     "LibreELEC_RPi": {
         "url": "https://libreelec.tv/",
         "group": "Media",
@@ -71,20 +116,25 @@
         "+download_size" : 117044228
     },
     "lineage": {
+        "+supports_backup": true,
         "+download_size" : 200476332
     },
     "lineage - waveshare": {
+        "+supports_backup": true,
         "+download_size" : 200476332
     },
     "lineage - touchscreen": {
+        "+supports_backup": true,
         "+download_size" : 200476332
     },
     "openelec_rpi1": {
         "group": "Media",
+        "+supports_backup": true,
         "+download_size" : 120890540
     },
     "openelec_rpi2": {
         "group": "Media",
+        "+supports_backup": true,
         "+download_size" : 120545860
     },
     "OpenPlotter": {
@@ -94,45 +144,76 @@
     "OSMC_Pi1": {
         "url": "https://osmc.tv/",
         "group": "Media",
+        "+supports_backup": true,
         "+download_size" : 164815592
     },
     "OSMC_Pi2": {
         "url": "https://osmc.tv/",
         "group": "Media",
+        "+supports_backup": true,
         "+download_size" : 165866012
     },
+    "Pi MusicBox": {
+        "group": "Media",
+        "+supports_backup": true,
+        "+download_size" : 198043064
+    },
+    "picore": {
+         "+supports_backup": true
+    },
     "picoreplayer": {
-        "+download_size" : 39818320
+         "+supports_backup": true,
+         "+download_size" : 39818320
     },
     "picoreplayerAudio": {
+        "+supports_backup": true,
         "+download_size" : 39750240
     },
+    "PiTop": {
+        "group": "Education",
+        "+supports_backup": true,
+        "+download_size" : 1296239908
+    },
     "ProjectSpace - 1": {
+        "+supports_backup": true,
         "+download_size": 416
     },
     "ProjectSpace - 2": {
+        "+supports_backup": true,
         "+download_size": 416
     },
     "ProjectSpace - 3": {
+        "+supports_backup": true,
         "+download_size": 416
     },
     "ProjectSpace - 4": {
+        "+supports_backup": true,
         "+download_size": 416
     },
     "ProjectSpace - 5": {
+        "+supports_backup": true,
         "+download_size": 416
     },
     "ProjectSpace - 6": {
+        "+supports_backup": true,
         "+download_size": 416
     },
     "ProjectSpace - 7": {
+        "+supports_backup": true,
         "+download_size": 416
     },
     "ProjectSpace - 8": {
+        "+supports_backup": true,
         "+download_size": 416
+    },
+    "quirky": {
+        "group": "General",
+        "+supports_backup": true,
+        "+download_size" : 351864680
     },
     "raspberry-vi": {
         "group": "General",
+        "+supports_backup": true,
         "+download_size" : 799232064
     },
     "Raspbian Full": {
@@ -158,7 +239,18 @@
     },
     "Raspex": {
         "group": "General",
+        "+supports_backup": true,
         "+download_size": 714992088
+    },
+    "RasPlex_RPi": {
+        "group": "Media",
+        "+supports_backup": true,
+        "+download_size" : 116791108
+    },
+    "RasPlex_RPi2": {
+        "group": "Media",
+        "+supports_backup": true,
+        "+download_size" : 116592712
     },
     "recalboxOS-rpi1": {
         "url": "https://www.recalbox.com/",
@@ -181,12 +273,23 @@
         "partition_setup": "https://raw.githubusercontent.com/procount/pinn-os/master/partitions/recalbox/partition_setup.sh",
         "group": "Games"
     },
+    "Retropie1": {
+        "group": "Games",
+        "+supports_backup": true,
+        "+download_size" : 396816280
+    },
+    "Retropie2": {
+        "group": "Games",
+        "+supports_backup": true,
+        "+download_size" : 407778720
+    },
     "RISC OS": {
         "url": "https://www.riscosopen.org/wiki/documentation/show/Welcome%20to%20RISC%20OS%20Pi",
         "+download_size" : 99266620,
         "group": "General"
     },
     "rtandroid": {
+        "+supports_backup": true,
         "+download_size" : 296790663
     },
     "Screenly OSE": {
@@ -197,6 +300,7 @@
         "group": "General"
     },
     "solydx": {
+        "+supports_backup": true,
         "+download_size" : 874207196
     },
     "TLXOS ": {
@@ -212,7 +316,7 @@
         "group": "General"
     },
     "ubuntuMate1604LTS": {
-        "+supports_backup": "update",
+        "+supports_backup": true,
         "+download_size" : 1115961152
     },
     "void1": {
@@ -230,6 +334,9 @@
     "void2_musl": {
         "+supports_backup": "update",
         "+download_size" : 49632908
+    },
+    "Volumio": {
+        "+supports_backup": true
     },
     "Windows 10 IoT Core": {
          "description": "Windows for devices. (Pi3B+ requires Insider version)",
