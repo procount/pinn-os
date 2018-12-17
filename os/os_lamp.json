@@ -1,0 +1,28 @@
+{
+    "os_list": [
+        {
+            "description": "Raspbian Lite with LAMP Stack",
+            "feature_level": 35120124,
+            "icon": "http://downloads.sourceforge.net/project/pinn/os/Raspbian_Lamp/Raspbian_Lamp.png",
+            "marketing_info": "http://downloads.sourceforge.net/project/pinn/os/Raspbian_Lamp/marketing.tar",
+            "nominal_size": 2177,
+            "os_info": "http://downloads.sourceforge.net/project/pinn/os/Raspbian_Lamp/os.json",
+            "os_name": "Raspbian Lamp",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/Raspbian_Lamp/partition_setup.sh",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/Raspbian_Lamp/partitions.json",
+            "release_date": "2018-11-13",
+            "supported_hex_revisions": "2,3,4,5,6,7,8,9,d,e,f,10,11,12,14,19,1040,1041,0092,0093,2082",
+            "supported_models": [
+                "Pi Model",
+                "Pi 2",
+                "Pi Zero",
+                "Pi 3",
+                "Pi Compute Module"
+            ],
+            "tarballs": [
+                "http://downloads.sourceforge.net/project/pinn/os/Raspbian_Lamp/boot.tar.xz",
+                "http://downloads.sourceforge.net/project/pinn/os/Raspbian_Lamp/root.tar.xz"
+            ]
+        }
+    ]
+}    
