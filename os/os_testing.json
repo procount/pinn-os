@@ -1,0 +1,82 @@
+{
+  "os_list" : [
+        {
+            "description": "Raspbian Lite with LAMP Stack",
+            "feature_level": 35120124,
+            "icon": "http://downloads.sourceforge.net/project/pinn/os/Raspbian_Lamp/Raspbian_Lamp.png",
+            "group" : "Testing",
+            "marketing_info": "http://downloads.sourceforge.net/project/pinn/os/Raspbian_Lamp/marketing.tar",
+            "nominal_size": 2177,
+            "os_info": "http://downloads.sourceforge.net/project/pinn/os/Raspbian_Lamp/os.json",
+            "os_name": "Raspbian Lamp",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/Raspbian_Lamp/partition_setup.sh",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/Raspbian_Lamp/partitions.json",
+            "release_date": "2018-11-13",
+            "supported_hex_revisions": "2,3,4,5,6,7,8,9,d,e,f,10,11,12,14,19,1040,1041,0092,0093,2082",
+            "supported_models": [
+                "Pi Model",
+                "Pi 2",
+                "Pi Zero",
+                "Pi 3",
+                "Pi Compute Module"
+            ],
+            "tarballs": [
+                "http://downloads.sourceforge.net/project/pinn/os/Raspbian_Lamp/boot.tar.gz",
+                "http://downloads.sourceforge.net/project/pinn/os/Raspbian_Lamp/root.tar.gz"
+            ]
+        },
+        {
+            "os_name":	    "Rpi-qemu-x86",
+            "description":  "A Rpi-qemu-x86 Linux port for ARM devices RPi2/3",
+            "release_date": "2017-MM-DD",
+            "feature_level": 0,
+            "supported_hex_revisions": "1040,1041,2082",    
+            "supported_models": [
+                "Pi 2",
+                "Pi 3"
+            ],            
+            "supports_usb_boot": true,
+            "supports_usb_root": true,
+            "group" : "Testing",
+            "download_size":    1736739528,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/Rpi-qemu-x86/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/Rpi-qemu-x86/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/Rpi-qemu-x86/Rpi-qemu-x86.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/Rpi-qemu-x86/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/Rpi-qemu-x86/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/Rpi-qemu-x86/boot_q86.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/Rpi-qemu-x86/root_q86.tar.xz"
+            ],
+            "nominal_size": 7239
+        },
+        {
+            "os_name":	    "win98-pi",
+            "description":  "Win98-pi Qemu with raspbian-Lite",
+            "release_date": "2017-MM-DD",
+            "feature_level": 0,
+            "supported_hex_revisions": "1040,1041,2082",
+            "supported_models": [
+                "Pi 2",
+                "Pi 3"
+            ],
+            "supports_usb_boot": true,
+            "supports_usb_root": true,
+            "group" : "Testing",
+            "download_size":    531140936,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/win98-pi/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/win98-pi/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/win98-pi/win98-pi.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/win98-pi/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/win98-pi/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/win98-pi/boot_w86.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/win98-pi/root_w86.tar.xz"
+            ],
+            "nominal_size": 3715
+        }
+
+  ]
+}
+
+
