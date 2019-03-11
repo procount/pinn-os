@@ -107,58 +107,6 @@
         }
 ,
         {
-            "os_name":	       "gentoo64",
-            "description":     "64-bit Gentoo Linux v1.3.1 for the RPi3, with Xfce4 desktop",
-            "release_date":    "2018-12-28",
-            "feature_level":   0,
-            "supported_hex_revisions": "2082",    
-            "supported_models": [
-                "Pi 3 Model B Rev",
-                "Pi 3 Model B Plus Rev",
-                "Pi 3 Model A Plus Rev"
-            ],            
-            "url":             "https://github.com/sakaki-/gentoo-on-rpi3-64bit",
-            "group":           "General",
-            "download_size":   1398871296,
-            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/gentoo64/os.json",
-            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/gentoo64/partitions.json",
-            "icon":            "http://downloads.sourceforge.net/project/pinn/os/gentoo64/gentoo64.png",
-            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/gentoo64/marketing.tar",
-            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/gentoo64/partition_setup.sh",
-            "tarballs": [
-                               "http://downloads.sourceforge.net/project/pinn/os/gentoo64/boot_gen.tar.xz",
-                               "http://downloads.sourceforge.net/project/pinn/os/gentoo64/root_gen.tar.xz"
-            ],
-            "nominal_size": 10561
-        }
-,
-        {
-            "os_name":	    "gentoo64pt",
-            "description":  "64-bit Gentoo Linux v1.3.1 for the Pi-Top, with Xfce4 desktop",
-            "release_date": "2018-12-28",
-            "feature_level": 0,
-            "supported_hex_revisions": "2082",    
-            "supported_models": [
-                "Pi 3 Model B Rev",
-                "Pi 3 Model B Plus Rev",
-                "Pi 3 Model A Plus Rev"
-            ],
-            "url":             "https://github.com/sakaki-/gentoo-on-rpi3-64bit",
-            "group":           "General",
-            "download_size":   1399277392,
-            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/gentoo64pt/os.json",
-            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/gentoo64pt/partitions.json",
-            "icon":            "http://downloads.sourceforge.net/project/pinn/os/gentoo64pt/gentoo64pt.png",
-            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/gentoo64pt/marketing.tar",
-            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/gentoo64pt/partition_setup.sh",
-            "tarballs": [
-                               "http://downloads.sourceforge.net/project/pinn/os/gentoo64pt/boot_genpt.tar.xz",
-                               "http://downloads.sourceforge.net/project/pinn/os/gentoo64pt/root_genpt.tar.xz"
-            ],
-            "nominal_size": 10561
-        }
-,
-        {
             "os_name":	    "hypriotos",
             "description":  "A hypriotos Linux port for ARM devices RPi0/1",
             "release_date": "2017-03-19",

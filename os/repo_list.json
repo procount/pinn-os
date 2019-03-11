@@ -15,6 +15,10 @@
 		{
 			"name" : "Matt Huisman",
 			"url"  : "http://raw.githubusercontent.com/matthuisman/pinn-os/master/os_list_v3.json"
+		},
+		{
+			"name" : "Sakaki",
+			"url"  : "https://isshoni.org/pinn/os/os_list_v3.json"
 		}
 	]
 }
