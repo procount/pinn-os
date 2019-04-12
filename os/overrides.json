@@ -304,11 +304,6 @@
         "+download_size" : 874207196
     },
     "TLXOS ": {
-        "supported_models": [
-            "Pi 2",
-            "Pi 3 Model B",
-            "Pi Compute Module 3"
-        ],
         "url": "http://www.thinlinx.com/",
         "+supports_backup" : "update",
         "partition_setup": "https://raw.githubusercontent.com/procount/pinn-os/master/partitions/TlxRpi/partition_setup.sh",
