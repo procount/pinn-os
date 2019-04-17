@@ -86,6 +86,10 @@
         "url": "http://www.lakka.tv/",
         "group": "Games",
         "+supports_backup" : true,
+         "supported_models": [
+                "Pi 2",
+                "Pi 3 Model B Rev"
+            ],
         "+download_size" : 262176988
     },
     "lede2RPi1": { 
