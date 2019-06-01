@@ -627,6 +627,32 @@
 
 ,
         {
+            "os_name":	    "solydx64",
+            "description":  "Solydxk64 for RPI3",
+            "release_date": "2019-03-20",
+            "feature_level": 0,
+            "supported_models": [
+                "Pi 3"
+            ],            
+            "supports_usb_root": false,
+            "supports_backup": true,
+            "url":              "https://solydxk.com/downloads/community-editions",
+            "group":            "General",
+            "download_size":    969156112,
+            "os_info":          "http://downloads.sourceforge.net/project/pinn/os/solydx64/os.json",
+            "partitions_info":  "http://downloads.sourceforge.net/project/pinn/os/solydx64/partitions.json",
+            "icon":             "http://downloads.sourceforge.net/project/pinn/os/solydx64/solydx64.png",
+            "marketing_info":   "http://downloads.sourceforge.net/project/pinn/os/solydx64/marketing.tar",
+            "partition_setup":  "http://downloads.sourceforge.net/project/pinn/os/solydx64/partition_setup.sh",
+            "tarballs": [
+                                "http://downloads.sourceforge.net/project/pinn/os/solydx64/boot_solydxk64.tar.xz",
+                                "http://downloads.sourceforge.net/project/pinn/os/solydx64/root_solydxk64.tar.xz"
+            ],
+            "nominal_size":     14900
+        }
+
+,
+        {
             "os_name":	    "ubuntuMate1604LTS",
             "description": "Ubuntu Mate 16.04.2 LTS",
             "release_date": "2016-11-05",
