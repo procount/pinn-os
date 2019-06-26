@@ -506,6 +506,31 @@
         }
 ,
         {
+            "os_name":	    "Raspex4",
+            "description":  "Raspex with LXDE based on Ubuntu 18.04 LTS for Pi4",
+            "release_date": "2018-03-28",
+            "feature_level": 0,
+            "group" : "Testing",
+            "supported_hex_revisions": "1040,1041,2082",
+            "supported_models": [
+                "Pi 2",
+                "Pi 3",
+                "Pi 4"
+            ],
+            "url":             "http://raspex.exton.se/?p=843",
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/Raspex4/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/Raspex4/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/Raspex4/Raspex4.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/Raspex4/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/Raspex4/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/Raspex4/boot_raspx.tar.gz",
+                               "http://downloads.sourceforge.net/project/pinn/os/Raspex4/root_raspx.tar.gz"
+            ],
+            "nominal_size": 4019
+        }
+,
+        {
             "os_name":	    "Retropie1",
             "description":  "Retropie1 v4.4 gaming distro using Emulation Station for RPi1/Zero",
             "release_date": "2018-04-14",
