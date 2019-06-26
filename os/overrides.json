@@ -115,6 +115,11 @@
         "+supports_backup" : true,
         "+download_size" : 117044228
     },
+    "LibreELEC_RPi4": {
+        "url": "https://libreelec.tv/",
+        "group": "Media",
+        "+supports_backup" : true
+    },
     "lineage": {
         "+supports_backup": true,
         "+download_size" : 200476332
