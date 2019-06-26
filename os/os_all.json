@@ -1,5 +1,5 @@
 {
-  "os_list" : [
+  "os_list" : [ 
         {
             "os_name":	    "AIYprojects",
             "description":  "Raspbian image for Google Assistant projects",
