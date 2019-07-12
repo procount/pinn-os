@@ -259,46 +259,6 @@
         }
 ,
         {
-            "os_name":	    "lineage",
-            "description":  "Lineage OS (KonstaKANG) 7.1.2 Nougat for RPI3",
-            "release_date": "2017-11-17",
-            "feature_level": 0,
-            "supported_hex_revisions": "2082",    
-            "supported_models": [
-                "Pi 3 Model B Rev"
-            ],
-            "flavours": [
-              {
-                "name": "lineage",
-                "description": "Lineage OS (KonstaKANG) 7.1.2 Nougat for RPI3",
-                "icon":       "http://downloads.sourceforge.net/project/pinn/os/lineage/lineage.png"
-              },
-              {
-                "name": "lineage - touchscreen",
-                "description": "Lineage OS 7.1.2 for RPF 7 inch touchscreen",
-                "icon":        "http://downloads.sourceforge.net/project/pinn/os/lineage/lineage.png"
-              },
-              {
-                "name": "lineage - waveshare",
-                "description": "Lineage OS 7.1.2 for Waveshare 7 inch HDMI LCD",
-                "icon":        "http://downloads.sourceforge.net/project/pinn/os/lineage/lineage.png"
-              }
-            ],
-            "url":             "http://konstakang.com/devices/rpi3/CM14.1/",
-            "group":           "General",
-            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/lineage/os.json",
-            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/lineage/partitions.json",
-            "icon":            "http://downloads.sourceforge.net/project/pinn/os/lineage/lineage.png",
-            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/lineage/marketing.tar",
-            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/lineage/partition_setup.sh",
-            "tarballs": [
-                               "http://downloads.sourceforge.net/project/pinn/os/lineage/boot_lin.tar.xz",
-                               "http://downloads.sourceforge.net/project/pinn/os/lineage/system_lin.tar.xz"
-            ],
-            "nominal_size": 3955
-        }
-,
-        {
             "os_name":	    "OpenPlotter",
             "description":  "v0.10.0alpha. The open-source sailing platform for ARM computers",
             "release_date": "2017-03-02",
