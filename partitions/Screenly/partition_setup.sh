@@ -31,7 +31,7 @@ if [ -z $restore ]; then
   fi
 
   if ! grep -q resize /proc/cmdline; then
-    sed -i 's| quiet init=/usr/lib/raspi-config/init_resize.sh||' /tmp/1/cmdline.txt
+    sed -i 's|init=/usr/lib/raspi-config/init_resize.sh||' /tmp/1/cmdline.txt
   fi
 fi
 
