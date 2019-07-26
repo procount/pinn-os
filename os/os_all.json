@@ -186,8 +186,8 @@
 ,
         {
             "os_name":	    "lede2RPi1",
-            "description":  "lede2RPi1 for the Raspberry Pi0/1 (open-wrt)",
-            "release_date": "2018-07-31",
+            "description":  "lede2RPi1 18.06.4 for the Raspberry Pi0/1 (open-wrt)",
+            "release_date": "2019-06-30",
             "feature_level": 35644412,
             "supported_hex_revisions": "2,3,4,5,6,7,8,9,d,e,f,10,11,12,13,14,19,0092",
             "supported_models": [
@@ -195,9 +195,10 @@
                 "Pi Compute Module",
                 "Pi Zero"
             ],
+            "supports_backup":  true,
             "url":              "https://openwrt.org/",
             "group":            "Minimal",
-            "download_size":    6437656,
+            "download_size":    6453812,
             "os_info":          "http://downloads.sourceforge.net/project/pinn/os/lede2RPi1/os.json",
             "partitions_info":  "http://downloads.sourceforge.net/project/pinn/os/lede2RPi1/partitions.json",
             "icon":             "http://downloads.sourceforge.net/project/pinn/os/lede2RPi1/lede2RPi1.png",
@@ -212,16 +213,17 @@
 ,
         {
             "os_name":	    "lede2RPi2",
-            "description":  "lede2RPi2 for the Raspberry Pi2 (open-wrt)",
-            "release_date": "2018-07-31",
+            "description":  "lede2RPi2 18.06.4 for the Raspberry Pi2 (open-wrt)",
+            "release_date": "2019-07-01",
             "feature_level": 0,
             "supported_hex_revisions": "1040,1041",    
             "supported_models": [
                 "Pi 2"
             ],            
+            "supports_backup":  true,
             "url":              "https://openwrt.org",
             "group":            "Minimal",
-            "download_size":    6564028,
+            "download_size":    6580192,
             "os_info":          "http://downloads.sourceforge.net/project/pinn/os/lede2RPi2/os.json",
             "partitions_info":  "http://downloads.sourceforge.net/project/pinn/os/lede2RPi2/partitions.json",
             "icon":             "http://downloads.sourceforge.net/project/pinn/os/lede2RPi2/lede2RPi2.png",
@@ -236,16 +238,17 @@
 ,
         {
             "os_name":	    "lede2RPi3",
-            "description":  "lede2RPi3 for the Raspberry Pi3 (open-wrt)",
-            "release_date": "2018-07-31",
+            "description":  "lede2RPi3 18.06.4 for the Raspberry Pi3 (open-wrt)",
+            "release_date": "2019-07-01",
             "feature_level": 0,
             "supported_hex_revisions": "2082",    
             "supported_models": [
                   "Pi 3 Model B Rev"
             ],            
+            "supports_backup":  true,
             "url":              "https://openwrt.org",
             "group":            "Minimal",
-            "download_size":    6570816,
+            "download_size":    6591452,
             "os_info":          "http://downloads.sourceforge.net/project/pinn/os/lede2RPi3/os.json",
             "partitions_info":  "http://downloads.sourceforge.net/project/pinn/os/lede2RPi3/partitions.json",
             "icon":             "http://downloads.sourceforge.net/project/pinn/os/lede2RPi3/lede2RPi3.png",

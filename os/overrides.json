@@ -90,18 +90,15 @@
     },
     "lede2RPi1": { 
         "group": "Minimal",
-        "+supports_backup": true,
-        "+download_size" : 7633704
+        "+supports_backup": true
     },
     "lede2RPi2": {
         "group": "Minimal",
-        "+supports_backup": true,
-        "+download_size" : 6760396
+        "+supports_backup": true
     },
     "lede2RPi3": {
         "group": "Minimal",
-        "+supports_backup": true,
-        "+download_size" : 7766476
+        "+supports_backup": true
     },
     "LibreELEC_RPi": {
         "url": "https://libreelec.tv/",
