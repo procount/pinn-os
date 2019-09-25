@@ -1,0 +1,76 @@
+{
+  "os_list" : [ 
+
+        {
+            "os_name":	    "Retropie1",
+            "description":  "Retropie1 v4.4 gaming distro using Emulation Station for RPi1/Zero",
+            "release_date": "2018-04-14",
+            "feature_level": 35644412,
+            "supported_models": [
+                "Pi Model",
+                "Pi Compute Module",
+                "Pi Zero"
+            ],
+            "flavours": [
+                {
+                    "name": "Retropie1",
+                    "description": "Retropie v4.4 gaming distro using Emulation Station for RPi1/Zero"
+                },
+                {
+                    "name": "Retropie1 - dsi",
+                    "description": "Retropie v4.4 for RPi1/Zero for DSI that switches to HDMI"
+                }
+            ],
+            "url":             "https://retropie.org.uk/",
+            "group":           "Games",
+            "download_size":   456471796,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/Retropie1/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/Retropie1/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/Retropie1/Retropie1.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/Retropie1/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/Retropie1/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/Retropie1/boot_rp44.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/Retropie1/root_rp44.tar.xz"
+            ],
+            "nominal_size": 2201
+        }
+,
+        {
+            "os_name":	    "Retropie2",
+            "description":  "Retropie v4.4 gaming distro using Emulation Station for RPi2/3",
+            "release_date": "2018-04-14",
+            "feature_level": 0,
+            "supported_hex_revisions": "1040,1041,2082",    
+            "supported_models": [
+                "Pi 2",
+                "Pi 3 Model B Rev",
+                "Pi 3 Model B Plus Rev"
+            ],
+            "flavours": [
+                {
+                    "name": "Retropie2",
+                    "description": "Retropie v4.4 gaming distro using Emulation Station for RPi2/3"
+                },
+                {
+                    "name": "Retropie2 - dsi",
+                    "description": "Retropie v4.4 for RPi2/3 for DSI that switches to HDMI"
+                }
+            ],
+            "url":             "https://retropie.org.uk/",
+            "group":           "Games",
+            "download_size":   462598256,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/Retropie2/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/Retropie2/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/Retropie2/Retropie2.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/Retropie2/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/Retropie2/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/Retropie2/boot_rp44.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/Retropie2/root_rp44.tar.xz"
+            ],
+            "nominal_size": 2203
+        }
+
+  ]
+}
