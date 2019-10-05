@@ -27,7 +27,7 @@
             "os_info":         "http://downloads.sourceforge.net/project/pinn/os/Retropie1/os.json",
             "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/Retropie1/partitions.json",
             "icon":            "http://downloads.sourceforge.net/project/pinn/os/Retropie1/Retropie1.png",
-            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/Retropie1/marketing.tar",
+            "marketing_info":  "http://raw.githubusercontent.com/procount/pinn-os/master/os/marketing.tar",
             "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/Retropie1/partition_setup.sh",
             "tarballs": [
                                "http://downloads.sourceforge.net/project/pinn/os/Retropie1/boot_rp44.tar.xz",
@@ -50,10 +50,12 @@
             "flavours": [
                 {
                     "name": "Retropie2",
+	            "icon":            "http://downloads.sourceforge.net/project/pinn/os/Retropie2/Retropie2.png",
                     "description": "Retropie v4.4 gaming distro using Emulation Station for RPi2/3"
                 },
                 {
                     "name": "Retropie2 - dsi",
+	            "icon":            "http://downloads.sourceforge.net/project/pinn/os/Retropie2/Retropie2.png",
                     "description": "Retropie v4.4 for RPi2/3 for DSI that switches to HDMI"
                 }
             ],
@@ -63,7 +65,7 @@
             "os_info":         "http://downloads.sourceforge.net/project/pinn/os/Retropie2/os.json",
             "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/Retropie2/partitions.json",
             "icon":            "http://downloads.sourceforge.net/project/pinn/os/Retropie2/Retropie2.png",
-            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/Retropie2/marketing.tar",
+            "marketing_info":  "http://raw.githubusercontent.com/procount/pinn-os/master/os/marketing.tar",
             "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/Retropie2/partition_setup.sh",
             "tarballs": [
                                "http://downloads.sourceforge.net/project/pinn/os/Retropie2/boot_rp44.tar.xz",
