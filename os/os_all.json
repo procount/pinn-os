@@ -366,6 +366,58 @@
         }
 ,
         {
+            "os_name":	    "piratebox1",
+            "description":  "A piratebox1 Linux port for ARM devices RPi0/1",
+            "release_date": "2018-02-27",
+            "feature_level": 35644412,
+            "supported_models": [
+                "Pi Model",
+                "Pi Compute Module",
+                "Pi Zero"
+            ],
+            "supports_usb_boot": true,
+            "supports_usb_root": true,
+            "group":           "General",
+            "download_size":    337795140,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/piratebox1/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/piratebox1/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/piratebox1/piratebox1.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/piratebox1/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/piratebox1/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/piratebox1/boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/piratebox1/piratebox.tar.xz"
+            ],
+            "nominal_size": 1987
+        }
+,
+        {
+            "os_name":	    "piratebox2",
+            "description":  "A piratebox2 Linux port for ARM devices RPi2/3",
+            "release_date": "2018-05-11",
+            "feature_level": 0,
+            "supported_hex_revisions": "1040,1041,2082",
+            "supported_models": [
+                "Pi 2",
+                "Pi 3"
+            ],
+            "supports_usb_boot": true,
+            "supports_usb_root": true,
+            "group":           "General",
+            "download_size":    351957056,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/piratebox2/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/piratebox2/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/piratebox2/piratebox2.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/piratebox2/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/piratebox2/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/piratebox2/boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/piratebox2/piratebox.tar.xz"
+            ],
+            "nominal_size": 1987
+        }
+,
+       {
             "os_name":         "PiTop",
             "description":     "Pi-Top OS for the Pi2/Pi3",
             "release_date":    "2018-07-09",
