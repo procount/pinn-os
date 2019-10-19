@@ -3,7 +3,7 @@
 
         {
             "os_name":	    "Retropie1",
-            "description":  "Retropie1 v4.4 gaming distro using Emulation Station for RPi1/Zero",
+            "description":  "Retropie1 v4.5.1 gaming distro using Emulation Station for RPi1/Zero",
             "release_date": "2018-04-14",
             "feature_level": 35644412,
             "supported_models": [
@@ -14,11 +14,11 @@
             "flavours": [
                 {
                     "name": "Retropie1",
-                    "description": "Retropie v4.4 gaming distro using Emulation Station for RPi1/Zero"
+                    "description": "Retropie v4.5.1 gaming distro using Emulation Station for RPi1/Zero"
                 },
                 {
                     "name": "Retropie1 - dsi",
-                    "description": "Retropie v4.4 for RPi1/Zero for DSI that switches to HDMI"
+                    "description": "Retropie v4.5.1 for RPi1/Zero for DSI that switches to HDMI"
                 }
             ],
             "url":             "https://retropie.org.uk/",
@@ -30,15 +30,15 @@
             "marketing_info":  "http://raw.githubusercontent.com/procount/pinn-os/master/os/marketing.tar",
             "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/Retropie1/partition_setup.sh",
             "tarballs": [
-                               "http://downloads.sourceforge.net/project/pinn/os/Retropie1/boot_rp44.tar.xz",
-                               "http://downloads.sourceforge.net/project/pinn/os/Retropie1/root_rp44.tar.xz"
+                               "http://downloads.sourceforge.net/project/pinn/os/Retropie1/boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/Retropie1/retropie.tar.xz"
             ],
             "nominal_size": 2201
         }
 ,
         {
             "os_name":	    "Retropie2",
-            "description":  "Retropie v4.4 gaming distro using Emulation Station for RPi2/3",
+            "description":  "Retropie v4.5.1 gaming distro using Emulation Station for RPi2/3",
             "release_date": "2018-04-14",
             "feature_level": 0,
             "supported_hex_revisions": "1040,1041,2082",    
@@ -50,26 +50,26 @@
             "flavours": [
                 {
                     "name": "Retropie2",
-	            "icon":            "http://downloads.sourceforge.net/project/pinn/os/Retropie2/Retropie2.png",
-                    "description": "Retropie v4.4 gaming distro using Emulation Station for RPi2/3"
+	            "icon":            "http://downloads.sourceforge.net/project/pinn/os/Retropie3/Retropie3.png",
+                    "description": "Retropie v4.5.1 gaming distro using Emulation Station for RPi2/3"
                 },
                 {
                     "name": "Retropie2 - dsi",
-	            "icon":            "http://downloads.sourceforge.net/project/pinn/os/Retropie2/Retropie2.png",
-                    "description": "Retropie v4.4 for RPi2/3 for DSI that switches to HDMI"
+	            "icon":            "http://downloads.sourceforge.net/project/pinn/os/Retropie3/Retropie3.png",
+                    "description": "Retropie v4.5.1 for RPi2/3 for DSI that switches to HDMI"
                 }
             ],
             "url":             "https://retropie.org.uk/",
             "group":           "Games",
             "download_size":   462598256,
-            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/Retropie2/os.json",
-            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/Retropie2/partitions.json",
-            "icon":            "http://downloads.sourceforge.net/project/pinn/os/Retropie2/Retropie2.png",
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/Retropie3/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/Retropie3/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/Retropie3/Retropie3.png",
             "marketing_info":  "http://raw.githubusercontent.com/procount/pinn-os/master/os/marketing.tar",
-            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/Retropie2/partition_setup.sh",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/Retropie3/partition_setup.sh",
             "tarballs": [
-                               "http://downloads.sourceforge.net/project/pinn/os/Retropie2/boot_rp44.tar.xz",
-                               "http://downloads.sourceforge.net/project/pinn/os/Retropie2/root_rp44.tar.xz"
+                               "http://downloads.sourceforge.net/project/pinn/os/Retropie3/boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/Retropie3/retropie.tar.xz"
             ],
             "nominal_size": 2203
         }
