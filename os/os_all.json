@@ -617,6 +617,31 @@
         }
 ,
         {
+            "os_name":	    "Retropie2",
+            "description":  "Retropie v4.4 gaming distro using Emulation Station for RPi2/3",
+            "release_date": "2018-04-14",
+            "feature_level": 0,
+            "supported_hex_revisions": "1040,1041,2082",    
+            "supported_models": [
+                "Pi 2",
+                "Pi 3"
+            ],            
+            "url":             "https://retropie.org.uk/",
+            "group":           "Games",
+            "download_size":   462598256,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/Retropie2/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/Retropie2/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/Retropie2/Retropie2.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/Retropie2/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/Retropie2/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/Retropie2/boot_rp44.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/Retropie2/root_rp44.tar.xz"
+            ],
+            "nominal_size": 2203
+        }
+,
+        {
             "os_name":	    "rtandroid",
             "description":  "RTAndroid 7.1.1 Nougat for RPI3",
             "release_date": "2017-03-15",
