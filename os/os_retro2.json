@@ -1,0 +1,29 @@
+{
+  "os_list" : [ 
+
+        {
+            "os_name":	    "Retropie3",
+            "description":  "Retropie3mc v4.5.1 gaming distro using Emulation Station for RPi2/3B+",
+            "release_date": "2019-07-17",
+            "feature_level": 0,
+            "supported_hex_revisions": "1040,1041,2082",    
+            "supported_models": [
+                "Pi 2",
+                "Pi 3"
+            ],            
+            "url":             "https://retropie.org.uk/",
+            "group":           "Games",
+            "download_size":   484641336,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os_next/Retropie3/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os_next/Retropie3/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os_next/Retropie3/Retropie3.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os_next/Retropie3/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os_next/Retropie3/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os_next/Retropie3/boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os_next/Retropie3/retropie.tar.xz"
+            ],
+            "nominal_size": 2360
+        }
+  ]
+}
