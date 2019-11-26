@@ -81,7 +81,7 @@
 ,
         {
             "os_name":	    "Arch4",
-            "description":  "An Arch Linux port for ARM devices RPi3",
+            "description":  "An Arch Linux port for ARM devices RPi4",
             "release_date": "2019-10-04",
             "feature_level": 0,
             "supported_models": [
