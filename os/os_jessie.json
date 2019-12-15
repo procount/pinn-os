@@ -2,6 +2,7 @@
     "os_list": [
     {
             "description": "A port of Debian Jessie for the Raspberry Pi (minimal version)",
+            "Group": "Legacy",
             "feature_level": 35120124,
             "icon": "http://downloads.raspberrypi.org/raspbian_lite/archive/2017-08-17-09:08/Raspbian_Lite.png",
             "marketing_info": "http://downloads.raspberrypi.org/raspbian_lite/archive/2017-08-17-09:08/marketing.tar",
@@ -26,6 +27,7 @@
         },
         {
             "description": "A port of Debian Jessie for the Raspberry Pi (full desktop version)",
+            "Group": "Legacy",
             "feature_level": 35120124,
             "icon": "http://downloads.raspberrypi.org/raspbian/archive/2017-08-17-09:07/Raspbian.png",
             "marketing_info": "http://downloads.raspberrypi.org/raspbian/archive/2017-08-17-09:07/marketing.tar",

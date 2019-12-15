@@ -2,6 +2,7 @@
     "os_list": [
     {
             "description": "A port of Debian STRETCH for the Raspberry Pi (minimal version)",
+            "Group": "Legacy",
             "feature_level": 35120124,
             "icon": "http://downloads.raspberrypi.org/raspbian_lite/archive/2019-06-24-07:06/Raspbian_Lite.png",
             "marketing_info": "http://downloads.raspberrypi.org/raspbian_lite/archive/2019-06-24-07:06/marketing.tar",
@@ -26,6 +27,7 @@
         },
         {
             "description": "A port of Debian STRETCH for the Raspberry Pi (full desktop version)",
+            "Group": "Legacy",
             "feature_level": 35120124,
             "icon": "http://downloads.raspberrypi.org/raspbian/archive/2019-06-24-07:06/Raspbian.png",
             "marketing_info": "http://downloads.raspberrypi.org/raspbian/archive/2019-06-24-07:06/marketing.tar",
@@ -49,6 +51,7 @@
         },
         {
             "description": "A port of Debian STRETCH with desktop and recommended applications",
+            "Group": "Legacy",
             "feature_level": 35120124,
             "icon": "http://downloads.raspberrypi.org/raspbian_full/Raspbian_Full.png",
             "marketing_info": "http://downloads.raspberrypi.org/raspbian_full/archive/2019-06-24-07:08/marketing.tar",
@@ -64,8 +67,7 @@
                 "Pi 2",
                 "Pi Zero",
                 "Pi 3",
-                "Pi Compute Module 3",
-                "Pi 4"
+                "Pi Compute Module 3"
             ],
             "tarballs": [
                 "http://downloads.raspberrypi.org/raspbian_full/archive/2019-06-24-07:08/boot.tar.xz",
