@@ -8,7 +8,7 @@
             "marketing_info": "http://downloads.raspberrypi.org/raspbian_lite/archive/2019-06-24-07:07/marketing.tar",
             "nominal_size": 1395,
             "os_info": "http://downloads.raspberrypi.org/raspbian_lite/archive/2019-06-24-07:07/os.json",
-            "os_name": "Raspbian Jessie Lite",
+            "os_name": "Raspbian Stretch Lite",
             "partition_setup": "http://downloads.raspberrypi.org/raspbian_lite/archive/2019-06-24-07:07/partition_setup.sh",
             "partitions_info": "http://downloads.raspberrypi.org/raspbian_lite/archive/2019-06-24-07:07/partitions.json",
             "release_date": "2017-08-16",
@@ -30,12 +30,12 @@
             "Group": "Legacy",
             "feature_level": 35120124,
             "icon": "http://downloads.raspberrypi.org/raspbian/archive/2019-06-24-07:06/Raspbian.png",
-            "marketing_info": "http://downloads.raspberrypi.org/raspbian/archive/2019-06-24-07:08/marketing.tar",
+            "marketing_info": "http://downloads.raspberrypi.org/raspbian/archive/2019-06-24-07:06/marketing.tar",
             "nominal_size": 4495,
-            "os_info": "http://downloads.raspberrypi.org/raspbian/archive/2019-06-24-07:08/os.json",
-            "os_name": "Raspbian Jessie",
-            "partition_setup": "http://downloads.raspberrypi.org/raspbian/archive/2019-06-24-07:08/partition_setup.sh",
-            "partitions_info": "http://downloads.raspberrypi.org/raspbian/archive/2019-06-24-07:08/partitions.json",
+            "os_info": "http://downloads.raspberrypi.org/raspbian/archive/2019-06-24-07:06/os.json",
+            "os_name": "Raspbian Stretch",
+            "partition_setup": "http://downloads.raspberrypi.org/raspbian/archive/2019-06-24-07:06/partition_setup.sh",
+            "partitions_info": "http://downloads.raspberrypi.org/raspbian/archive/2019-06-24-07:06/partitions.json",
             "release_date": "2017-08-16",
             "supported_hex_revisions": "2,3,4,5,6,7,8,9,d,e,f,10,11,12,14,19,1040,1041,0092,0093,2082",
             "supported_models": [
@@ -45,19 +45,19 @@
                 "Pi 3"
             ],
             "tarballs": [
-                "http://downloads.raspberrypi.org/raspbian/archive/2019-06-24-07:08/boot.tar.xz",
-                "http://downloads.raspberrypi.org/raspbian/archive/2019-06-24-07:08/root.tar.xz"
+                "http://downloads.raspberrypi.org/raspbian/archive/2019-06-24-07:06boot.tar.xz",
+                "http://downloads.raspberrypi.org/raspbian/archive/2019-06-24-07:06/root.tar.xz"
             ]
         },
         {
             "description": "A port of Debian STRETCH with desktop and recommended applications",
             "Group": "Legacy",
             "feature_level": 35120124,
-            "icon": "http://downloads.raspberrypi.org/raspbian_full/Raspbian_Full.png",
+            "icon": "http://downloads.raspberrypi.org/raspbian_full/archive/2019-06-24-07:08/Raspbian_Full.png",
             "marketing_info": "http://downloads.raspberrypi.org/raspbian_full/archive/2019-06-24-07:08/marketing.tar",
             "nominal_size": 6017,
             "os_info": "http://downloads.raspberrypi.org/raspbian_full/archive/2019-06-24-07:08/os.json",
-            "os_name": "Raspbian Full",
+            "os_name": "Raspbian Stretch Full",
             "partition_setup": "http://downloads.raspberrypi.org/raspbian_full/archive/2019-06-24-07:08/partition_setup.sh",
             "partitions_info": "http://downloads.raspberrypi.org/raspbian_full/archive/2019-06-24-07:08/partitions.json",
             "release_date": "2019-09-26",
