@@ -78,7 +78,30 @@
             ],
             "nominal_size": 916
         }
-
+,
+        {
+            "os_name":	    "Arch4",
+            "description":  "An Arch Linux port for ARM devices RPi3",
+            "release_date": "2019-10-04",
+            "feature_level": 0,
+            "supported_models": [
+                "Pi 4"
+            ],            
+            "supports_backup": "update",
+            "url":              "http://archlinuxarm.org/platforms/armv8/broadcom/raspberry-pi-4",
+            "group":            "Minimal",
+            "download_size":    449912616,
+            "os_info":          "http://downloads.sourceforge.net/project/pinn/os/Arch4/os.json",
+            "partitions_info":  "http://downloads.sourceforge.net/project/pinn/os/Arch4/partitions.json",
+            "icon":             "http://downloads.sourceforge.net/project/pinn/os/Arch4/Arch4.png",
+            "marketing_info":   "http://downloads.sourceforge.net/project/pinn/os/Arch4/marketing.tar",
+            "partition_setup":  "http://downloads.sourceforge.net/project/pinn/os/Arch4/partition_setup.sh",
+            "tarballs": [
+                                "http://downloads.sourceforge.net/project/pinn/os/Arch4/boot_arch.tar.xz",
+                                "http://archlinuxarm.org/os/ArchLinuxARM-rpi-4-latest.tar.gz"
+            ],
+            "nominal_size": 1304
+        }
 ,
         {
             "os_name":	    "CStemBian",
