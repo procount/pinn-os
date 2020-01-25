@@ -218,6 +218,9 @@
         "+supports_backup": true,
         "+download_size" : 799232064
     },
+    "Raspbian Stretch Lite": {
+        "+supports_backup" : "true"
+    },
     "Raspbian Full": {
         "url": "https://www.raspbian.org/",
         "group": "General",
