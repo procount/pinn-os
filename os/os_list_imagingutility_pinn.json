@@ -1,7 +1,7 @@
 {
     "os_list": [
         {
-            "icon": "http://downloads.sourceforge.net/project/pinn/pinn.png",
+            "icon": "http://raw.githubusercontent.com/procount/pinn-os/master/os/pinn.png",
             "url": "http://downloads.sourceforge.net/project/pinn/Etcher/pinn-lite.img.zip",
             "description": "A multi-boot OS installer with OS admin features",
             "name": "PINN",
