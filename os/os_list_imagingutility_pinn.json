@@ -13,7 +13,7 @@
         }
 ,
         {
-            "icon": "http://raw.githubusercontent.com/procount/pinn-os/master/os/pinn.png",
+            "icon": "http://downloads.sourceforge.net/project/pinn/Etcher/pinn.png",
             "url": "http://downloads.sourceforge.net/project/pinn/Etcher/pinn-lite.img.zip",
             "description": "A multi-boot OS installer with OS admin features",
             "name": "PINN on sourceforge",
