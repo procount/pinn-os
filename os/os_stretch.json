@@ -45,7 +45,7 @@
                 "Pi 3"
             ],
             "tarballs": [
-                "http://downloads.raspberrypi.org/raspbian/archive/2019-06-24-07:06boot.tar.xz",
+                "http://downloads.raspberrypi.org/raspbian/archive/2019-06-24-07:06/boot.tar.xz",
                 "http://downloads.raspberrypi.org/raspbian/archive/2019-06-24-07:06/root.tar.xz"
             ]
         },
