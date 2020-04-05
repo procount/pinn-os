@@ -345,6 +345,52 @@
         }
 ,
         {
+            "os_name":	    "manjaro-kde-rpi4",
+            "description":  "manjaro-kde-rpi4 {release} for RPi4",
+            "release_date": "2020-02-23",
+            "supported_models": [
+                "Pi 4 Model B Rev"
+            ],
+            "supports_usb_boot": false,
+            "supports_usb_root": true,
+            "group":           "General",
+            "download_size":    970519172,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/manjaro-kde-rpi4/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/manjaro-kde-rpi4/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/manjaro-kde-rpi4/manjaro-kde-rpi4.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/manjaro-kde-rpi4/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/manjaro-kde-rpi4/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/manjaro-kde-rpi4/boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/manjaro-kde-rpi4/root.tar.xz"
+            ],
+            "nominal_size": 4985
+        }
+,
+        {
+            "os_name":	    "manjaro-xfce-rpi4",
+            "description":  "manjaro-xfce-rpi4 {release} for RPi4",
+            "release_date": "2020-02-23",
+            "supported_models": [
+                "Pi 4 Model B Rev"
+            ],
+            "supports_usb_boot": false,
+            "supports_usb_root": true,
+            "group":           "General",
+            "download_size":    780400084,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/manjaro-xfce-rpi4/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/manjaro-xfce-rpi4/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/manjaro-xfce-rpi4/manjaro-xfce-rpi4.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/manjaro-xfce-rpi4/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/manjaro-xfce-rpi4/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/manjaro-xfce-rpi4/boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/manjaro-xfce-rpi4/root.tar.xz"
+            ],
+            "nominal_size": 4363
+        }
+,
+        {
             "os_name":	    "OpenPlotter",
             "description":  "v0.10.0alpha. The open-source sailing platform for ARM computers",
             "release_date": "2017-03-02",
