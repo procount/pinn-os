@@ -346,15 +346,15 @@
 ,
         {
             "os_name":	    "manjaro-kde-rpi4",
-            "description":  "manjaro-kde-rpi4 {release} for RPi4",
-            "release_date": "2020-02-23",
+            "description":  "manjaro-kde-rpi4 16.0 for RPi4",
+            "release_date": "2020-04-03",
             "supported_models": [
                 "Pi 4 Model B Rev"
             ],
             "supports_usb_boot": false,
             "supports_usb_root": true,
             "group":           "General",
-            "download_size":    970519172,
+            "download_size":    995280276,
             "os_info":         "http://downloads.sourceforge.net/project/pinn/os/manjaro-kde-rpi4/os.json",
             "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/manjaro-kde-rpi4/partitions.json",
             "icon":            "http://downloads.sourceforge.net/project/pinn/os/manjaro-kde-rpi4/manjaro-kde-rpi4.png",
@@ -364,20 +364,20 @@
                                "http://downloads.sourceforge.net/project/pinn/os/manjaro-kde-rpi4/boot.tar.xz",
                                "http://downloads.sourceforge.net/project/pinn/os/manjaro-kde-rpi4/root.tar.xz"
             ],
-            "nominal_size": 4985
+            "nominal_size": 5007
         }
 ,
         {
             "os_name":	    "manjaro-xfce-rpi4",
-            "description":  "manjaro-xfce-rpi4 {release} for RPi4",
-            "release_date": "2020-02-23",
+            "description":  "manjaro-xfce-rpi4 16.0 for RPi4",
+            "release_date": "2020-04-03",
             "supported_models": [
                 "Pi 4 Model B Rev"
             ],
             "supports_usb_boot": false,
             "supports_usb_root": true,
             "group":           "General",
-            "download_size":    780400084,
+            "download_size":    788536836,
             "os_info":         "http://downloads.sourceforge.net/project/pinn/os/manjaro-xfce-rpi4/os.json",
             "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/manjaro-xfce-rpi4/partitions.json",
             "icon":            "http://downloads.sourceforge.net/project/pinn/os/manjaro-xfce-rpi4/manjaro-xfce-rpi4.png",
@@ -387,7 +387,7 @@
                                "http://downloads.sourceforge.net/project/pinn/os/manjaro-xfce-rpi4/boot.tar.xz",
                                "http://downloads.sourceforge.net/project/pinn/os/manjaro-xfce-rpi4/root.tar.xz"
             ],
-            "nominal_size": 4363
+            "nominal_size": 4371
         }
 ,
         {
