@@ -130,6 +130,76 @@
         }
 ,
         {
+            "os_name":	    "devuan1",
+            "description":  "A devuan1 Linux port for ARM devices RPi0/1",
+            "release_date": "2018-06-06",
+            "feature_level": 35644412,
+            "supported_models": [
+                "Pi Model",
+                "Pi Compute Module",
+                "Pi Zero"
+            ],
+            "group":           "Minimal",
+            "download_size":    146116780,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/testing/devuan1/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/testing/devuan1/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/testing/devuan1/devuan1.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/testing/devuan1/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/testing/devuan1/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/testing/devuan1/boot_dev.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/testing/devuan1/root_dev.tar.xz"
+            ],
+            "nominal_size": 720
+        }
+,
+        {
+            "os_name":	    "devuan2",
+            "description":  "A devuan2 Linux port for ARM devices RPi2/3",
+            "release_date": "2018-06-06",
+            "feature_level": 0,
+            "supported_hex_revisions": "1040,1041,2082",    
+            "supported_models": [
+                "Pi 2"
+            ],            
+            "group":           "Minimal",
+            "download_size":    151935576,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/testing/devuan2/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/testing/devuan2/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/testing/devuan2/devuan2.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/testing/devuan2/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/testing/devuan2/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/testing/devuan2/boot_dev.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/testing/devuan2/root_dev.tar.xz"
+            ],
+            "nominal_size": 708
+        }
+,
+        {
+            "os_name":	    "devuan3",
+            "description":  "A devuan3 Linux port for ARM devices RPi2/3",
+            "release_date": "2018-06-06",
+            "feature_level": 0,
+            "supported_hex_revisions": "1040,1041,2082",    
+            "supported_models": [
+                "Pi 3"
+            ],            
+            "group":           "Minimal",
+            "download_size":    153616860,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/testing/devuan3/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/testing/devuan3/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/testing/devuan3/devuan3.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/testing/devuan3/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/testing/devuan3/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/testing/devuan3/boot_dev.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/testing/devuan3/root_dev.tar.xz"
+            ],
+            "nominal_size": 762
+        }
+,
+        {
             "os_name":	    "hypriotos",
             "description":  "A hypriotos Linux port for ARM devices RPi0/1",
             "release_date": "2017-03-19",
