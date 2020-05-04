@@ -744,6 +744,91 @@
             "nominal_size": 4019
         }
 ,
+	{
+            "os_name":	    "Retropie1",
+            "description":  "Retropie1 v4.6 gaming distro using Emulation Station for RPi1/Zero",
+            "release_date": "2020-04-27",
+            "feature_level": 35644412,
+            "supported_models": [
+                "Pi Model",
+                "Pi Compute Module",
+                "Pi Zero"
+            ],
+            "flavours": [
+                {
+                    "name": "Retropie1",
+                    "description": "Retropie v4.6 gaming distro using Emulation Station for RPi1/Zero"
+                },
+                {
+                    "name": "Retropie1 - dsi",
+                    "description": "Retropie v4.6 for RPi1/Zero for DSI that switches to HDMI"
+                }
+            ],
+            "supports_backup": true,
+            "url":             "https://retropie.org.uk/",
+            "group":           "Games",
+            "download_size":   516479216,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/Retropie1/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/Retropie1/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/Retropie1/Retropie1.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/Retropie1/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/Retropie1/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/Retropie1/boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/Retropie1/retropie.tar.xz"
+            ],
+            "nominal_size": 2574
+        }
+,
+        {
+            "os_name":	    "Retropie3",
+            "description":  "Retropie3 v4.6 gaming distro using Emulation Station for RPi2/3B+",
+            "release_date": "2020-04-27",
+            "feature_level": 0,
+            "supported_hex_revisions": "1040,1041,2082",    
+            "supported_models": [
+                "Pi 2",
+                "Pi 3"
+            ],            
+            "url":             "https://retropie.org.uk/",
+            "group":           "Games",
+            "download_size":   525040916,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/Retropie3/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/Retropie3/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/Retropie3/Retropie3.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/Retropie3/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/Retropie3/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/Retropie3/boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/Retropie3/retropie.tar.xz"
+            ],
+            "nominal_size": 2625
+        }
+,
+        {
+            "os_name":	    "Retropie4",
+            "description":  "Retropie4 v4.6 gaming distro using Emulation Station for RPi4",
+            "release_date": "2020-04-27",
+            "feature_level": 0,
+            "supported_hex_revisions": "1040,1041,2082",    
+            "supported_models": [
+                "Pi 4"
+            ],            
+            "url":             "https://retropie.org.uk/",
+            "group":           "Games",
+            "download_size":   516160920,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/Retropie4/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/Retropie4/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/Retropie4/Retropie4.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/Retropie4/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/Retropie4/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/Retropie4/boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/Retropie4/retropie.tar.xz"
+            ],
+            "nominal_size": 2635
+        }
+,
         {
             "os_name":	    "rtandroid",
             "description":  "RTAndroid 7.1.1 Nougat for RPI3",
