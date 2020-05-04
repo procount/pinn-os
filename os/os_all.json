@@ -761,7 +761,7 @@
                 },
                 {
                     "name": "Retropie1 - dsi",
-                    "description": "Retropie v4.6 for RPi1/Zero for DSI that switches to HDMI"
+                    "description": "Retropie v4.6 RPi1/Zero for DSI that switches to HDMI"
                 }
             ],
             "supports_backup": true,
@@ -790,6 +790,16 @@
                 "Pi 2",
                 "Pi 3"
             ],            
+            "flavours": [
+                {
+                    "name": "Retropie3",
+                    "description": "Retropie3 v4.6 gaming distro using Emulation Station for RPi2/3B+"
+                },
+                {
+                    "name": "Retropie3 - dsi",
+                    "description": "Retropie3 v4.6 RPi2/3 gaming distro for DSI that switches to HDMI"
+                }
+            ],
             "url":             "https://retropie.org.uk/",
             "group":           "Games",
             "download_size":   525040916,
@@ -813,6 +823,16 @@
             "supported_hex_revisions": "1040,1041,2082",    
             "supported_models": [
                 "Pi 4"
+            ],            
+            "flavours": [
+                {
+                    "name": "Retropie4",
+                    "description": "Retropie$ v4.6 gaming distro using Emulation Station for RPi4"
+                },
+                {
+                    "name": "Retropie4 - dsi",
+                    "description": "Retropie4 v4.6 RPi4 gaming distro for DSI that switches to HDMI"
+                }
             ],            
             "url":             "https://retropie.org.uk/",
             "group":           "Games",
