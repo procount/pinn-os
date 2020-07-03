@@ -244,14 +244,17 @@
     },
     "Raspberry Pi OS Full (32-bit)": {
         "url": "https://www.raspbian.org/",
+        "+supports_backup": true,   
         "group": "General"
     },
     "Raspberry Pi OS (32-bit)": {
         "url": "https://www.raspbian.org/",
+        "+supports_backup": true,
         "group": "General"
     },
     "Raspberry Pi OS Lite (32-bit)": {
         "url": "https://www.raspbian.org/",
+        "+supports_backup": true,
         "group": "Minimal"
     },
     "Raspex": {
