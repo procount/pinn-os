@@ -272,23 +272,23 @@
         "+supports_backup": true,
         "+download_size" : 116592712
     },
-    "recalboxOS-rpi1": {
+    "Recalbox - Pi0/1": {
         "+url": "https://www.recalbox.com/",
         "+group": "Games",
         "+supports_backup" : "update",
         "+partition_setup": "https://raw.githubusercontent.com/procount/pinn-os/master/partitions/recalbox/partition_setup.sh",
-        "+download_size" : 231191348
+        "+download_size" : 324439040
     },
-    "recalboxOS-rpi2": {
+    "Recalbox - Pi2": {
         "+url": "https://www.recalbox.com/",
-        "+download_size" : 247498632,
+        "+download_size" : 344989076,
         "+supports_backup" : "update",
         "+partition_setup": "https://raw.githubusercontent.com/procount/pinn-os/master/partitions/recalbox/partition_setup.sh",
         "+group": "Games"
     },
-    "recalboxOS-rpi3": {
+    "Recalbox - Pi3": {
         "+url": "https://www.recalbox.com/",
-        "+download_size" : 258111028,
+        "+download_size" : 382808128,
         "+supports_backup" : "update",
         "+partition_setup": "https://raw.githubusercontent.com/procount/pinn-os/master/partitions/recalbox/partition_setup.sh",
         "+group": "Games"
