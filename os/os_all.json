@@ -824,6 +824,7 @@
                     "description": "Retropie3 v4.6 RPi2/3 gaming distro for DSI that switches to HDMI"
                 }
             ],
+            "supports_backup": true,
             "url":             "https://retropie.org.uk/",
             "group":           "Games",
             "download_size":   525040916,
@@ -844,10 +845,10 @@
             "description":  "Retropie4 v4.6 gaming distro using Emulation Station for RPi4",
             "release_date": "2020-04-27",
             "feature_level": 0,
-            "supported_hex_revisions": "1040,1041,2082",    
+            "supported_hex_revisions": "1040,1041,2082",
             "supported_models": [
                 "Pi 4"
-            ],            
+            ],
             "flavours": [
                 {
                     "name": "Retropie4",
@@ -857,7 +858,8 @@
                     "name": "Retropie4 - dsi",
                     "description": "Retropie4 v4.6 RPi4 gaming distro for DSI that switches to HDMI"
                 }
-            ],            
+            ],
+            "supports_backup": true,
             "url":             "https://retropie.org.uk/",
             "group":           "Games",
             "download_size":   516160920,
@@ -878,7 +880,7 @@
             "description":  "RTAndroid 7.1.1 Nougat for RPI3",
             "release_date": "2017-03-15",
             "feature_level": 0,
-            "supported_hex_revisions": "2082",    
+            "supported_hex_revisions": "2082",
             "supported_models": [
                 "Pi 3 Model B Rev"
             ],
@@ -902,11 +904,11 @@
             "description":  "Solydxk for RPI2/3",
             "release_date": "2017-01-01",
             "feature_level": 0,
-            "supported_hex_revisions": "1040,1041,2082",    
+            "supported_hex_revisions": "1040,1041,2082",
             "supported_models": [
                 "Pi 2",
                 "Pi 3 Model B Rev"
-            ],            
+            ],
             "supports_usb_root": false,
             "url":              "https://solydxk.com/downloads/solydx-rpi/",
             "group":            "General",
@@ -930,7 +932,7 @@
             "feature_level": 0,
             "supported_models": [
                 "Pi 3"
-            ],            
+            ],
             "supports_usb_root": false,
             "supports_backup": true,
             "url":              "https://solydxk.com/downloads/community-editions",
@@ -954,11 +956,11 @@
             "description": "Ubuntu Mate 16.04.2 LTS",
             "release_date": "2016-11-05",
             "feature_level": 0,
-            "supported_hex_revisions": "1040,1041,2082",    
+            "supported_hex_revisions": "1040,1041,2082",
             "supported_models": [
                 "Pi 2",
                 "Pi 3 Model B Rev"
-            ],                
+            ],
             "supports_usb_boot": false,
             "url":              "https://ubuntu-mate.org/download/",
             "group":            "General",
@@ -985,7 +987,7 @@
                "Pi Model",
                "Pi Compute Module",
                "Pi Zero"
-            ],                
+            ],
             "supports_usb_root": false,
             "url":              "http://http://www.voidlinux.eu/",
             "group":            "Minimal",
@@ -1012,7 +1014,7 @@
                "Pi Model",
                "Pi Compute Module",
                "Pi Zero"
-            ],                
+            ],
             "supports_usb_root": false,
             "url":              "http://http://www.voidlinux.eu/",
             "group":            "Minimal",
@@ -1038,7 +1040,7 @@
             "supported_models": [
                "Pi 2",
                "Pi 3 Model B Rev"
-            ],                
+            ],
             "supports_usb_root": false,
             "url":              "http://http://www.voidlinux.eu/",
             "group":            "Minimal",
@@ -1064,7 +1066,7 @@
             "supported_models": [
                "Pi 2",
                "Pi 3 Model B Rev"
-            ],                
+            ],
             "supports_usb_root": false,
             "url":              "http://http://www.voidlinux.eu/",
             "group":            "Minimal",
@@ -1115,7 +1117,7 @@
                 "Pi 2",
                 "Pi 3 Model B Rev",
                 "Pi 3 Model B Plus Rev"
-            ],            
+            ],
             "url":              "http://www.xbian.org/",
             "group":            "Media",
             "download_size":    302322144,
