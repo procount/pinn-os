@@ -224,7 +224,7 @@
     "Raspbian Full": {
         "url": "https://www.raspbian.org/",
         "group": "General",
-        "+supports_backup" : "update",
+        "supports_backup" : true,
         "partition_setup": "https://raw.githubusercontent.com/procount/pinn-os/master/partitions/Raspbian/partition_setup.sh",
         "+download_size" : 1492777304
     },
