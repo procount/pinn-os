@@ -1,0 +1,102 @@
+{
+  "os_list" :    [
+        {
+            "os_name":	    "twister",
+            "description":  "A 64-bit BETA port of Debian with desktop and recommended applications",
+            "release_date": "2020-10-15",
+            "supported_models": [
+                "Pi 3",
+                "Pi Compute Module 3",
+                "Pi 4"
+            ],            
+            "url":             "http://www.raspbian.org/",
+            "group":           "General",
+            "download_size":   3108908292,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/twister/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/twister/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/twister/twister.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/twister/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/twister/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/twister/boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/twister/twister.tar.xz"
+            ],
+            "nominal_size": 10525
+        }
+,
+        {
+            "os_name":	    "ubuntu2004_32",
+            "description":  "32-bit armhf LTS core for Raspberry Pi 3/4",
+            "release_date": "2020-04-30",
+            "supported_models": [
+                "Pi 3 Model B Rev",
+                "Pi 3 Model B Plus Rev",
+                "Pi 3 Model A Plus Rev",
+                "Pi 4"
+            ],            
+            "url":             "https://ubuntu/",
+            "group":           "General",
+            "download_size":   483844876,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/ubuntu2004_32/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/ubuntu2004_32/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/ubuntu2004_32/ubuntu2004_32.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/ubuntu2004_32/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/ubuntu2004_32/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/ubuntu2004_32/system-boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/ubuntu2004_32/writable.tar.xz"
+            ],
+            "nominal_size": 2705
+        }
+,
+        {
+            "os_name":	    "ubuntu2004",
+            "description":  "arm64 LTS core for Raspberry Pi 3/4",
+            "release_date": "2020-04-30",
+            "supported_models": [
+                "Pi 3 Model B Rev",
+                "Pi 3 Model B Plus Rev",
+                "Pi 3 Model A Plus Rev",
+                "Pi Compute Module 3",
+                "Pi 4"
+            ],            
+            "url":             "https://ubuntu/",
+            "group":           "General",
+            "download_size":   511703892,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/ubuntu2004/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/ubuntu2004/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/ubuntu2004/ubuntu2004.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/ubuntu2004/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/ubuntu2004/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/ubuntu2004/system-boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/ubuntu2004/writable.tar.xz"
+            ],
+            "nominal_size": 2990
+        }
+
+,
+        {
+            "os_name":	    "ubuntu2010",
+            "description":  "ubuntu2010 v20.10 server for RPi4",
+            "release_date": "2020-10-15",
+            "supported_models": [
+                "Pi 4"
+            ],            
+            "url":             "https://ubuntu/",
+            "group":           "General",
+            "download_size":   1348820088,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/ubuntu2010/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/ubuntu2010/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/ubuntu2010/ubuntu2010.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/ubuntu2010/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/ubuntu2010/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/ubuntu2010/system-boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/ubuntu2010/writable.tar.xz"
+            ],
+            "nominal_size": 8153
+        }
+    ]
+}
+
