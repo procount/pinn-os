@@ -949,7 +949,52 @@
             ],
             "nominal_size":     14900
         }
-
+,
+        {
+            "os_name":	    "twister",
+            "description":  "A 64-bit BETA port of Debian with desktop and recommended applications",
+            "release_date": "2020-10-15",
+            "supported_models": [
+                "Pi 3",
+                "Pi Compute Module 3",
+                "Pi 4"
+            ],            
+            "url":             "http://www.raspbian.org/",
+            "group":           "General",
+            "download_size":   3108908292,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/twister/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/twister/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/twister/twister.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/twister/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/twister/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/twister/boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/twister/twister.tar.xz"
+            ],
+            "nominal_size": 10525
+        }
+,
+        {
+            "os_name":	    "ubuntu2010",
+            "description":  "ubuntu2010 v20.10 server for RPi4",
+            "release_date": "2020-10-15",
+            "supported_models": [
+                "Pi 4"
+            ],            
+            "url":             "https://ubuntu/",
+            "group":           "General",
+            "download_size":   1348820088,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/ubuntu2010/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/ubuntu2010/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/ubuntu2010/ubuntu2010.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/ubuntu2010/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/ubuntu2010/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/ubuntu2010/system-boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/ubuntu2010/writable.tar.xz"
+            ],
+            "nominal_size": 8153
+        }
 ,
         {
             "os_name":	    "ubuntuMate1604LTS",
