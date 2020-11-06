@@ -952,7 +952,7 @@
 ,
         {
             "os_name":	    "twister",
-            "description":  "A 64-bit BETA port of Debian with desktop and recommended applications",
+            "description":  "A themed Raspberry Pi OS Desktop merged with gaming",
             "release_date": "2020-10-15",
             "supported_models": [
                 "Pi 3",
