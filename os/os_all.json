@@ -1020,7 +1020,30 @@
             ],
             "nominal_size": 4568
         }
-
+,
+        {
+            "os_name":	    "ubuntumate2010_64",
+            "description":  "ubuntumate2010_64 v20.10 for RPi 3/4",
+            "release_date": "2020-10-15",
+            "supported_models": [
+                "Pi 3",
+                "Pi Compute Module 3",
+                "Pi 4"            
+            ],            
+            "url":             "https://ubuntu-mate.org/ports/raspberry-pi/",
+            "group":           "General",
+            "download_size":   1189870456,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/ubuntumate2010_64/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/ubuntumate2010_64/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/ubuntumate2010_64/ubuntumate2010_64.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/ubuntumate2010_64/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/ubuntumate2010_64/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/ubuntumate2010_64/system-boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/ubuntumate2010_64/writable.tar.xz"
+            ],
+            "nominal_size": 5574
+        }
 ,
         {
             "os_name":	    "void1",
