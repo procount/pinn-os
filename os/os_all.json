@@ -643,6 +643,30 @@
         }
 ,
         {
+            "os_name":	    "playpiper",
+            "description":  "v2.6.0  for the piper computer kit",
+            "release_date": "2020-11-11",
+            "supported_models": [
+                "Pi 2",
+                "Pi 3",
+                "Pi Compute Module 3"
+            ],            
+            "url":             "https://www.playpiper.com/",
+            "group":           "Education",
+            "download_size":   2256003392,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/playpiper/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/playpiper/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/playpiper/playpiper.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/playpiper/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/playpiper/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/playpiper/boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/playpiper/root.tar.xz"
+            ],
+            "nominal_size": 7492
+        }
+,
+        {
             "os_name":	    "quirky",
             "description":  "Quirky is a Puppy Linux based distro (small)",
             "release_date": "2016-12-13",
