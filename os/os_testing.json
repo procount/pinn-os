@@ -104,6 +104,8 @@
             "supported_models": [
                 "Pi 4"
             ],            
+            "supports_usb_boot": false,
+            "supports_usb_root": false,
             "group":           "Testing",
             "download_size":    143472116,
             "os_info":         "http://downloads.sourceforge.net/project/pinn/os/debian64pi4/os.json",
