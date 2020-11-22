@@ -1002,7 +1002,7 @@
 ,
         {
             "os_name":	    "ubuntu2010",
-            "description":  "ubuntu2010 v20.10 server for RPi4",
+            "description":  "ubuntu2010 v20.10 desktop for RPi4",
             "release_date": "2020-10-15",
             "supported_models": [
                 "Pi 4"
