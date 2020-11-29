@@ -365,8 +365,10 @@
                 "Pi 3 Model B Plus Rev",
                 "Pi 3 Model A Plus Rev"
             ],
-            "supports_usb_boot": false,
-            "supports_usb_root": false,
+            "supports_usb_boot":       false,
+            "supports_usb_root":       false,
+            "supports_sda_boot":       true,
+            "supports_sda_root":       true,
             "supports_backup": true,
             "url":             "http://konstakang.com/devices/rpi3/",
             "group":           "General",
@@ -394,8 +396,10 @@
             "supported_models": [
                 "Pi 4 Model B Rev"
             ],
-            "supports_usb_boot": false,
-            "supports_usb_root": false,
+            "supports_usb_boot":       false,
+            "supports_usb_root":       false,
+            "supports_sda_boot":       true,
+            "supports_sda_root":       true,
             "supports_backup": true,
             "url":             "http://konstakang.com/devices/rpi4/",
             "group":           "General",
@@ -412,6 +416,69 @@
                                "http://downloads.sourceforge.net/project/pinn/os/lineage16-rpi4/data.tar.xz"
             ],
             "nominal_size": 3968
+        }
+,
+        {
+            "os_name":	    "lineage17-rpi3",
+            "description":  "Lineage OS (KonstaKANG) 17.1 for RPi3",
+            "release_date": "2020-11-08",
+            "feature_level": 0,
+            "supported_hex_revisions": "2082",    
+            "supported_models": [
+                "Pi 3 Model B Rev",
+                "Pi 3 Model B Plus Rev",
+                "Pi 3 Model A Plus Rev"
+            ],
+            "supports_usb_boot":       false,
+            "supports_usb_root":       false,
+            "supports_sda_boot":       true,
+            "supports_sda_root":       true,
+            "supports_backup": true,
+            "url":             "http://konstakang.com/devices/rpi3/",
+            "group":           "General",
+            "download_size":   349458596,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/lineage17-rpi3/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/lineage17-rpi3/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/lineage17-rpi3/lineage17-rpi3.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/lineage17-rpi3/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/lineage17-rpi3/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage17-rpi3/boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage17-rpi3/system.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage17-rpi3/vendor.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage17-rpi3/userdata.tar.xz"
+            ],
+            "nominal_size": 5230
+        },
+        {
+            "os_name":	    "lineage17-rpi4",
+            "description":  "Lineage OS (KonstaKANG) 17.1 for RPi4",
+            "release_date": "2020-11-20",
+            "feature_level": 0,
+            "supported_hex_revisions": "2082",    
+            "supported_models": [
+                "Pi 4"
+            ],
+            "supports_usb_boot":       false,
+            "supports_usb_root":       false,
+            "supports_sda_boot":       true,
+            "supports_sda_root":       true,
+            "supports_backup": true,
+            "url":             "http://konstakang.com/devices/rpi4/",
+            "group":           "General",
+            "download_size":   357014616,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/lineage17-rpi4/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/lineage17-rpi4/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/lineage17-rpi4/lineage17-rpi4.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/lineage17-rpi4/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/lineage17-rpi4/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage17-rpi4/boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage17-rpi4/system.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage17-rpi4/vendor.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage17-rpi4/userdata.tar.xz"
+            ],
+            "nominal_size": 5230
         }
 ,
         {

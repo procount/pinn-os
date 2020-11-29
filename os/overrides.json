@@ -115,7 +115,8 @@
     "LibreELEC_RPi4": {
         "url": "https://libreelec.tv/",
         "group": "Media",
-        "+supports_backup" : true
+        "+supports_backup" : true,
+        "+download_size" : 123122648
     },
     "lineage": {
         "+supports_backup": true,
@@ -242,6 +243,9 @@
         "partition_setup": "https://raw.githubusercontent.com/procount/pinn-os/master/partitions/Raspbian/partition_setup.sh",
         "+download_size" : 258296084
     },
+    "Raspbian Lamp" : {
+        "+download_size" : 526744677
+    },
     "Raspberry Pi OS Full (32-bit)": {
         "url": "https://www.raspbian.org/",
         "+supports_backup": true,   
@@ -261,6 +265,9 @@
         "group": "General",
         "+supports_backup": true,
         "+download_size": 714992088
+    },
+    "Raspex4": {
+        "+download_size": 1149131751
     },
     "RasPlex_RPi": {
         "group": "Media",
