@@ -300,6 +300,11 @@
         "+partition_setup": "https://raw.githubusercontent.com/procount/pinn-os/master/partitions/recalbox/partition_setup.sh",
         "+group": "Games"
     },
+    "Recalbox - Pi4": {
+        "+url": "https://www.recalbox.com/",
+        "+supports_backup" : "update",
+        "+group": "Games"
+    },
     "Retropie1": {
         "group": "Games",
         "+supports_backup": true,
