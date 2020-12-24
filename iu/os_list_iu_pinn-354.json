@@ -1,0 +1,14 @@
+{
+    "os_list": [
+        {
+            "icon": "http://raw.githubusercontent.com/procount/pinn-os/master/os/pinn.png",
+            "url": "https://github.com/procount/pinn/releases/download/p3.5.4/pinn-lite.img.zip",
+            "description": "A multi-boot OS installer with OS admin features",
+            "name": "PINN v3.5.4 on Github",
+            "release_date": "2020-12-24",
+            "extract_size": 69206016,
+            "extract_sha256": "d70c417a25f10b46beb9c05dcc0b02120d8048460d9bb8bb89346045c0663faa",
+            "image_download_size": 51484361
+        }
+    ]
+}
