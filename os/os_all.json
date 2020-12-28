@@ -866,6 +866,7 @@
             "description":             "The retro-gaming OS, supporting 100+ gaming systems!",
             "release_date":            "2020-11-29",
             "group" :                  "Games",
+            "download_size":           659501368,
             "supported_models": [
                 "Pi Model",
                 "Pi Compute Module Rev",
@@ -891,6 +892,7 @@
             "description":             "The retro-gaming OS, supporting 100+ gaming systems!",
             "release_date":            "2020-11-29",
             "group" :                  "Games",
+            "download_size":           824021824,
             "supported_models": [
                 "Pi 2"
             ],
@@ -914,6 +916,7 @@
             "description":             "The retro-gaming OS, supporting 100+ gaming systems!",
             "release_date":            "2020-11-29",
             "group" :                  "Games",
+            "download_size":           742323240,
             "supported_models": [
                 "Pi 3",
                 "Pi Compute Module 3"
@@ -938,6 +941,7 @@
             "description":             "The retro-gaming OS, supporting 100+ gaming systems!",
             "release_date":            "2020-11-29",
             "group" :                  "Games",
+            "download_size":           753328276,
             "supported_models": [
                 "Pi 4"
             ],
