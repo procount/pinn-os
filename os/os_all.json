@@ -278,6 +278,60 @@
         }
 ,
         {
+            "os_name":                 "Kali_Linux_Full_(32-bit)",
+            "description":             "A port of 32-bit Kali Linux for Pi 2 through 4 with desktop and recommended applications",
+            "release_date":            "2020-12-17",
+            "group" :                  "General",
+            "download_size":           1993287180,           
+            "supported_models": [
+                "Pi 2",
+                "Pi 3",
+                "Pi 4",
+                "Pi 400"
+            ],
+            "supports_backup":         true,
+            "supports_usb_boot":       false,
+            "url":                     "https://www.kali.org/",
+            "icon":                    "http://downloads.sourceforge.net/project/pinn/os/kali20.04-32/Kali_Linux_Full_(32-bit).png",
+            "os_info":                 "http://downloads.sourceforge.net/project/pinn/os/kali20.04-32/os.json",
+            "partitions_info":         "http://downloads.sourceforge.net/project/pinn/os/kali20.04-32/partitions.json",
+            "marketing_info":          "http://downloads.sourceforge.net/project/pinn/os/kali20.04-32/marketing.tar",
+            "partition_setup":         "http://downloads.sourceforge.net/project/pinn/os/kali20.04-32/partition_setup.sh",
+            "tarballs" : [
+                "http://downloads.sourceforge.net/project/pinn/os/kali20.04-32/Kali32boot.tar.xz",
+                "http://downloads.sourceforge.net/project/pinn/os/kali20.04-32/Kali32root.tar.xz"
+            ],
+            "nominal_size": 8540
+        }
+,
+        {
+            "os_name":                 "Kali_Linux_Full_(64-bit)",
+            "description":             "A port of 64-bit Kali Linux for Pi 2 through 4 with desktop and recommended applications",
+            "release_date":            "2020-12-17",
+            "group" :                  "General",
+            "download_size":           2031796648,
+            "supported_models": [
+                "Pi 2",
+                "Pi 3",
+                "Pi 4",
+                "Pi 400"
+            ],
+            "supports_backup":         true,
+            "supports_usb_boot":       false,
+            "url":                     "https://www.kali.org/",
+            "icon":                    "http://downloads.sourceforge.net/project/pinn/os/kali20.04-64/Kali_Linux_Full_(64-bit).png",
+            "os_info":                 "http://downloads.sourceforge.net/project/pinn/os/kali20.04-64/os.json",
+            "partitions_info":         "http://downloads.sourceforge.net/project/pinn/os/kali20.04-64/partitions.json",
+            "marketing_info":          "http://downloads.sourceforge.net/project/pinn/os/kali20.04-64/marketing.tar",
+            "partition_setup":         "http://downloads.sourceforge.net/project/pinn/os/kali20.04-64/partition_setup.sh",
+            "tarballs" : [
+                "http://downloads.sourceforge.net/project/pinn/os/kali20.04-64/Kali64boot.tar.xz",
+                "http://downloads.sourceforge.net/project/pinn/os/kali20.04-64/Kali64root.tar.xz"
+            ],
+            "nominal_size": 8006
+        }
+,
+        {
             "os_name":	    "lede2RPi1",
             "description":  "lede2RPi1 18.06.4 for the Raspberry Pi0/1 (open-wrt)",
             "release_date": "2019-06-30",
