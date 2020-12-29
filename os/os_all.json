@@ -311,7 +311,7 @@
             "group" :                  "General",
             "download_size":           2031796648,
             "supported_models": [
-                "Pi 2",
+                "Pi 2 v1.2",
                 "Pi 3",
                 "Pi 4",
                 "Pi 400"
