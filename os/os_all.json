@@ -925,15 +925,15 @@
         {
             "os_name":	    "raspios64",
             "description":  "A 64-bit BETA port of Debian with desktop and recommended applications",
-            "release_date": "2020-05-27",
+            "release_date": "2020-08-20",
             "supported_models": [
                 "Pi 3",
                 "Pi Compute Module 3",
                 "Pi 4"
-            ],            
+            ],
             "url":             "http://www.raspbian.org/",
-            "group":           "Testing",
-            "download_size":   695657660,
+            "group":           "General",
+            "download_size":   703254020,
             "os_info":         "http://downloads.sourceforge.net/project/pinn/os/raspios64/os.json",
             "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/raspios64/partitions.json",
             "icon":            "http://downloads.sourceforge.net/project/pinn/os/raspios64/raspios64.png",
@@ -943,7 +943,7 @@
                                "http://downloads.sourceforge.net/project/pinn/os/raspios64/boot64.tar.xz",
                                "http://downloads.sourceforge.net/project/pinn/os/raspios64/root64.tar.xz"
             ],
-            "nominal_size": 3420
+            "nominal_size": 3483
         }
 ,
         {
