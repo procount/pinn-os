@@ -948,7 +948,7 @@
 ,
         {
             "os_name":                 "recalbox-rpi1",
-            "description":             "The retro-gaming OS, supporting 100+ gaming systems!",
+            "description":             "(USE THIS ONE!) The retro-gaming OS, supporting 100+ gaming systems!",
             "release_date":            "2020-11-29",
             "group" :                  "Games",
             "download_size":           659501368,
@@ -974,7 +974,7 @@
 ,
         {
             "os_name":                 "recalbox-rpi2",
-            "description":             "The retro-gaming OS, supporting 100+ gaming systems!",
+            "description":             "(USE THIS ONE!) The retro-gaming OS, supporting 100+ gaming systems!",
             "release_date":            "2020-11-29",
             "group" :                  "Games",
             "download_size":           824021824,
@@ -998,7 +998,7 @@
  ,
         {
             "os_name":                 "recalbox-rpi3",
-            "description":             "The retro-gaming OS, supporting 100+ gaming systems!",
+            "description":             "(USE THIS ONE!) The retro-gaming OS, supporting 100+ gaming systems!",
             "release_date":            "2020-11-29",
             "group" :                  "Games",
             "download_size":           742323240,
@@ -1023,7 +1023,7 @@
 ,
         {
             "os_name":                 "recalbox-rpi4",
-            "description":             "The retro-gaming OS, supporting 100+ gaming systems!",
+            "description":             "(USE THIS ONE!) The retro-gaming OS, supporting 100+ gaming systems!",
             "release_date":            "2020-11-29",
             "group" :                  "Games",
             "download_size":           753328276,
