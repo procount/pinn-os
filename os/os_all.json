@@ -1069,14 +1069,14 @@
             "url":             "https://retropie.org.uk/",
             "group":           "Games",
             "download_size":   541870664,
-            "os_info":         "http://downloads.sourceforge.net/project/pinn/Retropie1/os.json",
-            "partitions_info": "http://downloads.sourceforge.net/project/pinn/Retropie1/partitions.json",
-            "icon":            "http://downloads.sourceforge.net/project/pinn/Retropie1/Retropie1.png",
-            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/Retropie1/marketing.tar",
-            "partition_setup": "http://downloads.sourceforge.net/project/pinn/Retropie1/partition_setup.sh",
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/Retropie1/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/Retropie1/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/Retropie1/Retropie1.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/Retropie1/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/Retropie1/partition_setup.sh",
             "tarballs": [
-                               "http://downloads.sourceforge.net/project/pinn/Retropie1/boot.tar.xz",
-                               "http://downloads.sourceforge.net/project/pinn/Retropie1/retropie.tar.xz"
+                               "http://downloads.sourceforge.net/project/pinn/os/Retropie1/boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/Retropie1/retropie.tar.xz"
             ],
             "nominal_size": 2794
         }
@@ -1094,14 +1094,14 @@
             "url":             "https://retropie.org.uk/",
             "group":           "Games",
             "download_size":   538825420,
-            "os_info":         "http://downloads.sourceforge.net/project/pinn/Retropie3/os.json",
-            "partitions_info": "http://downloads.sourceforge.net/project/pinn/Retropie3/partitions.json",
-            "icon":            "http://downloads.sourceforge.net/project/pinn/Retropie3/Retropie3.png",
-            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/Retropie3/marketing.tar",
-            "partition_setup": "http://downloads.sourceforge.net/project/pinn/Retropie3/partition_setup.sh",
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/Retropie3/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/Retropie3/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/Retropie3/Retropie3.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/Retropie3/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/Retropie3/partition_setup.sh",
             "tarballs": [
-                               "http://downloads.sourceforge.net/project/pinn/Retropie3/boot.tar.xz",
-                               "http://downloads.sourceforge.net/project/pinn/Retropie3/retropie.tar.xz"
+                               "http://downloads.sourceforge.net/project/pinn/os/Retropie3/boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/Retropie3/retropie.tar.xz"
             ],
             "nominal_size": 2848
         }
@@ -1118,14 +1118,14 @@
             "url":             "https://retropie.org.uk/",
             "group":           "Games",
             "download_size":   539674500,
-            "os_info":         "http://downloads.sourceforge.net/project/pinn/Retropie4/os.json",
-            "partitions_info": "http://downloads.sourceforge.net/project/pinn/Retropie4/partitions.json",
-            "icon":            "http://downloads.sourceforge.net/project/pinn/Retropie4/Retropie4.png",
-            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/Retropie4/marketing.tar",
-            "partition_setup": "http://downloads.sourceforge.net/project/pinn/Retropie4/partition_setup.sh",
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/Retropie4/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/Retropie4/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/Retropie4/Retropie4.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/Retropie4/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/Retropie4/partition_setup.sh",
             "tarballs": [
-                               "http://downloads.sourceforge.net/project/pinn/Retropie4/boot.tar.xz",
-                               "http://downloads.sourceforge.net/project/pinn/Retropie4/retropie.tar.xz"
+                               "http://downloads.sourceforge.net/project/pinn/os/Retropie4/boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/Retropie4/retropie.tar.xz"
             ],
             "nominal_size": 2858
         }
