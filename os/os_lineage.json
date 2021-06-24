@@ -47,7 +47,7 @@
             "supports_sda_root":       true,
             "supports_backup": true,
             "url":             "http://konstakang.com/devices/rpi4/",
-            "group":           "General",
+            "group":           "Media",
             "download_size":   300688836,
             "os_info":         "http://downloads.sourceforge.net/project/pinn/os/lineage18-rpi4-atv/os.json",
             "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/lineage18-rpi4-atv/partitions.json",
