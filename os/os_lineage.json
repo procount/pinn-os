@@ -17,7 +17,7 @@
             "supports_backup": true,
             "url":             "http://konstakang.com/devices/rpi4/",
             "group":           "General",
-            "download_size":   388185116,
+            "download_size":   391041604,
             "os_info":         "http://downloads.sourceforge.net/project/pinn/os/lineage18-rpi4/os.json",
             "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/lineage18-rpi4/partitions.json",
             "icon":            "http://downloads.sourceforge.net/project/pinn/os/lineage18-rpi4/lineage18-rpi4.png",
@@ -25,11 +25,11 @@
             "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/lineage18-rpi4/partition_setup.sh",
             "tarballs": [
                                "http://downloads.sourceforge.net/project/pinn/os/lineage18-rpi4/boot.tar.xz",
-                               "http://downloads.sourceforge.net/project/pinn/os/lineage18-rpi4/system.tar.xz",
-                               "http://downloads.sourceforge.net/project/pinn/os/lineage18-rpi4/vendor.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage18-rpi4/system.img.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage18-rpi4/vendor.img.xz",
                                "http://downloads.sourceforge.net/project/pinn/os/lineage18-rpi4/userdata.tar.xz"
             ],
-            "nominal_size": 6984
+            "nominal_size": 7024
         }
 ,
         {
@@ -48,7 +48,7 @@
             "supports_backup": true,
             "url":             "http://konstakang.com/devices/rpi4/",
             "group":           "General",
-            "download_size":   299417508,
+            "download_size":   300688836,
             "os_info":         "http://downloads.sourceforge.net/project/pinn/os/lineage18-rpi4-atv/os.json",
             "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/lineage18-rpi4-atv/partitions.json",
             "icon":            "http://downloads.sourceforge.net/project/pinn/os/lineage18-rpi4-atv/lineage18-rpi4-atv.png",
@@ -56,11 +56,11 @@
             "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/lineage18-rpi4-atv/partition_setup.sh",
             "tarballs": [
                                "http://downloads.sourceforge.net/project/pinn/os/lineage18-rpi4-atv/boot.tar.xz",
-                               "http://downloads.sourceforge.net/project/pinn/os/lineage18-rpi4-atv/system.tar.xz",
-                               "http://downloads.sourceforge.net/project/pinn/os/lineage18-rpi4-atv/vendor.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage18-rpi4-atv/system.img.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage18-rpi4-atv/vendor.img.xz",
                                "http://downloads.sourceforge.net/project/pinn/os/lineage18-rpi4-atv/userdata.tar.xz"
             ],
-            "nominal_size": 6984
+            "nominal_size": 7024
         }
     ]
 }    
