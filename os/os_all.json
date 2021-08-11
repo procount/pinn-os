@@ -699,6 +699,28 @@
         }
 ,
         {
+            "os_name": "OSMC_Pi4",
+            "description": "A fast and feature filled open source media center",
+            "feature_level": 0,
+            "group": "Media",
+            "icon": "http://download.osmc.tv/installers/noobs/NOOBS-Logo-2.png",
+            "marketing_info": "http://download.osmc.tv/installers/noobs/marketing.tar",
+            "nominal_size": 2128,
+            "os_info": "http://download.osmc.tv/installers/noobs/os-pi4.json",
+            "partition_setup": "http://download.osmc.tv/installers/noobs/partition_setup.sh",
+            "partitions_info": "http://download.osmc.tv/installers/noobs/partitions-pi4.json",
+            "release_date": "2021-08-08",
+            "supported_hex_revisions": "1040,1041,2082",
+            "supported_models": [
+                "Pi 4"
+            ],
+            "tarballs": [
+                "http://download.osmc.tv/installers/noobs/boot-rbp4.tar.xz",
+                "http://download.osmc.tv/installers/noobs/root-rbp4.tar.xz"
+            ]
+        },
+		
+        {
             "os_name":	    "picore",
             "description":  "A picore port of Tiny Core Linux RPi0/1/2/3",
             "release_date": "2017-06-20",
