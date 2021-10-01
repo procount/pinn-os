@@ -1,0 +1,89 @@
+{
+    "os_list": [
+        {
+            "os_name":                  "gentoo64",
+            "description":              "64-bit Gentoo Linux v1.6.0 for the RPi4 and RPi3, with Xfce4 desktop",
+            "release_date":             "2020-06-24",
+            "feature_level":            0,
+            "supported_models": [
+                "Pi 3 Model B Rev",
+                "Pi 3 Model B Plus Rev",
+                "Pi 3 Model A Plus Rev",
+                "Pi 4 Model B Rev"
+            ],
+            "supports_backup":          "update",
+            "url":                      "https://github.com/sakaki-/gentoo-on-rpi-64bit",
+            "group":                    "General",
+
+            "download_size":            1846474044,
+            "os_info":                  "http://downloads.sourceforge.net/project/pinn/os/gentoo64/os.json",
+            "partitions_info":          "http://downloads.sourceforge.net/project/pinn/os/gentoo64/partitions.json",
+            "icon":                     "http://downloads.sourceforge.net/project/pinn/os/gentoo64/gentoo64.png",
+            "marketing_info":           "http://downloads.sourceforge.net/project/pinn/os/gentoo64/marketing.tar",
+            "partition_setup":          "http://downloads.sourceforge.net/project/pinn/os/gentoo64/partition_setup.sh",
+            "tarballs": [
+                "http://downloads.sourceforge.net/project/pinn/os/gentoo64/boot_gen.tar.xz",
+                "http://downloads.sourceforge.net/project/pinn/os/gentoo64/root_gen.tar.xz"
+            ],
+            "nominal_size": 14386
+        }
+        ,
+        {
+            "os_name":                  "gentoo64lite",
+            "description":              "64-bit Gentoo Linux v1.6.0 for the RPi4 and RPi3, CLI only",
+            "release_date":             "2020-06-24",
+            "feature_level":            0,
+            "supported_models": [
+                "Pi 3 Model B Rev",
+                "Pi 3 Model B Plus Rev",
+                "Pi 3 Model A Plus Rev",
+                "Pi 4 Model B Rev"
+            ],
+            "supports_backup":          "update",
+            "url":                      "https://github.com/sakaki-/gentoo-on-rpi-64bit",
+            "group":                    "Minimal",
+
+            "download_size":            676199620,
+            "os_info":                  "http://downloads.sourceforge.net/project/pinn/os/gentoo64lite/os.json",
+            "partitions_info":          "http://downloads.sourceforge.net/project/pinn/os/gentoo64lite/partitions.json",
+            "icon":                     "http://downloads.sourceforge.net/project/pinn/os/gentoo64lite/gentoo64lite.png",
+            "marketing_info":           "http://downloads.sourceforge.net/project/pinn/os/gentoo64lite/marketing.tar",
+            "partition_setup":          "http://downloads.sourceforge.net/project/pinn/os/gentoo64lite/partition_setup.sh",
+            "tarballs": [
+                "http://downloads.sourceforge.net/project/pinn/os/gentoo64lite/boot_gen_lite.tar.xz",
+                "http://downloads.sourceforge.net/project/pinn/os/gentoo64lite/root_gen_lite.tar.xz"
+            ],
+            "nominal_size": 7485
+        }
+        ,
+        {
+            "os_name":                  "nspawn64",
+            "description":              "64-bit kernel, 32-bit Raspbian + 64-bit Debian Buster 'sidekick' OS, v1.4.8",
+            "release_date":             "2020-03-24",
+            "feature_level":            0,
+            "supported_models": [
+                "Pi 3 Model B Rev",
+                "Pi 3 Model B Plus Rev",
+                "Pi 3 Model A Plus Rev",
+                "Pi 4 Model B Rev"
+            ],
+            "supports_backup":          true,
+            "url":                      "https://github.com/sakaki-/raspbian-nspawn-64",
+            "group":                    "General",
+
+            "download_size":            1230598348,
+            "os_info":                  "http://downloads.sourceforge.net/project/pinn/os/nspawn64/os.json",
+            "partitions_info":          "http://downloads.sourceforge.net/project/pinn/os/nspawn64/partitions.json",
+            "icon":                     "http://downloads.sourceforge.net/project/pinn/os/nspawn64/nspawn64.png",
+            "marketing_info":           "http://downloads.sourceforge.net/project/pinn/os/nspawn64/marketing.tar",
+            "partition_setup":          "http://downloads.sourceforge.net/project/pinn/os/nspawn64/partition_setup.sh",
+            "tarballs": [
+                "http://downloads.sourceforge.net/project/pinn/os/nspawn64/boot_ns64.tar.xz",
+                "http://downloads.sourceforge.net/project/pinn/os/nspawn64/root_ns64.tar.xz"
+            ],
+            "nominal_size": 5227
+        }
+    ]
+}
+
+
