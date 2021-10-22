@@ -9,7 +9,7 @@
             "supported_models": [
               "Pi Model",
               "Pi 2",
-              "Pi Zero",
+              "Pi Zero Rev",
               "Pi 3 Model B Rev"
             ],
             "supports_usb_boot": false,
@@ -35,7 +35,7 @@
             "supported_models": [
                 "Pi Model",
                 "Pi Compute Module",
-                "Pi Zero"
+                "Pi Zero Rev"
             ],
             "supports_backup": "update",
             "url":      "https://archlinuxarm.org/platforms/armv6/raspberry-pi",
@@ -112,7 +112,7 @@
             "supported_models": [
               "Pi Model",
               "Pi 2",
-              "Pi Zero",
+              "Pi Zero Rev",
               "Pi 3 Model B Rev"
             ],
             "url":             "http://c-stem.ucdavis.edu/",
@@ -137,7 +137,7 @@
             "supported_models": [
                 "Pi Model",
                 "Pi Compute Module",
-                "Pi Zero"
+                "Pi Zero Rev"
             ],
             "group":           "Minimal",
             "download_size":    146116780,
@@ -208,7 +208,7 @@
             "supported_models": [
                 "Pi Model",
                 "Pi Compute Module",
-                "Pi Zero",
+                "Pi Zero Rev",
                 "Pi 2",
                 "Pi 3 Model B Rev"
             ],
@@ -236,7 +236,7 @@
             "supported_models": [
                 "Pi Model",
                 "Pi Compute Module",
-                "Pi Zero"
+                "Pi Zero Rev"
             ],
             "url":              "https://www.kali.org/",
             "group":            "General",
@@ -340,7 +340,7 @@
             "supported_models": [
                 "Pi Model",
                 "Pi Compute Module",
-                "Pi Zero"
+                "Pi Zero Rev"
             ],
             "supports_backup":  true,
             "url":              "https://openwrt.org/",
@@ -729,7 +729,7 @@
             "supported_models": [
                 "Pi Model",
                 "Pi Compute Module",
-                "Pi Zero",
+                "Pi Zero Rev",
                 "Pi 2",
                 "Pi 3 Model B Rev"
             ],
@@ -757,7 +757,7 @@
             "supported_models": [
                 "Pi Model",
                 "Pi 2",
-                "Pi Zero",
+                "Pi Zero Rev",
                 "Pi 3 Model B Rev"
             ],
             "url":              "https://sites.google.com/site/picoreplayer/home",
@@ -784,7 +784,7 @@
             "supported_models": [
                 "Pi Model",
                 "Pi 2",
-                "Pi Zero",
+                "Pi Zero Rev",
                 "Pi 3 Model B Rev"
             ],
             "url":              "https://sites.google.com/site/picoreplayer/home",
@@ -809,7 +809,7 @@
             "supported_models": [
                 "Pi Model",
                 "Pi Compute Module",
-                "Pi Zero"
+                "Pi Zero Rev"
             ],
             "supports_usb_boot": true,
             "supports_usb_root": true,
@@ -937,7 +937,7 @@
             "supported_models": [
                 "Pi Model",
                 "Pi Compute Module",
-                "Pi Zero",
+                "Pi Zero Rev",
                 "Pi 2",
                 "Pi 3 Model B Rev"
             ],
@@ -1040,7 +1040,7 @@
             "supported_models": [
                 "Pi Model",
                 "Pi Compute Module Rev",
-                "Pi Zero"
+                "Pi Zero Rev"
             ],
             "supports_backup":         true,
             "url":                     "https://www.recalbox.com/",
@@ -1138,7 +1138,7 @@
             "supported_models": [
                 "Pi Model",
                 "Pi Compute Module",
-                "Pi Zero"
+                "Pi Zero Rev"
             ],
             "flavours": [
                 {
@@ -1394,7 +1394,7 @@
             "supported_models": [
                "Pi Model",
                "Pi Compute Module",
-               "Pi Zero"
+               "Pi Zero Rev"
             ],
             "supports_usb_root": false,
             "url":              "http://http://www.voidlinux.eu/",
@@ -1421,7 +1421,7 @@
             "supported_models": [
                "Pi Model",
                "Pi Compute Module",
-               "Pi Zero"
+               "Pi Zero Rev"
             ],
             "supports_usb_root": false,
             "url":              "http://http://www.voidlinux.eu/",
@@ -1498,7 +1498,7 @@
             "supported_models": [
                 "Pi Model",
                 "Pi Compute Module",
-                "Pi Zero"
+                "Pi Zero Rev"
             ],
             "url":              "http://www.xbian.org/",
             "group":            "Media",
@@ -1550,7 +1550,7 @@
             "supported_models": [
               "Pi Model",
               "Pi Compute Module",
-              "Pi Zero"
+              "Pi Zero Rev"
             ],
             "url":             "http://openelec.tv/",
             "os_info":         "http://downloads.sourceforge.net/project/pinn/os/openelec_rpi1/os.json",
@@ -1596,7 +1596,7 @@
             "group":         "Utility",
             "supported_hex_revisions": "1040,1041,2082",    
             "supported_models": [
-                "Pi Zero",
+                "Pi Zero Rev",
                 "Pi Model",
                 "Pi Compute Module",
                 "Pi 2",
