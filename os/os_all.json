@@ -10,6 +10,7 @@
               "Pi Model",
               "Pi 2",
               "Pi Zero Rev",
+              "Pi Zero W Rev",
               "Pi 3 Model B Rev"
             ],
             "supports_usb_boot": false,
@@ -35,6 +36,7 @@
             "supported_models": [
                 "Pi Model",
                 "Pi Compute Module",
+                "Pi Zero W Rev",
                 "Pi Zero Rev"
             ],
             "supports_backup": "update",
@@ -137,6 +139,7 @@
             "supported_models": [
                 "Pi Model",
                 "Pi Compute Module",
+              "Pi Zero W Rev",
                 "Pi Zero Rev"
             ],
             "group":           "Minimal",
@@ -209,6 +212,7 @@
                 "Pi Model",
                 "Pi Compute Module",
                 "Pi Zero Rev",
+              "Pi Zero W Rev",
                 "Pi 2",
                 "Pi 3 Model B Rev"
             ],
@@ -236,6 +240,7 @@
             "supported_models": [
                 "Pi Model",
                 "Pi Compute Module",
+              "Pi Zero W Rev",
                 "Pi Zero Rev"
             ],
             "url":              "https://www.kali.org/",
@@ -340,7 +345,8 @@
             "supported_models": [
                 "Pi Model",
                 "Pi Compute Module",
-                "Pi Zero Rev"
+                "Pi Zero W Rev",
+              "Pi Zero Rev"
             ],
             "supports_backup":  true,
             "url":              "https://openwrt.org/",
@@ -729,6 +735,7 @@
             "supported_models": [
                 "Pi Model",
                 "Pi Compute Module",
+              "Pi Zero W Rev",
                 "Pi Zero Rev",
                 "Pi 2",
                 "Pi 3 Model B Rev"
@@ -757,6 +764,7 @@
             "supported_models": [
                 "Pi Model",
                 "Pi 2",
+              "Pi Zero W Rev",
                 "Pi Zero Rev",
                 "Pi 3 Model B Rev"
             ],
@@ -784,6 +792,7 @@
             "supported_models": [
                 "Pi Model",
                 "Pi 2",
+              "Pi Zero W Rev",
                 "Pi Zero Rev",
                 "Pi 3 Model B Rev"
             ],
@@ -809,6 +818,7 @@
             "supported_models": [
                 "Pi Model",
                 "Pi Compute Module",
+              "Pi Zero W Rev",
                 "Pi Zero Rev"
             ],
             "supports_usb_boot": true,
@@ -937,6 +947,7 @@
             "supported_models": [
                 "Pi Model",
                 "Pi Compute Module",
+              "Pi Zero W Rev",
                 "Pi Zero Rev",
                 "Pi 2",
                 "Pi 3 Model B Rev"
@@ -1040,6 +1051,7 @@
             "supported_models": [
                 "Pi Model",
                 "Pi Compute Module Rev",
+              "Pi Zero W Rev",
                 "Pi Zero Rev"
             ],
             "supports_backup":         true,
@@ -1138,6 +1150,7 @@
             "supported_models": [
                 "Pi Model",
                 "Pi Compute Module",
+              "Pi Zero W Rev",
                 "Pi Zero Rev"
             ],
             "flavours": [
@@ -1394,6 +1407,7 @@
             "supported_models": [
                "Pi Model",
                "Pi Compute Module",
+              "Pi Zero W Rev",
                "Pi Zero Rev"
             ],
             "supports_usb_root": false,
@@ -1421,6 +1435,7 @@
             "supported_models": [
                "Pi Model",
                "Pi Compute Module",
+              "Pi Zero W Rev",
                "Pi Zero Rev"
             ],
             "supports_usb_root": false,
@@ -1498,6 +1513,7 @@
             "supported_models": [
                 "Pi Model",
                 "Pi Compute Module",
+              "Pi Zero W Rev",
                 "Pi Zero Rev"
             ],
             "url":              "http://www.xbian.org/",
@@ -1550,6 +1566,7 @@
             "supported_models": [
               "Pi Model",
               "Pi Compute Module",
+              "Pi Zero W Rev",
               "Pi Zero Rev"
             ],
             "url":             "http://openelec.tv/",
@@ -1596,6 +1613,7 @@
             "group":         "Utility",
             "supported_hex_revisions": "1040,1041,2082",    
             "supported_models": [
+              "Pi Zero W Rev",
                 "Pi Zero Rev",
                 "Pi Model",
                 "Pi Compute Module",
