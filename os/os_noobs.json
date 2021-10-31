@@ -1,0 +1,439 @@
+{
+    "os_list": [
+        {
+            "os_name": "Raspberry Pi OS Full (32-bit)",
+            "description": "A port of Debian with desktop and recommended applications",
+            "download_size": 1492777304,
+            "feature_level": 35120124,
+            "icon": "http://downloads.raspberrypi.org/raspios_full_armhf/Raspberry_Pi_OS_Full_(32-bit).png",
+            "marketing_info": "http://downloads.raspberrypi.org/raspios_full_armhf/marketing.tar",
+            "nominal_size": 8394,
+            "os_info": "http://downloads.raspberrypi.org/raspios_full_armhf/os.json",
+            "partition_setup": "http://downloads.raspberrypi.org/raspios_full_armhf/partition_setup.sh",
+            "partitions_info": "http://downloads.raspberrypi.org/raspios_full_armhf/partitions.json",
+            "release_date": "2021-03-04",
+            "supported_hex_revisions": "2,3,4,5,6,7,8,9,d,e,f,10,11,12,14,19,1040,1041,0092,0093,2082",
+            "supported_models": [
+                "Pi Model",
+                "Pi 2",
+                "Pi Zero",
+                "Pi 3",
+                "Pi Compute Module 3",
+                "Pi 4"
+            ],
+            "tarballs": [
+                "http://downloads.raspberrypi.org/raspios_full_armhf/boot.tar.xz",
+                "http://downloads.raspberrypi.org/raspios_full_armhf/root.tar.xz"
+            ]
+        },
+        {
+            "description": "A port of Debian with the Raspberry Pi Desktop",
+            "download_size": 801462256,
+            "feature_level": 35120124,
+            "icon": "http://downloads.raspberrypi.org/raspios_armhf/Raspberry_Pi_OS_(32-bit).png",
+            "marketing_info": "http://downloads.raspberrypi.org/raspios_armhf/marketing.tar",
+            "nominal_size": 3946,
+            "os_info": "http://downloads.raspberrypi.org/raspios_armhf/os.json",
+            "os_name": "Raspberry Pi OS (32-bit)",
+            "partition_setup": "http://downloads.raspberrypi.org/raspios_armhf/partition_setup.sh",
+            "partitions_info": "http://downloads.raspberrypi.org/raspios_armhf/partitions.json",
+            "release_date": "2021-03-04",
+            "supported_hex_revisions": "2,3,4,5,6,7,8,9,d,e,f,10,11,12,14,19,1040,1041,0092,0093,2082",
+            "supported_models": [
+                "Pi Model",
+                "Pi 2",
+                "Pi Zero",
+                "Pi 3",
+                "Pi Compute Module 3",
+                "Pi 4"
+            ],
+            "tarballs": [
+                "http://downloads.raspberrypi.org/raspios_armhf/boot.tar.xz",
+                "http://downloads.raspberrypi.org/raspios_armhf/root.tar.xz"
+            ]
+        },
+        {
+            "os_name": "Raspberry Pi OS Lite (32-bit)",
+            "description": "A port of Debian with no desktop environment",
+            "download_size": 258296084,
+            "feature_level": 35120124,
+            "icon": "http://downloads.raspberrypi.org/raspios_lite_armhf/Raspberry_Pi_OS_Lite_(32-bit).png",
+            "marketing_info": "http://downloads.raspberrypi.org/raspios_lite_armhf/marketing.tar",
+            "nominal_size": 1968,
+            "os_info": "http://downloads.raspberrypi.org/raspios_lite_armhf/os.json",
+            "partition_setup": "http://downloads.raspberrypi.org/raspios_lite_armhf/partition_setup.sh",
+            "partitions_info": "http://downloads.raspberrypi.org/raspios_lite_armhf/partitions.json",
+            "release_date": "2021-03-04",
+            "supported_hex_revisions": "2,3,4,5,6,7,8,9,d,e,f,10,11,12,14,19,1040,1041,0092,0093,2082",
+            "supported_models": [
+                "Pi Model",
+                "Pi 2",
+                "Pi Zero",
+                "Pi 3",
+                "Pi Compute Module",
+                "Pi 4"
+            ],
+            "tarballs": [
+                "http://downloads.raspberrypi.org/raspios_lite_armhf/boot.tar.xz",
+                "http://downloads.raspberrypi.org/raspios_lite_armhf/root.tar.xz"
+            ]
+        },
+        {
+            "os_name": "LibreELEC_RPi",
+            "description": "LibreELEC is a fast and user-friendly Kodi Entertainment Center distribution.",
+            "icon": "http://releases.libreelec.tv/noobs/LibreELEC_RPi/LibreELEC_RPi.png",
+            "marketing_info": "http://releases.libreelec.tv/noobs/LibreELEC_RPi/marketing.tar",
+            "nominal_size": 1024,
+            "os_info": "http://releases.libreelec.tv/noobs/LibreELEC_RPi/os.json",
+            "partition_setup": "http://releases.libreelec.tv/noobs/LibreELEC_RPi/partition_setup.sh",
+            "partitions_info": "http://releases.libreelec.tv/noobs/LibreELEC_RPi/partitions.json",
+            "release_date": "2020-10-24",
+            "supported_hex_revisions": "2,3,4,5,6,7,8,9,d,e,f,10,11,12,14,19,0092",
+            "supported_models": [
+                "Pi Model",
+                "Pi Compute Module Rev",
+                "Pi Zero"
+            ],
+            "tarballs": [
+                "http://releases.libreelec.tv/noobs/LibreELEC_RPi/System.tar.xz",
+                "http://releases.libreelec.tv/noobs/LibreELEC_RPi/Storage.tar.xz"
+            ]
+        },
+        {
+            "os_name": "LibreELEC_RPi2",
+            "description": "LibreELEC is a fast and user-friendly Kodi Entertainment Center distribution.",
+            "icon": "http://releases.libreelec.tv/noobs/LibreELEC_RPi2/LibreELEC_RPi2.png",
+            "marketing_info": "http://releases.libreelec.tv/noobs/LibreELEC_RPi2/marketing.tar",
+            "nominal_size": 1024,
+            "os_info": "http://releases.libreelec.tv/noobs/LibreELEC_RPi2/os.json",
+            "partition_setup": "http://releases.libreelec.tv/noobs/LibreELEC_RPi2/partition_setup.sh",
+            "partitions_info": "http://releases.libreelec.tv/noobs/LibreELEC_RPi2/partitions.json",
+            "release_date": "2020-10-25",
+            "supported_hex_revisions": "1040,1041,2082",
+            "supported_models": [
+                "Pi 2",
+                "Pi 3 Model B",
+                "Pi Compute Module 3"
+            ],
+            "tarballs": [
+                "http://releases.libreelec.tv/noobs/LibreELEC_RPi2/System.tar.xz",
+                "http://releases.libreelec.tv/noobs/LibreELEC_RPi2/Storage.tar.xz"
+            ]
+        },
+        {
+            "os_name": "LibreELEC_RPi4",
+            "description": "LibreELEC is a fast and user-friendly Kodi Entertainment Center distribution.",
+            "icon": "http://releases.libreelec.tv/noobs/LibreELEC_RPi4/LibreELEC_RPi4.png",
+            "marketing_info": "http://releases.libreelec.tv/noobs/LibreELEC_RPi4/marketing.tar",
+            "nominal_size": 1024,
+            "os_info": "http://releases.libreelec.tv/noobs/LibreELEC_RPi4/os.json",
+            "partition_setup": "http://releases.libreelec.tv/noobs/LibreELEC_RPi4/partition_setup.sh",
+            "partitions_info": "http://releases.libreelec.tv/noobs/LibreELEC_RPi4/partitions.json",
+            "release_date": "2020-10-24",
+            "supported_hex_revisions": "",
+            "supported_models": [
+                "Pi 4"
+            ],
+            "tarballs": [
+                "http://releases.libreelec.tv/noobs/LibreELEC_RPi4/System.tar.xz",
+                "http://releases.libreelec.tv/noobs/LibreELEC_RPi4/Storage.tar.xz"
+            ]
+        },
+        {
+            "os_name": "OSMC_Pi1",
+            "description": "A fast and feature filled open source media center",
+            "feature_level": 35120124,
+            "icon": "http://download.osmc.tv/installers/noobs/NOOBS-Logo-2.png",
+            "marketing_info": "http://download.osmc.tv/installers/noobs/marketing.tar",
+            "nominal_size": 2128,
+            "os_info": "http://download.osmc.tv/installers/noobs/os-pi1.json",
+            "partition_setup": "http://download.osmc.tv/installers/noobs/partition_setup.sh",
+            "partitions_info": "http://download.osmc.tv/installers/noobs/partitions-pi1.json",
+            "release_date": "2020-11-25",
+            "supported_hex_revisions": "2,3,4,5,6,7,8,9,d,e,f,10,11,12,14,19,0092,0093",
+            "supported_models": [
+                "Pi Model",
+                "Pi Compute Module Rev",
+                "Pi Zero"
+            ],
+            "tarballs": [
+                "http://download.osmc.tv/installers/noobs/boot-rbp1.tar.xz",
+                "http://download.osmc.tv/installers/noobs/root-rbp1.tar.xz"
+            ]
+        },
+        {
+            "os_name": "OSMC_Pi2",
+            "description": "A fast and feature filled open source media center",
+            "feature_level": 0,
+            "icon": "http://download.osmc.tv/installers/noobs/NOOBS-Logo-2.png",
+            "marketing_info": "http://download.osmc.tv/installers/noobs/marketing.tar",
+            "nominal_size": 2128,
+            "os_info": "http://download.osmc.tv/installers/noobs/os-pi2.json",
+            "partition_setup": "http://download.osmc.tv/installers/noobs/partition_setup.sh",
+            "partitions_info": "http://download.osmc.tv/installers/noobs/partitions-pi2.json",
+            "release_date": "2020-11-25",
+            "supported_hex_revisions": "1040,1041,2082",
+            "supported_models": [
+                "Pi 2",
+                "Pi 3",
+                "Pi Compute Module 3"
+            ],
+            "tarballs": [
+                "http://download.osmc.tv/installers/noobs/boot-rbp2.tar.xz",
+                "http://download.osmc.tv/installers/noobs/root-rbp2.tar.xz"
+            ]
+        },
+        {
+            "os_name": "Recalbox - Pi0/1",
+            "description": "The retro-gaming OS! Turn your Raspberry Pi into an all-in-one and plug-n-play retro-gaming console, supporting 100+ gaming systems!",
+            "icon": "https://upgrade.recalbox.com/latest/noobs/recalbox.png",
+            "marketing_info": "https://upgrade.recalbox.com/latest/noobs/marketing.tar",
+            "nominal_size": 7168,
+            "os_info": "https://upgrade.recalbox.com/latest/noobs/os.json",
+            "partitions_info": "https://upgrade.recalbox.com/latest/noobs/rpi1/partitions.json",
+            "release_date": "2020-11-29",
+            "supported_models": [
+                "Pi Model",
+                "Pi Compute Module Rev",
+                "Pi Zero"
+            ]
+        },
+        {
+            "os_name": "Recalbox - Pi2",
+            "description": "The retro-gaming OS! Turn your Raspberry Pi into an all-in-one and plug-n-play retro-gaming console, supporting 100+ gaming systems!",
+            "icon": "https://upgrade.recalbox.com/latest/noobs/recalbox.png",
+            "marketing_info": "https://upgrade.recalbox.com/latest/noobs/marketing.tar",
+            "nominal_size": 7168,
+            "os_info": "https://upgrade.recalbox.com/latest/noobs/os.json",
+            "partitions_info": "https://upgrade.recalbox.com/latest/noobs/rpi2/partitions.json",
+            "release_date": "2020-11-29",
+            "supported_models": [
+                "Pi 2"
+            ]
+        },
+        {
+            "os_name": "Recalbox - Pi3",
+            "description": "The retro-gaming OS! Turn your Raspberry Pi into an all-in-one and plug-n-play retro-gaming console, supporting 100+ gaming systems!",
+            "icon": "https://upgrade.recalbox.com/latest/noobs/recalbox.png",
+            "marketing_info": "https://upgrade.recalbox.com/latest/noobs/marketing.tar",
+            "nominal_size": 7168,
+            "os_info": "https://upgrade.recalbox.com/latest/noobs/os.json",
+            "partitions_info": "https://upgrade.recalbox.com/latest/noobs/rpi3/partitions.json",
+            "release_date": "2020-11-29",
+            "supported_models": [
+                "Pi 3",
+                "Pi Compute Module 3"
+            ]
+        },
+        {
+            "os_name": "Recalbox - Pi4",
+            "description": "The retro-gaming OS! Turn your Raspberry Pi into an all-in-one and plug-n-play retro-gaming console, supporting 100+ gaming systems!",
+            "icon": "https://upgrade.recalbox.com/latest/noobs/recalbox.png",
+            "marketing_info": "https://upgrade.recalbox.com/latest/noobs/marketing.tar",
+            "nominal_size": 7168,
+            "os_info": "https://upgrade.recalbox.com/latest/noobs/os.json",
+            "partitions_info": "https://upgrade.recalbox.com/latest/noobs/rpi4/partitions.json",
+            "release_date": "2020-11-29",
+            "supported_models": [
+                "Pi 4"
+            ]
+        },
+        {
+            "os_name": "Lakka_RPi",
+            "description": "The DIY retro emulation console",
+            "download_size": 335700104,
+            "group": "Games",
+            "icon": "https://le.builds.lakka.tv/noobs/Lakka_RPi/Lakka_RPi.png",
+            "marketing_info": "https://le.builds.lakka.tv/noobs/Lakka_RPi/marketing.tar",
+            "nominal_size": 1024,
+            "os_info": "https://le.builds.lakka.tv/noobs/Lakka_RPi/os.json",
+            "partition_setup": "https://le.builds.lakka.tv/noobs/Lakka_RPi/partition_setup.sh",
+            "partitions_info": "https://le.builds.lakka.tv/noobs/Lakka_RPi/partitions.json",
+            "release_date": "2021-05-22",
+            "supported_models": [
+                "Pi Model",
+                "Pi Compute Module",
+                "Pi Zero"
+            ],
+            "supports_backup": true,
+            "tarballs": [
+                "https://le.builds.lakka.tv/noobs/Lakka_RPi/System.tar.xz",
+                "https://le.builds.lakka.tv/noobs/Lakka_RPi/Storage.tar.xz"
+            ],
+            "url": "https://www.lakka.tv/"
+        },
+        {
+            "os_name": "Lakka_RPi2",
+            "description": "The DIY retro emulation console",
+            "download_size": 416884828,
+            "group": "Games",
+            "icon": "https://le.builds.lakka.tv/noobs/Lakka_RPi2/Lakka_RPi2.png",
+            "marketing_info": "https://le.builds.lakka.tv/noobs/Lakka_RPi2/marketing.tar",
+            "nominal_size": 1024,
+            "os_info": "https://le.builds.lakka.tv/noobs/Lakka_RPi2/os.json",
+            "partition_setup": "https://le.builds.lakka.tv/noobs/Lakka_RPi2/partition_setup.sh",
+            "partitions_info": "https://le.builds.lakka.tv/noobs/Lakka_RPi2/partitions.json",
+            "release_date": "2021-05-22",
+            "supported_models": [
+                "Pi 2",
+                "Pi 3"
+            ],
+            "supports_backup": true,
+            "tarballs": [
+                "https://le.builds.lakka.tv/noobs/Lakka_RPi2/System.tar.xz",
+                "https://le.builds.lakka.tv/noobs/Lakka_RPi2/Storage.tar.xz"
+            ],
+            "url": "https://www.lakka.tv/"
+        },
+        {
+            "os_name": "Lakka_RPi4",
+            "description": "The DIY retro emulation console",
+            "download_size": 438440324,
+            "group": "Games",
+            "icon": "https://le.builds.lakka.tv/noobs/Lakka_RPi4/Lakka_RPi4.png",
+            "marketing_info": "https://le.builds.lakka.tv/noobs/Lakka_RPi4/marketing.tar",
+            "nominal_size": 1024,
+            "os_info": "https://le.builds.lakka.tv/noobs/Lakka_RPi4/os.json",
+            "partition_setup": "https://le.builds.lakka.tv/noobs/Lakka_RPi4/partition_setup.sh",
+            "partitions_info": "https://le.builds.lakka.tv/noobs/Lakka_RPi4/partitions.json",
+            "release_date": "2021-05-22",
+            "supported_models": [
+                "Pi 4"
+            ],
+            "supports_backup": true,
+            "tarballs": [
+                "https://le.builds.lakka.tv/noobs/Lakka_RPi4/System.tar.xz",
+                "https://le.builds.lakka.tv/noobs/Lakka_RPi4/Storage.tar.xz"
+            ],
+            "url": "https://www.lakka.tv/"
+        },
+        {
+            "os_name": "Lakka_RPi4_64",
+            "description": "The DIY retro emulation console",
+            "download_size": 443116980,
+            "group": "Games",
+            "icon": "https://le.builds.lakka.tv/noobs/Lakka_RPi4_64/Lakka_RPi4.png",
+            "marketing_info": "https://le.builds.lakka.tv/noobs/Lakka_RPi4_64/marketing.tar",
+            "nominal_size": 1024,
+            "os_info": "https://le.builds.lakka.tv/noobs/Lakka_RPi4_64/os.json",
+            "partition_setup": "https://le.builds.lakka.tv/noobs/Lakka_RPi4_64/partition_setup.sh",
+            "partitions_info": "https://le.builds.lakka.tv/noobs/Lakka_RPi4_64/partitions.json",
+            "release_date": "2021-05-22",
+            "supported_models": [
+                "Pi 4"
+            ],
+            "supports_backup": true,
+            "tarballs": [
+                "https://le.builds.lakka.tv/noobs/Lakka_RPi4_64/System.tar.xz",
+                "https://le.builds.lakka.tv/noobs/Lakka_RPi4_64/Storage.tar.xz"
+            ],
+            "url": "https://www.lakka.tv/"
+        },
+        {
+            "os_name": "Screenly OSE",
+            "description": "The most popular digital signage platform for the Raspberry Pi",
+            "icon": "https://releases.screenlyapp.com/NOOBS/Screenly_OSE.png",
+            "marketing_info": "http://releases.screenlyapp.com/NOOBS/marketing.tar",
+            "nominal_size": 1928,
+            "os_info": "https://releases.screenlyapp.com/NOOBS/os.json",
+            "partition_setup": "https://releases.screenlyapp.com/NOOBS/partition_setup.sh",
+            "partitions_info": "https://releases.screenlyapp.com/NOOBS/partitions.json",
+            "release_date": "2019-09-25",
+            "supported_models": [
+                "Pi Model",
+                "Pi 2",
+                "Pi Zero",
+                "Pi Compute Module",
+                "Pi 3"
+            ],
+            "tarballs": [
+                "https://releases.screenlyapp.com/NOOBS/boot.tar.xz",
+                "https://releases.screenlyapp.com/NOOBS/root.tar.xz"
+            ]
+        },
+        {
+            "os_name": "RISC OS",
+            "description": "RISC OS is a very fast and compact system",
+            "feature_level": 35120124,
+            "icon": "http://packages.riscosopen.org/noobs/RISC_OS.png",
+            "marketing_info": "http://packages.riscosopen.org/noobs/marketing.tar",
+            "nominal_size": 1957,
+            "os_info": "http://packages.riscosopen.org/noobs/os.json",
+            "partitions_info": "http://packages.riscosopen.org/noobs/partitions.json",
+            "release_date": "2020-12-24",
+            "riscos_offset": 1760,
+            "supported_hex_revisions": "2,3,4,5,6,7,8,9,d,e,f,10,11,12,14,19,1040,1041",
+            "supported_models": [
+                "Pi Model",
+                "Pi 2",
+                "Pi Zero",
+                "Pi 3",
+                "Pi Compute Module",
+                "Pi 4"
+            ],
+            "tarballs": [
+                "http://packages.riscosopen.org/noobs/RISC_OS_Boot.tar.xz",
+                "http://packages.riscosopen.org/noobs/RISC_OS.xz"
+            ]
+        },
+        {
+            "os_name": "Windows 10 IoT Core",
+            "description": "Windows for devices. Enables you to build projects and apps.",
+            "feature_level": 0,
+            "icon": "https://iottools.blob.core.windows.net/win10iotnoobs/Windows_IoT.png",
+            "marketing_info": "https://iottools.blob.core.windows.net/win10iotnoobs/marketing.tar",
+            "nominal_size": 4910,
+            "os_info": "https://iottools.blob.core.windows.net/win10iotnoobs/os.json",
+            "partition_setup": "https://iottools.blob.core.windows.net/win10iotnoobs/partition_setup.sh",
+            "partitions_info": "https://iottools.blob.core.windows.net/win10iotnoobs/partitions.json",
+            "release_date": "2016-08-02",
+            "supported_hex_revisions": "1040,1041,2082",
+            "supported_models": [
+                "Pi 2",
+                "Pi 3",
+                "Pi Compute Module 3"
+            ],
+            "supports_usb_boot": "false",
+            "supports_usb_root": "false",
+            "tarballs": [
+                "",
+                "",
+                "https://iottools.blob.core.windows.net/win10iotnoobs/scratch.tar.xz",
+                "",
+                ""
+            ]
+        },
+        {
+            "os_name": "TLXOS ",
+            "description": "30-day trial of ThinLinX's Debian-based thin client for Raspberry Pi 1 and Zero",
+            "icon": "http://rpi.thinlinx.com/NOOBS/TLX_RPi_IoT/TLXOS.png",
+            "marketing_info": "http://rpi.thinlinx.com/NOOBS/TLX_RPi_IoT/marketing.tar",
+            "nominal_size": 2064,
+            "os_info": "http://rpi.thinlinx.com/NOOBS/TLX_RPi_IoT/os.json",
+            "partition_setup": "http://rpi.thinlinx.com/NOOBS/TLX_RPi_IoT/partition_setup.sh",
+            "partitions_info": "http://rpi.thinlinx.com/NOOBS/TLX_RPi_IoT/partitions.json",
+            "release_date": "2021-02-01",
+            "supported_models": [
+                "Pi Model",
+                "Pi Zero",
+                "Pi Compute Module Rev"
+            ],
+            "tarballs": [
+                "http://rpi.thinlinx.com/NOOBS/TLX_RPi_IoT/boot.xz",
+                "http://rpi.thinlinx.com/NOOBS/TLX_RPi_IoT/tfm.xz",
+                "http://rpi.thinlinx.com/NOOBS/TLX_RPi_IoT/root.xz"
+            ]
+        },
+        {
+            "description": "Adds an empty 512MB ext4 format partition to the partition layout.",
+            "icon": "http://downloads.raspberrypi.org/data_partition/Data_Partition.png",
+            "nominal_size": 512,
+            "os_info": "http://downloads.raspberrypi.org/data_partition/os.json",
+            "os_name": "Data Partition",
+            "partitions_info": "http://downloads.raspberrypi.org/data_partition/partitions.json",
+            "tarballs": [
+                "http://downloads.raspberrypi.org/data_partition/data.tar.xz"
+            ]
+        }
+    ]
+}
