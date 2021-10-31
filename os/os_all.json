@@ -1613,8 +1613,7 @@
             "group":         "Utility",
             "supported_hex_revisions": "1040,1041,2082",    
             "supported_models": [
-              "Pi Zero W Rev",
-                "Pi Zero Rev",
+                "Pi Zero",
                 "Pi Model",
                 "Pi Compute Module",
                 "Pi 2",
