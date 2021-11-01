@@ -1305,16 +1305,17 @@
 ,
         {
             "os_name":	    "twister",
-            "description":  "A themed Raspberry Pi OS Desktop merged with gaming",
-            "release_date": "2020-10-15",
+            "description":  "A themed Raspberry Pi OS Desktop merged with gaming v2.1.2",
+            "release_date": "2021-06-22",
             "supported_models": [
                 "Pi 3",
+                "Pi Zero 2",
                 "Pi Compute Module 3",
                 "Pi 4"
-            ],            
-            "url":             "http://www.raspbian.org/",
+            ],
+            "url":             "https://twisteros.com/",
             "group":           "General",
-            "download_size":   3108908292,
+            "download_size":   2216570420,
             "os_info":         "http://downloads.sourceforge.net/project/pinn/os/twister/os.json",
             "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/twister/partitions.json",
             "icon":            "http://downloads.sourceforge.net/project/pinn/os/twister/twister.png",
@@ -1324,7 +1325,7 @@
                                "http://downloads.sourceforge.net/project/pinn/os/twister/boot.tar.xz",
                                "http://downloads.sourceforge.net/project/pinn/os/twister/twister.tar.xz"
             ],
-            "nominal_size": 10525
+            "nominal_size": 8275
         }
 ,
         {
