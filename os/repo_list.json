@@ -2,7 +2,8 @@
 	"repo_list" : [
 		{
 			"name" : "NOOBS",
-			"url"  : "http://downloads.raspberrypi.org/os_list_v3.json"
+			"url"  : "http://raw.githubusercontent.com/procount/pinn-os/master/os/os_noobs.json",
+			"urlbak"  : "http://downloads.raspberrypi.org/os_list_v3.json"
 		},
 		{
 			"name" : "PINN",
