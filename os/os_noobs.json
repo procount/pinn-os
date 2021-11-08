@@ -7,11 +7,11 @@
             "feature_level": 35120124,
             "icon": "http://downloads.raspberrypi.org/raspios_full_armhf/Raspberry_Pi_OS_Full_(32-bit).png",
             "marketing_info": "http://downloads.raspberrypi.org/raspios_full_armhf/marketing.tar",
-            "nominal_size": 8394,
+            "nominal_size": 9000,
             "os_info": "http://downloads.raspberrypi.org/raspios_full_armhf/os.json",
             "partition_setup": "http://downloads.raspberrypi.org/raspios_full_armhf/partition_setup.sh",
             "partitions_info": "http://downloads.raspberrypi.org/raspios_full_armhf/partitions.json",
-            "release_date": "2021-03-04",
+            "release_date": "2021-10-30",
             "supported_hex_revisions": "2,3,4,5,6,7,8,9,d,e,f,10,11,12,14,19,1040,1041,0092,0093,2082",
             "supported_models": [
                 "Pi Model",
@@ -27,17 +27,17 @@
             ]
         },
         {
+            "os_name": "Raspberry Pi OS (32-bit)",
             "description": "A port of Debian with the Raspberry Pi Desktop",
             "download_size": 801462256,
             "feature_level": 35120124,
             "icon": "http://downloads.raspberrypi.org/raspios_armhf/Raspberry_Pi_OS_(32-bit).png",
             "marketing_info": "http://downloads.raspberrypi.org/raspios_armhf/marketing.tar",
-            "nominal_size": 3946,
+            "nominal_size": 3942,
             "os_info": "http://downloads.raspberrypi.org/raspios_armhf/os.json",
-            "os_name": "Raspberry Pi OS (32-bit)",
             "partition_setup": "http://downloads.raspberrypi.org/raspios_armhf/partition_setup.sh",
             "partitions_info": "http://downloads.raspberrypi.org/raspios_armhf/partitions.json",
-            "release_date": "2021-03-04",
+            "release_date": "2021-10-30",
             "supported_hex_revisions": "2,3,4,5,6,7,8,9,d,e,f,10,11,12,14,19,1040,1041,0092,0093,2082",
             "supported_models": [
                 "Pi Model",
@@ -59,11 +59,11 @@
             "feature_level": 35120124,
             "icon": "http://downloads.raspberrypi.org/raspios_lite_armhf/Raspberry_Pi_OS_Lite_(32-bit).png",
             "marketing_info": "http://downloads.raspberrypi.org/raspios_lite_armhf/marketing.tar",
-            "nominal_size": 1968,
+            "nominal_size": 2043,
             "os_info": "http://downloads.raspberrypi.org/raspios_lite_armhf/os.json",
             "partition_setup": "http://downloads.raspberrypi.org/raspios_lite_armhf/partition_setup.sh",
             "partitions_info": "http://downloads.raspberrypi.org/raspios_lite_armhf/partitions.json",
-            "release_date": "2021-03-04",
+            "release_date": "2021-10-30",
             "supported_hex_revisions": "2,3,4,5,6,7,8,9,d,e,f,10,11,12,14,19,1040,1041,0092,0093,2082",
             "supported_models": [
                 "Pi Model",
@@ -130,7 +130,7 @@
             "os_info": "http://releases.libreelec.tv/noobs/LibreELEC_RPi4/os.json",
             "partition_setup": "http://releases.libreelec.tv/noobs/LibreELEC_RPi4/partition_setup.sh",
             "partitions_info": "http://releases.libreelec.tv/noobs/LibreELEC_RPi4/partitions.json",
-            "release_date": "2020-10-24",
+            "release_date": "2021-08-11",
             "supported_hex_revisions": "",
             "supported_models": [
                 "Pi 4"
@@ -169,11 +169,11 @@
             "feature_level": 0,
             "icon": "http://download.osmc.tv/installers/noobs/NOOBS-Logo-2.png",
             "marketing_info": "http://download.osmc.tv/installers/noobs/marketing.tar",
-            "nominal_size": 2128,
+            "nominal_size": 2192,
             "os_info": "http://download.osmc.tv/installers/noobs/os-pi2.json",
             "partition_setup": "http://download.osmc.tv/installers/noobs/partition_setup.sh",
             "partitions_info": "http://download.osmc.tv/installers/noobs/partitions-pi2.json",
-            "release_date": "2020-11-25",
+            "release_date": "2021-08-08",
             "supported_hex_revisions": "1040,1041,2082",
             "supported_models": [
                 "Pi 2",
@@ -193,7 +193,7 @@
             "nominal_size": 7168,
             "os_info": "https://upgrade.recalbox.com/latest/noobs/os.json",
             "partitions_info": "https://upgrade.recalbox.com/latest/noobs/rpi1/partitions.json",
-            "release_date": "2020-11-29",
+            "release_date": "2021-06-18",
             "supported_models": [
                 "Pi Model",
                 "Pi Compute Module Rev",
@@ -209,7 +209,7 @@
             "nominal_size": 7168,
             "os_info": "https://upgrade.recalbox.com/latest/noobs/os.json",
             "partitions_info": "https://upgrade.recalbox.com/latest/noobs/rpi2/partitions.json",
-            "release_date": "2020-11-29",
+            "release_date": "2021-06-18",
             "supported_models": [
                 "Pi 2"
             ]
@@ -222,7 +222,7 @@
             "nominal_size": 7168,
             "os_info": "https://upgrade.recalbox.com/latest/noobs/os.json",
             "partitions_info": "https://upgrade.recalbox.com/latest/noobs/rpi3/partitions.json",
-            "release_date": "2020-11-29",
+            "release_date": "2021-06-18",
             "supported_models": [
                 "Pi 3",
                 "Pi Compute Module 3"
@@ -236,7 +236,7 @@
             "nominal_size": 7168,
             "os_info": "https://upgrade.recalbox.com/latest/noobs/os.json",
             "partitions_info": "https://upgrade.recalbox.com/latest/noobs/rpi4/partitions.json",
-            "release_date": "2020-11-29",
+            "release_date": "2021-06-18",
             "supported_models": [
                 "Pi 4"
             ]
@@ -248,11 +248,11 @@
             "group": "Games",
             "icon": "https://le.builds.lakka.tv/noobs/Lakka_RPi/Lakka_RPi.png",
             "marketing_info": "https://le.builds.lakka.tv/noobs/Lakka_RPi/marketing.tar",
-            "nominal_size": 1024,
+            "nominal_size": 2560,
             "os_info": "https://le.builds.lakka.tv/noobs/Lakka_RPi/os.json",
             "partition_setup": "https://le.builds.lakka.tv/noobs/Lakka_RPi/partition_setup.sh",
             "partitions_info": "https://le.builds.lakka.tv/noobs/Lakka_RPi/partitions.json",
-            "release_date": "2021-05-22",
+            "release_date": "2021-10-24",
             "supported_models": [
                 "Pi Model",
                 "Pi Compute Module",
@@ -273,11 +273,11 @@
             "group": "Games",
             "icon": "https://le.builds.lakka.tv/noobs/Lakka_RPi2/Lakka_RPi2.png",
             "marketing_info": "https://le.builds.lakka.tv/noobs/Lakka_RPi2/marketing.tar",
-            "nominal_size": 1024,
+            "nominal_size": 2560,
             "os_info": "https://le.builds.lakka.tv/noobs/Lakka_RPi2/os.json",
             "partition_setup": "https://le.builds.lakka.tv/noobs/Lakka_RPi2/partition_setup.sh",
             "partitions_info": "https://le.builds.lakka.tv/noobs/Lakka_RPi2/partitions.json",
-            "release_date": "2021-05-22",
+            "release_date": "2021-10-24",
             "supported_models": [
                 "Pi 2",
                 "Pi 3"
@@ -296,11 +296,11 @@
             "group": "Games",
             "icon": "https://le.builds.lakka.tv/noobs/Lakka_RPi4/Lakka_RPi4.png",
             "marketing_info": "https://le.builds.lakka.tv/noobs/Lakka_RPi4/marketing.tar",
-            "nominal_size": 1024,
+            "nominal_size": 2560,
             "os_info": "https://le.builds.lakka.tv/noobs/Lakka_RPi4/os.json",
             "partition_setup": "https://le.builds.lakka.tv/noobs/Lakka_RPi4/partition_setup.sh",
             "partitions_info": "https://le.builds.lakka.tv/noobs/Lakka_RPi4/partitions.json",
-            "release_date": "2021-05-22",
+            "release_date": "2021-10-24",
             "supported_models": [
                 "Pi 4"
             ],
@@ -318,11 +318,11 @@
             "group": "Games",
             "icon": "https://le.builds.lakka.tv/noobs/Lakka_RPi4_64/Lakka_RPi4.png",
             "marketing_info": "https://le.builds.lakka.tv/noobs/Lakka_RPi4_64/marketing.tar",
-            "nominal_size": 1024,
+            "nominal_size": 2560,
             "os_info": "https://le.builds.lakka.tv/noobs/Lakka_RPi4_64/os.json",
             "partition_setup": "https://le.builds.lakka.tv/noobs/Lakka_RPi4_64/partition_setup.sh",
             "partitions_info": "https://le.builds.lakka.tv/noobs/Lakka_RPi4_64/partitions.json",
-            "release_date": "2021-05-22",
+            "release_date": "2021-10-24",
             "supported_models": [
                 "Pi 4"
             ],
@@ -418,7 +418,7 @@
             "os_info": "http://rpi.thinlinx.com/NOOBS/TLX_RPi_IoT/os.json",
             "partition_setup": "http://rpi.thinlinx.com/NOOBS/TLX_RPi_IoT/partition_setup.sh",
             "partitions_info": "http://rpi.thinlinx.com/NOOBS/TLX_RPi_IoT/partitions.json",
-            "release_date": "2021-02-01",
+            "release_date": "2021-05-16",
             "supported_models": [
                 "Pi Model",
                 "Pi Zero W Rev",
@@ -432,11 +432,11 @@
             ]
         },
         {
+            "os_name": "Data Partition",
             "description": "Adds an empty 512MB ext4 format partition to the partition layout.",
             "icon": "http://downloads.raspberrypi.org/data_partition/Data_Partition.png",
             "nominal_size": 512,
             "os_info": "http://downloads.raspberrypi.org/data_partition/os.json",
-            "os_name": "Data Partition",
             "partitions_info": "http://downloads.raspberrypi.org/data_partition/partitions.json",
             "tarballs": [
                 "http://downloads.raspberrypi.org/data_partition/data.tar.xz"
