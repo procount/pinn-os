@@ -2,14 +2,14 @@
     "os_list": [
         {
             "icon": "http://raw.githubusercontent.com/procount/pinn-os/master/os/pinn.png",
-            "url": "https://github.com/procount/pinn/releases/download/p3.7.1/pinn-lite.img.zip",
+            "url": "https://github.com/procount/pinn/releases/download/p3.7.2/pinn-lite.img.zip",
             "url2": "http://downloads.sourceforge.net/project/pinn/Etcher/pinn-lite.img.zip",
-            "description": "A multi-boot OS installer with OS admin features v3.7.1",
+            "description": "A multi-boot OS installer with OS admin features v3.7.2",
             "name": "PINN on Github",
-            "release_date": "2021-10-17",
+            "release_date": "2021-11-07",
             "extract_size": 69206016,
-            "extract_sha256": "394367af58c25ee96582ef12193391bcfff0dc1d3966f467e547db7c4a7b73b2",
-            "image_download_size": 49880820
+            "extract_sha256": "5814daa590cfe6478d9ff6282896828a10e6be35100e6364a04eb07828290385",
+            "image_download_size": 49905095
         }
     ]
 }
