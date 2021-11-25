@@ -12,6 +12,7 @@
             "partition_setup": "http://downloads.raspberrypi.org/raspios_full_armhf/partition_setup.sh",
             "partitions_info": "http://downloads.raspberrypi.org/raspios_full_armhf/partitions.json",
             "release_date": "2021-10-30",
+            "version": "bullseye",
             "supported_hex_revisions": "2,3,4,5,6,7,8,9,d,e,f,10,11,12,14,19,1040,1041,0092,0093,2082",
             "supported_models": [
                 "Pi Model",
@@ -38,6 +39,7 @@
             "partition_setup": "http://downloads.raspberrypi.org/raspios_armhf/partition_setup.sh",
             "partitions_info": "http://downloads.raspberrypi.org/raspios_armhf/partitions.json",
             "release_date": "2021-10-30",
+            "version": "bullseye",
             "supported_hex_revisions": "2,3,4,5,6,7,8,9,d,e,f,10,11,12,14,19,1040,1041,0092,0093,2082",
             "supported_models": [
                 "Pi Model",
@@ -64,6 +66,7 @@
             "partition_setup": "http://downloads.raspberrypi.org/raspios_lite_armhf/partition_setup.sh",
             "partitions_info": "http://downloads.raspberrypi.org/raspios_lite_armhf/partitions.json",
             "release_date": "2021-10-30",
+            "version": "bullseye",
             "supported_hex_revisions": "2,3,4,5,6,7,8,9,d,e,f,10,11,12,14,19,1040,1041,0092,0093,2082",
             "supported_models": [
                 "Pi Model",
@@ -88,6 +91,7 @@
             "partition_setup": "http://releases.libreelec.tv/noobs/LibreELEC_RPi/partition_setup.sh",
             "partitions_info": "http://releases.libreelec.tv/noobs/LibreELEC_RPi/partitions.json",
             "release_date": "2020-10-24",
+            "version": "9.2.6",
             "supported_hex_revisions": "2,3,4,5,6,7,8,9,d,e,f,10,11,12,14,19,0092",
             "supported_models": [
                 "Pi Model",
@@ -110,6 +114,7 @@
             "partition_setup": "http://releases.libreelec.tv/noobs/LibreELEC_RPi2/partition_setup.sh",
             "partitions_info": "http://releases.libreelec.tv/noobs/LibreELEC_RPi2/partitions.json",
             "release_date": "2020-10-25",
+            "version": "9.2.6",
             "supported_hex_revisions": "1040,1041,2082",
             "supported_models": [
                 "Pi 2",
@@ -131,6 +136,7 @@
             "partition_setup": "http://releases.libreelec.tv/noobs/LibreELEC_RPi4/partition_setup.sh",
             "partitions_info": "http://releases.libreelec.tv/noobs/LibreELEC_RPi4/partitions.json",
             "release_date": "2021-08-11",
+            "version": "10.0.0",
             "supported_hex_revisions": "",
             "supported_models": [
                 "Pi 4"
@@ -151,6 +157,7 @@
             "partition_setup": "http://download.osmc.tv/installers/noobs/partition_setup.sh",
             "partitions_info": "http://download.osmc.tv/installers/noobs/partitions-pi1.json",
             "release_date": "2020-11-25",
+            "version": "2020.11-1",
             "supported_hex_revisions": "2,3,4,5,6,7,8,9,d,e,f,10,11,12,14,19,0092,0093",
             "supported_models": [
                 "Pi Model",
@@ -174,6 +181,7 @@
             "partition_setup": "http://download.osmc.tv/installers/noobs/partition_setup.sh",
             "partitions_info": "http://download.osmc.tv/installers/noobs/partitions-pi2.json",
             "release_date": "2021-08-08",
+            "version": "2021.08-1",
             "supported_hex_revisions": "1040,1041,2082",
             "supported_models": [
                 "Pi 2",
@@ -191,6 +199,7 @@
             "icon": "https://upgrade.recalbox.com/latest/noobs/recalbox.png",
             "marketing_info": "https://upgrade.recalbox.com/latest/noobs/marketing.tar",
             "nominal_size": 7168,
+            "version": "7.2.2-Reloaded",
             "os_info": "https://upgrade.recalbox.com/latest/noobs/os.json",
             "partitions_info": "https://upgrade.recalbox.com/latest/noobs/rpi1/partitions.json",
             "release_date": "2021-06-18",
@@ -207,6 +216,7 @@
             "icon": "https://upgrade.recalbox.com/latest/noobs/recalbox.png",
             "marketing_info": "https://upgrade.recalbox.com/latest/noobs/marketing.tar",
             "nominal_size": 7168,
+            "version": "7.2.2-Reloaded",
             "os_info": "https://upgrade.recalbox.com/latest/noobs/os.json",
             "partitions_info": "https://upgrade.recalbox.com/latest/noobs/rpi2/partitions.json",
             "release_date": "2021-06-18",
@@ -220,6 +230,7 @@
             "icon": "https://upgrade.recalbox.com/latest/noobs/recalbox.png",
             "marketing_info": "https://upgrade.recalbox.com/latest/noobs/marketing.tar",
             "nominal_size": 7168,
+            "version": "7.2.2-Reloaded",
             "os_info": "https://upgrade.recalbox.com/latest/noobs/os.json",
             "partitions_info": "https://upgrade.recalbox.com/latest/noobs/rpi3/partitions.json",
             "release_date": "2021-06-18",
@@ -234,6 +245,7 @@
             "icon": "https://upgrade.recalbox.com/latest/noobs/recalbox.png",
             "marketing_info": "https://upgrade.recalbox.com/latest/noobs/marketing.tar",
             "nominal_size": 7168,
+            "version": "7.2.2-Reloaded",
             "os_info": "https://upgrade.recalbox.com/latest/noobs/os.json",
             "partitions_info": "https://upgrade.recalbox.com/latest/noobs/rpi4/partitions.json",
             "release_date": "2021-06-18",
@@ -253,6 +265,7 @@
             "partition_setup": "https://le.builds.lakka.tv/noobs/Lakka_RPi/partition_setup.sh",
             "partitions_info": "https://le.builds.lakka.tv/noobs/Lakka_RPi/partitions.json",
             "release_date": "2021-10-24",
+            "version": "3.6",
             "supported_models": [
                 "Pi Model",
                 "Pi Compute Module",
@@ -278,6 +291,7 @@
             "partition_setup": "https://le.builds.lakka.tv/noobs/Lakka_RPi2/partition_setup.sh",
             "partitions_info": "https://le.builds.lakka.tv/noobs/Lakka_RPi2/partitions.json",
             "release_date": "2021-10-24",
+            "version": "3.6",
             "supported_models": [
                 "Pi 2",
                 "Pi 3"
@@ -301,6 +315,7 @@
             "partition_setup": "https://le.builds.lakka.tv/noobs/Lakka_RPi4/partition_setup.sh",
             "partitions_info": "https://le.builds.lakka.tv/noobs/Lakka_RPi4/partitions.json",
             "release_date": "2021-10-24",
+            "version": "3.6",
             "supported_models": [
                 "Pi 4"
             ],
@@ -323,6 +338,7 @@
             "partition_setup": "https://le.builds.lakka.tv/noobs/Lakka_RPi4_64/partition_setup.sh",
             "partitions_info": "https://le.builds.lakka.tv/noobs/Lakka_RPi4_64/partitions.json",
             "release_date": "2021-10-24",
+            "version": "3.6",
             "supported_models": [
                 "Pi 4"
             ],
@@ -343,6 +359,7 @@
             "partition_setup": "https://releases.screenlyapp.com/NOOBS/partition_setup.sh",
             "partitions_info": "https://releases.screenlyapp.com/NOOBS/partitions.json",
             "release_date": "2019-09-25",
+            "version": "stretch",
             "supported_models": [
                 "Pi Model",
                 "Pi 2",
@@ -367,6 +384,7 @@
             "partitions_info": "http://packages.riscosopen.org/noobs/partitions.json",
             "release_date": "2020-12-24",
             "riscos_offset": 1760,
+            "version": "5.28",
             "supported_hex_revisions": "2,3,4,5,6,7,8,9,d,e,f,10,11,12,14,19,1040,1041",
             "supported_models": [
                 "Pi Model",
@@ -393,6 +411,7 @@
             "partition_setup": "https://iottools.blob.core.windows.net/win10iotnoobs/partition_setup.sh",
             "partitions_info": "https://iottools.blob.core.windows.net/win10iotnoobs/partitions.json",
             "release_date": "2016-08-02",
+            "version": "10",
             "supported_hex_revisions": "1040,1041,2082",
             "supported_models": [
                 "Pi 2",
@@ -419,6 +438,7 @@
             "partition_setup": "http://rpi.thinlinx.com/NOOBS/TLX_RPi_IoT/partition_setup.sh",
             "partitions_info": "http://rpi.thinlinx.com/NOOBS/TLX_RPi_IoT/partitions.json",
             "release_date": "2021-05-16",
+            "version": "4.8.2",
             "supported_models": [
                 "Pi Model",
                 "Pi Zero W Rev",
