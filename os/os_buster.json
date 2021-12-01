@@ -1,0 +1,88 @@
+{
+    "os_list": [
+        {
+            "description": "A port of Debian with desktop and recommended applications",
+            "download_size": 2265715108,
+            "feature_level": 35120124,
+            "group": "Legacy",
+            "icon": "http://downloads.raspberrypi.org/raspios_full_armhf/archive/2021-05-28-15:50/Raspberry_Pi_OS_Full_(32-bit).png",
+            "marketing_info": "http://downloads.raspberrypi.org/raspios_full_armhf/archive/2021-05-28-15:50/marketing.tar",
+            "nominal_size": 9000,
+            "os_info": "http://downloads.raspberrypi.org/raspios_full_armhf/archive/2021-05-28-15:50/os.json",
+            "os_name": "Raspberry Pi OS Full (32-bit)",
+            "partition_setup": "http://downloads.raspberrypi.org/raspios_full_armhf/archive/2021-05-28-15:50/partition_setup.sh",
+            "partitions_info": "http://downloads.raspberrypi.org/raspios_full_armhf/archive/2021-05-28-15:50/partitions.json",
+            "release_date": "2021-03-04",
+            "version": "buster",
+            "supported_hex_revisions": "2,3,4,5,6,7,8,9,d,e,f,10,11,12,14,19,1040,1041,0092,0093,2082",
+            "supported_models": [
+                "Pi Model",
+                "Pi 2",
+                "Pi Zero",
+                "Pi 3",
+                "Pi Compute Module 3",
+                "Pi 4"
+            ],
+            "tarballs": [
+                "http://downloads.raspberrypi.org/raspios_full_armhf/archive/2021-05-28-15:50/boot.tar.xz",
+                "http://downloads.raspberrypi.org/raspios_full_armhf/archive/2021-05-28-15:50/root.tar.xz"
+            ]
+        },
+        {
+            "description": "A port of Debian with the Raspberry Pi Desktop",
+            "download_size": 882855700,
+            "feature_level": 35120124,
+            "group": "Legacy",
+            "icon": "http://downloads.raspberrypi.org/raspios_armhf/archive/2021-05-28-15:45/Raspberry_Pi_OS_(32-bit).png",
+            "marketing_info": "http://downloads.raspberrypi.org/raspios_armhf/archive/2021-05-28-15:45/marketing.tar",
+            "nominal_size": 3942,
+            "os_info": "http://downloads.raspberrypi.org/raspios_armhf/archive/2021-05-28-15:45/os.json",
+            "os_name": "Raspberry Pi OS (32-bit)",
+            "partition_setup": "http://downloads.raspberrypi.org/raspios_armhf/archive/2021-05-28-15:45/partition_setup.sh",
+            "partitions_info": "http://downloads.raspberrypi.org/raspios_armhf/archive/2021-05-28-15:45/partitions.json",
+            "release_date": "2021-03-04",
+            "version": "buster",
+            "supported_hex_revisions": "2,3,4,5,6,7,8,9,d,e,f,10,11,12,14,19,1040,1041,0092,0093,2082",
+            "supported_models": [
+                "Pi Model",
+                "Pi 2",
+                "Pi Zero",
+                "Pi 3",
+                "Pi Compute Module 3",
+                "Pi 4"
+            ],
+            "tarballs": [
+                "http://downloads.raspberrypi.org/raspios_armhf/archive/2021-05-28-15:45/boot.tar.xz",
+                "http://downloads.raspberrypi.org/raspios_armhf/archive/2021-05-28-15:45/root.tar.xz"
+            ]
+        },
+        {
+            "description": "A port of Debian with no desktop environment",
+            "download_size": 319678368,
+            "feature_level": 35120124,
+            "group": "Legacy",
+            "icon": "http://downloads.raspberrypi.org/raspios_lite_armhf/archive/2021-05-28-15:48/Raspberry_Pi_OS_Lite_(32-bit).png",
+            "marketing_info": "http://downloads.raspberrypi.org/raspios_lite_armhf/archive/2021-05-28-15:48/marketing.tar",
+            "nominal_size": 2043,
+            "os_info": "http://downloads.raspberrypi.org/raspios_lite_armhf/archive/2021-05-28-15:48/os.json",
+            "os_name": "Raspberry Pi OS Lite (32-bit)",
+            "partition_setup": "http://downloads.raspberrypi.org/raspios_lite_armhf/archive/2021-05-28-15:48/partition_setup.sh",
+            "partitions_info": "http://downloads.raspberrypi.org/raspios_lite_armhf/archive/2021-05-28-15:48/partitions.json",
+            "release_date": "2021-03-04",
+            "version": "buster",
+            "supported_hex_revisions": "2,3,4,5,6,7,8,9,d,e,f,10,11,12,14,19,1040,1041,0092,0093,2082",
+            "supported_models": [
+                "Pi Model",
+                "Pi 2",
+                "Pi Zero",
+                "Pi 3",
+                "Pi Compute Module",
+                "Pi 4"
+            ],
+            "tarballs": [
+                "http://downloads.raspberrypi.org/raspios_lite_armhf/archive/2021-05-28-15:48/boot.tar.xz",
+                "http://downloads.raspberrypi.org/raspios_lite_armhf/archive/2021-05-28-15:48/root.tar.xz"
+            ]
+        }
+    ]
+}
