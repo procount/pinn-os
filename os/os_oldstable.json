@@ -1,0 +1,59 @@
+{
+	"os_list": [
+        {
+            "os_name":	    "raspios_oldstable",
+            "description":  "A port of Debian Buster stable with the Raspberry Pi Desktop",
+            "release_date": "2021-12-02",
+            "version": "buster",
+            "supported_models": [
+                "Pi Model",
+                "Pi 2",
+                "Pi Zero",
+                "Pi 3",
+                "Pi Compute Module 3",
+                "Pi 4"
+            ],
+            "url":             "http://www.raspbian.org/",
+            "group":           "Legacy",
+            "download_size":   785260704,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/raspios_oldstable/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/raspios_oldstable/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/raspios_oldstable/raspios_oldstable.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/raspios_oldstable/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/raspios_oldstable/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/raspios_oldstable/boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/raspios_oldstable/root.tar.xz"
+            ],
+            "nominal_size": 3444
+        }
+,
+        {
+            "os_name":	    "raspios_oldstable_lite",
+            "description":  "A port of Debian Buster oldstable with no desktop environment",
+            "release_date": "2021-12-02",
+            "version": "buster",
+            "supported_models": [
+                "Pi Model",
+                "Pi 2",
+                "Pi Zero",
+                "Pi 3",
+                "Pi Compute Module 3",
+                "Pi 4"
+            ],
+            "url":             "http://www.raspbian.org/",
+            "group":           "Legacy",
+            "download_size":   288993220,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/raspios_oldstable_lite/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/raspios_oldstable_lite/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/raspios_oldstable_lite/raspios_oldstable_lite.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/raspios_oldstable_lite/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/raspios_oldstable_lite/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/raspios_oldstable_lite/boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/raspios_oldstable_lite/root.tar.xz"
+            ],
+            "nominal_size": 1739
+        }
+	]
+}

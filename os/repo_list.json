@@ -20,6 +20,10 @@
 		{
 			"name" : "Sakaki",
 			"url"  : "https://isshoni.org/pinn/os/os_list_v3.json"
+		},
+		{
+			"name" : "Legacy",
+			"url"  : "http://raw.githubusercontent.com/procount/pinn-os/master/os/os_oldstable.json"
 		}
 	]
 }
