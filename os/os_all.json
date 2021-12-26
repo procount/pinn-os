@@ -572,13 +572,100 @@
             "nominal_size": 5230
         }
 ,
-
-
-
-
-
-
-
+        {
+            "os_name":	    "lineage18-rpi4",
+            "description":  "Lineage OS (KonstaKANG) 18.1 for RPi4",
+            "release_date": "2021-11-23",
+            "feature_level": 0,
+            "supported_hex_revisions": "2082",    
+            "supported_models": [
+                "Pi 4"
+            ],
+            "supports_usb_boot":       false,
+            "supports_usb_root":       false,
+            "supports_sda_boot":       true,
+            "supports_sda_root":       true,
+            "supports_backup": true,
+            "url":             "http://konstakang.com/devices/rpi4/",
+            "group":           "General",
+            "download_size":   482190256,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/lineage18-rpi4/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/lineage18-rpi4/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/lineage18-rpi4/lineage18-rpi4.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/lineage18-rpi4/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/lineage18-rpi4/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage18-rpi4/boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage18-rpi4/system.img.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage18-rpi4/vendor.img.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage18-rpi4/userdata.tar.xz"
+            ],
+            "nominal_size": 7032
+        }
+,
+        {
+            "os_name":	    "lineage18-rpi4-atv",
+            "description":  "Lineage OS (KonstaKANG) 18.1 for RPi4",
+            "release_date": "2021-11-23",
+            "feature_level": 0,
+            "supported_hex_revisions": "2082",
+            "supported_models": [
+                "Pi 4"
+            ],
+            "supports_usb_boot":       false,
+            "supports_usb_root":       false,
+            "supports_sda_boot":       true,
+            "supports_sda_root":       true,
+            "supports_backup": true,
+            "url":             "http://konstakang.com/devices/rpi4/",
+            "group":           "General",
+            "download_size":   391002312,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/lineage18-rpi4-atv/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/lineage18-rpi4-atv/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/lineage18-rpi4-atv/lineage18-rpi4-atv.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/lineage18-rpi4-atv/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/lineage18-rpi4-atv/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage18-rpi4-atv/boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage18-rpi4-atv/system.img.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage18-rpi4-atv/vendor.img.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage18-rpi4-atv/userdata.tar.xz"
+            ],
+            "nominal_size": 7032
+        }
+,
+        {
+            "os_name":	    "lineage19-rpi4",
+            "description":  "Lineage OS (KonstaKANG) 19.0 for RPi4",
+            "release_date": "2021-12-16",
+            "feature_level": 0,
+            "supported_hex_revisions": "2082",
+            "supported_models": [
+                "Pi 4"
+            ],
+            "supports_usb_boot":       false,
+            "supports_usb_root":       false,
+            "supports_sda_boot":       true,
+            "supports_sda_root":       true,
+            "version":                 "19.0",
+            "supports_backup": true,
+            "url":             "http://konstakang.com/devices/rpi4/",
+            "group":           "General",
+            "download_size":   494686776,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/lineage19-rpi4/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/lineage19-rpi4/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/lineage19-rpi4/lineage19-rpi4.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/lineage19-rpi4/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/lineage19-rpi4/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage19-rpi4/boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage19-rpi4/system.img.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage19-rpi4/vendor.img.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage19-rpi4/userdata.tar.xz"
+            ],
+            "nominal_size": 6958
+        }
+,
         {
             "os_name":	    "manjaro-kde-rpi4",
             "description":  "manjaro-kde-rpi4 16.0 for RPi4",
