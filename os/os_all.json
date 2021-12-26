@@ -1,5 +1,5 @@
 {
-  "os_list" : [ 
+  "os_list" : [
         {
             "os_name":	    "AIYprojects",
             "description":  "Raspbian image for Google Assistant projects",
@@ -60,11 +60,11 @@
             "description":  "An Arch Linux port for ARM devices RPi2/3",
             "release_date": "2018-01-28",
             "feature_level": 0,
-            "supported_hex_revisions": "1040,1041,2082",    
+            "supported_hex_revisions": "1040,1041,2082",
             "supported_models": [
                 "Pi 2",
                 "Pi 3"
-            ],            
+            ],
             "supports_backup": "update",
             "url":      "https://archlinuxarm.org/platforms/armv6/raspberry-pi",
             "group":    "Minimal",
@@ -88,7 +88,7 @@
             "feature_level": 0,
             "supported_models": [
                 "Pi 4"
-            ],            
+            ],
             "supports_backup": "update",
             "url":              "http://archlinuxarm.org/platforms/armv8/broadcom/raspberry-pi-4",
             "group":            "Minimal",
@@ -161,10 +161,10 @@
             "description":  "A devuan2 Linux port for ARM devices RPi2/3",
             "release_date": "2018-06-06",
             "feature_level": 0,
-            "supported_hex_revisions": "1040,1041,2082",    
+            "supported_hex_revisions": "1040,1041,2082",
             "supported_models": [
                 "Pi 2"
-            ],            
+            ],
             "group":           "Minimal",
             "download_size":    151935576,
             "os_info":         "http://downloads.sourceforge.net/project/pinn/testing/devuan2/os.json",
@@ -184,10 +184,10 @@
             "description":  "A devuan3 Linux port for ARM devices RPi2/3",
             "release_date": "2018-06-06",
             "feature_level": 0,
-            "supported_hex_revisions": "1040,1041,2082",    
+            "supported_hex_revisions": "1040,1041,2082",
             "supported_models": [
                 "Pi 3"
-            ],            
+            ],
             "group":           "Minimal",
             "download_size":    153616860,
             "os_info":         "http://downloads.sourceforge.net/project/pinn/testing/devuan3/os.json",
@@ -207,7 +207,7 @@
             "description":  "A hypriotos Linux port for ARM devices RPi0/1",
             "release_date": "2017-03-19",
             "feature_level": 35644412,
-            "supported_hex_revisions": "2,3,4,5,6,7,8,9,0d,0e,0f,10,11,12,13,14,1040,1041,2042,2082,20a0",    
+            "supported_hex_revisions": "2,3,4,5,6,7,8,9,0d,0e,0f,10,11,12,13,14,1040,1041,2042,2082,20a0",
             "supported_models": [
                 "Pi Model",
                 "Pi Compute Module",
@@ -267,7 +267,7 @@
             "supported_models": [
                "Pi 2",
                "Pi 3 Model B Rev"
-            ],  
+            ],
             "url":              "https://www.kali.org/",
             "group":            "General",
             "os_info":          "http://downloads.sourceforge.net/project/pinn/os/kali2/os.json",
@@ -287,7 +287,7 @@
             "description":             "A port of 32-bit Kali Linux for Pi 2 through 4 with desktop and recommended applications",
             "release_date":            "2020-12-17",
             "group" :                  "General",
-            "download_size":           1993287180,           
+            "download_size":           1993287180,
             "supported_models": [
                 "Pi 2",
                 "Pi 3",
@@ -369,10 +369,10 @@
             "description":  "lede2RPi2 18.06.4 for the Raspberry Pi2 (open-wrt)",
             "release_date": "2019-07-01",
             "feature_level": 0,
-            "supported_hex_revisions": "1040,1041",    
+            "supported_hex_revisions": "1040,1041",
             "supported_models": [
                 "Pi 2"
-            ],            
+            ],
             "supports_backup":  true,
             "url":              "https://openwrt.org",
             "group":            "Minimal",
@@ -394,10 +394,10 @@
             "description":  "lede2RPi3 18.06.4 for the Raspberry Pi3 (open-wrt)",
             "release_date": "2019-07-01",
             "feature_level": 0,
-            "supported_hex_revisions": "2082",    
+            "supported_hex_revisions": "2082",
             "supported_models": [
                   "Pi 3 Model B Rev"
-            ],            
+            ],
             "supports_backup":  true,
             "url":              "https://openwrt.org",
             "group":            "Minimal",
@@ -483,7 +483,7 @@
             "description":  "Lineage OS (KonstaKANG) 17.1 for RPi3",
             "release_date": "2020-11-08",
             "feature_level": 0,
-            "supported_hex_revisions": "2082",    
+            "supported_hex_revisions": "2082",
             "supported_models": [
                 "Pi 3 Model B Rev",
                 "Pi 3 Model B Plus Rev",
@@ -515,7 +515,7 @@
             "description":  "Lineage OS (KonstaKANG) 17.1 for RPi4",
             "release_date": "2020-11-20",
             "feature_level": 0,
-            "supported_hex_revisions": "2082",    
+            "supported_hex_revisions": "2082",
             "supported_models": [
                 "Pi 4"
             ],
@@ -546,7 +546,7 @@
             "description":  "Lineage OS (KonstaKANG) 17.1 Analog TV build for RPi4",
             "release_date": "2020-11-21",
             "feature_level": 0,
-            "supported_hex_revisions": "2082",    
+            "supported_hex_revisions": "2082",
             "supported_models": [
                 "Pi 4"
             ],
@@ -573,100 +573,12 @@
         }
 ,
 
-        {
-            "os_name":	    "lineage18-rpi4",
-            "description":  "Lineage OS (KonstaKANG) 18.1 for RPi4",
-            "release_date": "2021-04-11",
-            "feature_level": 0,
-            "supported_hex_revisions": "2082",    
-            "supported_models": [
-                "Pi 4"
-            ],
-            "supports_usb_boot":       false,
-            "supports_usb_root":       false,
-            "supports_sda_boot":       true,
-            "supports_sda_root":       true,
-            "supports_backup": true,
-            "url":             "http://konstakang.com/devices/rpi4/",
-            "group":           "General",
-            "download_size":   391041604,
-            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/lineage18-rpi4/os.json",
-            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/lineage18-rpi4/partitions.json",
-            "icon":            "http://downloads.sourceforge.net/project/pinn/os/lineage18-rpi4/lineage18-rpi4.png",
-            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/lineage18-rpi4/marketing.tar",
-            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/lineage18-rpi4/partition_setup.sh",
-            "tarballs": [
-                               "http://downloads.sourceforge.net/project/pinn/os/lineage18-rpi4/boot.tar.xz",
-                               "http://downloads.sourceforge.net/project/pinn/os/lineage18-rpi4/system.img.xz",
-                               "http://downloads.sourceforge.net/project/pinn/os/lineage18-rpi4/vendor.img.xz",
-                               "http://downloads.sourceforge.net/project/pinn/os/lineage18-rpi4/userdata.tar.xz"
-            ],
-            "nominal_size": 7024
-        }
-,
-        {
-            "os_name":	    "lineage18-rpi4-atv",
-            "description":  "Lineage OS (KonstaKANG) 18.1 for RPi4",
-            "release_date": "2021-03-06",
-            "feature_level": 0,
-            "supported_hex_revisions": "2082",    
-            "supported_models": [
-                "Pi 4"
-            ],
-            "supports_usb_boot":       false,
-            "supports_usb_root":       false,
-            "supports_sda_boot":       true,
-            "supports_sda_root":       true,
-            "supports_backup": true,
-            "url":             "http://konstakang.com/devices/rpi4/",
-            "group":           "Media",
-            "download_size":   300688836,
-            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/lineage18-rpi4-atv/os.json",
-            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/lineage18-rpi4-atv/partitions.json",
-            "icon":            "http://downloads.sourceforge.net/project/pinn/os/lineage18-rpi4-atv/lineage18-rpi4-atv.png",
-            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/lineage18-rpi4-atv/marketing.tar",
-            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/lineage18-rpi4-atv/partition_setup.sh",
-            "tarballs": [
-                               "http://downloads.sourceforge.net/project/pinn/os/lineage18-rpi4-atv/boot.tar.xz",
-                               "http://downloads.sourceforge.net/project/pinn/os/lineage18-rpi4-atv/system.img.xz",
-                               "http://downloads.sourceforge.net/project/pinn/os/lineage18-rpi4-atv/vendor.img.xz",
-                               "http://downloads.sourceforge.net/project/pinn/os/lineage18-rpi4-atv/userdata.tar.xz"
-            ],
-            "nominal_size": 7024
-        }
-,
-        {
-            "os_name":	    "lineage19-rpi4",
-            "description":  "Lineage OS (KonstaKANG) 19.0 for RPi4",
-            "release_date": "2021-11-04",
-            "feature_level": 0,
-            "supported_hex_revisions": "2082",
-            "supported_models": [
-                "Pi 4"
-            ],
-            "supports_usb_boot":       false,
-            "supports_usb_root":       false,
-            "supports_sda_boot":       true,
-            "supports_sda_root":       true,
-            "version":                 "19.0",
-            "supports_backup": true,
-            "url":             "http://konstakang.com/devices/rpi4/",
-            "group":           "General",
-            "download_size":   487938888,
-            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/lineage19-rpi4/os.json",
-            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/lineage19-rpi4/partitions.json",
-            "icon":            "http://downloads.sourceforge.net/project/pinn/os/lineage19-rpi4/lineage19-rpi4.png",
-            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/lineage19-rpi4/marketing.tar",
-            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/lineage19-rpi4/partition_setup.sh",
-            "tarballs": [
-                               "http://downloads.sourceforge.net/project/pinn/os/lineage19-rpi4/boot.tar.xz",
-                               "http://downloads.sourceforge.net/project/pinn/os/lineage19-rpi4/system.img.xz",
-                               "http://downloads.sourceforge.net/project/pinn/os/lineage19-rpi4/vendor.img.xz",
-                               "http://downloads.sourceforge.net/project/pinn/os/lineage19-rpi4/userdata.tar.xz"
-            ],
-            "nominal_size": 6958
-        }
-,
+
+
+
+
+
+
         {
             "os_name":	    "manjaro-kde-rpi4",
             "description":  "manjaro-kde-rpi4 16.0 for RPi4",
@@ -757,13 +669,13 @@
                 "http://download.osmc.tv/installers/noobs/root-rbp4.tar.xz"
             ]
         },
-		
+
         {
             "os_name":	    "picore",
             "description":  "A picore port of Tiny Core Linux RPi0/1/2/3",
             "release_date": "2017-06-20",
             "feature_level": 35644412,
-            "supported_hex_revisions": "1040,1041,2082",    
+            "supported_hex_revisions": "1040,1041,2082",
             "supported_models": [
                 "Pi Model",
                 "Pi Compute Module",
@@ -905,7 +817,7 @@
                "Pi 2",
                 "Pi 3 Model B Rev",
                 "Pi 3 Model B Plus Rev"
-            ],                
+            ],
             "url":             "https://pi-top.com/get-started",
             "group":           "Education",
             "download_size":    1356284612,
@@ -929,7 +841,7 @@
                 "Pi 2",
                 "Pi 3",
                 "Pi Compute Module 3"
-            ],            
+            ],
             "url":             "https://www.playpiper.com/",
             "group":           "Education",
             "download_size":   2256003392,
@@ -950,11 +862,11 @@
             "description":  "Quirky is a Puppy Linux based distro (small)",
             "release_date": "2016-12-13",
             "feature_level": 0,
-            "supported_hex_revisions": "1040,1041,2082",    
+            "supported_hex_revisions": "1040,1041,2082",
             "supported_models": [
                 "Pi 2",
                 "Pi 3 Model B Rev"
-            ],            
+            ],
             "supports_usb_boot": false,
             "url":             "http://barryk.org/quirky/",
             "group":           "Minimal",
@@ -1004,7 +916,7 @@
             "description":  "Raspex with LXDE based on Ubuntu 18.04 LTS",
             "release_date": "2018-03-28",
             "feature_level": 0,
-            "supported_hex_revisions": "1040,1041,2082",    
+            "supported_hex_revisions": "1040,1041,2082",
             "supported_models": [
                 "Pi 2",
                 "Pi 3 Model B Rev",
@@ -1099,7 +1011,7 @@
                 ""
             ],
             "nominal_size": 7168
-        }        
+        }
 ,
         {
             "os_name":                 "recalbox-rpi2",
@@ -1148,7 +1060,7 @@
                 ""
             ],
             "nominal_size": 7168
-        }        
+        }
 ,
         {
             "os_name":                 "recalbox-rpi4",
@@ -1216,11 +1128,11 @@
             "description":  "Retropie3 v4.7.1 gaming distro using Emulation Station for RPi2/3B+",
             "release_date": "2020-11-04",
             "feature_level": 0,
-            "supported_hex_revisions": "1040,1041,2082",    
+            "supported_hex_revisions": "1040,1041,2082",
             "supported_models": [
                 "Pi 2",
                 "Pi 3"
-            ],            
+            ],
             "url":             "https://retropie.org.uk/",
             "group":           "Games",
             "download_size":   538825420,
@@ -1241,10 +1153,10 @@
             "description":  "Retropie4 v4.7.1 gaming distro using Emulation Station for RPi4",
             "release_date": "2020-11-04",
             "feature_level": 0,
-            "supported_hex_revisions": "1040,1041,2082",    
+            "supported_hex_revisions": "1040,1041,2082",
             "supported_models": [
                 "Pi 4"
-            ],            
+            ],
             "url":             "https://retropie.org.uk/",
             "group":           "Games",
             "download_size":   539674500,
@@ -1366,7 +1278,7 @@
             "release_date": "2020-10-15",
             "supported_models": [
                 "Pi 4"
-            ],            
+            ],
             "url":             "https://ubuntu/",
             "group":           "General",
             "download_size":   1348820088,
@@ -1414,8 +1326,8 @@
             "supported_models": [
                 "Pi 3",
                 "Pi Compute Module 3",
-                "Pi 4"            
-            ],            
+                "Pi 4"
+            ],
             "url":             "https://ubuntu-mate.org/ports/raspberry-pi/",
             "group":           "General",
             "download_size":   1189870456,
@@ -1569,7 +1481,7 @@
             "description":  "XBian is small, fast and lightweight media center distribution",
             "release_date": "2018-01-12",
             "feature_level": 0,
-            "supported_hex_revisions": "1040,1041,2082",    
+            "supported_hex_revisions": "1040,1041,2082",
             "supported_models": [
                 "Pi 2",
                 "Pi 3 Model B Rev",
@@ -1620,11 +1532,11 @@
             "description":  "A openelec_rpi Linux port for ARM devices RPi2/3",
             "release_date": "2017-04-30",
             "feature_level": 0,
-            "supported_hex_revisions": "1040,1041,2082",    
+            "supported_hex_revisions": "1040,1041,2082",
             "supported_models": [
                 "Pi 2",
                 "Pi 3 Model B Rev"
-            ],            
+            ],
             "url":             "http://openelec.tv/",
             "os_info":         "http://downloads.sourceforge.net/project/pinn/os/openelec_rpi2/os.json",
             "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/openelec_rpi2/partitions.json",
@@ -1644,7 +1556,7 @@
             "release_date": "2018-05-14",
             "feature_level": 0,
             "group":         "Utility",
-            "supported_hex_revisions": "1040,1041,2082",    
+            "supported_hex_revisions": "1040,1041,2082",
             "supported_models": [
                 "Pi Zero",
                 "Pi Model",
