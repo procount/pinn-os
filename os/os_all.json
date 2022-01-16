@@ -713,6 +713,35 @@
         }
 ,
         {
+            "os_name":	     "moode",
+            "description":  "moode 7.6.1 Audiophile-quality music playback for the wonderful Raspberry Pi family of single board computers",
+            "release_date": "2021-12-17",
+            "version":      "7.6.1",
+            "supported_models": [
+                "Pi Model",
+                "Pi 2",
+                "Pi Zero",
+                "Pi 3",
+                "Pi Compute Module 3",
+                "Pi 4"
+            ],
+            "supports_usb_boot": true,
+            "supports_usb_root": true,
+            "group":            "Media",
+            "download_size":    775997432,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/moode/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/moode/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/moode/moode.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/moode/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/moode/partition_setup.sh",
+            "tarballs": [
+                "http://downloads.sourceforge.net/project/pinn/os/moode/boot.tar.xz",
+                "http://downloads.sourceforge.net/project/pinn/os/moode/root.tar.xz"
+            ],
+            "nominal_size": 4160
+        }
+,
+        {
             "os_name":	    "OpenPlotter",
             "description":  "v0.10.0alpha. The open-source sailing platform for ARM computers",
             "release_date": "2017-03-02",
