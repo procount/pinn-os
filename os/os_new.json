@@ -252,5 +252,28 @@
             ],
             "nominal_size": 123
         }
+,
+        {
+            "os_name":	    "ubuntu2110",
+            "description":  "ubuntu2110 v21.10 desktop for RPi4",
+            "release_date": "2021-10-14",
+            "supported_models": [
+                "Pi Compute Module 4",
+                "Pi 4"
+            ],            
+            "url":             "https://ubuntu/",
+            "group":           "General",
+            "download_size":   1647079948,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os_next/ubuntu2110/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os_next/ubuntu2110/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os_next/ubuntu2110/ubuntu2110.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os_next/ubuntu2110/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os_next/ubuntu2110/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os_next/ubuntu2110/system-boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os_next/ubuntu2110/writable.tar.xz"
+            ],
+            "nominal_size": 8727
+        }
     ]
 }
