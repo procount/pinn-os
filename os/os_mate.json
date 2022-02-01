@@ -1,0 +1,53 @@
+{
+    "os_list":
+    [
+        {
+            "os_name":	    "ubuntumate2110_64",
+            "description":  "ubuntumate2110_64 v21.10 for RPi 3/4",
+            "release_date": "2021-10-15",
+            "supported_models": [
+                "Pi 3",
+                "Pi Compute Module 3",
+                "Pi 4"            
+            ],            
+            "url":             "https://ubuntu-mate.org/ports/raspberry-pi/",
+            "group":           "General",
+            "download_size":   1618766380,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os_next/ubuntumate2110_64/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os_next/ubuntumate2110_64/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os_next/ubuntumate2110_64/ubuntumate2110_64.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os_next/ubuntumate2110_64/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os_next/ubuntumate2110_64/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os_next/ubuntumate2110_64/system-boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os_next/ubuntumate2110_64/writable.tar.xz"
+            ],
+            "nominal_size": 6512
+        }
+,
+        {
+            "os_name":	    "ubuntumate2110",
+            "description":  "ubuntumate2110 v21.10 for RPi 3/4",
+            "release_date": "2021-10-15",
+            "supported_models": [
+                "Pi 3",
+                "Pi Compute Module 3",
+                "Pi 4"
+            ],
+            "url":             "https://ubuntu-mate.org/ports/raspberry-pi/",
+            "group":           "General",
+            "download_size":   1563079616,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os_next/ubuntumate2110/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os_next/ubuntumate2110/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os_next/ubuntumate2110/ubuntumate2110.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os_next/ubuntumate2110/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os_next/ubuntumate2110/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os_next/ubuntumate2110/system-boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os_next/ubuntumate2110/writable.tar.xz"
+            ],
+            "nominal_size": 6512
+        }
+    ]
+}
+
