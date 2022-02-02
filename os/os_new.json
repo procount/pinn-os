@@ -5,7 +5,7 @@
             "description":  "Lineage OS (KonstaKANG) 17.1 for RPi4",
             "release_date": "2021-01-22",
             "feature_level": 0,
-            "supported_hex_revisions": "2082",    
+            "supported_hex_revisions": "2082",
             "supported_models": [
                 "Pi Compute Module 4",
                 "Pi 4"
@@ -37,7 +37,7 @@
             "description":  "Lineage OS (KonstaKANG) 17.1 for RPi4",
             "release_date": "2021-01-22",
             "feature_level": 0,
-            "supported_hex_revisions": "2082",    
+            "supported_hex_revisions": "2082",
             "supported_models": [
                 "Pi Compute Module 4",
                 "Pi 4"
@@ -69,7 +69,7 @@
             "description":  "Lineage OS (KonstaKANG) 18.1 for RPi4",
             "release_date": "2022-01-21",
             "feature_level": 0,
-            "supported_hex_revisions": "2082",    
+            "supported_hex_revisions": "2082",
             "supported_models": [
                 "Pi Compute Module 4",
                 "Pi 4"
@@ -101,7 +101,7 @@
             "description":  "Lineage OS (KonstaKANG) 18.1 for RPi4",
             "release_date": "2022-01-21",
             "feature_level": 0,
-            "supported_hex_revisions": "2082",    
+            "supported_hex_revisions": "2082",
             "supported_models": [
                 "Pi Compute Module 4",
                 "Pi 4"
@@ -260,7 +260,7 @@
             "supported_models": [
                 "Pi Compute Module 4",
                 "Pi 4"
-            ],            
+            ],
             "url":             "https://ubuntu/",
             "group":           "General",
             "download_size":   1647079948,
