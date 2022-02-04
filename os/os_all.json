@@ -512,6 +512,200 @@
         }
 , 
         {
+            "os_name":	    "lineage17-rpi4-atv",
+            "description":  "Lineage OS (KonstaKANG) 17.1 for RPi4",
+            "release_date": "2021-01-22",
+            "feature_level": 0,
+            "supported_hex_revisions": "2082",
+            "supported_models": [
+                "Pi Compute Module 4",
+                "Pi 4"
+            ],
+            "supports_usb_boot":       false,
+            "supports_usb_root":       false,
+            "supports_sda_boot":       true,
+            "supports_sda_root":       true,
+            "supports_backup": true,
+            "url":             "http://konstakang.com/devices/rpi4/",
+            "group":           "General",
+            "download_size":   274834752,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/lineage17-rpi4-atv/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/lineage17-rpi4-atv/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/lineage17-rpi4-atv/lineage17-rpi4-atv.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/lineage17-rpi4-atv/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/lineage17-rpi4-atv/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage17-rpi4-atv/boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage17-rpi4-atv/system.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage17-rpi4-atv/vendor.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage17-rpi4-atv/userdata.tar.xz"
+            ],
+            "nominal_size": 7024
+        }
+,
+        {
+            "os_name":	    "lineage17-rpi4",
+            "description":  "Lineage OS (KonstaKANG) 17.1 for RPi4",
+            "release_date": "2021-01-22",
+            "feature_level": 0,
+            "supported_hex_revisions": "2082",
+            "supported_models": [
+                "Pi Compute Module 4",
+                "Pi 4"
+            ],
+            "supports_usb_boot":       false,
+            "supports_usb_root":       false,
+            "supports_sda_boot":       true,
+            "supports_sda_root":       true,
+            "supports_backup": true,
+            "url":             "http://konstakang.com/devices/rpi4/",
+            "group":           "General",
+            "download_size":   361130812,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/lineage17-rpi4/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/lineage17-rpi4/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/lineage17-rpi4/lineage17-rpi4.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/lineage17-rpi4/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/lineage17-rpi4/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage17-rpi4/boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage17-rpi4/system.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage17-rpi4/vendor.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage17-rpi4/userdata.tar.xz"
+            ],
+            "nominal_size": 7024
+        }
+,
+        {
+            "os_name":	    "lineage18-rpi4-atv",
+            "description":  "Lineage OS (KonstaKANG) 18.1 for RPi4",
+            "release_date": "2022-01-21",
+            "feature_level": 0,
+            "supported_hex_revisions": "2082",
+            "supported_models": [
+                "Pi Compute Module 4",
+                "Pi 4"
+            ],
+            "supports_usb_boot":       false,
+            "supports_usb_root":       false,
+            "supports_sda_boot":       true,
+            "supports_sda_root":       true,
+            "supports_backup": true,
+            "url":             "http://konstakang.com/devices/rpi4/",
+            "group":           "General",
+            "download_size":   392842876,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/lineage18-rpi4-atv/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/lineage18-rpi4-atv/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/lineage18-rpi4-atv/lineage18-rpi4-atv.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/lineage18-rpi4-atv/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/lineage18-rpi4-atv/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage18-rpi4-atv/boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage18-rpi4-atv/system.img.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage18-rpi4-atv/vendor.img.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage18-rpi4-atv/userdata.tar.xz"
+            ],
+            "nominal_size": 7032
+        }
+,
+        {
+            "os_name":	    "lineage18-rpi4",
+            "description":  "Lineage OS (KonstaKANG) 18.1 for RPi4",
+            "release_date": "2022-01-21",
+            "feature_level": 0,
+            "supported_hex_revisions": "2082",
+            "supported_models": [
+                "Pi Compute Module 4",
+                "Pi 4"
+            ],
+            "supports_usb_boot":       false,
+            "supports_usb_root":       false,
+            "supports_sda_boot":       true,
+            "supports_sda_root":       true,
+            "supports_backup": true,
+            "url":             "http://konstakang.com/devices/rpi4/",
+            "group":           "General",
+            "download_size":   483662184,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/lineage18-rpi4/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/lineage18-rpi4/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/lineage18-rpi4/lineage18-rpi4.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/lineage18-rpi4/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/lineage18-rpi4/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage18-rpi4/boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage18-rpi4/system.img.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage18-rpi4/vendor.img.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage18-rpi4/userdata.tar.xz"
+            ],
+            "nominal_size": 7032
+        }
+,
+        {
+            "os_name":	    "lineage19-rpi4-atv",
+            "description":  "Lineage OS ATV (KonstaKANG) 19.0 for RPi4",
+            "release_date": "2022-01-14",
+            "feature_level": 0,
+            "supported_hex_revisions": "2082",
+            "supported_models": [
+                "Pi Compute Module 4",
+                "Pi 4"
+            ],
+            "supports_usb_boot":       false,
+            "supports_usb_root":       false,
+            "supports_sda_boot":       true,
+            "supports_sda_root":       true,
+            "version":                 "19.0",
+            "supports_backup": true,
+            "url":             "http://konstakang.com/devices/rpi4/",
+            "group":           "General",
+            "download_size":   401231816,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/lineage19-rpi4-atv/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/lineage19-rpi4-atv/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/lineage19-rpi4-atv/lineage19-rpi4-atv.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/lineage19-rpi4-atv/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/lineage19-rpi4-atv/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage19-rpi4-atv/boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage19-rpi4-atv/system.img.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage19-rpi4-atv/vendor.img.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage19-rpi4-atv/userdata.tar.xz"
+            ],
+            "nominal_size": 6958
+        }
+,
+        {
+            "os_name":	    "lineage19-rpi4",
+            "description":  "Lineage OS (KonstaKANG) 19.0 for RPi4",
+            "release_date": "2022-01-14",
+            "feature_level": 0,
+            "supported_hex_revisions": "2082",
+            "supported_models": [
+                "Pi Compute Module 4",
+                "Pi 4"
+            ],
+            "supports_usb_boot":       false,
+            "supports_usb_root":       false,
+            "supports_sda_boot":       true,
+            "supports_sda_root":       true,
+            "version":                 "19.0",
+            "supports_backup": true,
+            "url":             "http://konstakang.com/devices/rpi4/",
+            "group":           "General",
+            "download_size":   496867888,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/lineage19-rpi4/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/lineage19-rpi4/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/lineage19-rpi4/lineage19-rpi4.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/lineage19-rpi4/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/lineage19-rpi4/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage19-rpi4/boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage19-rpi4/system.img.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage19-rpi4/vendor.img.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage19-rpi4/userdata.tar.xz"
+            ],
+            "nominal_size": 6958
+        }
+,
+        {
             "os_name":	    "manjaro-kde-rpi4",
             "description":  "manjaro-kde-rpi4 16.0 for RPi4",
             "release_date": "2020-04-03",
@@ -631,6 +825,66 @@
             ]
         }
 ,
+        {
+            "os_name": "piCorePlayer",
+            "description": "A Squeezebox Audio Device",
+            "release_date": "2021-12-05",
+            "feature_level": 0,
+            "supported_hex_revisions": "2,3,4,5,6,7,8,9,d,e,f,10,11,12,14,19,1040,1041,0092,0093,2082",
+            "supported_models": [
+                "Pi Model",
+                "Pi 2",
+                "Pi Zero",
+                "Pi 3",
+                "Pi Compute Module",
+                "Pi 4"
+            ],
+            "supports_backup":  true,
+            "url":              "https://www.picoreplayer.org/",
+            "group":            "Media",
+            "download_size":    51657816,
+            "os_info":          "http://downloads.sourceforge.net/project/pinn/os/piCorePlayer/os.json",
+            "partitions_info":  "http://downloads.sourceforge.net/project/pinn/os/piCorePlayer/partitions.json",
+            "icon":             "http://downloads.sourceforge.net/project/pinn/os/piCorePlayer/piCorePlayer.png",
+            "marketing_info":   "http://downloads.sourceforge.net/project/pinn/os/piCorePlayer/marketing.tar",
+            "partition_setup":  "http://downloads.sourceforge.net/project/pinn/os/piCorePlayer/partition_setup.sh",
+            "tarballs": [
+                                "http://downloads.sourceforge.net/project/pinn/os/piCorePlayer/boot.tar.xz",
+                                "http://downloads.sourceforge.net/project/pinn/os/piCorePlayer/root.tar.xz"
+            ],
+            "nominal_size": 123
+        }
+,
+        {
+            "os_name": "piCorePlayer64",
+            "description": "A Squeezebox Audio Device",
+            "release_date": "2021-12-05",
+            "feature_level": 0,
+            "supported_hex_revisions": "2,3,4,5,6,7,8,9,d,e,f,10,11,12,14,19,1040,1041,0092,0093,2082",
+            "supported_models": [
+                "Pi Zero 2",
+                "Pi 3",
+                "Pi Compute Module 3",
+                "Pi Compute Module 4",
+                "Pi 4"
+            ],
+            "supports_backup":  true,
+            "url":              "https://www.picoreplayer.org/",
+            "group":            "Media",
+            "download_size":    30049104,
+            "os_info":          "http://downloads.sourceforge.net/project/pinn/os/piCorePlayer64/os.json",
+            "partitions_info":  "http://downloads.sourceforge.net/project/pinn/os/piCorePlayer64/partitions.json",
+            "icon":             "http://downloads.sourceforge.net/project/pinn/os/piCorePlayer64/piCorePlayer64.png",
+            "marketing_info":   "http://downloads.sourceforge.net/project/pinn/os/piCorePlayer64/marketing.tar",
+            "partition_setup":  "http://downloads.sourceforge.net/project/pinn/os/piCorePlayer64/partition_setup.sh",
+            "tarballs": [
+                                "http://downloads.sourceforge.net/project/pinn/os/piCorePlayer64/boot.tar.xz",
+                                "http://downloads.sourceforge.net/project/pinn/os/piCorePlayer64/root.tar.xz"
+            ],
+            "nominal_size": 123
+        }
+,
+
         {
             "os_name":	    "piratebox1",
             "description":  "A piratebox1 Linux port for ARM devices RPi0/1",
@@ -837,30 +1091,6 @@
                                "http://downloads.sourceforge.net/project/pinn/os/Raspex4/root_raspx.tar.gz"
             ],
             "nominal_size": 4019
-        }
-,
-        {
-            "os_name":	    "raspios64",
-            "description":  "A 64-bit BETA port of Debian with desktop and recommended applications",
-            "release_date": "2020-08-20",
-            "supported_models": [
-                "Pi 3",
-                "Pi Compute Module 3",
-                "Pi 4"
-            ],
-            "url":             "http://www.raspbian.org/",
-            "group":           "General",
-            "download_size":   703254020,
-            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/raspios64/os.json",
-            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/raspios64/partitions.json",
-            "icon":            "http://downloads.sourceforge.net/project/pinn/os/raspios64/raspios64.png",
-            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/raspios64/marketing.tar",
-            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/raspios64/partition_setup.sh",
-            "tarballs": [
-                               "http://downloads.sourceforge.net/project/pinn/os/raspios64/boot64.tar.xz",
-                               "http://downloads.sourceforge.net/project/pinn/os/raspios64/root64.tar.xz"
-            ],
-            "nominal_size": 3483
         }
 ,
         {
@@ -1163,12 +1393,36 @@
             "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/ubuntu2010/partitions.json",
             "icon":            "http://downloads.sourceforge.net/project/pinn/os/ubuntu2010/ubuntu2010.png",
             "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/ubuntu2010/marketing.tar",
+ 
             "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/ubuntu2010/partition_setup.sh",
             "tarballs": [
                                "http://downloads.sourceforge.net/project/pinn/os/ubuntu2010/system-boot.tar.xz",
                                "http://downloads.sourceforge.net/project/pinn/os/ubuntu2010/writable.tar.xz"
             ],
             "nominal_size": 8153
+        }
+,
+        {
+            "os_name":	    "ubuntu2110",
+            "description":  "ubuntu2110 v21.10 desktop for RPi4",
+            "release_date": "2021-10-14",
+            "supported_models": [
+                "Pi Compute Module 4",
+                "Pi 4"
+            ],
+            "url":             "https://ubuntu/",
+            "group":           "General",
+            "download_size":   1647079948,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/ubuntu2110/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/ubuntu2110/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/ubuntu2110/ubuntu2110.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/ubuntu2110/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/ubuntu2110/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/ubuntu2110/system-boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/ubuntu2110/writable.tar.xz"
+            ],
+            "nominal_size": 8727
         }
 ,
         {
@@ -1218,6 +1472,54 @@
                                "http://downloads.sourceforge.net/project/pinn/os/ubuntumate2010_64/writable.tar.xz"
             ],
             "nominal_size": 5574
+        }
+,
+        {
+            "os_name":	    "ubuntumate2110_64",
+            "description":  "ubuntumate2110 64-bit v21.10 for RPi 3/4",
+            "release_date": "2021-10-15",
+            "supported_models": [
+                "Pi 3",
+                "Pi Compute Module 3",
+                "Pi 4"            
+            ],            
+            "url":             "https://ubuntu-mate.org/ports/raspberry-pi/",
+            "group":           "General",
+            "download_size":   1618766380,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/ubuntumate2110_64/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/ubuntumate2110_64/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/ubuntumate2110_64/ubuntumate2110_64.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/ubuntumate2110_64/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/ubuntumate2110_64/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/ubuntumate2110_64/system-boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/ubuntumate2110_64/writable.tar.xz"
+            ],
+            "nominal_size": 6512
+        }
+,
+        {
+            "os_name":	    "ubuntumate2110",
+            "description":  "ubuntumate2110 v21.10 for RPi 3/4",
+            "release_date": "2021-10-15",
+            "supported_models": [
+                "Pi 3",
+                "Pi Compute Module 3",
+                "Pi 4"
+            ],
+            "url":             "https://ubuntu-mate.org/ports/raspberry-pi/",
+            "group":           "General",
+            "download_size":   1563079616,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/ubuntumate2110/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/ubuntumate2110/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/ubuntumate2110/ubuntumate2110.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/ubuntumate2110/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/ubuntumate2110/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/ubuntumate2110/system-boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/ubuntumate2110/writable.tar.xz"
+            ],
+            "nominal_size": 6512
         }
 ,
         {

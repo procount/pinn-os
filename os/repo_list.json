@@ -24,10 +24,6 @@
 		{
 			"name" : "Legacy",
 			"url"  : "http://raw.githubusercontent.com/procount/pinn-os/master/os/os_oldstable.json"
-		},
-		{
-			"name" : "New",
-			"url"  : "http://raw.githubusercontent.com/procount/pinn-os/master/os/os_new.json"
 		}
 	]
 }
