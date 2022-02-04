@@ -536,8 +536,8 @@
             "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/lineage17-rpi4-atv/partition_setup.sh",
             "tarballs": [
                                "http://downloads.sourceforge.net/project/pinn/os/lineage17-rpi4-atv/boot.tar.xz",
-                               "http://downloads.sourceforge.net/project/pinn/os/lineage17-rpi4-atv/system.tar.xz",
-                               "http://downloads.sourceforge.net/project/pinn/os/lineage17-rpi4-atv/vendor.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage17-rpi4-atv/system.img.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage17-rpi4-atv/vendor.img.xz",
                                "http://downloads.sourceforge.net/project/pinn/os/lineage17-rpi4-atv/userdata.tar.xz"
             ],
             "nominal_size": 7024
@@ -568,8 +568,8 @@
             "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/lineage17-rpi4/partition_setup.sh",
             "tarballs": [
                                "http://downloads.sourceforge.net/project/pinn/os/lineage17-rpi4/boot.tar.xz",
-                               "http://downloads.sourceforge.net/project/pinn/os/lineage17-rpi4/system.tar.xz",
-                               "http://downloads.sourceforge.net/project/pinn/os/lineage17-rpi4/vendor.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage17-rpi4/system.img.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage17-rpi4/vendor.img.xz",
                                "http://downloads.sourceforge.net/project/pinn/os/lineage17-rpi4/userdata.tar.xz"
             ],
             "nominal_size": 7024
