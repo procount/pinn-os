@@ -1632,12 +1632,12 @@
         {
             "os_name":	    "XBian_RPi1",
             "description":  "XBian is small, fast and lightweight media center distribution",
-            "release_date": "2018-01-12",
+            "release_date": "2022-02-11",
             "feature_level": 35644412,
             "supported_models": [
                 "Pi Model",
                 "Pi Compute Module",
-              "Pi Zero W Rev",
+                "Pi Zero W Rev",
                 "Pi Zero Rev"
             ],
             "url":              "http://www.xbian.org/",
@@ -1658,11 +1658,13 @@
         {
             "os_name":	    "XBian_RPi3",
             "description":  "XBian is small, fast and lightweight media center distribution",
-            "release_date": "2018-01-12",
+            "release_date": "2022-02-18",
             "feature_level": 0,
             "supported_hex_revisions": "1040,1041,2082",
             "supported_models": [
                 "Pi 2",
+                "Pi Zero 2",
+                "Pi 4",
                 "Pi 3 Model B Rev",
                 "Pi 3 Model B Plus Rev"
             ],
