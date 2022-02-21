@@ -1668,15 +1668,14 @@
             ],
             "url":              "http://www.xbian.org/",
             "group":            "Media",
-            "download_size":    302322144,
             "os_info":          "http://downloads.sourceforge.net/project/pinn/os/XBian_RPi3/os.json",
             "partitions_info":  "http://downloads.sourceforge.net/project/pinn/os/XBian_RPi3/partitions.json",
             "icon":             "http://downloads.sourceforge.net/project/pinn/os/XBian_RPi3/XBian_RPi3.png",
             "marketing_info":   "http://downloads.sourceforge.net/project/pinn/os/XBian_RPi3/marketing.tar",
             "partition_setup":  "http://downloads.sourceforge.net/project/pinn/os/XBian_RPi3/partition_setup.sh",
             "tarballs": [
-                                "http://downloads.sourceforge.net/project/xbian/noobs/xbianboot-rpi3.tar.xz",
-                                "http://downloads.sourceforge.net/project/xbian/noobs/xbianroot-rpi3.xz"
+                                "http://downloads.sourceforge.net/project/xbian/noobs/xbianboot-rpi4.tar.xz",
+                                "http://downloads.sourceforge.net/project/xbian/noobs/xbianroot-rpi4.xz"
             ],
             "nominal_size":     864
         }
