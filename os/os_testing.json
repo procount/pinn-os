@@ -127,8 +127,6 @@
             "feature_level": 0,
             "group":         "Testing",
             "supported_models": [
-                "Pi Zero",
-                "Pi 4",
                 "Pi Compute Module 4"
             ],
             "url":             "https://github.com/procount/pinn/blob/master/README_PINN.md#project-spaces",
@@ -152,8 +150,6 @@
             "supports_nvme_boot" : false,
             "supports_nvme_root" : true,
             "supported_models": [
-                "Pi Zero",
-                "Pi 4",
                 "Pi Compute Module 4"
             ],
             "url":             "https://github.com/procount/pinn/blob/master/README_PINN.md#project-spaces",
@@ -177,8 +173,6 @@
             "supports_nvme_boot" : true,
             "supports_nvme_root" : false,
             "supported_models": [
-                 "Pi Zero",
-               "Pi 4",
                 "Pi Compute Module 4"
             ],
             "url":             "https://github.com/procount/pinn/blob/master/README_PINN.md#project-spaces",
@@ -202,8 +196,6 @@
             "supports_nvme_boot" : false,
             "supports_nvme_root" : false,
             "supported_models": [
-                "Pi Zero",
-                "Pi 4",
                 "Pi Compute Module 4"
             ],
             "url":             "https://github.com/procount/pinn/blob/master/README_PINN.md#project-spaces",
