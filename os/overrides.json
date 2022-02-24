@@ -286,6 +286,9 @@
         "+download_size" : 116592712
     },
     "Recalbox - Pi0/1": {
+        "supported_models" :[
+            "deprecated"
+        ],
         "+url": "https://www.recalbox.com/",
         "+group": "Games",
         "+supports_backup" : "update",
