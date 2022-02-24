@@ -30,11 +30,11 @@
             "description":  "A Rpi-qemu-x86 Linux port for ARM devices RPi2/3",
             "release_date": "2017-MM-DD",
             "feature_level": 0,
-            "supported_hex_revisions": "1040,1041,2082",    
+            "supported_hex_revisions": "1040,1041,2082",
             "supported_models": [
                 "Pi 2",
                 "Pi 3"
-            ],            
+            ],
             "supports_usb_boot": true,
             "supports_usb_root": true,
             "group" : "Testing",
@@ -82,7 +82,7 @@
             "release_date": "2020-01-01",
             "supported_models": [
                 "Pi 3"
-            ],            
+            ],
             "group":           "Testing",
             "download_size":    187251040,
             "os_info":         "http://downloads.sourceforge.net/project/pinn/os/debian64pi3/os.json",
@@ -103,7 +103,7 @@
             "release_date": "2020-01-02",
             "supported_models": [
                 "Pi 4"
-            ],            
+            ],
             "supports_usb_boot": false,
             "supports_usb_root": false,
             "group":           "Testing",
@@ -118,6 +118,104 @@
                                "http://downloads.sourceforge.net/project/pinn/os/debian64pi4/root.tar.xz"
             ],
             "nominal_size": 3969
+        }
+,
+        {
+            "os_name":	    "Test1",
+            "description":  "A Project Space used to test NVME logic",
+            "release_date": "2018-05-14",
+            "feature_level": 0,
+            "group":         "Testing",
+            "supported_models": [
+                "Pi Zero",
+                "Pi 4",
+                "Pi Compute Module 4"
+            ],
+            "url":             "https://github.com/procount/pinn/blob/master/README_PINN.md#project-spaces",
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/ProjectSpace/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/ProjectSpace/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/ProjectSpace/ProjectSpace.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/ProjectSpace/marketing.tar",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/ProjectSpace/prjboot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/ProjectSpace/prjroot.tar.xz"
+            ],
+            "nominal_size": 600
+        }
+,
+        {
+            "os_name":	    "Test2",
+            "description":  "NVME root allowed",
+            "release_date": "2018-05-14",
+            "feature_level": 0,
+            "group":         "Testing",
+            "supports_nvme_boot" : false,
+            "supports_nvme_root" : true,
+            "supported_models": [
+                "Pi Zero",
+                "Pi 4",
+                "Pi Compute Module 4"
+            ],
+            "url":             "https://github.com/procount/pinn/blob/master/README_PINN.md#project-spaces",
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/ProjectSpace/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/ProjectSpace/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/ProjectSpace/ProjectSpace.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/ProjectSpace/marketing.tar",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/ProjectSpace/prjboot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/ProjectSpace/prjroot.tar.xz"
+            ],
+            "nominal_size": 600
+        }
+,
+        {
+            "os_name":	    "Test3",
+            "description":  "NVME boot allowed",
+            "release_date": "2018-05-14",
+            "feature_level": 0,
+            "group":         "Testing",
+            "supports_nvme_boot" : true,
+            "supports_nvme_root" : false,
+            "supported_models": [
+                 "Pi Zero",
+               "Pi 4",
+                "Pi Compute Module 4"
+            ],
+            "url":             "https://github.com/procount/pinn/blob/master/README_PINN.md#project-spaces",
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/ProjectSpace/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/ProjectSpace/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/ProjectSpace/ProjectSpace.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/ProjectSpace/marketing.tar",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/ProjectSpace/prjboot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/ProjectSpace/prjroot.tar.xz"
+            ],
+            "nominal_size": 600
+        }
+,
+        {
+            "os_name":	    "Test4",
+            "description":  "NVME not allowed",
+            "release_date": "2018-05-14",
+            "feature_level": 0,
+            "group":         "Testing",
+            "supports_nvme_boot" : false,
+            "supports_nvme_root" : false,
+            "supported_models": [
+                "Pi Zero",
+                "Pi 4",
+                "Pi Compute Module 4"
+            ],
+            "url":             "https://github.com/procount/pinn/blob/master/README_PINN.md#project-spaces",
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/ProjectSpace/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/ProjectSpace/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/ProjectSpace/ProjectSpace.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/ProjectSpace/marketing.tar",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/ProjectSpace/prjboot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/ProjectSpace/prjroot.tar.xz"
+            ],
+            "nominal_size": 600
         }
 
   ]
