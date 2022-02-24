@@ -1094,6 +1094,97 @@
         }
 ,
         {
+            "description": "The retro-gaming OS! An all-in-one, plug-n-play retro-gaming console, supporting 100+ gaming systems!",
+            "icon": "https://upgrade.recalbox.com/latest/noobs/recalbox.png",
+            "marketing_info": "https://upgrade.recalbox.com/latest/noobs/marketing.tar",
+            "download_size": 656029580,
+            "nominal_size": 7168,
+            "os_info": "http://downloads.sourceforge.net/project/pinn/os/Recalbox_-_Pi0-1/os.json",
+            "os_name": "Recalbox - Pi0-1",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/Recalbox_-_Pi0-1/partitions.json",
+            "release_date": "2022-01-30",
+            "group" : "Games",
+            "supports_backup" : "update",
+            "url" : "https://www.recalbox.com/",
+            "supported_models": [
+                "Pi Model",
+                "Pi Compute Module Rev",
+                "Pi Zero Rev",
+                "Pi Zero W Rev"
+            ],
+            "tarballs": [
+                "https://upgrade.recalbox.com/latest/noobs/rpi1/recalbox-rpi1.tar.xz"
+            ],
+            "version": "8.0.1-Electron"
+        }
+,
+        {
+            "description": "The retro-gaming OS! An all-in-one, plug-n-play retro-gaming console, supporting 100+ gaming systems!",
+            "icon": "https://upgrade.recalbox.com/latest/noobs/recalbox.png",
+            "marketing_info": "https://upgrade.recalbox.com/latest/noobs/marketing.tar",
+            "nominal_size": 7168,
+            "download_size": 882660856,
+            "os_info": "http://downloads.sourceforge.net/project/pinn/os/Recalbox_-_Pi2/os.json",
+            "os_name": "Recalbox - Pi2",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/Recalbox_-_Pi2/partitions.json",
+            "release_date": "2022-01-30",
+            "group" : "Games",
+            "supports_backup" : "update",
+            "url" : "https://www.recalbox.com/",
+            "supported_models": [
+                "Pi 2"
+            ],
+            "tarballs": [
+                "https://upgrade.recalbox.com/latest/noobs/rpi2/recalbox-rpi2.tar.xz"
+            ],
+            "version": "8.0.1-Electron"
+        }
+,
+        {
+            "description": "The retro-gaming OS! An all-in-one, plug-n-play retro-gaming console, supporting 100+ gaming systems!",
+            "icon": "https://upgrade.recalbox.com/latest/noobs/recalbox.png",
+            "marketing_info": "https://upgrade.recalbox.com/latest/noobs/marketing.tar",
+            "nominal_size": 7168,
+            "download_size": 1005136116,
+            "os_info": "http://downloads.sourceforge.net/project/pinn/os/Recalbox_-_Pi3/os.json",
+            "os_name": "Recalbox - Pi3",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/Recalbox_-_Pi3/partitions.json",
+            "release_date": "2022-01-30",
+            "group" : "Games",
+            "url" : "https://www.recalbox.com/",
+            "supported_models": [
+                "Pi Zero 2",
+                "Pi 3",
+                "Pi Compute Module 3"
+            ],
+            "tarballs": [
+                "https://upgrade.recalbox.com/latest/noobs/rpi3/recalbox-rpi3.tar.xz"
+            ],
+            "version": "8.0.2-Electron"
+        }
+,
+        {
+            "description": "The retro-gaming OS! An all-in-one, plug-n-play retro-gaming console, supporting 100+ gaming systems!",
+            "icon": "https://upgrade.recalbox.com/latest/noobs/recalbox.png",
+            "marketing_info": "https://upgrade.recalbox.com/latest/noobs/marketing.tar",
+            "nominal_size": 7168,
+            "download_size": 1010480012,
+            "os_info": "http://downloads.sourceforge.net/project/pinn/os/Recalbox_-_Pi4/os.json",
+            "os_name": "Recalbox - Pi4",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/Recalbox_-_Pi4/partitions.json",
+            "release_date": "2022-01-30",
+            "group" : "Games",
+            "url" : "https://www.recalbox.com/",
+            "supported_models": [
+                "Pi 4"
+            ],
+            "tarballs": [
+                "https://upgrade.recalbox.com/latest/noobs/rpi4/recalbox-rpi4.tar.xz"
+            ],
+            "version": "8.0.2-Electron"
+        }
+,
+        {
             "os_name":	    "Retropie1",
             "description":  "Retropie1 v4.7.1 gaming distro using Emulation Station for RPi1/Zero",
             "release_date": "2020-11-04",
