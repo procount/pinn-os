@@ -299,7 +299,6 @@
         "+url": "https://www.recalbox.com/",
         "+download_size" : 344989076,
         "+supports_backup" : "update",
-        "+partition_setup": "https://raw.githubusercontent.com/procount/pinn-os/master/partitions/recalbox/partition_setup.sh",
         "+group": "Games"
     },
     "Recalbox - Pi3": {
