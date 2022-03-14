@@ -1,0 +1,99 @@
+{
+    "os_list": [
+        {
+            "os_name":                 "recalbox-rpi1",
+            "description":             "The retro-gaming OS, supporting 100+ gaming systems!",
+            "release_date":            "2020-11-29",
+            "group" :                  "Games",
+            "supported_models": [
+                "Pi Model",
+                "Pi Compute Module Rev",
+                "Pi Zero"
+            ],
+            "supports_backup":         true,
+            "url":                     "https://www.recalbox.com/",
+            "icon":                    "http://downloads.sourceforge.net/project/pinn/os_previous/recalbox7-rpi1/recalbox-rpi1.png",
+            "os_info":                 "http://downloads.sourceforge.net/project/pinn/os_previous/recalbox7-rpi1/os.json",
+            "partitions_info":         "http://downloads.sourceforge.net/project/pinn/os_previous/recalbox7-rpi1/partitions.json",
+            "marketing_info":          "http://downloads.sourceforge.net/project/pinn/os_previous/recalbox7-rpi1/marketing.tar",
+            "partition_setup":         "http://downloads.sourceforge.net/project/pinn/os_previous/recalbox7-rpi1/partition_setup.sh",
+            "tarballs" : [
+                "http://downloads.sourceforge.net/project/pinn/os_previous/recalbox7-rpi1/RECALBOX.tar.xz",
+                "",
+                ""
+            ],
+            "nominal_size": 7168
+        }
+,
+        {
+            "os_name":                 "recalbox7-rpi2",
+            "description":             "The retro-gaming OS, supporting 100+ gaming systems!",
+            "release_date":            "2020-11-29",
+            "group" :                  "Games",
+            "supported_models": [
+                "Pi 2"
+            ],
+            "supports_backup":         true,
+            "url":                     "https://www.recalbox.com/",
+            "icon":                    "http://downloads.sourceforge.net/project/pinn/os_previous/recalbox7-rpi2/recalbox-rpi2.png",
+            "os_info":                 "http://downloads.sourceforge.net/project/pinn/os_previous/recalbox7-rpi2/os.json",
+            "partitions_info":         "http://downloads.sourceforge.net/project/pinn/os_previous/recalbox7-rpi2/partitions.json",
+            "marketing_info":          "http://downloads.sourceforge.net/project/pinn/os_previous/recalbox7-rpi2/marketing.tar",
+            "partition_setup":         "http://downloads.sourceforge.net/project/pinn/os_previous/recalbox7-rpi2/partition_setup.sh",
+            "tarballs" : [
+                "http://downloads.sourceforge.net/project/pinn/os_previous/recalbox7-rpi2/RECALBOX.tar.xz",
+                "",
+                ""
+            ],
+            "nominal_size": 7168
+        }
+,
+        {
+            "os_name":                 "recalbox7-rpi3",
+            "description":             "The retro-gaming OS, supporting 100+ gaming systems!",
+            "release_date":            "2020-11-29",
+            "group" :                  "Games",
+            "supported_models": [
+                "Pi 3",
+                "Pi Compute Module 3"
+            ],
+            "supports_backup":         true,
+            "url":                     "https://www.recalbox.com/",
+            "icon":                    "http://downloads.sourceforge.net/project/pinn/os_previous/recalbox7-rpi3/recalbox-rpi3.png",
+            "os_info":                 "http://downloads.sourceforge.net/project/pinn/os_previous/recalbox7-rpi3/os.json",
+            "partitions_info":         "http://downloads.sourceforge.net/project/pinn/os_previous/recalbox7-rpi3/partitions.json",
+            "marketing_info":          "http://downloads.sourceforge.net/project/pinn/os_previous/recalbox7-rpi3/marketing.tar",
+            "partition_setup":         "http://downloads.sourceforge.net/project/pinn/os_previous/recalbox7-rpi3/partition_setup.sh",
+            "tarballs" : [
+                "http://downloads.sourceforge.net/project/pinn/os_previous/recalbox7-rpi3/RECALBOX.tar.xz",
+                "",
+                ""
+            ],
+            "nominal_size": 7168
+        }        
+,
+        {
+            "os_name":                 "recalbox7-rpi4",
+            "description":             "The retro-gaming OS, supporting 100+ gaming systems!",
+            "release_date":            "2020-11-29",
+            "group" :                  "Games",
+            "supported_models": [
+                "Pi 4"
+            ],
+            "supports_backup":         true,
+            "url":                     "https://www.recalbox.com/",
+            "icon":                    "http://downloads.sourceforge.net/project/pinn/os_previous/recalbox7-rpi4/recalbox-rpi4.png",
+            "os_info":                 "http://downloads.sourceforge.net/project/pinn/os_previous/recalbox7-rpi4/os.json",
+            "partitions_info":         "http://downloads.sourceforge.net/project/pinn/os_previous/recalbox7-rpi4/partitions.json",
+            "marketing_info":          "http://downloads.sourceforge.net/project/pinn/os_previous/recalbox7-rpi4/marketing.tar",
+            "partition_setup":         "http://downloads.sourceforge.net/project/pinn/os_previous/recalbox7-rpi4/partition_setup.sh",
+            "tarballs" : [
+                "http://downloads.sourceforge.net/project/pinn/os_previous/recalbox7-rpi4/RECALBOX.tar.xz",
+                "",
+                ""
+            ],
+            "nominal_size": 7168
+        }
+    ]
+}
+
