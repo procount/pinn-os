@@ -1,7 +1,7 @@
 {
     "os_list": [
         {
-            "os_name":                 "recalbox-rpi1",
+            "os_name":                 "recalbox7-rpi1",
             "description":             "The retro-gaming OS, supporting 100+ gaming systems!",
             "release_date":            "2020-11-29",
             "group" :                  "Games",
@@ -70,7 +70,7 @@
                 ""
             ],
             "nominal_size": 7168
-        }        
+        }
 ,
         {
             "os_name":                 "recalbox7-rpi4",
