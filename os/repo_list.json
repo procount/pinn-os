@@ -24,6 +24,10 @@
 		{
 			"name" : "Legacy",
 			"url"  : "http://raw.githubusercontent.com/procount/pinn-os/master/os/os_oldstable.json"
+		},
+		{
+			"name" : "Recalbox",
+			"url"  : "http://raw.githubusercontent.com/procount/pinn-os/master/os/os_recalbox7.json"
 		}
 	]
 }
