@@ -261,7 +261,11 @@
         "+supports_backup": true,
         "group": "Minimal"
     },
-
+    "Raspberry Pi OS (64-bit)": {
+        "url": "https://www.raspbian.org/",
+        "+supports_backup": true,
+        "group": "General"
+    },
     "Raspberry Pi OS Lite (64-bit)": {
         "url": "https://www.raspbian.org/",
         "+supports_backup": true,
