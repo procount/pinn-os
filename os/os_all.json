@@ -29,41 +29,16 @@
         }
 ,
         {
-            "os_name":	    "Arch1",
-            "description":  "An Arch Linux port for ARM devices RPi0/1",
-            "release_date": "2020-03-03",
-            "feature_level": 35644412,
-            "supported_models": [
-                "Pi Model",
-                "Pi Compute Module",
-                "Pi Zero W Rev",
-                "Pi Zero Rev"
-            ],
-            "supports_backup": "update",
-            "url":      "https://archlinuxarm.org/platforms/armv6/raspberry-pi",
-            "group":    "Minimal",
-            "download_size":    465969133,
-            "os_info":          "http://downloads.sourceforge.net/project/pinn/os/Arch1/os.json",
-            "partitions_info":  "http://downloads.sourceforge.net/project/pinn/os/Arch1/partitions.json",
-            "icon":             "http://downloads.sourceforge.net/project/pinn/os/Arch1/Arch1.png",
-            "marketing_info":   "http://downloads.sourceforge.net/project/pinn/os/Arch1/marketing.tar",
-            "partition_setup":  "http://downloads.sourceforge.net/project/pinn/os/Arch1/partition_setup.sh",
-            "tarballs": [
-                                "http://downloads.sourceforge.net/project/pinn/os/Arch1/boot_arch.tar.xz",
-                                "http://archlinuxarm.org/os/ArchLinuxARM-rpi-latest.tar.gz"
-            ],
-            "nominal_size": 1331
-        }
-,
-        {
             "os_name":	    "Arch2",
-            "description":  "An Arch Linux port for ARM devices RPi2/3",
+            "description":  "An Arch Linux port for ARM7 devices RPi2/3/4/z2",
             "release_date": "2018-01-28",
             "feature_level": 0,
             "supported_hex_revisions": "1040,1041,2082",
             "supported_models": [
+                "Pi Zero 2",
                 "Pi 2",
-                "Pi 3"
+                "Pi 3",
+                "Pi 4"
             ],
             "supports_backup": "update",
             "url":      "https://archlinuxarm.org/platforms/armv6/raspberry-pi",
@@ -76,33 +51,9 @@
             "partition_setup":  "http://downloads.sourceforge.net/project/pinn/os/Arch2/partition_setup.sh",
             "tarballs": [
                                 "http://downloads.sourceforge.net/project/pinn/os/Arch2/boot_arch.tar.xz",
-                                "http://archlinuxarm.org/os/ArchLinuxARM-rpi-2-latest.tar.gz"
+                                "http://archlinuxarm.org/os/ArchLinuxARM-rpi-armv7-latest.tar.gz"
             ],
             "nominal_size": 1330
-        }
-,
-        {
-            "os_name":	    "Arch4",
-            "description":  "An Arch Linux port for ARM devices RPi3",
-            "release_date": "2020-03-03",
-            "feature_level": 0,
-            "supported_models": [
-                "Pi 4"
-            ],
-            "supports_backup": "update",
-            "url":              "http://archlinuxarm.org/platforms/armv8/broadcom/raspberry-pi-4",
-            "group":            "Minimal",
-            "download_size":    467365718,
-            "os_info":          "http://downloads.sourceforge.net/project/pinn/os/Arch4/os.json",
-            "partitions_info":  "http://downloads.sourceforge.net/project/pinn/os/Arch4/partitions.json",
-            "icon":             "http://downloads.sourceforge.net/project/pinn/os/Arch4/Arch4.png",
-            "marketing_info":   "http://downloads.sourceforge.net/project/pinn/os/Arch4/marketing.tar",
-            "partition_setup":  "http://downloads.sourceforge.net/project/pinn/os/Arch4/partition_setup.sh",
-            "tarballs": [
-                                "http://downloads.sourceforge.net/project/pinn/os/Arch4/boot_arch.tar.xz",
-                                "http://archlinuxarm.org/os/ArchLinuxARM-rpi-4-latest.tar.gz"
-            ],
-            "nominal_size": 1332
         }
 ,
         {
