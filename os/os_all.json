@@ -726,7 +726,7 @@
             "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/moode/partition_setup.sh",
             "tarballs": [
                 "http://downloads.sourceforge.net/project/pinn/os/moode/boot.tar.xz",
-                "http://downloads.sourceforge.net/project/pinn/os/moode/boot.tar.xz"
+                "http://downloads.sourceforge.net/project/pinn/os/moode/root.tar.xz"
 
             ],
             "nominal_size": 3333
