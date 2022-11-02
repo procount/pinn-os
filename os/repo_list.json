@@ -28,7 +28,12 @@
 		{
 			"name" : "Recalbox",
 			"url"  : "http://raw.githubusercontent.com/procount/pinn-os/master/os/os_recalbox7.json"
+		},
+		{
+			"name" : "Retropie48",
+			"url"  : "http://raw.githubusercontent.com/procount/pinn-os/master/os/os_retropie48.json"
 		}
+
 	]
 }
 
