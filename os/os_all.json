@@ -1466,6 +1466,28 @@
         }
 ,
         {
+            "os_name":	    "ubuntu22041_64",
+            "description":  "22.04 desktop for RPi4",
+            "release_date": "2022-08-12",
+            "supported_models": [
+                "Pi 4"
+            ],            
+            "url":             "https://ubuntu/",
+            "group":           "General",
+            "download_size":   1647527392,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/ubuntu22041_64/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/ubuntu22041_64/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/ubuntu22041_64/ubuntu22041_64.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/ubuntu22041_64/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/ubuntu22041_64/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/ubuntu22041_64/system-boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/ubuntu22041_64/writable.tar.xz"
+            ],
+            "nominal_size": 7568
+        }
+,
+        {
             "os_name":	    "void1",
             "description":  "A void1 Linux port for ARM devices RPi1",
             "release_date": "2016-04-20",
