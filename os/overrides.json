@@ -88,7 +88,11 @@
         "+supports_backup" : true,
         "+download_size" : 262176988
     },
-    "lede2RPi1": { 
+    "Lakka_RPi4_64": {
+        "group": "Games",
+        "+supports_backup" : true
+    },
+    "lede2RPi1": {
         "group": "Minimal",
         "+supports_backup": true
     },
