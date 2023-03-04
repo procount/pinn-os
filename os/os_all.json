@@ -57,6 +57,29 @@
         }
 ,
         {
+            "os_name":	    "Bareboat",
+            "description":  "Marine Linux for Raspberry Pi by Bareboat Necessities",
+            "release_date": "2023-01-19",
+            "feature_level": 0,
+            "supported_models": [
+                "Pi 4"
+            ],
+            "url":      "https://bareboat-necessities.github.io/my-bareboat/bareboat-os.html",
+            "group":    "Sailing",
+            "download_size":   2927386276,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os_next/Bareboat/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os_next/Bareboat/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os_next/Bareboat/Bareboat.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os_next/Bareboat/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os_next/Bareboat/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os_next/Bareboat/boot_bb.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os_next/Bareboat/root_bb.tar.xz"
+            ],
+            "nominal_size": 12061
+        }
+,
+        {
             "os_name":	    "CStemBian",
             "description":  "Learn C-STEM and robotics from UC-Davis RPi0/1/2/3",
             "release_date": "2017-03-18",
@@ -733,26 +756,53 @@
         }
 ,
         {
-            "os_name":	    "OpenPlotter",
-            "description":  "v0.10.0alpha. The open-source sailing platform for ARM computers",
-            "release_date": "2017-03-02",
+            "os_name":	    "OpenPlotter32",
+			"description":  "The open-source sailing platform for ARM computers",
+			"release_date": "2022-07-18",
             "feature_level": 0,
             "supported_models": [
-                "Pi 2",
-                "Pi 3 Model B Rev"
+                "Pi 3",
+                "Pi Compute Module 3",
+                "Pi 4"
             ],
-            "url":              "http://www.sailoog.com/",
-            "group":            "General",
-            "os_info":          "http://downloads.sourceforge.net/project/pinn/os/OpenPlotter/os.json",
-            "partitions_info":  "http://downloads.sourceforge.net/project/pinn/os/OpenPlotter/partitions.json",
-            "icon":             "http://downloads.sourceforge.net/project/pinn/os/OpenPlotter/OpenPlotter.png",
-            "marketing_info":   "http://downloads.sourceforge.net/project/pinn/os/OpenPlotter/marketing.tar",
-            "partition_setup":  "http://downloads.sourceforge.net/project/pinn/os/OpenPlotter/partition_setup.sh",
+            "url":      "https://openmarine.net/openplotter/",
+            "group":    "Sailing",
+            "download_size":   994364160,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os_next/OpenPlotter32/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os_next/OpenPlotter32/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os_next/OpenPlotter32/OpenPlotter32.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os_next/OpenPlotter32/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os_next/OpenPlotter32/partition_setup.sh",
             "tarballs": [
-                                "http://downloads.sourceforge.net/project/pinn/os/OpenPlotter/boot.tar.xz",
-                                "http://downloads.sourceforge.net/project/pinn/os/OpenPlotter/root.tar.xz"
+                               "http://downloads.sourceforge.net/project/pinn/os_next/OpenPlotter32/boot_op.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os_next/OpenPlotter32/root_op.tar.xz"
             ],
-            "nominal_size": 4067
+            "nominal_size": 4522
+        }
+,
+        {
+            "os_name":	    "OpenPlotter64",
+	    "description":  "The open-source sailing platform for ARM computers",
+	    "release_date": "2022-07-18",
+            "feature_level": 0,
+            "supported_models": [
+                "Pi 3",
+                "Pi Compute Module 3",
+                "Pi 4"
+            ],
+            "url":      "https://openmarine.net/openplotter/",
+            "group":    "Sailing",
+            "download_size":   914175724,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os_next/OpenPlotter64/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os_next/OpenPlotter64/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os_next/OpenPlotter64/OpenPlotter64.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os_next/OpenPlotter64/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os_next/OpenPlotter64/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os_next/OpenPlotter64/boot_op.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os_next/OpenPlotter64/root_op.tar.xz"
+            ],
+            "nominal_size": 4463
         }
 ,
         {
