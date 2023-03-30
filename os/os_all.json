@@ -206,6 +206,29 @@
 
 ,
         {
+            "os_name": "kali64",
+            "description": "Kali Linux 2023.1 RPI3/4",
+            "release_date": "2023-01-01",
+            "feature_level": 35644412,
+            "supported_models": [
+                "Pi 3",
+                "Pi 4"
+            ],
+            "url":              "https://www.kali.org/",
+            "group":            "General",
+            "os_info":          "http://downloads.sourceforge.net/project/pinn/os/kali64/os.json",
+            "partitions_info":  "http://downloads.sourceforge.net/project/pinn/os/kali64/partitions.json",
+            "icon":             "http://downloads.sourceforge.net/project/pinn/os/kali64/kali64.png",
+            "marketing_info":   "http://downloads.sourceforge.net/project/pinn/os/kali64/marketing.tar",
+            "partition_setup":  "http://downloads.sourceforge.net/project/pinn/os/kali64/partition_setup.sh",
+            "tarballs": [
+                                "http://downloads.sourceforge.net/project/pinn/os/kali64/boot_kali.tar.xz",
+                                "http://downloads.sourceforge.net/project/pinn/os/kali64/root_kali.tar.xz"
+            ],
+            "nominal_size": 13010
+        }
+,
+        {
             "os_name": "kali1",
             "description": "Kali Linux v2.1.2 for RPI1",
             "release_date": "2016-08-31",
