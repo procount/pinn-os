@@ -1836,6 +1836,32 @@
             ],
             "nominal_size": 600
         }
-
+,
+        {
+            "os_name":	    "raspios_arm64_lite_pi",
+            "description":  "A port of Debian with no desktop environment",
+            "release_date": "2023-02-21",
+            "supported_models": [
+                "Pi Model",
+                "Pi 2",
+                "Pi Zero",
+                "Pi 3",
+                "Pi Compute Module 3",
+                "Pi 4"
+            ],
+            "url":             "http://www.raspbian.org/",
+            "group":           "Testing",
+            "download_size":   320197108,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_arm64_lite_pi/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_arm64_lite_pi/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_arm64_lite_pi/raspios_arm64_lite_pi.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_arm64_lite_pi/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_arm64_lite_pi/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_arm64_lite_pi/boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_arm64_lite_pi/root.tar.xz"
+            ],
+            "nominal_size": 1936
+        }
   ]
 }
