@@ -1,39 +1,36 @@
 {
-	"repo_list" : [
-		{
-			"name" : "NOOBS",
-			"url"  : "http://raw.githubusercontent.com/procount/pinn-os/master/os/os_list_v3.json",
-			"urlold"  : "http://downloads.raspberrypi.org/os_list_v3.json"
+	"repo_list": [{
+			"name": "NOOBS",
+			"url": "http://raw.githubusercontent.com/procount/pinn-os/master/os/os_3rdparty.json"
 		},
 		{
-			"name" : "PINN",
-			"url"  : "http://raw.githubusercontent.com/procount/pinn-os/master/os/os_all.json"
+			"name": "Raspios",
+			"url": "http://raw.githubusercontent.com/procount/pinn-os/master/os/os_raspios.json"
 		},
 		{
-			"name" : "Testing",
-			"url"  : "http://raw.githubusercontent.com/procount/pinn-os/master/os/os_testing.json"
+			"name": "PINN",
+			"url": "http://raw.githubusercontent.com/procount/pinn-os/master/os/os_all.json"
 		},
 		{
-			"name" : "Matt Huisman",
-			"url"  : "http://raw.githubusercontent.com/matthuisman/pinn-os/master/os_list_v3.json"
+			"name": "Testing",
+			"url": "http://raw.githubusercontent.com/procount/pinn-os/master/os/os_testing.json"
 		},
 		{
-			"name" : "Sakaki",
-			"url"  : "https://isshoni.org/pinn/os/os_list_v3.json"
+			"name": "Matt Huisman",
+			"url": "http://raw.githubusercontent.com/matthuisman/pinn-os/master/os_list_v3.json"
 		},
 		{
-			"name" : "Legacy",
-			"url"  : "http://raw.githubusercontent.com/procount/pinn-os/master/os/os_oldstable.json"
+			"name": "Sakaki",
+			"url": "https://isshoni.org/pinn/os/os_list_v3.json"
 		},
 		{
-			"name" : "Recalbox",
-			"url"  : "http://raw.githubusercontent.com/procount/pinn-os/master/os/os_recalbox7.json"
+			"name": "Recalbox",
+			"url": "http://raw.githubusercontent.com/procount/pinn-os/master/os/os_recalbox7.json"
 		},
 		{
-			"name" : "Retropie48",
-			"url"  : "http://raw.githubusercontent.com/procount/pinn-os/master/os/os_retropie48.json"
+			"name": "Retropie48",
+			"url": "http://raw.githubusercontent.com/procount/pinn-os/master/os/os_retropie48.json"
 		}
 
 	]
 }
-
