@@ -394,16 +394,18 @@
             ]
         },
         {
-            "description": "30-day trial of ThinLinX's Debian-based thin client for Raspberry Pi 2, 3 and 4",
+            "description": "ThinLinX's Debian-based thin client for Raspberry Pi (v2 and later), Version 4.11.1",
             "group": "General",
             "icon": "http://rpi.thinlinx.com/NOOBS/TLX_RPi/TLXOS.png",
             "marketing_info": "http://rpi.thinlinx.com/NOOBS/TLX_RPi/marketing.tar",
             "nominal_size": 2064,
             "os_info": "http://rpi.thinlinx.com/NOOBS/TLX_RPi/os.json",
-            "os_name": "TLXOS ",
+            "os_name": "TLXOS",
             "partition_setup": "http://rpi.thinlinx.com/NOOBS/TLX_RPi/partition_setup.sh",
             "partitions_info": "http://rpi.thinlinx.com/NOOBS/TLX_RPi/partitions.json",
-            "release_date": "2021-12-11",
+            "release_date": "2023-02-01",
+            "supports_usb_boot": true,
+            "supports_backup": false,
             "supported_models": [
                 "Pi 2",
                 "Pi 3",
@@ -412,26 +414,27 @@
                 "Pi 4",
                 "Pi Compute Module 4"
             ],
-            "supports_backup": "update",
             "tarballs": [
                 "http://rpi.thinlinx.com/NOOBS/TLX_RPi/boot.xz",
                 "http://rpi.thinlinx.com/NOOBS/TLX_RPi/tfm.xz",
                 "http://rpi.thinlinx.com/NOOBS/TLX_RPi/root.xz"
             ],
             "url": "https://thinlinx.com/",
-            "version": "4.10.1"
+            "version": "4.11.1"
         },
         {
-            "description": "30-day trial of ThinLinX's Debian-based thin client for Raspberry Pi 1 and Zero",
+            "description": "ThinLinX's Debian-based thin client for Raspberry Pi 1 and Zero, Version 4.11.1",
             "group": "General",
             "icon": "http://rpi.thinlinx.com/NOOBS/TLX_RPi_IoT/TLXOS.png",
             "marketing_info": "http://rpi.thinlinx.com/NOOBS/TLX_RPi_IoT/marketing.tar",
             "nominal_size": 2064,
             "os_info": "http://rpi.thinlinx.com/NOOBS/TLX_RPi_IoT/os.json",
-            "os_name": "TLXOS ",
+            "os_name": "TLXOS",
             "partition_setup": "http://rpi.thinlinx.com/NOOBS/TLX_RPi_IoT/partition_setup.sh",
             "partitions_info": "http://rpi.thinlinx.com/NOOBS/TLX_RPi_IoT/partitions.json",
-            "release_date": "2021-12-11",
+            "release_date": "2023-02-01",
+            "supports_usb_boot": true,
+            "supports_backup": false,
             "supported_models": [
                 "Pi Model",
                 "Pi Zero Rev",
@@ -445,7 +448,7 @@
                 "http://rpi.thinlinx.com/NOOBS/TLX_RPi_IoT/root.xz"
             ],
             "url": "https://thinlinx.com/",
-            "version": "4.10.1"
+            "version": "4.11.1"
         },
         {
             "Group": "Utility",
