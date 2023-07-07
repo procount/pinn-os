@@ -1657,6 +1657,50 @@
         }
 ,
         {
+            "os_name":	    "ubuntu22042D_64",
+            "description":  "22.04.2 Desktop for RPi4",
+            "release_date": "2023-02-23",
+            "supported_models": [
+                "Pi 4"
+            ],            
+            "url":             "https://ubuntu/",
+            "group":           "General",
+            "download_size":   1694111728,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/ubuntu22042D_64/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/ubuntu22042D_64/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/ubuntu22042D_64/ubuntu22042D_64.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/ubuntu22042D_64/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/ubuntu22042D_64/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/ubuntu22042D_64/system-boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/ubuntu22042D_64/writable.tar.xz"
+            ],
+            "nominal_size": 7884
+        }
+,        
+        {
+            "os_name":	    "ubuntu22042S_64",
+            "description":  "22.04.2 Server for RPi4",
+            "release_date": "2023-02-23",
+            "supported_models": [
+                "Pi 4"
+            ],            
+            "url":             "https://ubuntu/",
+            "group":           "General",
+            "download_size":   742744168,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/ubuntu22042S_64/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/ubuntu22042S_64/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/ubuntu22042S_64/ubuntu22042S_64.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/ubuntu22042S_64/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/ubuntu22042S_64/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/ubuntu22042S_64/system-boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/ubuntu22042S_64/writable.tar.xz"
+            ],
+            "nominal_size": 3805
+        }
+,
+        {
             "os_name":	    "void1",
             "description":  "A void1 Linux port for ARM devices RPi1",
             "release_date": "2016-04-20",
