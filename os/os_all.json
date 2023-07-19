@@ -138,6 +138,30 @@
         }
 ,
         {
+            "os_name":	    "debian-rpi2",
+            "description":  "Debian Bookworm for RPi2B",
+            "release_date": "2023-06-10",
+            "feature_level": 0,
+            "supported_hex_revisions": "1040,1041,2082",
+            "supported_models": [
+                "Pi 2"
+            ],
+            "supports_backup": "update",
+            "group":    "General",
+            "download_size":    159428060,
+            "os_info":          "http://downloads.sourceforge.net/project/pinn/os/debian-rpi2/os.json",
+            "partitions_info":  "http://downloads.sourceforge.net/project/pinn/os/debian-rpi2/partitions.json",
+            "icon":             "http://downloads.sourceforge.net/project/pinn/os/debian-rpi2/debian-rpi2.png",
+            "marketing_info":   "http://downloads.sourceforge.net/project/pinn/os/debian-rpi2/marketing.tar",
+            "partition_setup":  "http://downloads.sourceforge.net/project/pinn/os/debian-rpi2/partition_setup.sh",
+            "tarballs": [
+                                "http://downloads.sourceforge.net/project/pinn/os/debian-rpi2/RASPIFIRM.tar.xz",
+                                "http://downloads.sourceforge.net/project/pinn/os/debian-rpi2/RASPIROOT.tar.xz"
+            ],
+            "nominal_size": 2429
+        }
+,
+        {
             "os_name":	    "devuan1",
             "description":  "A devuan1 Linux port for ARM devices RPi0/1",
             "release_date": "2018-06-06",
