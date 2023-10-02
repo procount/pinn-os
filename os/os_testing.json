@@ -1,5 +1,27 @@
 {
   "os_list" : [
+    {
+        "os_name":	    "debian-rpi4",
+        "description":  "Debian Bookworm for RPi4B",
+        "release_date": "2023-06-12",
+        "supported_models": [
+            "Pi 4"
+        ],
+        "supports_backup": "true",
+        "group":    "Minimal",
+        "download_size":    207932621,
+        "os_info":          "http://downloads.sourceforge.net/pinn-os-files/v1.0.0-beta1/os.json",
+        "partitions_info":  "http://downloads.sourceforge.net/pinn-os-files/v1.0.0-beta1/partitions.json",
+        "icon":             "http://downloads.sourceforge.net/pinn-os-files/v1.0.0-beta1/debian12_arm64.png",
+        "marketing_info":   "http://downloads.sourceforge.net/pinn-os-files/v1.0.0-beta1/marketing.tar",
+        "partition_setup":  "http://downloads.sourceforge.net/pinn-os-files/v1.0.0-beta1/partition_setup.sh",
+        "tarballs": [
+                            "http://downloads.sourceforge.net/pinn-os-files/v1.0.0-beta1/RASPIFIRM.tar.xz",
+                            "http://downloads.sourceforge.net/pinn-os-files/v1.0.0-beta1/RASPIROOT.tar.xz"
+        ],
+        "nominal_size": 4096
+    }
+,
         {
             "description": "Raspbian Lite with LAMP Stack",
             "feature_level": 35120124,
