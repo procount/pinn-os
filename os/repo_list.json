@@ -13,7 +13,7 @@
 		},
 		{
 			"name": "Testing",
-			"url": "http://raw.githubusercontent.com/procount/pinn-os/master/os/os_testing.json"
+			"url": "http://raw.githubusercontent.com/osnabrugge/pinn-os/master/os/os_testing.json"
 		},
 		{
 			"name": "Matt Huisman",
