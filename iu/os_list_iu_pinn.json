@@ -8,7 +8,8 @@
             "release_date": "2023-05-06",
             "extract_size": 69206016,
             "extract_sha256": "958ac9db44cdeed06e97117974090ca55a761a5431fe1cf396e19eb549906cba",
-            "image_download_size": 49903733
+            "image_download_size": 49903733,
+            "devices": ["pi4-32bit", "pi3-32bit", "pi2-32bit", "pi1-32bit"]
         }
     ]
 }
