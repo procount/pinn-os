@@ -2,166 +2,167 @@
   "os_list": [
         {
             "os_name":	    "raspios_arm64",
-            "description":  "A 64-bit port of Debian Bookworm with RPi desktop and recommended applications",
-            "release_date": "2023-10-10",
+            "description":  "A 64-bit port of Debian with RPi desktop and recommended applications",
+            "release_date": "2023-12-05",
             "supported_models": [
                 "Pi 3",
                 "Pi Compute Module 3",
-                "Pi 4"
+                "Pi 4",
+                "Pi 5"
             ],
             "url":             "http://www.raspbian.org/",
             "group":           "General",
-            "download_size":   1097034528,
-            "os_info":         "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_arm64/os.json",
-            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_arm64/partitions.json",
-            "icon":            "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_arm64/raspios_arm64.png",
-            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_arm64/marketing.tar",
-            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_arm64/partition_setup.sh",
+            "download_size":   1116443644,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os_next/raspios_arm64/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os_next/raspios_arm64/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os_next/raspios_arm64/raspios_arm64.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os_next/raspios_arm64/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os_next/raspios_arm64/partition_setup.sh",
             "tarballs": [
-                               "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_arm64/boot64.tar.xz",
-                               "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_arm64/root64.tar.xz"
+                               "http://downloads.sourceforge.net/project/pinn/os_next/raspios_arm64/boot64.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os_next/raspios_arm64/root64.tar.xz"
             ],
-            "nominal_size": 5376
+            "nominal_size": 5411
         }
-
 ,
         {
             "os_name":	    "raspios_arm64_full",
-            "description":  "A port of Debian Bookworm with desktop and recommended applications",
-            "release_date": "2023-10-10",
+            "description":  "A port of Debian with desktop and recommended applications",
+            "release_date": "2023-12-05",
             "supported_models": [
                 "Pi Model",
                 "Pi 2",
                 "Pi Zero",
                 "Pi 3",
                 "Pi Compute Module 3",
-                "Pi 4"
+                "Pi 4",
+                "Pi 5"
             ],
             "url":             "http://www.raspbian.org/",
             "group":           "General",
-            "download_size":   2915508696,
-            "os_info":         "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_arm64_full/os.json",
-            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_arm64_full/partitions.json",
-            "icon":            "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_arm64_full/raspios_arm64_full.png",
-            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_arm64_full/marketing.tar",
-            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_arm64_full/partition_setup.sh",
+            "download_size":   2950918080,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os_next/raspios_arm64_full/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os_next/raspios_arm64_full/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os_next/raspios_arm64_full/raspios_arm64_full.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os_next/raspios_arm64_full/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os_next/raspios_arm64_full/partition_setup.sh",
             "tarballs": [
-                               "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_arm64_full/boot64.tar.xz",
-                               "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_arm64_full/root64.tar.xz"
+                               "http://downloads.sourceforge.net/project/pinn/os_next/raspios_arm64_full/boot64.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os_next/raspios_arm64_full/root64.tar.xz"
             ],
-            "nominal_size": 13476
+            "nominal_size": 13511
         }
-
 ,
         {
             "os_name":	    "raspios_arm64_lite",
-            "description":  "A port of Debian Bookworm with no desktop environment",
-            "release_date": "2023-10-10",
+            "description":  "A port of Debian with no desktop environment",
+            "release_date": "2023-12-11",
             "supported_models": [
                 "Pi Model",
                 "Pi 2",
                 "Pi Zero",
                 "Pi 3",
                 "Pi Compute Module 3",
-                "Pi 4"
+                "Pi 4",
+                "Pi 5"
             ],
             "url":             "http://www.raspbian.org/",
             "group":           "General",
-            "download_size":   412683752,
-            "os_info":         "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_arm64_lite/os.json",
-            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_arm64_lite/partitions.json",
-            "icon":            "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_arm64_lite/raspios_arm64_lite.png",
-            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_arm64_lite/marketing.tar",
-            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_arm64_lite/partition_setup.sh",
+            "download_size":   415012064,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os_next/raspios_arm64_lite/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os_next/raspios_arm64_lite/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os_next/raspios_arm64_lite/raspios_arm64_lite.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os_next/raspios_arm64_lite/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os_next/raspios_arm64_lite/partition_setup.sh",
             "tarballs": [
-                               "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_arm64_lite/boot.tar.xz",
-                               "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_arm64_lite/root.tar.xz"
+                               "http://downloads.sourceforge.net/project/pinn/os_next/raspios_arm64_lite/boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os_next/raspios_arm64_lite/root.tar.xz"
             ],
-            "nominal_size": 2493
+            "nominal_size": 2508
         }
-
 ,
         {
             "os_name":	    "raspios_armhf",
-            "description":  "A port of Debian Bookworm with the Raspberry Pi Desktop",
-            "release_date": "2023-10-10",
+            "description":  "A port of Debian with the Raspberry Pi Desktop",
+            "release_date": "2023-12-05",
             "supported_models": [
                 "Pi Model",
                 "Pi 2",
                 "Pi Zero",
                 "Pi 3",
                 "Pi Compute Module 3",
-                "Pi 4"
+                "Pi 4",
+				"Pi 5"
             ],
             "url":             "http://www.raspbian.org/",
             "group":           "General",
-            "download_size":   1152529420,
-            "os_info":         "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_armhf/os.json",
-            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_armhf/partitions.json",
-            "icon":            "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_armhf/raspios_armhf.png",
-            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_armhf/marketing.tar",
-            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_armhf/partition_setup.sh",
+            "download_size":   1171535924,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os_next/raspios_armhf/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os_next/raspios_armhf/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os_next/raspios_armhf/raspios_armhf.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os_next/raspios_armhf/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os_next/raspios_armhf/partition_setup.sh",
             "tarballs": [
-                               "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_armhf/boot.tar.xz",
-                               "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_armhf/root.tar.xz"
+                               "http://downloads.sourceforge.net/project/pinn/os_next/raspios_armhf/boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os_next/raspios_armhf/root.tar.xz"
             ],
-            "nominal_size": 4908
+            "nominal_size": 4944
         }
-
 ,
         {
             "os_name":	    "raspios_armhf_full",
-            "description":  "A port of Debian Bookworm with the Raspberry Pi Desktop",
-            "release_date": "2023-10-10",
+            "description":  "A port of Debian with the Raspberry Pi Desktop",
+            "release_date": "2023-12-05",
             "supported_models": [
                 "Pi Model",
                 "Pi 2",
                 "Pi Zero",
                 "Pi 3",
                 "Pi Compute Module 3",
-                "Pi 4"
+                "Pi 4",
+                "Pi 5"
             ],
             "url":             "http://www.raspbian.org/",
             "group":           "General",
-            "download_size":   2755104980,
-            "os_info":         "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_armhf_full/os.json",
-            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_armhf_full/partitions.json",
-            "icon":            "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_armhf_full/raspios_armhf_full.png",
-            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_armhf_full/marketing.tar",
-            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_armhf_full/partition_setup.sh",
+            "download_size":   2781550720,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os_next/raspios_armhf_full/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os_next/raspios_armhf_full/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os_next/raspios_armhf_full/raspios_armhf_full.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os_next/raspios_armhf_full/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os_next/raspios_armhf_full/partition_setup.sh",
             "tarballs": [
-                               "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_armhf_full/boot.tar.xz",
-                               "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_armhf_full/root.tar.xz"
+                               "http://downloads.sourceforge.net/project/pinn/os_next/raspios_armhf_full/boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os_next/raspios_armhf_full/root.tar.xz"
             ],
-            "nominal_size": 11394
+            "nominal_size": 11426
         }
-
 ,
         {
             "os_name":	    "raspios_armhf_lite",
-            "description":  "A port of Debian Bookworm with no desktop environment",
-            "release_date": "2023-10-10",
+            "description":  "A port of Debian with no desktop environment",
+            "release_date": "2023-12-11",
             "supported_models": [
                 "Pi Model",
                 "Pi 2",
                 "Pi Zero",
                 "Pi 3",
                 "Pi Compute Module 3",
-                "Pi 4"
+                "Pi 4",
+				"Pi 5"
             ],
             "url":             "http://www.raspbian.org/",
             "group":           "General",
-            "download_size":   473496936,
-            "os_info":         "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_armhf_lite/os.json",
-            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_armhf_lite/partitions.json",
-            "icon":            "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_armhf_lite/raspios_armhf_lite.png",
-            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_armhf_lite/marketing.tar",
-            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_armhf_lite/partition_setup.sh",
+            "download_size":   477774092,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os_next/raspios_armhf_lite/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os_next/raspios_armhf_lite/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os_next/raspios_armhf_lite/raspios_armhf_lite.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os_next/raspios_armhf_lite/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os_next/raspios_armhf_lite/partition_setup.sh",
             "tarballs": [
-                               "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_armhf_lite/boot.tar.xz",
-                               "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_armhf_lite/root.tar.xz"
+                               "http://downloads.sourceforge.net/project/pinn/os_next/raspios_armhf_lite/boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os_next/raspios_armhf_lite/root.tar.xz"
             ],
-            "nominal_size": 2336
+            "nominal_size": 2352
         }
 ,
         {
@@ -219,6 +220,6 @@
             ],
             "nominal_size": 1859
         }
-       
+
   ]
 }
