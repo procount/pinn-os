@@ -1945,7 +1945,8 @@
                 "Pi Compute Module",
                 "Pi 2",
                 "Pi 3",
-                "Pi 4"
+                "Pi 4",
+                "Pi 5"
             ],
             "url":             "https://github.com/procount/pinn/blob/master/README_PINN.md#project-spaces",
             "flavours": [
