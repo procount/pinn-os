@@ -563,7 +563,7 @@
             ],
             "nominal_size": 5230
         }
-, 
+,
         {
             "os_name":	    "lineage17-rpi4-atv",
             "description":  "Lineage OS (KonstaKANG) 17.1 for RPi4",
@@ -880,7 +880,7 @@
                 "Pi 3",
                 "Pi Compute Module 3",
                 "Pi 4"
-            ],    
+            ],
             "supports_usb_boot": true,
             "supports_usb_root": true,
             "group":            "Media",
@@ -1330,6 +1330,31 @@
         }
 ,
         {
+            "os_name":	    "recalbox5",
+            "description":  "recalbox5 8.0.2 for RPi4",
+            "release_date": "2022-01-14",
+            "version":      "8.0.2",
+            "supported_models": [
+                "Pi 5"
+            ],
+            "supports_usb_boot": true,
+            "supports_usb_root": true,
+            "group":            "Games",
+            "download_size":    1062673668,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/recalbox5/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/recalbox5/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/recalbox5/recalbox5.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/recalbox5/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/recalbox5/partition_setup.sh",
+            "tarballs": [
+                "http://downloads.sourceforge.net/project/pinn/os/recalbox5/RECALBOX.tar.xz",
+                "http://downloads.sourceforge.net/project/pinn/os/recalbox5/SHARE.tar.xz",
+                "http://downloads.sourceforge.net/project/pinn/os/recalbox5/OVERLAY.tar.xz"
+            ],
+            "nominal_size": 7167
+        }
+,
+        {
             "os_name":	    "Retropie1",
             "description":  "Retropie1 v4.7.1 gaming distro using Emulation Station for RPi1/Zero",
             "release_date": "2020-11-04",
@@ -1529,7 +1554,6 @@
             "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/ubuntu2010/partitions.json",
             "icon":            "http://downloads.sourceforge.net/project/pinn/os/ubuntu2010/ubuntu2010.png",
             "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/ubuntu2010/marketing.tar",
- 
             "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/ubuntu2010/partition_setup.sh",
             "tarballs": [
                                "http://downloads.sourceforge.net/project/pinn/os/ubuntu2010/system-boot.tar.xz",
@@ -1617,8 +1641,8 @@
             "supported_models": [
                 "Pi 3",
                 "Pi Compute Module 3",
-                "Pi 4"            
-            ],            
+                "Pi 4"
+            ],
             "url":             "https://ubuntu-mate.org/ports/raspberry-pi/",
             "group":           "General",
             "download_size":   1618766380,
@@ -1664,7 +1688,7 @@
             "release_date": "2022-08-12",
             "supported_models": [
                 "Pi 4"
-            ],            
+            ],
             "url":             "https://ubuntu/",
             "group":           "General",
             "download_size":   1647527392,
@@ -1686,7 +1710,7 @@
             "release_date": "2023-02-23",
             "supported_models": [
                 "Pi 4"
-            ],            
+            ],
             "url":             "https://ubuntu/",
             "group":           "General",
             "download_size":   1694111728,
@@ -1701,14 +1725,14 @@
             ],
             "nominal_size": 7884
         }
-,        
+,
         {
             "os_name":	    "ubuntu22042S_64",
             "description":  "22.04.2 Server for RPi4",
             "release_date": "2023-02-23",
             "supported_models": [
                 "Pi 4"
-            ],            
+            ],
             "url":             "https://ubuntu/",
             "group":           "General",
             "download_size":   742744168,
@@ -1722,6 +1746,61 @@
                                "http://downloads.sourceforge.net/project/pinn/os/ubuntu22042S_64/writable.tar.xz"
             ],
             "nominal_size": 3805
+        }
+,
+        {
+            "os_name":	    "ubuntu22043D_64",
+            "description":  "22.04.3 Desktop for 64-bit Raspberry Pi",
+            "release_date": "2023-02-23",
+            "supported_models": [
+                "Pi Zero 2",
+                "Pi 2",
+                "Pi 3",
+                "Pi Compute Module 3",
+                "Pi 4",
+                "Pi Compute Module 4"
+            ],
+            "url":             "https://ubuntu/",
+            "group":           "General",
+            "download_size":   2026292244,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/ubuntu22043D_64/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/ubuntu22043D_64/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/ubuntu22043D_64/ubuntu22043D_64.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/ubuntu22043D_64/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/ubuntu22043D_64/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/ubuntu22043D_64/system-boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/ubuntu22043D_64/writable.tar.xz"
+            ],
+            "nominal_size": 8657
+        }
+,
+        {
+            "os_name":	    "ubuntu2310",
+            "description":  "ubuntu2310 v23.10 desktop for 64-bit Raspberry Pi",
+            "release_date": "2023-10-01",
+            "supported_models": [
+                "Pi Zero 2",
+                "Pi 2",
+                "Pi 3",
+                "Pi Compute Module 3",
+                "Pi 4",
+                "Pi Compute Module 4",
+                "Pi 5"
+            ],
+            "url":             "https://ubuntu/",
+            "group":           "General",
+            "download_size":   2122397436,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/ubuntu2310/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/ubuntu2310/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/ubuntu2310/ubuntu2310.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/ubuntu2310/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/ubuntu2310/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/ubuntu2310/system-boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/ubuntu2310/writable.tar.xz"
+            ],
+            "nominal_size": 8181
         }
 ,
         {
@@ -2003,3 +2082,4 @@
         }
   ]
 }
+
