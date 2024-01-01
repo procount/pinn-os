@@ -823,49 +823,91 @@
         }
 ,
         {
-            "os_name":	    "manjaro-kde-rpi4",
-            "description":  "manjaro-kde-rpi4 16.0 for RPi4",
-            "release_date": "2020-04-03",
+            "os_name" : "manjaro-gnome-rpi4",
+            "description" : "manjaro-gnome-rpi4 23.02 for RPi4",
+            "release_date" : "2023-02-17",
             "supported_models": [
-                "Pi 4 Model B Rev"
+                "Pi 4"
             ],
-            "supports_usb_boot": false,
-            "supports_usb_root": true,
+            "url" : "http://manjaro.org",
             "group":           "General",
-            "download_size":    995280276,
-            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/manjaro-kde-rpi4/os.json",
-            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/manjaro-kde-rpi4/partitions.json",
-            "icon":            "http://downloads.sourceforge.net/project/pinn/os/manjaro-kde-rpi4/manjaro-kde-rpi4.png",
-            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/manjaro-kde-rpi4/marketing.tar",
-            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/manjaro-kde-rpi4/partition_setup.sh",
+            "download_size" : 1147580192,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/Manjaro-ARM-GNOME-23.02/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/Manjaro-ARM-GNOME-23.02/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/Manjaro-ARM-GNOME-23.02/manjaro-gnome-rpi4.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/Manjaro-ARM-GNOME-23.02/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/Manjaro-ARM-GNOME-23.02/partition_setup.sh",
             "tarballs": [
-                               "http://downloads.sourceforge.net/project/pinn/os/manjaro-kde-rpi4/boot.tar.xz",
-                               "http://downloads.sourceforge.net/project/pinn/os/manjaro-kde-rpi4/root.tar.xz"
+                               "http://downloads.sourceforge.net/project/pinn/os/Manjaro-ARM-GNOME-23.02/boot_mnjro.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/Manjaro-ARM-GNOME-23.02/root_mnjro.tar.xz"
             ],
-            "nominal_size": 5007
+            "nominal_size": 6629
         }
 ,
         {
-            "os_name":	    "manjaro-xfce-rpi4",
-            "description":  "manjaro-xfce-rpi4 16.0 for RPi4",
-            "release_date": "2020-04-03",
+            "os_name" : "manjaro-kde-rpi4",
+            "description" : "manjaro-kde-rpi4 23.02 for RPi4",
+            "release_date" : "2023-02-17",
             "supported_models": [
-                "Pi 4 Model B Rev"
+                "Pi 4"
             ],
-            "supports_usb_boot": false,
-            "supports_usb_root": true,
+            "url" : "http://manjaro.org",
             "group":           "General",
-            "download_size":    788536836,
-            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/manjaro-xfce-rpi4/os.json",
-            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/manjaro-xfce-rpi4/partitions.json",
-            "icon":            "http://downloads.sourceforge.net/project/pinn/os/manjaro-xfce-rpi4/manjaro-xfce-rpi4.png",
-            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/manjaro-xfce-rpi4/marketing.tar",
-            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/manjaro-xfce-rpi4/partition_setup.sh",
+            "download_size" : 1040486664,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/Manjaro-ARM-KDE-23.02/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/Manjaro-ARM-KDE-23.02/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/Manjaro-ARM-KDE-23.02/manjaro-kde-rpi4.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/Manjaro-ARM-KDE-23.02/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/Manjaro-ARM-KDE-23.02/partition_setup.sh",
             "tarballs": [
-                               "http://downloads.sourceforge.net/project/pinn/os/manjaro-xfce-rpi4/boot.tar.xz",
-                               "http://downloads.sourceforge.net/project/pinn/os/manjaro-xfce-rpi4/root.tar.xz"
+                               "http://downloads.sourceforge.net/project/pinn/os/Manjaro-ARM-KDE-23.02/boot_mnjro.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/Manjaro-ARM-KDE-23.02/root_mnjro.tar.xz"
             ],
-            "nominal_size": 4371
+            "nominal_size": 5262
+        }
+,
+        {
+            "os_name" : "manjaro-mate-rpi4",
+            "description" : "manjaro-mate-rpi4 23.02 for RPi4",
+            "release_date" : "2023-02-17",
+            "supported_models": [
+                "Pi 4"
+            ],
+            "url" : "http://manjaro.org",
+            "group":           "General",
+            "download_size" : 934690252,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/Manjaro-ARM-MATE-23.02/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/Manjaro-ARM-MATE-23.02/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/Manjaro-ARM-MATE-23.02/manjaro-mate-rpi4.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/Manjaro-ARM-MATE-23.02/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/Manjaro-ARM-MATE-23.02/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/Manjaro-ARM-MATE-23.02/boot_mnjro.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/Manjaro-ARM-MATE-23.02/root_mnjro.tar.xz"
+            ],
+            "nominal_size": 5259
+        }
+,
+        {
+            "os_name" : "manjaro-xfce-rpi4",
+            "description" : "manjaro-xfce-rpi4 23.02 for RPi4",
+            "release_date" : "2023-02-17",
+            "supported_models": [
+                "Pi 4"
+            ],
+            "url" : "http://manjaro.org",
+            "group":           "General",
+            "download_size" : 862651196,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/Manjaro-ARM-xfce-23.02/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/Manjaro-ARM-xfce-23.02/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/Manjaro-ARM-xfce-23.02/manjaro-xfce-rpi4.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/Manjaro-ARM-xfce-23.02//marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/Manjaro-ARM-xfce-23.02/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/Manjaro-ARM-xfce-23.02/boot_mnjro.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/Manjaro-ARM-xfce-23.02/root_mnjro.tar.xz"
+            ],
+            "nominal_size": 4959
         }
 ,
         {
