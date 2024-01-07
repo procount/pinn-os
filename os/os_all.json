@@ -1031,6 +1031,32 @@
         }
 ,
         {
+            "os_name":	    "mxlinux",
+            "description":  "mxlinux mx23 for RPi4",
+            "release_date": "2024-01-05",
+            "version":      "mx23",
+            "supported_models": [
+                "Pi 4 Model B Rev",
+                "Pi 5 Model B Rev"
+            ],
+            "supports_usb_boot": true,
+            "supports_usb_root": true,
+            "group":            "General",
+            "download_size":    1384219168,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/mxlinux/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/mxlinux/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/mxlinux/mxlinux.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/mxlinux/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/mxlinux/partition_setup.sh",
+            "tarballs": [
+                "http://downloads.sourceforge.net/project/pinn/os/mxlinux/boot64.tar.xz",
+                "http://downloads.sourceforge.net/project/pinn/os/mxlinux/root64.tar.xz"
+
+            ],
+            "nominal_size": 8142
+        }
+,
+        {
             "os_name":	    "OpenPlotter32",
 			"description":  "The open-source sailing platform for ARM computers",
 			"release_date": "2022-07-18",
