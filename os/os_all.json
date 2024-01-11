@@ -61,6 +61,71 @@
         }
 ,
         {
+            "os_name":	    "AOSP14-rpi4",
+            "description":  "Android AOSP 14.0 for RPi4",
+            "release_date": "2024-01-04",
+            "feature_level": 0,
+            "supported_hex_revisions": "2082",
+            "supported_models": [
+                "Pi 4"
+            ],
+            "supports_usb_boot":       false,
+            "supports_usb_root":       false,
+            "supports_sda_boot":       true,
+            "supports_sda_root":       true,
+            "version":                 "14.0",
+            "supports_backup": true,
+            "url":             "http://konstakang.com/devices/rpi4/",
+            "group":           "General",
+            "download_size":   555367960,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/AOSP14-rpi4/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/AOSP14-rpi4/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/AOSP14-rpi4/AOSP14-rpi4.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/AOSP14-rpi4/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/AOSP14-rpi4/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/AOSP14-rpi4/boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/AOSP14-rpi4/system.img.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/AOSP14-rpi4/vendor.img.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/AOSP14-rpi4/userdata.tar.xz"
+            ],
+            "nominal_size": 6940
+        }
+,
+        {
+            "os_name":	    "AOSP14-rpi5",
+            "description":  "Android AOSP 14.0 for RPi5",
+            "release_date": "2024-01-04",
+            "feature_level": 0,
+            "supported_hex_revisions": "2082",
+            "supported_models": [
+                "Pi 4",
+                "Pi 5"
+            ],
+            "supports_usb_boot":       false,
+            "supports_usb_root":       false,
+            "supports_sda_boot":       true,
+            "supports_sda_root":       true,
+            "version":                 "14.0",
+            "supports_backup": true,
+            "url":             "http://konstakang.com/devices/rpi4/",
+            "group":           "General",
+            "download_size":   551725828,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/AOSP14-rpi5/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/AOSP14-rpi5/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/AOSP14-rpi5/AOSP14-rpi5.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/AOSP14-rpi5/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/AOSP14-rpi5/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/AOSP14-rpi5/boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/AOSP14-rpi5/system.img.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/AOSP14-rpi5/vendor.img.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/AOSP14-rpi5/userdata.tar.xz"
+            ],
+            "nominal_size": 6940
+        }
+,
+        {
             "os_name":	    "Arch2",
             "description":  "An Arch Linux port for ARM7 devices RPi2/3/4/z2",
             "release_date": "2018-01-28",
@@ -390,6 +455,31 @@
         }
 ,
         {
+            "os_name":	    "kde2lee64",
+            "description": "Leepspvideo's custom raspios-64. KDE plasma desktop, PiApps, PiKiss",
+            "release_date": "2024-01-05",
+            "supported_models": [
+                "Pi 3",
+                "Pi Compute Module 3",
+                "Pi 4",
+                "Pi 5"
+            ],
+            "url":             "http://www.raspbian.org/",
+            "group":           "General",
+            "download_size":   2214452424,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/kde2lee64/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/kde2lee64/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/kde2lee64/kde2lee64.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/kde2lee64/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/kde2lee64/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/kde2lee64/boot64.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/kde2lee64/root64.tar.xz"
+            ],
+            "nominal_size": 9677
+        }
+,
+        {
             "os_name":	    "lede2RPi1",
             "description":  "lede2RPi1 18.06.4 for the Raspberry Pi0/1 (open-wrt)",
             "release_date": "2019-06-30",
@@ -563,7 +653,7 @@
             ],
             "nominal_size": 5230
         }
-, 
+,
         {
             "os_name":	    "lineage17-rpi4-atv",
             "description":  "Lineage OS (KonstaKANG) 17.1 for RPi4",
@@ -823,49 +913,91 @@
         }
 ,
         {
-            "os_name":	    "manjaro-kde-rpi4",
-            "description":  "manjaro-kde-rpi4 16.0 for RPi4",
-            "release_date": "2020-04-03",
+            "os_name" : "manjaro-gnome-rpi4",
+            "description" : "manjaro-gnome-rpi4 23.02 for RPi4",
+            "release_date" : "2023-02-17",
             "supported_models": [
-                "Pi 4 Model B Rev"
+                "Pi 4"
             ],
-            "supports_usb_boot": false,
-            "supports_usb_root": true,
+            "url" : "http://manjaro.org",
             "group":           "General",
-            "download_size":    995280276,
-            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/manjaro-kde-rpi4/os.json",
-            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/manjaro-kde-rpi4/partitions.json",
-            "icon":            "http://downloads.sourceforge.net/project/pinn/os/manjaro-kde-rpi4/manjaro-kde-rpi4.png",
-            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/manjaro-kde-rpi4/marketing.tar",
-            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/manjaro-kde-rpi4/partition_setup.sh",
+            "download_size" : 1147580192,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/Manjaro-ARM-GNOME-23.02/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/Manjaro-ARM-GNOME-23.02/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/Manjaro-ARM-GNOME-23.02/manjaro-gnome-rpi4.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/Manjaro-ARM-GNOME-23.02/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/Manjaro-ARM-GNOME-23.02/partition_setup.sh",
             "tarballs": [
-                               "http://downloads.sourceforge.net/project/pinn/os/manjaro-kde-rpi4/boot.tar.xz",
-                               "http://downloads.sourceforge.net/project/pinn/os/manjaro-kde-rpi4/root.tar.xz"
+                               "http://downloads.sourceforge.net/project/pinn/os/Manjaro-ARM-GNOME-23.02/boot_mnjro.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/Manjaro-ARM-GNOME-23.02/root_mnjro.tar.xz"
             ],
-            "nominal_size": 5007
+            "nominal_size": 6629
         }
 ,
         {
-            "os_name":	    "manjaro-xfce-rpi4",
-            "description":  "manjaro-xfce-rpi4 16.0 for RPi4",
-            "release_date": "2020-04-03",
+            "os_name" : "manjaro-kde-rpi4",
+            "description" : "manjaro-kde-rpi4 23.02 for RPi4",
+            "release_date" : "2023-02-17",
             "supported_models": [
-                "Pi 4 Model B Rev"
+                "Pi 4"
             ],
-            "supports_usb_boot": false,
-            "supports_usb_root": true,
+            "url" : "http://manjaro.org",
             "group":           "General",
-            "download_size":    788536836,
-            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/manjaro-xfce-rpi4/os.json",
-            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/manjaro-xfce-rpi4/partitions.json",
-            "icon":            "http://downloads.sourceforge.net/project/pinn/os/manjaro-xfce-rpi4/manjaro-xfce-rpi4.png",
-            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/manjaro-xfce-rpi4/marketing.tar",
-            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/manjaro-xfce-rpi4/partition_setup.sh",
+            "download_size" : 1040486664,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/Manjaro-ARM-KDE-23.02/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/Manjaro-ARM-KDE-23.02/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/Manjaro-ARM-KDE-23.02/manjaro-kde-rpi4.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/Manjaro-ARM-KDE-23.02/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/Manjaro-ARM-KDE-23.02/partition_setup.sh",
             "tarballs": [
-                               "http://downloads.sourceforge.net/project/pinn/os/manjaro-xfce-rpi4/boot.tar.xz",
-                               "http://downloads.sourceforge.net/project/pinn/os/manjaro-xfce-rpi4/root.tar.xz"
+                               "http://downloads.sourceforge.net/project/pinn/os/Manjaro-ARM-KDE-23.02/boot_mnjro.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/Manjaro-ARM-KDE-23.02/root_mnjro.tar.xz"
             ],
-            "nominal_size": 4371
+            "nominal_size": 5262
+        }
+,
+        {
+            "os_name" : "manjaro-mate-rpi4",
+            "description" : "manjaro-mate-rpi4 23.02 for RPi4",
+            "release_date" : "2023-02-17",
+            "supported_models": [
+                "Pi 4"
+            ],
+            "url" : "http://manjaro.org",
+            "group":           "General",
+            "download_size" : 934690252,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/Manjaro-ARM-MATE-23.02/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/Manjaro-ARM-MATE-23.02/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/Manjaro-ARM-MATE-23.02/manjaro-mate-rpi4.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/Manjaro-ARM-MATE-23.02/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/Manjaro-ARM-MATE-23.02/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/Manjaro-ARM-MATE-23.02/boot_mnjro.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/Manjaro-ARM-MATE-23.02/root_mnjro.tar.xz"
+            ],
+            "nominal_size": 5259
+        }
+,
+        {
+            "os_name" : "manjaro-xfce-rpi4",
+            "description" : "manjaro-xfce-rpi4 23.02 for RPi4",
+            "release_date" : "2023-02-17",
+            "supported_models": [
+                "Pi 4"
+            ],
+            "url" : "http://manjaro.org",
+            "group":           "General",
+            "download_size" : 862651196,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/Manjaro-ARM-xfce-23.02/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/Manjaro-ARM-xfce-23.02/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/Manjaro-ARM-xfce-23.02/manjaro-xfce-rpi4.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/Manjaro-ARM-xfce-23.02//marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/Manjaro-ARM-xfce-23.02/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/Manjaro-ARM-xfce-23.02/boot_mnjro.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/Manjaro-ARM-xfce-23.02/root_mnjro.tar.xz"
+            ],
+            "nominal_size": 4959
         }
 ,
         {
@@ -880,7 +1012,7 @@
                 "Pi 3",
                 "Pi Compute Module 3",
                 "Pi 4"
-            ],    
+            ],
             "supports_usb_boot": true,
             "supports_usb_root": true,
             "group":            "Media",
@@ -896,6 +1028,32 @@
 
             ],
             "nominal_size": 3333
+        }
+,
+        {
+            "os_name":	    "mxlinux",
+            "description":  "mxlinux mx23 for RPi4, Pi400, Pi5",
+            "release_date": "2024-01-05",
+            "version":      "mx23",
+            "supported_models": [
+                "Pi 4 Model B Rev",
+                "Pi 5 Model B Rev"
+            ],
+            "supports_usb_boot": true,
+            "supports_usb_root": true,
+            "group":            "General",
+            "download_size":    1384219168,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/mxlinux/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/mxlinux/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/mxlinux/mxlinux.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/mxlinux/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/mxlinux/partition_setup.sh",
+            "tarballs": [
+                "http://downloads.sourceforge.net/project/pinn/os/mxlinux/boot64.tar.xz",
+                "http://downloads.sourceforge.net/project/pinn/os/mxlinux/root64.tar.xz"
+
+            ],
+            "nominal_size": 8142
         }
 ,
         {
@@ -1330,6 +1488,31 @@
         }
 ,
         {
+            "os_name":	    "recalbox5",
+            "description":  "recalbox5 8.0.2 for RPi4",
+            "release_date": "2022-01-14",
+            "version":      "8.0.2",
+            "supported_models": [
+                "Pi 5"
+            ],
+            "supports_usb_boot": true,
+            "supports_usb_root": true,
+            "group":            "Games",
+            "download_size":    1062673668,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/recalbox5/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/recalbox5/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/recalbox5/recalbox5.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/recalbox5/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/recalbox5/partition_setup.sh",
+            "tarballs": [
+                "http://downloads.sourceforge.net/project/pinn/os/recalbox5/RECALBOX.tar.xz",
+                "http://downloads.sourceforge.net/project/pinn/os/recalbox5/SHARE.tar.xz",
+                "http://downloads.sourceforge.net/project/pinn/os/recalbox5/OVERLAY.tar.xz"
+            ],
+            "nominal_size": 7167
+        }
+,
+        {
             "os_name":	    "Retropie1",
             "description":  "Retropie1 v4.7.1 gaming distro using Emulation Station for RPi1/Zero",
             "release_date": "2020-11-04",
@@ -1529,7 +1712,6 @@
             "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/ubuntu2010/partitions.json",
             "icon":            "http://downloads.sourceforge.net/project/pinn/os/ubuntu2010/ubuntu2010.png",
             "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/ubuntu2010/marketing.tar",
- 
             "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/ubuntu2010/partition_setup.sh",
             "tarballs": [
                                "http://downloads.sourceforge.net/project/pinn/os/ubuntu2010/system-boot.tar.xz",
@@ -1617,8 +1799,8 @@
             "supported_models": [
                 "Pi 3",
                 "Pi Compute Module 3",
-                "Pi 4"            
-            ],            
+                "Pi 4"
+            ],
             "url":             "https://ubuntu-mate.org/ports/raspberry-pi/",
             "group":           "General",
             "download_size":   1618766380,
@@ -1664,7 +1846,7 @@
             "release_date": "2022-08-12",
             "supported_models": [
                 "Pi 4"
-            ],            
+            ],
             "url":             "https://ubuntu/",
             "group":           "General",
             "download_size":   1647527392,
@@ -1686,7 +1868,7 @@
             "release_date": "2023-02-23",
             "supported_models": [
                 "Pi 4"
-            ],            
+            ],
             "url":             "https://ubuntu/",
             "group":           "General",
             "download_size":   1694111728,
@@ -1701,14 +1883,14 @@
             ],
             "nominal_size": 7884
         }
-,        
+,
         {
             "os_name":	    "ubuntu22042S_64",
             "description":  "22.04.2 Server for RPi4",
             "release_date": "2023-02-23",
             "supported_models": [
                 "Pi 4"
-            ],            
+            ],
             "url":             "https://ubuntu/",
             "group":           "General",
             "download_size":   742744168,
@@ -1722,6 +1904,61 @@
                                "http://downloads.sourceforge.net/project/pinn/os/ubuntu22042S_64/writable.tar.xz"
             ],
             "nominal_size": 3805
+        }
+,
+        {
+            "os_name":	    "ubuntu22043D_64",
+            "description":  "22.04.3 Desktop for 64-bit Raspberry Pi",
+            "release_date": "2023-02-23",
+            "supported_models": [
+                "Pi Zero 2",
+                "Pi 2",
+                "Pi 3",
+                "Pi Compute Module 3",
+                "Pi 4",
+                "Pi Compute Module 4"
+            ],
+            "url":             "https://ubuntu/",
+            "group":           "General",
+            "download_size":   2026292244,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/ubuntu22043D_64/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/ubuntu22043D_64/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/ubuntu22043D_64/ubuntu22043D_64.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/ubuntu22043D_64/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/ubuntu22043D_64/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/ubuntu22043D_64/system-boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/ubuntu22043D_64/writable.tar.xz"
+            ],
+            "nominal_size": 8657
+        }
+,
+        {
+            "os_name":	    "ubuntu2310",
+            "description":  "ubuntu2310 v23.10 desktop for 64-bit Raspberry Pi",
+            "release_date": "2023-10-01",
+            "supported_models": [
+                "Pi Zero 2",
+                "Pi 2",
+                "Pi 3",
+                "Pi Compute Module 3",
+                "Pi 4",
+                "Pi Compute Module 4",
+                "Pi 5"
+            ],
+            "url":             "https://ubuntu/",
+            "group":           "General",
+            "download_size":   2122397436,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/ubuntu2310/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/ubuntu2310/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/ubuntu2310/ubuntu2310.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/ubuntu2310/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/ubuntu2310/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/ubuntu2310/system-boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/ubuntu2310/writable.tar.xz"
+            ],
+            "nominal_size": 8181
         }
 ,
         {
@@ -1945,7 +2182,8 @@
                 "Pi Compute Module",
                 "Pi 2",
                 "Pi 3",
-                "Pi 4"
+                "Pi 4",
+                "Pi 5"
             ],
             "url":             "https://github.com/procount/pinn/blob/master/README_PINN.md#project-spaces",
             "flavours": [
@@ -2002,3 +2240,4 @@
         }
   ]
 }
+
