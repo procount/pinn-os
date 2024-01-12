@@ -1036,8 +1036,8 @@
             "release_date": "2024-01-05",
             "version":      "mx23",
             "supported_models": [
-                "Pi 4 Model B Rev",
-                "Pi 5 Model B Rev"
+                "Pi 4",
+                "Pi 5"
             ],
             "supports_usb_boot": true,
             "supports_usb_root": true,
