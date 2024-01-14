@@ -913,6 +913,38 @@
         }
 ,
         {
+            "os_name":	    "lineage20-rpi5-atv",
+            "description":  "Lineage OS ATV (KonstaKANG) 13.0 for RPi5",
+            "release_date": "2024-01-12",
+            "feature_level": 0,
+            "supported_hex_revisions": "2082",
+            "supported_models": [
+                "Pi 5"
+            ],
+            "supports_usb_boot":       false,
+            "supports_usb_root":       false,
+            "supports_sda_boot":       true,
+            "supports_sda_root":       true,
+            "version":                 "13.0",
+            "supports_backup": true,
+            "url":             "http://konstakang.com/devices/rpi5/",
+            "group":           "General",
+            "download_size":   446401996,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/lineage20-rpi5-atv/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/lineage20-rpi5-atv/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/lineage20-rpi5-atv/lineage20-rpi5-atv.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/lineage20-rpi5-atv/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/lineage20-rpi5-atv/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage20-rpi5-atv/boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage20-rpi5-atv/system.img.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage20-rpi5-atv/vendor.img.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage20-rpi5-atv/data.tar.xz"
+            ],
+            "nominal_size": 6940
+        }
+,
+        {
             "os_name" : "manjaro-gnome-rpi4",
             "description" : "manjaro-gnome-rpi4 23.02 for RPi4",
             "release_date" : "2023-02-17",
