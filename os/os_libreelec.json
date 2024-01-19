@@ -99,6 +99,30 @@
             "url": "https://libreelec.tv/",
             "version": "11.0.5"
         }
-
+,
+        {
+            "os_name": "LibreELEC_RPi2_926",
+            "description": "LibreELEC is a fast and user-friendly Kodi Entertainment Center distribution.",
+            "release_date": "2020-10-25",
+            "supported_models": [
+                "Pi 2",
+                "Pi 3"
+            ],
+            "supports_usb_boot":       true,
+            "supports_usb_root":       true,
+            "version": "9.2.6",
+            "supports_backup": true,
+            "group": "Media",
+            "nominal_size": 1024,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/LibreELEC_RPi2_926/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/LibreELEC_RPi2_926/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/LibreELEC_RPi2_926/LibreELEC_RPi2_926.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/LibreELEC_RPi2_926/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/LibreELEC_RPi2_926/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/LibreELEC_RPi2_926/System.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/LibreELEC_RPi2_926/Storage.tar.xz"
+            ]
+        }
   ]
 }
