@@ -122,7 +122,8 @@
             "tarballs": [
                                "http://downloads.sourceforge.net/project/pinn/os/LibreELEC_RPi2_926/System.tar.xz",
                                "http://downloads.sourceforge.net/project/pinn/os/LibreELEC_RPi2_926/Storage.tar.xz"
-            ]
+            ],
+            "url": "https://libreelec.tv/2020/11/02/libreelec-leia-9-2-6/"
         }
   ]
 }
