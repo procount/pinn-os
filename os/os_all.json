@@ -1998,6 +1998,32 @@
         }
 ,
         {
+            "os_name":	    "ubuntu2310",
+            "description":  "ubuntu2310 v23.10 desktop for RPi4/5 (updated initrd)",
+            "release_date": "2024-02-03",
+            "supported_models": [
+                "Pi 3",
+                "Pi Compute Module 3",
+                "Pi 4",
+                "Pi Compute Module 4",
+                "Pi 5"
+            ],
+            "url":             "https://ubuntu/",
+            "group":           "General",
+            "download_size":   2130300948,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/ubuntu2310/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/ubuntu2310/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/ubuntu2310/ubuntu2310.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/ubuntu2310/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/ubuntu2310/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/ubuntu2310/system-boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/ubuntu2310/writable.tar.xz"
+            ],
+            "nominal_size": 8181
+        }
+,
+        {
             "os_name":	    "void1",
             "description":  "A void1 Linux port for ARM devices RPi1",
             "release_date": "2016-04-20",
