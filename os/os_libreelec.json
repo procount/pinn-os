@@ -69,7 +69,7 @@
             ],
             "supports_backup": true,
             "tarballs": [
-                "http://releases.libreelec.tv/noobs/LibreELEC_RPi4/System.tar.xz",
+                "http://downloads.sourceforge.net/project/pinn/os/LibreELEC_RPi4/System.tar.xz",
                 "http://releases.libreelec.tv/noobs/LibreELEC_RPi4/Storage.tar.xz"
             ],
             "url": "https://libreelec.tv/",
