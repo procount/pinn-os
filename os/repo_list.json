@@ -34,10 +34,6 @@
 		{
 			"name": "TLXOS",
 			"url": "http://rpi.thinlinx.com/NOOBS/os_list_v3.json"
-		},
-		{
-			"name": "XBian",
-			"url": "http://sourceforge.net/projects/xbian/files/noobs/os_xbian.json"
 		}
 
 	]
