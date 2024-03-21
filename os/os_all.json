@@ -2454,7 +2454,7 @@
         },
         {
             "os_name":          "swap",
-            "Group":            "Utility",
+            "group":            "Utility",
             "description":      "Adds a 512MB swap partition.",
             "icon":             "http://downloads.sourceforge.net/project/pinn/os/swap/swap.png",
             "os_info":          "http://downloads.sourceforge.net/project/pinn/os/swap/os.json",
