@@ -2451,6 +2451,26 @@
                                "http://downloads.sourceforge.net/project/pinn/os/ProjectSpace/prjroot.tar.xz"
             ],
             "nominal_size": 600
+        },
+        {
+            "os_name":          "swap",
+            "Group":            "Utility",
+            "description":      "Adds a 512MB swap partition.",
+            "icon":             "http://downloads.sourceforge.net/project/pinn/os/swap/swap.png",
+            "os_info":          "http://downloads.sourceforge.net/project/pinn/os/swap/os.json",
+            "partitions_info":  "http://downloads.sourceforge.net/project/pinn/os/swap/partitions.json",
+            "supported_models": [
+                "Pi Zero",
+                "Pi Model",
+                "Pi Compute Module",
+                "Pi 2",
+                "Pi 3",
+                "Pi 4",
+                "Pi 5"
+            ],
+            "nominal_size":     512,
+            "supports_backup":  false,
+            "bootable":         false
         }
   ]
 }
