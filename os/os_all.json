@@ -502,6 +502,31 @@
         }
 ,
         {
+            "os_name":	    "kde3lee64",
+            "description": "Leepspvideo's custom raspios-64. KDE plasma desktop, PiApps, PiKiss",
+            "release_date": "2024-03-13",
+            "supported_models": [
+                "Pi 3",
+                "Pi Compute Module 3",
+                "Pi 4",
+                "Pi 5"
+            ],
+            "url":             "http://www.raspbian.org/",
+            "group":           "General",
+            "download_size":   2824813564,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/kde3lee64/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/kde3lee64/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/kde3lee64/kde3lee64.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/kde3lee64/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/kde3lee64/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/kde3lee64/boot64.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/kde3lee64/root64.tar.xz"
+            ],
+            "nominal_size": 10732
+        }
+,
+        {
             "os_name":	    "lede2RPi1",
             "description":  "lede2RPi1 18.06.4 for the Raspberry Pi0/1 (open-wrt)",
             "release_date": "2019-06-30",
