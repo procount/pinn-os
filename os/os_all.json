@@ -455,6 +455,28 @@
         }
 ,
         {
+            "os_name": "kali64_5",
+            "description": "Kali Linux 2023.4 for RPi5",
+            "release_date": "2023-12-05",
+            "feature_level": 35644412,
+            "supported_models": [
+                "Pi 5"
+            ],
+            "url":              "https://www.kali.org/",
+            "group":            "General",
+            "os_info":          "http://downloads.sourceforge.net/project/pinn/os/kali64_5/os.json",
+            "partitions_info":  "http://downloads.sourceforge.net/project/pinn/os/kali64_5/partitions.json",
+            "icon":             "http://downloads.sourceforge.net/project/pinn/os/kali64_5/kali64_5.png",
+            "marketing_info":   "http://downloads.sourceforge.net/project/pinn/os/kali64_5/marketing.tar",
+            "partition_setup":  "http://downloads.sourceforge.net/project/pinn/os/kali64_5/partition_setup.sh",
+            "tarballs": [
+                                "http://downloads.sourceforge.net/project/pinn/os/kali64_5/boot_kali.tar.xz",
+                                "http://downloads.sourceforge.net/project/pinn/os/kali64_5/root_kali.tar.xz"
+            ],
+            "nominal_size": 15021
+        }
+,
+        {
             "os_name":	    "kde2lee64",
             "description": "Leepspvideo's custom raspios-64. KDE plasma desktop, PiApps, PiKiss",
             "release_date": "2024-01-05",
@@ -477,6 +499,31 @@
                                "http://downloads.sourceforge.net/project/pinn/os/kde2lee64/root64.tar.xz"
             ],
             "nominal_size": 9677
+        }
+,
+        {
+            "os_name":	    "kde3lee64",
+            "description": "Leepspvideo's custom raspios-64. KDE plasma desktop, PiApps, PiKiss",
+            "release_date": "2024-03-13",
+            "supported_models": [
+                "Pi 3",
+                "Pi Compute Module 3",
+                "Pi 4",
+                "Pi 5"
+            ],
+            "url":             "http://www.raspbian.org/",
+            "group":           "General",
+            "download_size":   2824813564,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/kde3lee64/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/kde3lee64/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/kde3lee64/kde3lee64.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/kde3lee64/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/kde3lee64/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/kde3lee64/boot64.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/kde3lee64/root64.tar.xz"
+            ],
+            "nominal_size": 10732
         }
 ,
         {
@@ -913,6 +960,200 @@
         }
 ,
         {
+            "os_name":	    "lineage20-rpi5",
+            "description":  "Lineage OS (KonstaKANG) 20.0 for RPi4",
+            "release_date": "2024-01-12",
+            "feature_level": 0,
+            "supported_hex_revisions": "2082",
+            "supported_models": [
+                "Pi 5"
+            ],
+            "supports_usb_boot":       false,
+            "supports_usb_root":       false,
+            "supports_sda_boot":       true,
+            "supports_sda_root":       true,
+            "version":                 "20.0",
+            "supports_backup": true,
+            "url":             "http://konstakang.com/devices/rpi4/",
+            "group":           "General",
+            "download_size":   560175412,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/lineage20-rpi5/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/lineage20-rpi5/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/lineage20-rpi5/lineage20-rpi5.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/lineage20-rpi5/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/lineage20-rpi5/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage20-rpi5/boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage20-rpi5/system.img.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage20-rpi5/vendor.img.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage20-rpi5/data.tar.xz"
+            ],
+            "nominal_size": 6940
+        }
+,
+        {
+            "os_name":	    "lineage20-rpi5-atv",
+            "description":  "Lineage OS ATV (KonstaKANG) 13.0 for RPi5",
+            "release_date": "2024-01-12",
+            "feature_level": 0,
+            "supported_hex_revisions": "2082",
+            "supported_models": [
+                "Pi 5"
+            ],
+            "supports_usb_boot":       false,
+            "supports_usb_root":       false,
+            "supports_sda_boot":       true,
+            "supports_sda_root":       true,
+            "version":                 "13.0",
+            "supports_backup": true,
+            "url":             "http://konstakang.com/devices/rpi5/",
+            "group":           "General",
+            "download_size":   446401996,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/lineage20-rpi5-atv/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/lineage20-rpi5-atv/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/lineage20-rpi5-atv/lineage20-rpi5-atv.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/lineage20-rpi5-atv/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/lineage20-rpi5-atv/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage20-rpi5-atv/boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage20-rpi5-atv/system.img.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage20-rpi5-atv/vendor.img.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage20-rpi5-atv/data.tar.xz"
+            ],
+            "nominal_size": 6940
+        }
+,
+        {
+            "os_name":	    "lineage21-rpi4-atv",
+            "description":  "Lineage OS ATV (KonstaKANG) 21.0 for RPi4",
+            "release_date": "2024-02-16",
+            "feature_level": 0,
+            "supported_hex_revisions": "2082",
+            "supported_models": [
+                "Pi 4",
+                "Compute Module 4"
+            ],
+            "supports_usb_boot":       false,
+            "supports_usb_root":       false,
+            "supports_sda_boot":       true,
+            "supports_sda_root":       true,
+            "version":                 "21.0",
+            "supports_backup": true,
+            "url":             "http://konstakang.com/devices/rpi4/",
+            "group":           "General",
+            "download_size":   435576000,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/lineage21-rpi4-atv/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/lineage21-rpi4-atv/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/lineage21-rpi4-atv/lineage21-rpi4-atv.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/lineage21-rpi4-atv/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/lineage21-rpi4-atv/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage21-rpi4-atv/boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage21-rpi4-atv/system.img.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage21-rpi4-atv/vendor.img.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage21-rpi4-atv/userdata.tar.xz"
+            ],
+            "nominal_size": 6940
+        }
+,
+        {
+            "os_name":	    "lineage21-rpi4",
+            "description":  "Lineage OS (KonstaKANG) 21.0 for RPi4",
+            "release_date": "2024-02-16",
+            "feature_level": 0,
+            "supported_hex_revisions": "2082",
+            "supported_models": [
+                "Pi 4",
+                "Compute Module 4"
+            ],
+            "supports_usb_boot":       false,
+            "supports_usb_root":       false,
+            "supports_sda_boot":       true,
+            "supports_sda_root":       true,
+            "version":                 "21.0",
+            "supports_backup": true,
+            "url":             "http://konstakang.com/devices/rpi4/",
+            "group":           "General",
+            "download_size":   566814792,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/lineage21-rpi4/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/lineage21-rpi4/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/lineage21-rpi4/lineage21-rpi4.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/lineage21-rpi4/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/lineage21-rpi4/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage21-rpi4/boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage21-rpi4/system.img.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage21-rpi4/vendor.img.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage21-rpi4/data.tar.xz"
+            ],
+            "nominal_size": 6940
+        }
+,
+        {
+            "os_name":	    "lineage21-rpi5-atv",
+            "description":  "Lineage OS ATV (KonstaKANG) 21.0 for RPi5",
+            "release_date": "2024-02-16",
+            "feature_level": 0,
+            "supported_hex_revisions": "2082",
+            "supported_models": [
+                "Pi 5"
+            ],
+            "supports_usb_boot":       false,
+            "supports_usb_root":       false,
+            "supports_sda_boot":       true,
+            "supports_sda_root":       true,
+            "version":                 "21.0",
+            "supports_backup": true,
+            "url":             "http://konstakang.com/devices/rpi5/",
+            "group":           "General",
+            "download_size":   432301108,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/lineage21-rpi5-atv/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/lineage21-rpi5-atv/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/lineage21-rpi5-atv/lineage21-rpi5-atv.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/lineage21-rpi5-atv/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/lineage21-rpi5-atv/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage21-rpi5-atv/boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage21-rpi5-atv/system.img.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage21-rpi5-atv/vendor.img.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage21-rpi5-atv/userdata.tar.xz"
+            ],
+            "nominal_size": 6940
+        }
+,
+        {
+            "os_name":	    "lineage21-rpi5",
+            "description":  "Lineage OS (KonstaKANG) 21.0 for RPi5",
+            "release_date": "2024-02-16",
+            "feature_level": 0,
+            "supported_hex_revisions": "2082",
+            "supported_models": [
+                "Pi 5"
+            ],
+            "supports_usb_boot":       false,
+            "supports_usb_root":       false,
+            "supports_sda_boot":       true,
+            "supports_sda_root":       true,
+            "version":                 "21.0",
+            "supports_backup": true,
+            "url":             "http://konstakang.com/devices/rpi5/",
+            "group":           "General",
+            "download_size":   563223976,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/lineage21-rpi5/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/lineage21-rpi5/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/lineage21-rpi5/lineage21-rpi5.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/lineage21-rpi5/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/lineage21-rpi5/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage21-rpi5/boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage21-rpi5/system.img.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage21-rpi5/vendor.img.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage21-rpi5/data.tar.xz"
+            ],
+            "nominal_size": 6940
+        }
+,
+        {
             "os_name" : "manjaro-gnome-rpi4",
             "description" : "manjaro-gnome-rpi4 23.02 for RPi4",
             "release_date" : "2023-02-17",
@@ -1036,8 +1277,8 @@
             "release_date": "2024-01-05",
             "version":      "mx23",
             "supported_models": [
-                "Pi 4 Model B Rev",
-                "Pi 5 Model B Rev"
+                "Pi 4",
+                "Pi 5"
             ],
             "supports_usb_boot": true,
             "supports_usb_root": true,
@@ -1935,11 +2176,9 @@
 ,
         {
             "os_name":	    "ubuntu2310",
-            "description":  "ubuntu2310 v23.10 desktop for 64-bit Raspberry Pi",
-            "release_date": "2023-10-01",
+            "description":  "ubuntu2310 v23.10 desktop for RPi4/5 (updated initrd)",
+            "release_date": "2024-02-03",
             "supported_models": [
-                "Pi Zero 2",
-                "Pi 2",
                 "Pi 3",
                 "Pi Compute Module 3",
                 "Pi 4",
@@ -1948,7 +2187,7 @@
             ],
             "url":             "https://ubuntu/",
             "group":           "General",
-            "download_size":   2122397436,
+            "download_size":   2130300948,
             "os_info":         "http://downloads.sourceforge.net/project/pinn/os/ubuntu2310/os.json",
             "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/ubuntu2310/partitions.json",
             "icon":            "http://downloads.sourceforge.net/project/pinn/os/ubuntu2310/ubuntu2310.png",
@@ -2237,6 +2476,26 @@
                                "http://downloads.sourceforge.net/project/pinn/os/ProjectSpace/prjroot.tar.xz"
             ],
             "nominal_size": 600
+        },
+        {
+            "os_name":          "swap",
+            "group":            "Utility",
+            "description":      "Adds a 512MB swap partition.",
+            "icon":             "http://downloads.sourceforge.net/project/pinn/os/swap/swap.png",
+            "os_info":          "http://downloads.sourceforge.net/project/pinn/os/swap/os.json",
+            "partitions_info":  "http://downloads.sourceforge.net/project/pinn/os/swap/partitions.json",
+            "supported_models": [
+                "Pi Zero",
+                "Pi Model",
+                "Pi Compute Module",
+                "Pi 2",
+                "Pi 3",
+                "Pi 4",
+                "Pi 5"
+            ],
+            "nominal_size":     512,
+            "supports_backup":  false,
+            "bootable":         false
         }
   ]
 }

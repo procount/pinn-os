@@ -28,9 +28,16 @@
 			"url": "http://raw.githubusercontent.com/procount/pinn-os/master/os/os_recalbox7.json"
 		},
 		{
-			"name": "Retropie48",
-			"url": "http://raw.githubusercontent.com/procount/pinn-os/master/os/os_retropie48.json"
+			"name": "LibreElec",
+			"url": "http://raw.githubusercontent.com/procount/pinn-os/master/os/os_libreelec.json"
+		},
+		{
+			"name": "TLXOS",
+			"url": "http://rpi.thinlinx.com/NOOBS/os_list_v3.json"
+		},
+		{
+			"name": "XBian",
+			"url": "http://sourceforge.net/projects/xbian/files/noobs/os_xbian.json"
 		}
-
 	]
 }
