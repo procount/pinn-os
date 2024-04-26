@@ -66,7 +66,7 @@
                 "Pi 5"
             ],
             "url":             "http://www.raspbian.org/",
-            "group":           "General",
+            "group":           "Minimal",
             "download_size":   418665224,
             "os_info":         "http://downloads.sourceforge.net/project/pinn/os/raspios_arm64_lite/os.json",
             "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/raspios_arm64_lite/partitions.json",
@@ -153,7 +153,7 @@
                 "Pi 5"
             ],
             "url":             "http://www.raspbian.org/",
-            "group":           "General",
+            "group":           "Minimal",
             "download_size":   484844020,
             "os_info":         "http://downloads.sourceforge.net/project/pinn/os/raspios_armhf_lite/os.json",
             "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/raspios_armhf_lite/partitions.json",
