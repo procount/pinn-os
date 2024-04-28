@@ -176,6 +176,27 @@
             "nominal_size": 12061
         }
 ,
+	{
+            "os_name": "batocera_RPi5",
+            "description": "batocera.linux, the open source retro gaming console",
+            "release_date": "2024-02-28",
+            "supported_models": [
+                "Pi 5"
+            ],
+	    "url":              "https://batocera.org",
+            "group":            "Games",
+            "os_info":          "http://downloads.sourceforge.net/project/pinn/os/batocera_RPi5/os.json",
+            "partitions_info":  "http://downloads.sourceforge.net/project/pinn/os/batocera_RPi5/partitions.json",
+            "icon":             "http://downloads.sourceforge.net/project/pinn/os/batocera_RPi5/batocera_RPi5.png",
+            "marketing_info":   "http://downloads.sourceforge.net/project/pinn/os/batocera_RPi5/marketing.tar",
+            "partition_setup":  "http://downloads.sourceforge.net/project/pinn/os/batocera_RPi5/partition_setup.sh",
+            "tarballs": [
+                                "http://downloads.sourceforge.net/project/pinn/os/batocera_RPi5/boot64.tar.xz",
+                                "http://downloads.sourceforge.net/project/pinn/os/batocera_RPi5/root64.tar.xz"
+            ],
+            "nominal_size": 6132
+        }
+,
         {
             "os_name":	    "CStemBian",
             "description":  "Learn C-STEM and robotics from UC-Davis RPi0/1/2/3",
