@@ -2496,7 +2496,7 @@
                                "http://downloads.sourceforge.net/project/pinn/os/ProjectSpace/prjboot.tar.xz",
                                "http://downloads.sourceforge.net/project/pinn/os/ProjectSpace/prjroot.tar.xz"
             ],
-            "nominal_size": 600
+            "nominal_size": 1024
         },
         {
             "os_name":          "swap",
