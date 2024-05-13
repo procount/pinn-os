@@ -14,13 +14,13 @@
 ,
         {
             "icon": "http://raw.githubusercontent.com/procount/pinn-os/master/os/pinn.png",
-            "url": "https://github.com/procount/pinn/releases/download/p3.9/pinn-lite.img.zip",
-            "description": "A multi-boot OS installer with OS admin features p3.9",
+            "url": "https://github.com/procount/pinn/releases/download/p3.9.1/pinn-lite.img.zip",
+            "description": "A multi-boot OS installer with OS admin features p3.9.1",
             "name": "PINN",
-            "release_date": "2024-05-10",
+            "release_date": "2024-05-13",
             "extract_size": 134217728,
-            "extract_sha256": "47c2140fae0ac7649e06ebb0914f074560f7caa4bed5aabb516df937a2daf329",
-            "image_download_size": 62144048,
+            "extract_sha256": "d10d21072ff27d3be220fc15da13450173da11c45c706b5acf2e12e790b177ad",
+            "image_download_size": 62144824,
             "devices": ["pi5-64bit", "pi4-32bit", "pi3-32bit", "pi2-32bit", "pi1-32bit"]
         }
     ]
