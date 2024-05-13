@@ -111,16 +111,16 @@
             "url":             "http://konstakang.com/devices/rpi4/",
             "group":           "General",
             "download_size":   551725828,
-            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/AOSP14-rpi5/os.json",
-            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/AOSP14-rpi5/partitions.json",
-            "icon":            "http://downloads.sourceforge.net/project/pinn/os/AOSP14-rpi5/AOSP14-rpi5.png",
-            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/AOSP14-rpi5/marketing.tar",
-            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/AOSP14-rpi5/partition_setup.sh",
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os_previous/AOSP14-rpi5/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os_previous/AOSP14-rpi5/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os_previous/AOSP14-rpi5/AOSP14-rpi5.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os_previous/AOSP14-rpi5/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os_previous/AOSP14-rpi5/partition_setup.sh",
             "tarballs": [
-                               "http://downloads.sourceforge.net/project/pinn/os/AOSP14-rpi5/boot.tar.xz",
-                               "http://downloads.sourceforge.net/project/pinn/os/AOSP14-rpi5/system.img.xz",
-                               "http://downloads.sourceforge.net/project/pinn/os/AOSP14-rpi5/vendor.img.xz",
-                               "http://downloads.sourceforge.net/project/pinn/os/AOSP14-rpi5/userdata.tar.xz"
+                               "http://downloads.sourceforge.net/project/pinn/os_previous/AOSP14-rpi5/boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os_previous/AOSP14-rpi5/system.img.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os_previous/AOSP14-rpi5/vendor.img.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os_previous/AOSP14-rpi5/userdata.tar.xz"
             ],
             "nominal_size": 6940
         }
