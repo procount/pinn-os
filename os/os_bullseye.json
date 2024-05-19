@@ -2,7 +2,7 @@
   "os_list": [
         {
             "os_name":	    "raspios_bullseye_arm64",
-            "description":  "A 64-bit port of Debian Bullseye with no desktop environment",
+            "description":  "A 64-bit port of Debian Bullseye with the Raspberry Pi Desktop",
             "release_date": "2024-03-12",
             "supported_models": [
 		"Pi 2",
@@ -29,7 +29,7 @@
 ,
         {
             "os_name":	    "raspios_bullseye_arm64_full",
-            "description":  "A p64-bit ort of Debian Bullseye with no desktop environment",
+            "description":  "A 64-bit port of Debian Bullseye with desktop and recommended applications",
             "release_date": "2024-03-12",
             "supported_models": [
 		"Pi 2",
@@ -119,7 +119,7 @@
 		"Pi Zero",
 		"Pi 3",
 		"Pi Compute Module 3",
-		"Pi 4"            
+		"Pi 4"
 		],
             "url":             "http://www.raspbian.org/",
             "group":           "Legacy",
