@@ -95,11 +95,10 @@
         {
             "os_name":	    "AOSP14-rpi5",
             "description":  "Android AOSP 14.0 for RPi5",
-            "release_date": "2024-01-04",
+            "release_date": "2024-05-08",
             "feature_level": 0,
             "supported_hex_revisions": "2082",
             "supported_models": [
-                "Pi 4",
                 "Pi 5"
             ],
             "supports_usb_boot":       false,
@@ -110,17 +109,17 @@
             "supports_backup": true,
             "url":             "http://konstakang.com/devices/rpi4/",
             "group":           "General",
-            "download_size":   551725828,
-            "os_info":         "http://downloads.sourceforge.net/project/pinn/os_previous/AOSP14-rpi5/os.json",
-            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os_previous/AOSP14-rpi5/partitions.json",
-            "icon":            "http://downloads.sourceforge.net/project/pinn/os_previous/AOSP14-rpi5/AOSP14-rpi5.png",
-            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os_previous/AOSP14-rpi5/marketing.tar",
-            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os_previous/AOSP14-rpi5/partition_setup.sh",
+            "download_size":   555795020,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/AOSP14-rpi5/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/AOSP14-rpi5/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/AOSP14-rpi5/AOSP14-rpi5.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/AOSP14-rpi5/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/AOSP14-rpi5/partition_setup.sh",
             "tarballs": [
-                               "http://downloads.sourceforge.net/project/pinn/os_previous/AOSP14-rpi5/boot.tar.xz",
-                               "http://downloads.sourceforge.net/project/pinn/os_previous/AOSP14-rpi5/system.img.xz",
-                               "http://downloads.sourceforge.net/project/pinn/os_previous/AOSP14-rpi5/vendor.img.xz",
-                               "http://downloads.sourceforge.net/project/pinn/os_previous/AOSP14-rpi5/userdata.tar.xz"
+                               "http://downloads.sourceforge.net/project/pinn/os/AOSP14-rpi5/boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/AOSP14-rpi5/system.img.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/AOSP14-rpi5/vendor.img.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/AOSP14-rpi5/userdata.tar.xz"
             ],
             "nominal_size": 6940
         }

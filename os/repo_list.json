@@ -8,6 +8,10 @@
 			"url": "http://raw.githubusercontent.com/procount/pinn-os/master/os/os_raspios.json"
 		},
 		{
+			"name": "oldstable",
+			"url": "http://raw.githubusercontent.com/procount/pinn-os/master/os/os_bullseye.json"
+		},
+		{
 			"name": "PINN",
 			"url": "http://raw.githubusercontent.com/procount/pinn-os/master/os/os_all.json"
 		},
@@ -30,6 +34,10 @@
 		{
 			"name": "LibreElec",
 			"url": "http://raw.githubusercontent.com/procount/pinn-os/master/os/os_libreelec.json"
+		},
+		{
+			"name": "LibreElec11",
+			"url": "http://raw.githubusercontent.com/procount/pinn-os/master/os/os_libreelec11.json"
 		},
 		{
 			"name": "TLXOS",
