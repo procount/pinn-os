@@ -95,11 +95,10 @@
         {
             "os_name":	    "AOSP14-rpi5",
             "description":  "Android AOSP 14.0 for RPi5",
-            "release_date": "2024-01-04",
+            "release_date": "2024-05-08",
             "feature_level": 0,
             "supported_hex_revisions": "2082",
             "supported_models": [
-                "Pi 4",
                 "Pi 5"
             ],
             "supports_usb_boot":       false,
@@ -110,7 +109,7 @@
             "supports_backup": true,
             "url":             "http://konstakang.com/devices/rpi4/",
             "group":           "General",
-            "download_size":   551725828,
+            "download_size":   555795020,
             "os_info":         "http://downloads.sourceforge.net/project/pinn/os/AOSP14-rpi5/os.json",
             "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/AOSP14-rpi5/partitions.json",
             "icon":            "http://downloads.sourceforge.net/project/pinn/os/AOSP14-rpi5/AOSP14-rpi5.png",
@@ -2496,7 +2495,7 @@
                                "http://downloads.sourceforge.net/project/pinn/os/ProjectSpace/prjboot.tar.xz",
                                "http://downloads.sourceforge.net/project/pinn/os/ProjectSpace/prjroot.tar.xz"
             ],
-            "nominal_size": 600
+            "nominal_size": 1024
         },
         {
             "os_name":          "swap",
