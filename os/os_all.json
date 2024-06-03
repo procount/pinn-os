@@ -176,25 +176,25 @@
         }
 ,
 	{
-            "os_name": "batocera_RPi5",
-            "description": "batocera.linux, the open source retro gaming console",
-            "release_date": "2024-02-28",
-            "supported_models": [
-                "Pi 5"
-            ],
-	    "url":              "https://batocera.org",
-            "group":            "Games",
-            "os_info":          "http://downloads.sourceforge.net/project/pinn/os/batocera_RPi5/os.json",
-            "partitions_info":  "http://downloads.sourceforge.net/project/pinn/os/batocera_RPi5/partitions.json",
-            "icon":             "http://downloads.sourceforge.net/project/pinn/os/batocera_RPi5/batocera_RPi5.png",
-            "marketing_info":   "http://downloads.sourceforge.net/project/pinn/os/batocera_RPi5/marketing.tar",
-            "partition_setup":  "http://downloads.sourceforge.net/project/pinn/os/batocera_RPi5/partition_setup.sh",
-            "tarballs": [
-                                "http://downloads.sourceforge.net/project/pinn/os/batocera_RPi5/boot64.tar.xz",
-                                "http://downloads.sourceforge.net/project/pinn/os/batocera_RPi5/root64.tar.xz"
-            ],
-            "nominal_size": 6132
-        }
+		"os_name": "batocera39beta",
+		"description": "Retro gaming for your Pi5",
+		"group": "Testing",
+		"supported_models": [ "Pi 5" ],
+		"release_date": "2023-11-03",
+		"version": "39 BETA",
+		"url": "https://www.batocera.linux",
+		"nominal_size": 3316,
+		"download_size": 1814678444,
+		"icon": "https://sourceforge.net/projects/pinn/files/os/batocera39beta/batocera39beta.png",
+		"marketing_info": "https://sourceforge.net/projects/pinn/files/os/batocera39beta/marketing.tar",
+		"os_info": "https://sourceforge.net/projects/pinn/files/os/batocera39beta/os.json",
+		"partition_setup": "https://sourceforge.net/projects/pinn/files/os/batocera39beta/partition_setup.sh",
+		"partitions_info": "https://sourceforge.net/projects/pinn/files/os/batocera39beta/partitions.json",
+		"tarballs": [
+			"https://sourceforge.net/projects/pinn/files/os/batocera39beta/BATOCERA.tar.xz",
+			"https://sourceforge.net/projects/pinn/files/os/batocera39beta/SHARE.tar.xz"
+		]
+	}
 ,
         {
             "os_name":	    "CStemBian",
