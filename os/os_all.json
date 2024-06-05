@@ -2221,6 +2221,29 @@
         }
 ,
         {
+            "os_name":	    "ubuntu2404",
+            "description":  "ubuntu2404 v24.04 desktop for RPi4/5",
+            "release_date": "2024-04-10",
+            "supported_models": [
+                "Pi 4",
+                "Pi 5"
+            ],
+            "url":             "https://ubuntu/",
+            "group":           "General",
+            "download_size":   2326614304,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/ubuntu2404/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/ubuntu2404/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/ubuntu2404/ubuntu2404.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/ubuntu2404/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/ubuntu2404/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/ubuntu2404/system-boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/ubuntu2404/writable.tar.xz"
+            ],
+            "nominal_size": 8174
+        }
+,
+        {
             "os_name":	    "void1",
             "description":  "A void1 Linux port for ARM devices RPi1",
             "release_date": "2016-04-20",
