@@ -16,6 +16,10 @@
 			"url": "http://raw.githubusercontent.com/procount/pinn-os/master/os/os_all.json"
 		},
 		{
+			"name": "Retropie48",
+			"url": "http://raw.githubusercontent.com/procount/pinn-os/master/os/os_retropie48.json"
+		},
+		{
 			"name": "Testing",
 			"url": "http://raw.githubusercontent.com/procount/pinn-os/master/os/os_testing.json"
 		},
