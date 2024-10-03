@@ -230,9 +230,24 @@
                                "http://downloads.sourceforge.net/project/pinn/os/ProjectSpace/prjroot.tar.xz"
             ],
             "nominal_size": 600
+        },
+        {
+            "os_name": "Debian Bookworm",
+            "description": "A lightweight Debian 12 (Bookworm) image for Raspberry Pi 4B",
+            "release_date": "2023-06-15",
+            "supported_models": [
+                "Pi 4"
+            ],
+            "download_size": 1500000000,
+            "os_info": "http://example.com/debian-bookworm/os.json",
+            "partitions_info": "http://example.com/debian-bookworm/partitions.json",
+            "icon": "http://example.com/debian-bookworm/icon.png",
+            "marketing_info": "http://example.com/debian-bookworm/marketing.tar",
+            "partition_setup": "http://example.com/debian-bookworm/partition_setup.sh",
+            "tarballs": [
+                "http://example.com/debian-bookworm/boot.tar.xz",
+                "http://example.com/debian-bookworm/root.tar.xz"
+            ]
         }
-
   ]
 }
-
-

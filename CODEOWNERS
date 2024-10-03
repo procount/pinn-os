@@ -1,0 +1,8 @@
+# Default code owner for the entire repository
+* @procount
+
+# Code owners for specific directories or files
+/os/ @procount
+/os/os_testing.json @procount
+/README.md @procount
+/PITCHME.md @procount
