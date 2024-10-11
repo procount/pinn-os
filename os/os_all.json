@@ -1368,6 +1368,105 @@
         }
 ,
         {
+            "os_name":	    "openwrt1",
+            "description":  "An Open Wireless ROuter OS for RPi1",
+            "release_date": "2023-05-05",
+            "version":      "23.05.5",
+            "supported_models": [
+                "Pi Model",
+                "Pi Zero"
+            ],
+            "supports_usb_boot": true,
+            "supports_usb_root": true,
+            "group":            "Minimal",
+            "download_size":    9795576,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/openwrt1/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/openwrt1/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/openwrt1/openwrt1.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/openwrt1/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/openwrt1/partition_setup.sh",
+            "tarballs": [
+                "http://downloads.sourceforge.net/project/pinn/os/openwrt1/boot_wrt.tar.xz",
+                "http://downloads.sourceforge.net/project/pinn/os/openwrt1/root_wrt.tar.xz"
+            ],
+            "nominal_size": 165
+        }
+,
+        {
+            "os_name":	    "openwrt2",
+            "description":  "An Open Wireless Router OS for RPi2",
+            "release_date": "2023-05-05",
+            "version":      "23.05.5",
+            "supported_models": [
+                "Pi 2"
+            ],
+            "supports_usb_boot": true,
+            "supports_usb_root": true,
+            "group":            "Minimal",
+            "download_size":    10795368,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/openwrt2/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/openwrt2/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/openwrt2/openwrt2.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/openwrt2/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/openwrt2/partition_setup.sh",
+            "tarballs": [
+                "http://downloads.sourceforge.net/project/pinn/os/openwrt2/boot_wrt.tar.xz",
+                "http://downloads.sourceforge.net/project/pinn/os/openwrt2/root_wrt.tar.xz"
+            ],
+            "nominal_size": 165
+        }
+,
+        {
+            "os_name":	    "openwrt3",
+            "description":  "An OPen Wireless Router for RPi3",
+            "release_date": "2023-05-05",
+            "version":      "23.05.5",
+            "supported_models": [
+                "Pi 3 Model B Rev",
+                "Pi 3 Model B Plus Rev",
+                "Pi 3 Model A Plus Rev"
+            ],
+            "supports_usb_boot": true,
+            "supports_usb_root": true,
+            "group":            "Minimal",
+            "download_size":    10674904,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/openwrt3/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/openwrt3/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/openwrt3/openwrt3.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/openwrt3/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/openwrt3/partition_setup.sh",
+            "tarballs": [
+                "http://downloads.sourceforge.net/project/pinn/os/openwrt3/boot_wrt.tar.xz",
+                "http://downloads.sourceforge.net/project/pinn/os/openwrt3/root_wrt.tar.xz"
+            ],
+            "nominal_size": 165
+        }
+,
+        {
+            "os_name":	    "openwrt4",
+            "description":  "An OPen Wireless Router OS for RPi4",
+            "release_date": "2023-05-05",
+            "version":      "23.05.5",
+            "supported_models": [
+                "Pi 4 Model B Rev"
+            ],
+            "supports_usb_boot": true,
+            "supports_usb_root": true,
+            "group":            "Minimal",
+            "download_size":    10270840,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/openwrt4/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/openwrt4/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/openwrt4/openwrt4.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/openwrt4/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/openwrt4/partition_setup.sh",
+            "tarballs": [
+                "http://downloads.sourceforge.net/project/pinn/os/openwrt4/boot_wrt.tar.xz",
+                "http://downloads.sourceforge.net/project/pinn/os/openwrt4/root_wrt.tar.xz"
+            ],
+            "nominal_size": 165
+        }
+,
+        {
             "os_name": "OSMC_Pi4",
             "description": "A fast and feature filled open source media center",
             "feature_level": 0,
