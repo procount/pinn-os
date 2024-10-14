@@ -1,4 +1,5 @@
-NOOBS change history
+# NOOBS change history
+
 v2.8 Latest
 
 ## Code Review Process
@@ -11,7 +12,7 @@ To assign a code reviewer for your pull request, you can use the `CODEOWNERS` fi
 
 The `CODEOWNERS` file is located in the root of the repository. Here is an example of how to specify code owners in the `CODEOWNERS` file:
 
-```
+```plaintext
 # Default code owner for the entire repository
 * @default-owner
 
@@ -41,9 +42,9 @@ A new entry for Debian Bookworm has been added to the `os/os_testing.json` file.
 * `release_date`: "2023-06-15"
 * `supported_models`: ["Pi 4"]
 * `download_size`: 1500000000
-* `os_info`: "http://example.com/debian-bookworm/os.json"
-* `partitions_info`: "http://example.com/debian-bookworm/partitions.json"
-* `icon`: "http://example.com/debian-bookworm/icon.png"
-* `marketing_info`: "http://example.com/debian-bookworm/marketing.tar"
-* `partition_setup`: "http://example.com/debian-bookworm/partition_setup.sh"
+* `os_info`: ["http://example.com/debian-bookworm/os.json"](http://example.com/debian-bookworm/os.json)
+* `partitions_info`: ["http://example.com/debian-bookworm/partitions.json"](http://example.com/debian-bookworm/partitions.json)
+* `icon`: ["http://example.com/debian-bookworm/icon.png"](http://example.com/debian-bookworm/icon.png)
+* `marketing_info`: ["http://example.com/debian-bookworm/marketing.tar"](http://example.com/debian-bookworm/marketing.tar)
+* `partition_setup`: ["http://example.com/debian-bookworm/partition_setup.sh"](http://example.com/debian-bookworm/partition_setup.sh)
 * `tarballs`: ["http://example.com/debian-bookworm/boot.tar.xz", "http://example.com/debian-bookworm/root.tar.xz"]
