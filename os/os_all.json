@@ -2466,15 +2466,15 @@
 ,
         {
             "os_name":	    "ubuntu2404",
-            "description":  "ubuntu2404 v24.04 desktop for RPi4/5",
-            "release_date": "2024-06-08",
+            "description":  "ubuntu2404 v24.04.1 desktop for RPi4/5",
+            "release_date": "2024-08-29",
             "supported_models": [
                 "Pi 4",
                 "Pi 5"
             ],
             "url":             "https://ubuntu/",
             "group":           "General",
-            "download_size":   2332872692,
+            "download_size":   2375364372,
             "os_info":         "http://downloads.sourceforge.net/project/pinn/os/ubuntu2404/os.json",
             "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/ubuntu2404/partitions.json",
             "icon":            "http://downloads.sourceforge.net/project/pinn/os/ubuntu2404/ubuntu2404.png",
@@ -2484,7 +2484,30 @@
                                "http://downloads.sourceforge.net/project/pinn/os/ubuntu2404/system-boot.tar.xz",
                                "http://downloads.sourceforge.net/project/pinn/os/ubuntu2404/writable.tar.xz"
             ],
-            "nominal_size": 8181
+            "nominal_size": 8254
+        }
+,
+        {
+            "os_name":	    "ubuntu2410",
+            "description":  "ubuntu2410 v24.10 desktop for RPi4/5",
+            "release_date": "2024-10-10",
+            "supported_models": [
+                "Pi 4",
+                "Pi 5"
+            ],
+            "url":             "https://ubuntu/",
+            "group":           "General",
+            "download_size":   2494720200,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/ubuntu2410/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/ubuntu2410/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/ubuntu2410/ubuntu2410.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/ubuntu2410/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/ubuntu2410/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/ubuntu2410/system-boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/ubuntu2410/writable.tar.xz"
+            ],
+            "nominal_size": 8588
         }
 ,
         {
@@ -2496,7 +2519,7 @@
             "supported_models": [
                "Pi Model",
                "Pi Compute Module",
-              "Pi Zero W Rev",
+               "Pi Zero W Rev",
                "Pi Zero Rev"
             ],
             "supports_usb_root": false,
