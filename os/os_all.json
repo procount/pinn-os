@@ -1360,7 +1360,8 @@
                 "Pi Zero",
                 "Pi 3",
                 "Pi Compute Module 3",
-                "Pi 4"
+                "Pi 4",
+                "Pi 5"
             ],    
             "supports_usb_boot": true,
             "supports_usb_root": true,
