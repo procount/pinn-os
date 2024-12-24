@@ -177,7 +177,7 @@
         {
             "os_name":	    "raspios_bullseye_arm64",
             "description":  "A 64-bit port of Debian Bullseye with the Raspberry Pi Desktop",
-            "release_date": "2024-10-28",
+            "release_date": "2024-10-29",
             "version": "Bullseye",
             "supported_models": [
                 "Pi Zero 2",
@@ -204,7 +204,7 @@
         {
             "os_name":	    "raspios_bullseye_arm64_full",
             "description":  "A 64-bit port of Debian Bullseye with desktop and recommended applications",
-            "release_date": "2024-10-28",
+            "release_date": "2024-10-29",
             "version": "Bullseye",
             "supported_models": [
                 "Pi Zero 2",
@@ -231,7 +231,7 @@
         {
             "os_name":	    "raspios_bullseye_arm64_lite",
             "description":  "A 64-bit port of Debian Bullseye with no desktop environment",
-            "release_date": "2024-10-28",
+            "release_date": "2024-10-29",
             "version": "Bullseye",
             "supported_models": [
                 "Pi Zero 2",
@@ -287,7 +287,7 @@
         {
             "os_name":	    "raspios_bullseye_armhf_full",
             "description": "A port of Debian Bullseye with desktop and recommended applications",
-            "release_date": "2024-10-28",
+            "release_date": "2024-10-29",
             "version": "Bullseye",
             "supported_models": [
                 "Pi Model",
@@ -316,7 +316,7 @@
         {
             "os_name":	    "raspios_bullseye_armhf_lite",
             "description":  "A port of Debian Bullseye with no desktop environment",
-            "release_date": "2024-10-28",
+            "release_date": "2024-10-29",
             "version": "Bullseye",
             "supported_models": [
                 "Pi Model",
