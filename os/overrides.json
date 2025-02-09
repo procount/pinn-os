@@ -22,17 +22,26 @@
     "batocera_RPi1": {
         "group": "Games",
         "+supports_backup": true,
-        "+download_size" : 291424680
+        "+download_size" : 291424680,
+        "tarballs": [
+            "https://updates.batocera.org/bcm2835/stable/last/boot.tar.xz"
+        ]
     },
     "batocera_RPi2": {
         "group": "Games",
         "+supports_backup": true,
-        "+download_size" : 348266852
+        "+download_size" : 348266852,
+        "tarballs": [
+            "https://updates.batocera.org/bcm2836/stable/last/boot.tar.xz"
+        ]
     },
     "batocera_RPi3": {
         "group": "Games",
         "+supports_backup": true,
-        "+download_size" : 361265676
+        "+download_size" : 361265676,
+        "tarballs": [
+            "https://updates.batocera.org/bcm2837/stable/last/boot.tar.xz"
+        ]
     },
     "CStemBian": {
         "group": "Education",
