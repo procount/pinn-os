@@ -157,6 +157,38 @@
         }
 ,
         {
+            "os_name":	    "AOSP15-rpi4",
+            "description":  "Android AOSP 15.0 for RPi5",
+            "release_date": "2024-12-10",
+            "feature_level": 0,
+            "supported_hex_revisions": "2082",
+            "supported_models": [
+                "Pi 4"
+            ],
+            "supports_usb_boot":       false,
+            "supports_usb_root":       false,
+            "supports_sda_boot":       true,
+            "supports_sda_root":       true,
+            "version":                 "15.0",
+            "supports_backup": true,
+            "url":             "http://konstakang.com/devices/rpi4/",
+            "group":           "General",
+            "download_size":   572762208,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/AOSP15-rpi4/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/AOSP15-rpi4/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/AOSP15-rpi4/AOSP15-rpi4.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/AOSP15-rpi4/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/AOSP15-rpi4/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/AOSP15-rpi4/boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/AOSP15-rpi4/system.img.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/AOSP15-rpi4/vendor.img.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/AOSP15-rpi4/userdata.tar.xz"
+            ],
+            "nominal_size": 6940
+        }
+,
+        {
             "os_name":	    "Arch2",
             "description":  "An Arch Linux port for ARM7 devices RPi2/3/4/z2",
             "release_date": "2018-01-28",
@@ -1348,6 +1380,70 @@
                                "http://downloads.sourceforge.net/project/pinn/os/lineage22-rpi5-atv/system.img.xz",
                                "http://downloads.sourceforge.net/project/pinn/os/lineage22-rpi5-atv/vendor.img.xz",
                                "http://downloads.sourceforge.net/project/pinn/os/lineage22-rpi5-atv/userdata.tar.xz"
+            ],
+            "nominal_size": 14293
+        }
+,
+        {
+            "os_name":	    "lineage22-rpi4",
+            "description":  "Lineage OS (KonstaKANG) 22.1 for RPi4",
+            "release_date": "2025-02-25",
+            "feature_level": 0,
+            "supported_hex_revisions": "2082",
+            "supported_models": [
+                "Pi 4"
+            ],
+            "supports_usb_boot":       false,
+            "supports_usb_root":       false,
+            "supports_sda_boot":       true,
+            "supports_sda_root":       true,
+            "version":                 "22.1",
+            "supports_backup": true,
+            "url":             "http://konstakang.com/devices/rpi4/",
+            "group":           "General",
+            "download_size":   654751432,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/lineage22-rpi4/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/lineage22-rpi4/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/lineage22-rpi4/lineage22-rpi4.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/lineage22-rpi4/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/lineage22-rpi4/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage22-rpi4/boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage22-rpi4/system.img.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage22-rpi4/vendor.img.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage22-rpi4/data.tar.xz"
+            ],
+            "nominal_size": 14293
+        }
+,
+        {
+            "os_name":	    "lineage22-rpi4-atv",
+            "description":  "Lineage OS ATV (KonstaKANG) 22.1 for RPi4",
+            "release_date": "2025-02-25",
+            "feature_level": 0,
+            "supported_hex_revisions": "2082",
+            "supported_models": [
+                "Pi 4"
+            ],
+            "supports_usb_boot":       false,
+            "supports_usb_root":       false,
+            "supports_sda_boot":       true,
+            "supports_sda_root":       true,
+            "version":                 "22.1",
+            "supports_backup": true,
+            "url":             "http://konstakang.com/devices/rpi4/",
+            "group":           "General",
+            "download_size":   509079688,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/lineage22-rpi4-atv/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/lineage22-rpi4-atv/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/lineage22-rpi4-atv/lineage22-rpi4-atv.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/lineage22-rpi4-atv/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/lineage22-rpi4-atv/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage22-rpi4-atv/boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage22-rpi4-atv/system.img.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage22-rpi4-atv/vendor.img.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage22-rpi4-atv/userdata.tar.xz"
             ],
             "nominal_size": 14293
         }
