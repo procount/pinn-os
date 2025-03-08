@@ -43,6 +43,14 @@
             "https://updates.batocera.org/bcm2837/stable/last/boot.tar.xz"
         ]
     },
+    "batocera_RPi4": {
+        "group": "Games",
+        "+supports_backup": true,
+        "+download_size" : 361265676,
+        "tarballs": [
+            "https://updates.batocera.org/bcm2711/stable/last/boot.tar.xz"
+        ]
+    },
     "CStemBian": {
         "group": "Education",
         "+supports_backup": true,
