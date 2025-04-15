@@ -28,10 +28,6 @@
 			"url": "https://isshoni.org/pinn/os/os_list_v3.json"
 		},
 		{
-			"name": "Recalbox",
-			"url": "http://raw.githubusercontent.com/procount/pinn-os/master/os/os_recalbox7.json"
-		},
-		{
 			"name": "LibreElec",
 			"url": "http://raw.githubusercontent.com/procount/pinn-os/master/os/os_libreelec.json"
 		},
