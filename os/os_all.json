@@ -2210,31 +2210,6 @@
         }
 ,
         {
-            "os_name":	    "recalbox5",
-            "description":  "recalbox5 8.0.2 for RPi4",
-            "release_date": "2022-01-14",
-            "version":      "8.0.2",
-            "supported_models": [
-                "Pi 5"
-            ],
-            "supports_usb_boot": true,
-            "supports_usb_root": true,
-            "group":            "Games",
-            "download_size":    1062673668,
-            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/recalbox5/os.json",
-            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/recalbox5/partitions.json",
-            "icon":            "http://downloads.sourceforge.net/project/pinn/os/recalbox5/recalbox5.png",
-            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/recalbox5/marketing.tar",
-            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/recalbox5/partition_setup.sh",
-            "tarballs": [
-                "http://downloads.sourceforge.net/project/pinn/os/recalbox5/RECALBOX.tar.xz",
-                "http://downloads.sourceforge.net/project/pinn/os/recalbox5/SHARE.tar.xz",
-                "http://downloads.sourceforge.net/project/pinn/os/recalbox5/OVERLAY.tar.xz"
-            ],
-            "nominal_size": 7167
-        }
-,
-        {
             "os_name":	    "Retropie1",
             "description":  "Retropie1 v4.7.1 gaming distro using Emulation Station for RPi1/Zero",
             "release_date": "2020-11-04",
