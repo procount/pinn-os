@@ -2119,94 +2119,124 @@
         }
 ,
         {
-            "description": "The retro-gaming OS! An all-in-one, plug-n-play retro-gaming console, supporting 100+ gaming systems!",
-            "icon": "https://upgrade.recalbox.com/latest/noobs/recalbox.png",
-            "marketing_info": "https://upgrade.recalbox.com/latest/noobs/marketing.tar",
-            "download_size": 656029580,
-            "nominal_size": 7168,
-            "os_info": "http://downloads.sourceforge.net/project/pinn/os/Recalbox_-_Pi0-1/os.json",
-            "os_name": "Recalbox - Pi0-1",
-            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/Recalbox_-_Pi0-1/partitions.json",
-            "release_date": "2022-01-30",
-            "group" : "Games",
-            "supports_backup" : "update",
-            "url" : "https://www.recalbox.com/",
+            "os_name":	    "recalbox1",
+            "description":  "recalbox1 9.2.3 Pulstar for Raspberry Pi Zero (with GPiCase1 support) and Raspberry Pi 1. THE all-in-one retro gaming console!",
+            "release_date": "2025-08-01",
+            "version":      "9.2.3",
             "supported_models": [
-                "Pi Model",
-                "Pi Compute Module Rev",
-                "Pi Zero Rev",
-                "Pi Zero W Rev"
+                "Pi Zero",
+                "Pi 1"
             ],
+            "supports_usb_boot": true,
+            "supports_usb_root": true,
+            "group":            "Games",
+            "download_size":    824208212,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/recalbox1/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/recalbox1/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/recalbox1/recalbox1.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/recalbox1/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/recalbox1/partition_setup.sh",
             "tarballs": [
-                "https://upgrade.recalbox.com/latest/noobs/rpi1/recalbox-rpi1.tar.xz"
+                "http://downloads.sourceforge.net/project/pinn/os/recalbox1/RECALBOX.tar.xz"
+
             ],
-            "version": "8.0.1-Electron"
+            "nominal_size": 3072
         }
 ,
         {
-            "description": "The retro-gaming OS! An all-in-one, plug-n-play retro-gaming console, supporting 100+ gaming systems!",
-            "icon": "https://upgrade.recalbox.com/latest/noobs/recalbox.png",
-            "marketing_info": "https://upgrade.recalbox.com/latest/noobs/marketing.tar",
-            "nominal_size": 7168,
-            "download_size": 882660856,
-            "os_info": "http://downloads.sourceforge.net/project/pinn/os/Recalbox_-_Pi2/os.json",
-            "os_name": "Recalbox - Pi2",
-            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/Recalbox_-_Pi2/partitions.json",
-            "release_date": "2022-01-30",
-            "group" : "Games",
-            "supports_backup" : "update",
-            "url" : "https://www.recalbox.com/",
+            "os_name":	    "recalbox2",
+            "description":  "recalbox2 9.2.3 Pulstar. THE all-in-one retro gaming console!",
+            "release_date": "2022-01-29",
+            "version":      "8.0.1",
             "supported_models": [
                 "Pi 2"
             ],
+            "supports_usb_boot": true,
+            "supports_usb_root": true,
+            "group":            "Games",
+            "download_size":    868561844,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/recalbox2/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/recalbox2/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/recalbox2/recalbox2.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/recalbox2/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/recalbox2/partition_setup.sh",
             "tarballs": [
-                "https://upgrade.recalbox.com/latest/noobs/rpi2/recalbox-rpi2.tar.xz"
+                "http://downloads.sourceforge.net/project/pinn/os/recalbox2/RECALBOX.tar.xz"
             ],
-            "version": "8.0.1-Electron"
+            "nominal_size": 3072
         }
 ,
         {
-            "description": "The retro-gaming OS! An all-in-one, plug-n-play retro-gaming console, supporting 100+ gaming systems!",
-            "icon": "https://upgrade.recalbox.com/latest/noobs/recalbox.png",
-            "marketing_info": "https://upgrade.recalbox.com/latest/noobs/marketing.tar",
-            "nominal_size": 7168,
-            "download_size": 1005136116,
-            "os_info": "http://downloads.sourceforge.net/project/pinn/os/Recalbox_-_Pi3/os.json",
-            "os_name": "Recalbox - Pi3",
-            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/Recalbox_-_Pi3/partitions.json",
-            "release_date": "2022-01-30",
-            "group" : "Games",
-            "url" : "https://www.recalbox.com/",
+            "os_name":	    "recalbox3",
+            "description":  "recalbox3 9.2.3 Pulstar. THE all-in-one retro gaming console!",
+            "release_date": "2025-08-01",
+            "version":      "9.2.3",
             "supported_models": [
                 "Pi Zero 2",
                 "Pi 3",
                 "Pi Compute Module 3"
             ],
+            "supports_usb_boot": true,
+            "supports_usb_root": true,
+            "group":            "Games",
+            "download_size":    1116178748,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/recalbox3/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/recalbox3/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/recalbox3/recalbox3.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/recalbox3/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/recalbox3/partition_setup.sh",
             "tarballs": [
-                "https://upgrade.recalbox.com/latest/noobs/rpi3/recalbox-rpi3.tar.xz"
+                "http://downloads.sourceforge.net/project/pinn/os/recalbox3/RECALBOX.tar.xz"
             ],
-            "version": "8.0.2-Electron"
+            "nominal_size": 3072
         }
 ,
         {
-            "description": "The retro-gaming OS! An all-in-one, plug-n-play retro-gaming console, supporting 100+ gaming systems!",
-            "icon": "https://upgrade.recalbox.com/latest/noobs/recalbox.png",
-            "marketing_info": "https://upgrade.recalbox.com/latest/noobs/marketing.tar",
-            "nominal_size": 7168,
-            "download_size": 1010480012,
-            "os_info": "http://downloads.sourceforge.net/project/pinn/os/Recalbox_-_Pi4/os.json",
-            "os_name": "Recalbox - Pi4",
-            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/Recalbox_-_Pi4/partitions.json",
-            "release_date": "2022-01-30",
-            "group" : "Games",
-            "url" : "https://www.recalbox.com/",
+            "os_name":	    "recalbox4",
+            "description":  "recalbox4 9.2.3 Pulstar. THE all-in-one retro gaming console!",
+            "release_date": "2025-08-01",
+            "version":      "9.2.3",
             "supported_models": [
-                "Pi 4"
+                "Pi 4",
+                "Pi Compute Module 4"
             ],
+            "supports_usb_boot": true,
+            "supports_usb_root": true,
+            "group":            "Games",
+            "download_size":    1248545680,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/recalbox4/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/recalbox4/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/recalbox4/recalbox4.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/recalbox4/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/recalbox4/partition_setup.sh",
             "tarballs": [
-                "https://upgrade.recalbox.com/latest/noobs/rpi4/recalbox-rpi4.tar.xz"
+                "http://downloads.sourceforge.net/project/pinn/os/recalbox4/RECALBOX.tar.xz"
             ],
-            "version": "8.0.2-Electron"
+            "nominal_size": 3072
+        }
+,
+        {
+            "os_name":	    "recalbox5",
+            "description":  "recalbox5 9.2.3 Pulstar. THE all-in-one retro gaming console!",
+            "release_date": "2025-08-01",
+            "version":      "9.2.3",
+            "supported_models": [
+                "Pi 5",
+                "Pi Compute Module 5"
+            ],
+            "supports_usb_boot": true,
+            "supports_usb_root": true,
+            "group":            "Games",
+            "download_size":    1246764132,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/recalbox5/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/recalbox5/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/recalbox5/recalbox5.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/recalbox5/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/recalbox5/partition_setup.sh",
+            "tarballs": [
+                "http://downloads.sourceforge.net/project/pinn/os/recalbox5/RECALBOX.tar.xz"
+            ],
+            "nominal_size": 3072
         }
 ,
         {
