@@ -298,6 +298,77 @@
         }
 ,
         {
+            "os_name":	    "batocera_RPi3",
+            "description": "batocera.linux, the open source retro gaming console",
+            "release_date": "2024-12-16",
+            "version": "bookworm",
+            "supported_models": [
+                "Pi 3"
+            ],
+            "url": "https://batocera.org",
+            "group":           "Games",
+            "download_size":   1748361528,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/batocera_RPi3/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/batocera_RPi3/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/batocera_RPi3/batocera_RPi3.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/batocera_RPi3/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/batocera_RPi3/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/batocera_RPi3/BATOCERA.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/batocera_RPi3/SHARE.tar.xz"
+            ],
+            "nominal_size": 4578
+        }
+
+,
+        {
+            "os_name":	    "batocera_RPi4",
+            "description": "batocera.linux, the open source retro gaming console",
+            "release_date": "2024-12-17",
+            "version": "bookworm",
+            "supported_models": [
+                "Pi 4"
+            ],
+            "url": "https://batocera.org",
+            "group":           "Games",
+            "download_size":   2104280332,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/batocera_RPi4/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/batocera_RPi4/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/batocera_RPi4/batocera_RPi4.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/batocera_RPi4/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/batocera_RPi4/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/batocera_RPi4/BATOCERA.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/batocera_RPi4/SHARE.tar.xz"
+            ],
+            "nominal_size": 6622
+        }
+
+,
+        {
+            "os_name":	    "batocera_RPi5",
+            "description": "batocera.linux, the open source retro gaming console",
+            "release_date": "2024-12-17",
+            "version": "bookworm",
+            "supported_models": [
+                "Pi 5"
+            ],
+            "url": "https://batocera.org",
+            "group":           "Games",
+            "download_size":   2134168508,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/batocera_RPi5/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/batocera_RPi5/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/batocera_RPi5/batocera_RPi5.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/batocera_RPi5/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/batocera_RPi5/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/batocera_RPi5/BATOCERA.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/batocera_RPi5/SHARE.tar.xz"
+            ],
+            "nominal_size": 6622
+        }
+,
+        {
             "os_name":	    "CStemBian",
             "description":  "Learn C-STEM and robotics from UC-Davis RPi0/1/2/3",
             "release_date": "2017-03-18",
