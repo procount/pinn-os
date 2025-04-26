@@ -297,27 +297,6 @@
             "nominal_size": 8388
         }
 ,
-	{
-		"os_name": "batocera39beta",
-		"description": "Retro gaming for your Pi5",
-		"group": "Testing",
-		"supported_models": [ "Pi 5" ],
-		"release_date": "2023-11-03",
-		"version": "39 BETA",
-		"url": "https://www.batocera.linux",
-		"nominal_size": 3316,
-		"download_size": 1814678444,
-		"icon": "https://sourceforge.net/projects/pinn/files/os/batocera39beta/batocera39beta.png",
-		"marketing_info": "https://sourceforge.net/projects/pinn/files/os/batocera39beta/marketing.tar",
-		"os_info": "https://sourceforge.net/projects/pinn/files/os/batocera39beta/os.json",
-		"partition_setup": "https://sourceforge.net/projects/pinn/files/os/batocera39beta/partition_setup.sh",
-		"partitions_info": "https://sourceforge.net/projects/pinn/files/os/batocera39beta/partitions.json",
-		"tarballs": [
-			"https://sourceforge.net/projects/pinn/files/os/batocera39beta/BATOCERA.tar.xz",
-			"https://sourceforge.net/projects/pinn/files/os/batocera39beta/SHARE.tar.xz"
-		]
-	}
-,
         {
             "os_name":	    "CStemBian",
             "description":  "Learn C-STEM and robotics from UC-Davis RPi0/1/2/3",
