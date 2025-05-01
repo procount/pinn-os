@@ -203,6 +203,31 @@
             "version": "v7.9.3"
         },
         {
+            "description": "Highly optimized minimal Debian OS (ARMv8 64-bit Bookworm)",
+            "download_size": 158576904,
+            "group": "Minimal",
+            "icon": "http://raw.githubusercontent.com/matthuisman/pinn-os/master/DietPi_RPi5/DietPi_RPi5.png",
+            "marketing_info": "http://raw.githubusercontent.com/matthuisman/pinn-os/master/DietPi_RPi5/marketing.tar",
+            "nominal_size": 1628,
+            "os_info": "http://raw.githubusercontent.com/matthuisman/pinn-os/master/DietPi_RPi5/os.json",
+            "os_name": "DietPi_RPi5",
+            "partition_setup": "http://raw.githubusercontent.com/matthuisman/pinn-os/master/DietPi_RPi5/partition_setup.sh",
+            "partitions_info": "http://raw.githubusercontent.com/matthuisman/pinn-os/master/DietPi_RPi5/partitions.json",
+            "password": "dietpi",
+            "release_date": "2025-04-18",
+            "supported_models": [
+                "Pi 5"
+            ],
+            "supports_backup": true,
+            "tarballs": [
+                "http://downloads.sourceforge.net/project/pinn-matthuisman/os/DietPi_RPi5/boot.tar.xz",
+                "http://downloads.sourceforge.net/project/pinn-matthuisman/os/DietPi_RPi5/root.tar.xz"
+            ],
+            "url": "http://dietpi.com/",
+            "username": "root",
+            "version": "v9.12"
+        },
+        {
             "description": "An optimised Fedora remix which fully supports all RPi2/3 hardware (xfce)",
             "download_size": 844258704,
             "group": "General",
