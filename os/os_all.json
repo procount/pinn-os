@@ -2451,6 +2451,33 @@
         }
 ,
         {
+            "os_name":	    "twister",
+            "description":  "A themed Raspberry Pi OS Desktop merged with gaming",
+            "release_date": "2024-11-19",
+            "supported_models": [
+                "Pi 3",
+                "Pi Compute Module 3",
+                "Pi 4",
+                "Pi Compute Module 4",
+                "Pi 5",
+                "Pi Compute Module 5"
+            ],
+            "url":             "https://twisteros.com/",
+            "group":           "General",
+            "download_size":   3527001596,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/twister/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/twister/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/twister/twister.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/twister/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/twister/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/twister/boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/twister/twister.tar.xz"
+            ],
+            "nominal_size": 12008
+        }
+,
+        {
             "os_name":	    "ubuntu2010",
             "description":  "ubuntu2010 v20.10 desktop for RPi4",
             "release_date": "2020-10-15",
