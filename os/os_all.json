@@ -1339,6 +1339,38 @@
         }
 ,
         {
+            "os_name":	    "lineage21-rpi5-atv",
+            "description":  "Lineage OS ATV (KonstaKANG) 21.0 for RPi5",
+            "release_date": "2024-08-16",
+            "feature_level": 0,
+            "supported_hex_revisions": "2082",
+            "supported_models": [
+                "Pi 5"
+            ],
+            "supports_usb_boot":       false,
+            "supports_usb_root":       false,
+            "supports_sda_boot":       true,
+            "supports_sda_root":       true,
+            "version":                 "21.0",
+            "supports_backup": true,
+            "url":             "http://konstakang.com/devices/rpi5/",
+            "group":           "General",
+            "download_size":   505739496,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/lineage21-rpi5-atv/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/lineage21-rpi5-atv/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/lineage21-rpi5-atv/lineage21-rpi5-atv.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/lineage21-rpi5-atv/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/lineage21-rpi5-atv/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage21-rpi5-atv/boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage21-rpi5-atv/system.img.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage21-rpi5-atv/vendor.img.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage21-rpi5-atv/userdata.tar.xz"
+            ],
+            "nominal_size": 6940
+        }
+,
+        {
             "os_name":	    "lineage22-rpi5",
             "description":  "Lineage OS (KonstaKANG) 22.1 for RPi5",
             "release_date": "2025-02-25",
@@ -1432,6 +1464,38 @@
                                "http://downloads.sourceforge.net/project/pinn/os/lineage22-rpi4-atv/userdata.tar.xz"
             ],
             "nominal_size": 14293
+        }
+,
+        {
+            "os_name":	    "lineage22-rpi5-atv",
+            "description":  "Lineage OS ATV (KonstaKANG) 22.2 for RPi5",
+            "release_date": "2025-05-14",
+            "feature_level": 0,
+            "supported_hex_revisions": "2082",
+            "supported_models": [
+                "Pi 5"
+            ],
+            "supports_usb_boot":       false,
+            "supports_usb_root":       false,
+            "supports_sda_boot":       true,
+            "supports_sda_root":       true,
+            "version":                 "22.2",
+            "supports_backup": true,
+            "url":             "http://konstakang.com/devices/rpi5/",
+            "group":           "General",
+            "download_size":   489252404,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/lineage22-rpi5-atv/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/lineage22-rpi5-atv/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/lineage22-rpi5-atv/lineage22-rpi5-atv.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/lineage22-rpi5-atv/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/lineage22-rpi5-atv/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage22-rpi5-atv/boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage22-rpi5-atv/system.img.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage22-rpi5-atv/vendor.img.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage22-rpi5-atv/userdata.tar.xz"
+            ],
+            "nominal_size": 14374
         }
 ,
         {
