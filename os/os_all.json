@@ -2785,6 +2785,29 @@
         }
 ,
         {
+            "os_name":	    "ubuntu2504",
+            "description":  "ubuntu2504 v25.04 desktop for RPi4/5",
+            "release_date": "2025-04-17",
+            "supported_models": [
+                "Pi 4",
+                "Pi 5"
+            ],
+            "url":             "https://ubuntu/",
+            "group":           "General",
+            "download_size":   2657754100,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/ubuntu2504/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/ubuntu2504/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/ubuntu2504/ubuntu2504.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/ubuntu2504/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/ubuntu2504/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/ubuntu2504/system-boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/ubuntu2504/writable.tar.xz"
+            ],
+            "nominal_size": 8769
+        }
+,
+        {
             "os_name":	    "void1",
             "description":  "A void1 Linux port for ARM devices RPi1",
             "release_date": "2016-04-20",
