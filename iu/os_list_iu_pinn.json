@@ -32,7 +32,8 @@
             "release_date": "2025-07-20",
             "extract_size": 134217728,
             "extract_sha256": "e6d9fef9d5eaaaf86aefe1b93a586eec485f71f819fa8a2c7be46bcd94d76b50",
-            "image_download_size": 59768564
+            "image_download_size": 59768564,
+            "devices": ["pi5-64bit", "pi4-32bit", "pi3-32bit", "pi2-32bit", "pi1-32bit"]
         }
   ]
 }
