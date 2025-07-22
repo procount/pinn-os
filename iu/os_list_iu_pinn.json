@@ -29,10 +29,10 @@
             "url": "https://github.com/procount/pinn/releases/download/p3.9.7/pinn-lite.img.zip",
             "description": "A multi-boot OS installer with OS admin features p3.9.7",
             "name": "PINN",
-            "release_date": "2025-07-20",
+            "release_date": "2025-07-23",
             "extract_size": 134217728,
-            "extract_sha256": "e6d9fef9d5eaaaf86aefe1b93a586eec485f71f819fa8a2c7be46bcd94d76b50",
-            "image_download_size": 59768564,
+            "extract_sha256": "8dd82294d2019d7ebdba0586f320611a6372595d0499e7ec3f5fc391e6b80d2c",
+            "image_download_size": 62190640,
             "devices": ["pi5-64bit", "pi4-32bit", "pi3-32bit", "pi2-32bit", "pi1-32bit"]
         }
   ]
