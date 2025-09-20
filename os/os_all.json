@@ -669,56 +669,6 @@
         }
 ,
         {
-            "os_name":	    "kde2lee64",
-            "description": "Leepspvideo's custom raspios-64. KDE plasma desktop, PiApps, PiKiss",
-            "release_date": "2024-01-05",
-            "supported_models": [
-                "Pi 3",
-                "Pi Compute Module 3",
-                "Pi 4",
-                "Pi 5"
-            ],
-            "url":             "http://www.raspbian.org/",
-            "group":           "General",
-            "download_size":   2214452424,
-            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/kde2lee64/os.json",
-            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/kde2lee64/partitions.json",
-            "icon":            "http://downloads.sourceforge.net/project/pinn/os/kde2lee64/kde2lee64.png",
-            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/kde2lee64/marketing.tar",
-            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/kde2lee64/partition_setup.sh",
-            "tarballs": [
-                               "http://downloads.sourceforge.net/project/pinn/os/kde2lee64/boot64.tar.xz",
-                               "http://downloads.sourceforge.net/project/pinn/os/kde2lee64/root64.tar.xz"
-            ],
-            "nominal_size": 9677
-        }
-,
-        {
-            "os_name":	    "kde3lee64",
-            "description": "Leepspvideo's custom raspios-64. KDE plasma desktop, PiApps, PiKiss",
-            "release_date": "2024-03-13",
-            "supported_models": [
-                "Pi 3",
-                "Pi Compute Module 3",
-                "Pi 4",
-                "Pi 5"
-            ],
-            "url":             "http://www.raspbian.org/",
-            "group":           "General",
-            "download_size":   2824813564,
-            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/kde3lee64/os.json",
-            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/kde3lee64/partitions.json",
-            "icon":            "http://downloads.sourceforge.net/project/pinn/os/kde3lee64/kde3lee64.png",
-            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/kde3lee64/marketing.tar",
-            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/kde3lee64/partition_setup.sh",
-            "tarballs": [
-                               "http://downloads.sourceforge.net/project/pinn/os/kde3lee64/boot64.tar.xz",
-                               "http://downloads.sourceforge.net/project/pinn/os/kde3lee64/root64.tar.xz"
-            ],
-            "nominal_size": 10732
-        }
-,
-        {
             "os_name":	    "kde5lee64",
             "description": "Leepspvideo's custom raspios-64. KDE plasma desktop, PiApps, PiKiss",
             "release_date": "2025-02-16",
@@ -2404,6 +2354,35 @@
                                "http://downloads.sourceforge.net/project/pinn/os/Retropie4/retropie.tar.xz"
             ],
             "nominal_size": 2858
+        }
+,
+        {
+            "os_name":	    "RetropiePS2Leepsp",
+            "description":  "RetropiePS2Leepsp v4.8.9 Retropie5PSPleepsp for arm64",
+            "release_date": "2025-05-21",
+            "feature_level": 0,
+            "supported_hex_revisions": "1040,1041,2082",
+            "supported_models": [
+                "Pi 3",
+                "Pi Compute Module 3",
+                "Pi Compute Module 4",
+                "Pi Compute Module 5",
+                "Pi 4",
+                "Pi 5"
+            ],
+            "url":             "https://retropie.org.uk/",
+            "group":           "Games",
+            "download_size":   1834430408,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/RetropiePS2Leepsp/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/RetropiePS2Leepsp/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/RetropiePS2Leepsp/RetropiePS2Leepsp.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/RetropiePS2Leepsp/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/RetropiePS2Leepsp/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/RetropiePS2Leepsp/boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/RetropiePS2Leepsp/retropie.tar.xz"
+            ],
+            "nominal_size": 8150
         }
 ,
         {
