@@ -16,14 +16,14 @@
             "url":             "http://www.raspbian.org/",
             "group":           "General",
             "download_size":   1298111160,
-            "os_info":         "http://pinn.procount.co.uk/new_os/raspios_arm64/os.json",
-            "partitions_info": "http://pinn.procount.co.uk/new_os/raspios_arm64/partitions.json",
-            "icon":            "http://pinn.procount.co.uk/new_os/raspios_arm64/raspios_arm64.png",
-            "marketing_info":  "http://pinn.procount.co.uk/new_os/raspios_arm64/marketing.tar",
-            "partition_setup": "http://pinn.procount.co.uk/new_os/raspios_arm64/partition_setup.sh",
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os_trixie/raspios_arm64/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os_trixie/raspios_arm64/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os_trixie/raspios_arm64/raspios_arm64.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os_trixie/raspios_arm64/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os_trixie/raspios_arm64/partition_setup.sh",
             "tarballs": [
-                               "http://pinn.procount.co.uk/new_os/raspios_arm64/boot64.tar.xz",
-                               "http://pinn.procount.co.uk/new_os/raspios_arm64/root64.tar.xz"
+                               "http://downloads.sourceforge.net/project/pinn/os_trixie/raspios_arm64/boot64.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os_trixie/raspios_arm64/root64.tar.xz"
             ],
             "nominal_size": 5950
         }
@@ -46,14 +46,14 @@
             "url":             "http://www.raspbian.org/",
             "group":           "General",
             "download_size":   2010424620,
-            "os_info":         "http://pinn.procount.co.uk/new_os/raspios_arm64_full/os.json",
-            "partitions_info": "http://pinn.procount.co.uk/new_os/raspios_arm64_full/partitions.json",
-            "icon":            "http://pinn.procount.co.uk/new_os/raspios_arm64_full/raspios_arm64_full.png",
-            "marketing_info":  "http://pinn.procount.co.uk/new_os/raspios_arm64_full/marketing.tar",
-            "partition_setup": "http://pinn.procount.co.uk/new_os/raspios_arm64_full/partition_setup.sh",
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os_trixie/raspios_arm64_full/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os_trixie/raspios_arm64_full/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os_trixie/raspios_arm64_full/raspios_arm64_full.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os_trixie/raspios_arm64_full/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os_trixie/raspios_arm64_full/partition_setup.sh",
             "tarballs": [
-                               "http://pinn.procount.co.uk/new_os/raspios_arm64_full/boot64.tar.xz",
-                               "http://pinn.procount.co.uk/new_os/raspios_arm64_full/root64.tar.xz"
+                               "http://downloads.sourceforge.net/project/pinn/os_trixie/raspios_arm64_full/boot64.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os_trixie/raspios_arm64_full/root64.tar.xz"
             ],
             "nominal_size": 8949
         }
@@ -78,14 +78,14 @@
             "url":             "http://www.raspbian.org/",
             "group":           "Minimal",
             "download_size":   481847384,
-            "os_info":         "http://pinn.procount.co.uk/new_os/raspios_arm64_lite/os.json",
-            "partitions_info": "http://pinn.procount.co.uk/new_os/raspios_arm64_lite/partitions.json",
-            "icon":            "http://pinn.procount.co.uk/new_os/raspios_arm64_lite/raspios_arm64_lite.png",
-            "marketing_info":  "http://pinn.procount.co.uk/new_os/raspios_arm64_lite/marketing.tar",
-            "partition_setup": "http://pinn.procount.co.uk/new_os/raspios_arm64_lite/partition_setup.sh",
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os_trixie/raspios_arm64_lite/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os_trixie/raspios_arm64_lite/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os_trixie/raspios_arm64_lite/raspios_arm64_lite.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os_trixie/raspios_arm64_lite/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os_trixie/raspios_arm64_lite/partition_setup.sh",
             "tarballs": [
-                               "http://pinn.procount.co.uk/new_os/raspios_arm64_lite/boot.tar.xz",
-                               "http://pinn.procount.co.uk/new_os/raspios_arm64_lite/root.tar.xz"
+                               "http://downloads.sourceforge.net/project/pinn/os_trixie/raspios_arm64_lite/boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os_trixie/raspios_arm64_lite/root.tar.xz"
             ],
             "nominal_size": 2682
         }
@@ -108,14 +108,14 @@
             "url":             "http://www.raspbian.org/",
             "group":           "General",
             "download_size":   1198798708,
-            "os_info":         "http://pinn.procount.co.uk/new_os/raspios_armhf/os.json",
-            "partitions_info": "http://pinn.procount.co.uk/new_os/raspios_armhf/partitions.json",
-            "icon":            "http://pinn.procount.co.uk/new_os/raspios_armhf/raspios_armhf.png",
-            "marketing_info":  "http://pinn.procount.co.uk/new_os/raspios_armhf/marketing.tar",
-            "partition_setup": "http://pinn.procount.co.uk/new_os/raspios_armhf/partition_setup.sh",
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os_trixie/raspios_armhf/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os_trixie/raspios_armhf/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os_trixie/raspios_armhf/raspios_armhf.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os_trixie/raspios_armhf/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os_trixie/raspios_armhf/partition_setup.sh",
             "tarballs": [
-                               "http://pinn.procount.co.uk/new_os/raspios_armhf/boot.tar.xz",
-                               "http://pinn.procount.co.uk/new_os/raspios_armhf/root.tar.xz"
+                               "http://downloads.sourceforge.net/project/pinn/os_trixie/raspios_armhf/boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os_trixie/raspios_armhf/root.tar.xz"
             ],
             "nominal_size": 5219
         }
@@ -138,14 +138,14 @@
             "url":             "http://www.raspbian.org/",
             "group":           "General",
             "download_size":   1903774424,
-            "os_info":         "http://pinn.procount.co.uk/new_os/raspios_armhf_full/os.json",
-            "partitions_info": "http://pinn.procount.co.uk/new_os/raspios_armhf_full/partitions.json",
-            "icon":            "http://pinn.procount.co.uk/new_os/raspios_armhf_full/raspios_armhf_full.png",
-            "marketing_info":  "http://pinn.procount.co.uk/new_os/raspios_armhf_full/marketing.tar",
-            "partition_setup": "http://pinn.procount.co.uk/new_os/raspios_armhf_full/partition_setup.sh",
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os_trixie/raspios_armhf_full/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os_trixie/raspios_armhf_full/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os_trixie/raspios_armhf_full/raspios_armhf_full.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os_trixie/raspios_armhf_full/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os_trixie/raspios_armhf_full/partition_setup.sh",
             "tarballs": [
-                               "http://pinn.procount.co.uk/new_os/raspios_armhf_full/boot.tar.xz",
-                               "http://pinn.procount.co.uk/new_os/raspios_armhf_full/root.tar.xz"
+                               "http://downloads.sourceforge.net/project/pinn/os_trixie/raspios_armhf_full/boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os_trixie/raspios_armhf_full/root.tar.xz"
             ],
             "nominal_size": 8180
         }
@@ -168,14 +168,14 @@
             "url":             "http://www.raspbian.org/",
             "group":           "Minimal",
             "download_size":   468024764,
-            "os_info":         "http://pinn.procount.co.uk/new_os/raspios_armhf_lite/os.json",
-            "partitions_info": "http://pinn.procount.co.uk/new_os/raspios_armhf_lite/partitions.json",
-            "icon":            "http://pinn.procount.co.uk/new_os/raspios_armhf_lite/raspios_armhf_lite.png",
-            "marketing_info":  "http://pinn.procount.co.uk/new_os/raspios_armhf_lite/marketing.tar",
-            "partition_setup": "http://pinn.procount.co.uk/new_os/raspios_armhf_lite/partition_setup.sh",
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os_trixie/raspios_armhf_lite/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os_trixie/raspios_armhf_lite/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os_trixie/raspios_armhf_lite/raspios_armhf_lite.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os_trixie/raspios_armhf_lite/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os_trixie/raspios_armhf_lite/partition_setup.sh",
             "tarballs": [
-                               "http://pinn.procount.co.uk/new_os/raspios_armhf_lite/boot.tar.xz",
-                               "http://pinn.procount.co.uk/new_os/raspios_armhf_lite/root.tar.xz"
+                               "http://downloads.sourceforge.net/project/pinn/os_trixie/raspios_armhf_lite/boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os_trixie/raspios_armhf_lite/root.tar.xz"
             ],
             "nominal_size": 2438
         }
