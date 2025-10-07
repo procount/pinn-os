@@ -1,7 +1,7 @@
 {
   "os_list": [
         {
-            "os_name":	    "raspios_arm64",
+            "os_name":	    "raspios_bookworm_arm64",
             "description":  "A 64-bit port of Debian with the Raspberry Pi desktop",
             "release_date": "2025-05-08",
             "version": "bookworm",
@@ -14,22 +14,22 @@
                 "Pi 5"
             ],
             "url":             "http://www.raspbian.org/",
-            "group":           "General",
+            "group":           "Legacy",
             "download_size":   1172853364,
-            "os_info":         "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_arm64/os.json",
-            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_arm64/partitions.json",
-            "icon":            "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_arm64/raspios_arm64.png",
-            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_arm64/marketing.tar",
-            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_arm64/partition_setup.sh",
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_bookworm_arm64/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_bookworm_arm64/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_bookworm_arm64/raspios_bookworm_arm64.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_bookworm_arm64/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_bookworm_arm64/partition_setup.sh",
             "tarballs": [
-                               "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_arm64/boot64.tar.xz",
-                               "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_arm64/root64.tar.xz"
+                               "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_bookworm_arm64/boot64.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_bookworm_arm64/root64.tar.xz"
             ],
             "nominal_size": 5690
         }
 ,
         {
-            "os_name":	    "raspios_arm64_full",
+            "os_name":	    "raspios_bookworm_arm64_full",
             "description":  "A 64-bit port of Debian with desktop and recommended applications",
             "release_date": "2025-05-08",
             "version": "bookworm",
@@ -43,22 +43,22 @@
 		"Pi Compute Module 5"
 	    ],
             "url":             "http://www.raspbian.org/",
-            "group":           "General",
+            "group":           "Legacy",
             "download_size":   3238059996,
-            "os_info":         "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_arm64_full/os.json",
-            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_arm64_full/partitions.json",
-            "icon":            "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_arm64_full/raspios_arm64_full.png",
-            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_arm64_full/marketing.tar",
-            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_arm64_full/partition_setup.sh",
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_bookworm_arm64_full/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_bookworm_arm64_full/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_bookworm_arm64_full/raspios_bookworm_arm64_full.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_bookworm_arm64_full/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_bookworm_arm64_full/partition_setup.sh",
             "tarballs": [
-                               "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_arm64_full/boot64.tar.xz",
-                               "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_arm64_full/root64.tar.xz"
+                               "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_bookworm_arm64_full/boot64.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_bookworm_arm64_full/root64.tar.xz"
             ],
             "nominal_size": 14894
         }
 ,
         {
-            "os_name":	    "raspios_arm64_lite",
+            "os_name":	    "raspios_bookworm_arm64_lite",
             "description":  "A port of Debian with no desktop environment",
             "release_date": "2025-05-08",
             "version": "bookworm",
@@ -74,22 +74,22 @@
                 "Pi 5"
             ],
             "url":             "http://www.raspbian.org/",
-            "group":           "Minimal",
+            "group":           "Legacy",
             "download_size":   409847060,
-            "os_info":         "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_arm64_lite/os.json",
-            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_arm64_lite/partitions.json",
-            "icon":            "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_arm64_lite/raspios_arm64_lite.png",
-            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_arm64_lite/marketing.tar",
-            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_arm64_lite/partition_setup.sh",
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_bookworm_arm64_lite/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_bookworm_arm64_lite/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_bookworm_arm64_lite/raspios_bookworm_arm64_lite.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_bookworm_arm64_lite/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_bookworm_arm64_lite/partition_setup.sh",
             "tarballs": [
-                               "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_arm64_lite/boot.tar.xz",
-                               "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_arm64_lite/root.tar.xz"
+                               "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_bookworm_arm64_lite/boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_bookworm_arm64_lite/root.tar.xz"
             ],
             "nominal_size": 2516
         }
 ,
         {
-            "os_name":	    "raspios_armhf",
+            "os_name":	    "raspios_bookworm_armhf",
             "description":  "A port of Debian with the Raspberry Pi Desktop",
             "release_date": "2025-05-08",
             "version": "bookworm",
@@ -103,22 +103,22 @@
                 "Pi 5"
             ],
             "url":             "http://www.raspbian.org/",
-            "group":           "General",
+            "group":           "Legacy",
             "download_size":   1172823220,
-            "os_info":         "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_armhf/os.json",
-            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_armhf/partitions.json",
-            "icon":            "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_armhf/raspios_armhf.png",
-            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_armhf/marketing.tar",
-            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_armhf/partition_setup.sh",
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_bookworm_armhf/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_bookworm_armhf/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_bookworm_armhf/raspios_bookworm_armhf.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_bookworm_armhf/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_bookworm_armhf/partition_setup.sh",
             "tarballs": [
-                               "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_armhf/boot.tar.xz",
-                               "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_armhf/root.tar.xz"
+                               "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_bookworm_armhf/boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_bookworm_armhf/root.tar.xz"
             ],
             "nominal_size": 5022
         }
 ,
         {
-            "os_name":	    "raspios_armhf_full",
+            "os_name":	    "raspios_bookworm_armhf_full",
             "description":  "A port of Debian with the Raspberry Pi Desktop",
             "release_date": "2025-05-08",
             "version": "bookworm",
@@ -132,22 +132,22 @@
                 "Pi 5"
             ],
             "url":             "http://www.raspbian.org/",
-            "group":           "General",
+            "group":           "Legacy",
             "download_size":   2917589588,
-            "os_info":         "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_armhf_full/os.json",
-            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_armhf_full/partitions.json",
-            "icon":            "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_armhf_full/raspios_armhf_full.png",
-            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_armhf_full/marketing.tar",
-            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_armhf_full/partition_setup.sh",
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_bookworm_armhf_full/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_bookworm_armhf_full/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_bookworm_armhf_full/raspios_bookworm_armhf_full.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_bookworm_armhf_full/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_bookworm_armhf_full/partition_setup.sh",
             "tarballs": [
-                               "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_armhf_full/boot.tar.xz",
-                               "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_armhf_full/root.tar.xz"
+                               "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_bookworm_armhf_full/boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_bookworm_armhf_full/root.tar.xz"
             ],
             "nominal_size": 11720
         }
 ,
         {
-            "os_name":	    "raspios_armhf_lite",
+            "os_name":	    "raspios_bookworm_armhf_lite",
             "description":  "A port of Debian with no desktop environment",
             "release_date": "2025-05-08",
             "version": "bookworm",
@@ -161,16 +161,16 @@
                 "Pi 5"
             ],
             "url":             "http://www.raspbian.org/",
-            "group":           "Minimal",
+            "group":           "Legacy",
             "download_size":   482525024,
-            "os_info":         "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_armhf_lite/os.json",
-            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_armhf_lite/partitions.json",
-            "icon":            "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_armhf_lite/raspios_armhf_lite.png",
-            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_armhf_lite/marketing.tar",
-            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_armhf_lite/partition_setup.sh",
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_bookworm_armhf_lite/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_bookworm_armhf_lite/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_bookworm_armhf_lite/raspios_bookworm_armhf_lite.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_bookworm_armhf_lite/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_bookworm_armhf_lite/partition_setup.sh",
             "tarballs": [
-                               "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_armhf_lite/boot.tar.xz",
-                               "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_armhf_lite/root.tar.xz"
+                               "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_bookworm_armhf_lite/boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os_rpf/raspios_bookworm_armhf_lite/root.tar.xz"
             ],
             "nominal_size": 2360
         }
