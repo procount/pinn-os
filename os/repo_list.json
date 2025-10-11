@@ -46,6 +46,10 @@
 		{
 			"name": "XBian",
 			"url": "http://sourceforge.net/projects/xbian/files/noobs/os_xbian.json"
+		},
+		{
+			"name": "Kali",
+			"url": "http://raw.githubusercontent.com/procount/pinn-os/master/os/os_kali.json"
 		}
 	]
 }

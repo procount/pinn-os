@@ -13,6 +13,7 @@
                 "Pi 4",
                 "Pi 5"
             ],
+            "download_size":    3005115556,
             "url":              "https://www.kali.org/",
             "group":            "General",
             "os_info":          "http://downloads.sourceforge.net/project/pinn/os_next/kali64/os.json",
@@ -40,7 +41,8 @@
                 "Pi 4",
                 "Pi Compute Module 3",
                 "Pi Compute Module 4"
-            ],  
+            ],
+            "download_size":    2877706436,
             "url":              "https://www.kali.org/",
             "group":            "General",
             "os_info":          "http://downloads.sourceforge.net/project/pinn/os_next/kalihf/os.json",
@@ -64,6 +66,7 @@
             "supported_models": [
                 "Pi Zero 2"
             ],
+            "download_size":    2885788496,
             "url":              "https://www.kali.org/",
             "group":            "General",
             "os_info":          "http://downloads.sourceforge.net/project/pinn/os_next/kaliz2/os.json",
