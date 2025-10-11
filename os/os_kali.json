@@ -1,0 +1,82 @@
+{
+  "os_list": [
+        {
+            "os_name": "kali64",
+            "description": "Kali Linux 2025.3 for RPi3/45",
+            "release_date": "2025-02-01",
+            "feature_level": 35644412,
+            "supported_models": [
+                "Pi Compute Module 3",
+                "Pi Compute Module 4",
+                "Pi Compute Module 5",
+                "Pi 3",
+                "Pi 4",
+                "Pi 5"
+            ],
+            "url":              "https://www.kali.org/",
+            "group":            "General",
+            "os_info":          "http://downloads.sourceforge.net/project/pinn/os_next/kali64/os.json",
+            "partitions_info":  "http://downloads.sourceforge.net/project/pinn/os_next/kali64/partitions.json",
+            "icon":             "http://downloads.sourceforge.net/project/pinn/os_next/kali64/kali64.png",
+            "marketing_info":   "http://downloads.sourceforge.net/project/pinn/os_next/kali64/marketing.tar",
+            "partition_setup":  "http://downloads.sourceforge.net/project/pinn/os_next/kali64/partition_setup.sh",
+            "tarballs": [
+                                "http://downloads.sourceforge.net/project/pinn/os_next/kali64/boot_kali.tar.xz",
+                                "http://downloads.sourceforge.net/project/pinn/os_next/kali64/root_kali.tar.xz"
+            ],
+            "nominal_size": 13904
+        }
+
+,
+        {
+            "os_name": "kalihf",
+            "description": "Kali Linux 2025.3 for RPI2/3",
+            "release_date":    "2025-02-01",
+            "feature_level":   0,
+            "supported_hex_revisions": "1040,1041,2082",
+            "supported_models": [
+                "Pi 2",
+                "Pi 3",
+                "Pi 4",
+                "Pi Compute Module 3",
+                "Pi Compute Module 4"
+            ],  
+            "url":              "https://www.kali.org/",
+            "group":            "General",
+            "os_info":          "http://downloads.sourceforge.net/project/pinn/os_next/kalihf/os.json",
+            "partitions_info":  "http://downloads.sourceforge.net/project/pinn/os_next/kalihf/partitions.json",
+            "icon":             "http://downloads.sourceforge.net/project/pinn/os_next/kalihf/kalihf.png",
+            "marketing_info":   "http://downloads.sourceforge.net/project/pinn/os_next/kalihf/marketing.tar",
+            "partition_setup":  "http://downloads.sourceforge.net/project/pinn/os_next/kalihf/partition_setup.sh",
+            "tarballs": [
+                                "http://downloads.sourceforge.net/project/pinn/os_next/kalihf/boot_kali.tar.xz",
+                                "http://downloads.sourceforge.net/project/pinn/os_next/kalihf/root_kali.tar.xz"
+            ],
+            "nominal_size": 12505
+        }
+
+,
+        {
+            "os_name": "kaliz2",
+            "description": "Kali Linux 2025.3 for RPi Zero 2",
+            "release_date": "2025-02-01",
+            "feature_level": 35644412,
+            "supported_models": [
+                "Pi Zero 2"
+            ],
+            "url":              "https://www.kali.org/",
+            "group":            "General",
+            "os_info":          "http://downloads.sourceforge.net/project/pinn/os_next/kaliz2/os.json",
+            "partitions_info":  "http://downloads.sourceforge.net/project/pinn/os_next/kaliz2/partitions.json",
+            "icon":             "http://downloads.sourceforge.net/project/pinn/os_next/kaliz2/kaliz2.png",
+            "marketing_info":   "http://downloads.sourceforge.net/project/pinn/os_next/kaliz2/marketing.tar",
+            "partition_setup":  "http://downloads.sourceforge.net/project/pinn/os_next/kaliz2/partition_setup.sh",
+            "tarballs": [
+                                "http://downloads.sourceforge.net/project/pinn/os_next/kaliz2/boot_kali.tar.xz",
+                                "http://downloads.sourceforge.net/project/pinn/os_next/kaliz2/root_kali.tar.xz"
+            ],
+            "nominal_size": 12505
+        }
+
+  ]
+}
