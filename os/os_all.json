@@ -1,6 +1,70 @@
 {
   "os_list" : [
         {
+            "os_name":	    "AOSP16-rpi4",
+            "description":  "Android AOSP 16.0 for RPi4",
+            "release_date": "2025-06-17",
+            "feature_level": 0,
+            "supported_hex_revisions": "2082",
+            "supported_models": [
+                "Pi 4"
+            ],
+            "supports_usb_boot":       false,
+            "supports_usb_root":       false,
+            "supports_sda_boot":       true,
+            "supports_sda_root":       true,
+            "version":                 "16.0",
+            "supports_backup": true,
+            "url":             "http://konstakang.com/devices/rpi4/",
+            "group":           "General",
+            "download_size":   546408492,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/AOSP16-rpi4/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/AOSP16-rpi4/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/AOSP16-rpi4/AOSP16-rpi4.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/AOSP16-rpi4/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/AOSP16-rpi4/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/AOSP16-rpi4/boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/AOSP16-rpi4/system.img.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/AOSP16-rpi4/vendor.img.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/AOSP16-rpi4/userdata.tar.xz"
+            ],
+            "nominal_size": 14180
+        }
+,
+        {
+            "os_name":	    "AOSP16-rpi5",
+            "description":  "Android AOSP 16.0 for RPi5",
+            "release_date": "2025-06-17",
+            "feature_level": 0,
+            "supported_hex_revisions": "2082",
+            "supported_models": [
+                "Pi 5"
+            ],
+            "supports_usb_boot":       false,
+            "supports_usb_root":       false,
+            "supports_sda_boot":       true,
+            "supports_sda_root":       true,
+            "version":                 "16.0",
+            "supports_backup": true,
+            "url":             "http://konstakang.com/devices/rpi4/",
+            "group":           "General",
+            "download_size":   550305388,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/AOSP16-rpi5/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/AOSP16-rpi5/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/AOSP16-rpi5/AOSP16-rpi5.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/AOSP16-rpi5/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/AOSP16-rpi5/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/AOSP16-rpi5/boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/AOSP16-rpi5/system.img.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/AOSP16-rpi5/vendor.img.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/AOSP16-rpi5/userdata.tar.xz"
+            ],
+            "nominal_size": 14180
+        }
+,
+        {
             "os_name":	    "AIYprojects",
             "description":  "Raspbian image for Google Assistant projects",
             "release_date": "2017-05-03",
@@ -1446,6 +1510,134 @@
                                "http://downloads.sourceforge.net/project/pinn/os/lineage22-rpi5-atv/userdata.tar.xz"
             ],
             "nominal_size": 14374
+        }
+,
+        {
+            "os_name":	    "lineage22.2-rpi4-atv",
+            "description":  "Lineage OS ATV (KonstaKANG) 22.2 for RPi4",
+            "release_date": "2025-08-26",
+            "feature_level": 0,
+            "supported_hex_revisions": "2082",
+            "supported_models": [
+                "Pi 4"
+            ],
+            "supports_usb_boot":       false,
+            "supports_usb_root":       false,
+            "supports_sda_boot":       true,
+            "supports_sda_root":       true,
+            "version":                 "22.2",
+            "supports_backup": true,
+            "url":             "http://konstakang.com/devices/rpi4/",
+            "group":           "General",
+            "download_size":   493420104,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/lineage22.2-rpi4-atv/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/lineage22.2-rpi4-atv/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/lineage22.2-rpi4-atv/lineage22.2-rpi4-atv.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/lineage22.2-rpi4-atv/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/lineage22.2-rpi4-atv/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage22.2-rpi4-atv/boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage22.2-rpi4-atv/system.img.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage22.2-rpi4-atv/vendor.img.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage22.2-rpi4-atv/userdata.tar.xz"
+            ],
+            "nominal_size": 14180
+        }
+,
+        {
+            "os_name":	    "lineage22.2-rpi4",
+            "description":  "Lineage OS (KonstaKANG) 22.2 for RPi4",
+            "release_date": "2025-08-26",
+            "feature_level": 0,
+            "supported_hex_revisions": "2082",
+            "supported_models": [
+                "Pi 4"
+            ],
+            "supports_usb_boot":       false,
+            "supports_usb_root":       false,
+            "supports_sda_boot":       true,
+            "supports_sda_root":       true,
+            "version":                 "22.2",
+            "supports_backup": true,
+            "url":             "http://konstakang.com/devices/rpi4/",
+            "group":           "General",
+            "download_size":   648127120,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/lineage22.2-rpi4/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/lineage22.2-rpi4/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/lineage22.2-rpi4/lineage22.2-rpi4.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/lineage22.2-rpi4/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/lineage22.2-rpi4/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage22.2-rpi4/boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage22.2-rpi4/system.img.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage22.2-rpi4/vendor.img.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage22.2-rpi4/data.tar.xz"
+            ],
+            "nominal_size": 14180
+        }
+,
+        {
+            "os_name":	    "lineage22.2-rpi5-atv",
+            "description":  "Lineage OS ATV (KonstaKANG) 22.2 for RPi5",
+            "release_date": "2025-08-26",
+            "feature_level": 0,
+            "supported_hex_revisions": "2082",
+            "supported_models": [
+                "Pi 5"
+            ],
+            "supports_usb_boot":       false,
+            "supports_usb_root":       false,
+            "supports_sda_boot":       true,
+            "supports_sda_root":       true,
+            "version":                 "22.2",
+            "supports_backup": true,
+            "url":             "http://konstakang.com/devices/rpi5/",
+            "group":           "General",
+            "download_size":   497433256,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/lineage22.2-rpi5-atv/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/lineage22.2-rpi5-atv/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/lineage22.2-rpi5-atv/lineage22.2-rpi5-atv.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/lineage22.2-rpi5-atv/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/lineage22.2-rpi5-atv/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage22.2-rpi5-atv/boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage22.2-rpi5-atv/system.img.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage22.2-rpi5-atv/vendor.img.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage22.2-rpi5-atv/userdata.tar.xz"
+            ],
+            "nominal_size": 14180
+        }
+,
+        {
+            "os_name":	    "lineage22.2-rpi5",
+            "description":  "Lineage OS (KonstaKANG) 22.2 for RPi5",
+            "release_date": "2025-08-26",
+            "feature_level": 0,
+            "supported_hex_revisions": "2082",
+            "supported_models": [
+                "Pi 5"
+            ],
+            "supports_usb_boot":       false,
+            "supports_usb_root":       false,
+            "supports_sda_boot":       true,
+            "supports_sda_root":       true,
+            "version":                 "22.2",
+            "supports_backup": true,
+            "url":             "http://konstakang.com/devices/rpi5/",
+            "group":           "General",
+            "download_size":   650293700,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/lineage22.2-rpi5/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/lineage22.2-rpi5/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/lineage22.2-rpi5/lineage22.2-rpi5.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/lineage22.2-rpi5/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/lineage22.2-rpi5/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage22.2-rpi5/boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage22.2-rpi5/system.img.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage22.2-rpi5/vendor.img.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage22.2-rpi5/data.tar.xz"
+            ],
+            "nominal_size": 14180
         }
 ,
         {
