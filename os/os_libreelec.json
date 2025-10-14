@@ -122,7 +122,8 @@
         {
             "os_name":	    "LibreElec_RPi2",
             "description":  "LibreELEC is a fast and user-friendly Kodi Entertainment Center distribution.",
-            "release_date": "2024-08-01",
+            "release_date": "2025-08-01",
+            "version":      "12.2.0",
             "supported_models": [
                 "Pi 2",
                 "Pi 3"
@@ -144,7 +145,8 @@
         {
             "os_name":	    "LibreElec_RPi4",
             "description":  "LibreELEC is a fast and user-friendly Kodi Entertainment Center distribution.",
-            "release_date": "2024-08-01",
+            "release_date": "2025-08-01",
+            "version":      "12.2.0",
             "supported_models": [
                 "Pi 4"
             ],
@@ -166,6 +168,7 @@
             "os_name":	    "LibreElec_RPi5",
             "description":  "LibreELEC is a fast and user-friendly Kodi Entertainment Center distribution.",
             "release_date": "2025-08-01",
+            "version":      "12.2.0",
             "supported_models": [
                 "Pi 5"
             ],
