@@ -118,6 +118,69 @@
             ],
             "nominal_size": 540
         }
-
+,
+        {
+            "os_name":	    "LibreElec_RPi2",
+            "description":  "LibreELEC is a fast and user-friendly Kodi Entertainment Center distribution.",
+            "release_date": "2024-08-01",
+            "supported_models": [
+                "Pi 2",
+                "Pi 3"
+            ],
+            "url": "https://libreelec.tv",
+            "group":           "Media",
+            "download_size":   154161500,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os_next/LibreElec_RPi2/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os_next/LibreElec_RPi2/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os_next/LibreElec_RPi2/LibreElec_RPi2.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os_next/LibreElec_RPi2/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os_next/LibreElec_RPi2/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os_next/LibreElec_RPi2/System.tar.xz"
+            ],
+            "nominal_size": 540
+        }
+,
+        {
+            "os_name":	    "LibreElec_RPi4",
+            "description":  "LibreELEC is a fast and user-friendly Kodi Entertainment Center distribution.",
+            "release_date": "2024-08-01",
+            "supported_models": [
+                "Pi 4"
+            ],
+            "url": "https://libreelec.tv",
+            "group":           "Media",
+            "download_size":   163672972,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os_next/LibreElec_RPi4/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os_next/LibreElec_RPi4/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os_next/LibreElec_RPi4/LibreElec_RPi4.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os_next/LibreElec_RPi4/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os_next/LibreElec_RPi4/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os_next/LibreElec_RPi4/System.tar.xz"
+            ],
+            "nominal_size": 540
+        }
+,
+        {
+            "os_name":	    "LibreElec_RPi5",
+            "description":  "LibreELEC is a fast and user-friendly Kodi Entertainment Center distribution.",
+            "release_date": "2025-08-01",
+            "supported_models": [
+                "Pi 5"
+            ],
+            "url": "https://libreelec.tv",
+            "group":           "Media",
+            "download_size":   161660180,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os_next/LibreElec_RPi5/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os_next/LibreElec_RPi5/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os_next/LibreElec_RPi5/LibreElec_RPi5.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os_next/LibreElec_RPi5/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os_next/LibreElec_RPi5/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os_next/LibreElec_RPi5/System.tar.xz"
+            ],
+            "nominal_size": 540
+        }
   ]
 }
