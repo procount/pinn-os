@@ -554,6 +554,34 @@
         }
 ,
         {
+            "os_name":	    "dosbian",
+            "description":  "dosbian bookworm for RPi4",
+            "release_date": "2025-10-07",
+            "version":      "bookworm",
+            "supported_models": [
+                "Pi 3 Model B Rev",
+                "Pi 3 Model B Plus Rev",
+                "Pi 3 Model A Plus Rev",
+                "Pi 4 Model B Rev"
+            ],
+            "supports_usb_boot": true,
+            "supports_usb_root": true,
+            "group":            "Games",
+            "download_size":    1711682720,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/dosbian/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/dosbian/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/dosbian/dosbian.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/dosbian/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/dosbian/partition_setup.sh",
+            "tarballs": [
+                "http://downloads.sourceforge.net/project/pinn/os/dosbian/bootdos.tar.xz",
+                "http://downloads.sourceforge.net/project/pinn/os/dosbian/rootdos.tar.xz"
+
+            ],
+            "nominal_size": 6633
+        }
+,
+        {
             "os_name":	    "hypriotos",
             "description":  "A hypriotos Linux port for ARM devices RPi0/1",
             "release_date": "2017-03-19",
@@ -1636,6 +1664,134 @@
                                "http://downloads.sourceforge.net/project/pinn/os/lineage22.2-rpi5/system.img.xz",
                                "http://downloads.sourceforge.net/project/pinn/os/lineage22.2-rpi5/vendor.img.xz",
                                "http://downloads.sourceforge.net/project/pinn/os/lineage22.2-rpi5/data.tar.xz"
+            ],
+            "nominal_size": 14180
+        }
+,
+        {
+            "os_name":	    "lineage23-rpi4",
+            "description":  "Lineage OS (KonstaKANG) 23.0 for RPi4",
+            "release_date": "2025-10-07",
+            "feature_level": 0,
+            "supported_hex_revisions": "2082",
+            "supported_models": [
+                "Pi 4"
+            ],
+            "supports_usb_boot":       false,
+            "supports_usb_root":       false,
+            "supports_sda_boot":       true,
+            "supports_sda_root":       true,
+            "version":                 "23.0",
+            "supports_backup": true,
+            "url":             "http://konstakang.com/devices/rpi4/",
+            "group":           "General",
+            "download_size":   675709816,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/lineage23-rpi4/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/lineage23-rpi4/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/lineage23-rpi4/lineage23-rpi4.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/lineage23-rpi4/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/lineage23-rpi4/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage23-rpi4/boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage23-rpi4/system.img.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage23-rpi4/vendor.img.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage23-rpi4/data.tar.xz"
+            ],
+            "nominal_size": 14180
+        }
+,
+        {
+            "os_name":	    "lineage23-rpi4-atv",
+            "description":  "Lineage OS ATV (KonstaKANG) 23.0 for RPi4",
+            "release_date": "2025-10-14",
+            "feature_level": 0,
+            "supported_hex_revisions": "2082",
+            "supported_models": [
+                "Pi 4"
+            ],
+            "supports_usb_boot":       false,
+            "supports_usb_root":       false,
+            "supports_sda_boot":       true,
+            "supports_sda_root":       true,
+            "version":                 "23.0",
+            "supports_backup": true,
+            "url":             "http://konstakang.com/devices/rpi4/",
+            "group":           "General",
+            "download_size":   520669180,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/lineage23-rpi4-atv/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/lineage23-rpi4-atv/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/lineage23-rpi4-atv/lineage23-rpi4-atv.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/lineage23-rpi4-atv/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/lineage23-rpi4-atv/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage23-rpi4-atv/boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage23-rpi4-atv/system.img.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage23-rpi4-atv/vendor.img.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage23-rpi4-atv/userdata.tar.xz"
+            ],
+            "nominal_size": 14180
+        }
+,
+        {
+            "os_name":	    "lineage23-rpi5",
+            "description":  "Lineage OS (KonstaKANG) 23.0 for RPi5",
+            "release_date": "2025-10-07",
+            "feature_level": 0,
+            "supported_hex_revisions": "2082",
+            "supported_models": [
+                "Pi 5"
+            ],
+            "supports_usb_boot":       false,
+            "supports_usb_root":       false,
+            "supports_sda_boot":       true,
+            "supports_sda_root":       true,
+            "version":                 "23.0",
+            "supports_backup": true,
+            "url":             "http://konstakang.com/devices/rpi5/",
+            "group":           "General",
+            "download_size":   679362644,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/lineage23-rpi5/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/lineage23-rpi5/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/lineage23-rpi5/lineage23-rpi5.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/lineage23-rpi5/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/lineage23-rpi5/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage23-rpi5/boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage23-rpi5/system.img.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage23-rpi5/vendor.img.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage23-rpi5/data.tar.xz"
+            ],
+            "nominal_size": 14180
+        }
+,
+        {
+            "os_name":	    "lineage23-rpi5-atv",
+            "description":  "Lineage OS ATV (KonstaKANG) 23.0 for RPi5",
+            "release_date": "2025-10-14",
+            "feature_level": 0,
+            "supported_hex_revisions": "2082",
+            "supported_models": [
+                "Pi 5"
+            ],
+            "supports_usb_boot":       false,
+            "supports_usb_root":       false,
+            "supports_sda_boot":       true,
+            "supports_sda_root":       true,
+            "version":                 "23.0",
+            "supports_backup": true,
+            "url":             "http://konstakang.com/devices/rpi5/",
+            "group":           "General",
+            "download_size":   523941796,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/lineage23-rpi5-atv/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/lineage23-rpi5-atv/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/lineage23-rpi5-atv/lineage23-rpi5-atv.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/lineage23-rpi5-atv/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/lineage23-rpi5-atv/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage23-rpi5-atv/boot.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage23-rpi5-atv/system.img.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage23-rpi5-atv/vendor.img.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/lineage23-rpi5-atv/userdata.tar.xz"
             ],
             "nominal_size": 14180
         }
