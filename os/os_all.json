@@ -281,6 +281,59 @@
         }
 ,
         {
+            "os_name":	    "Armbian",
+            "description":  "A highly optimised OS specialised for single board computers.",
+            "release_date": "2025-10-31",
+            "version": "25.8.1",
+            "supported_models": [
+                "Pi Zero 2",
+                "Pi 3",
+                "Pi Compute Module",
+                "Pi 4",
+                "Pi 5"
+            ],
+            "url":             "http://www.armbian.com/",
+            "group":           "Minimal",
+            "download_size":   201322396,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/Armbian/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/Armbian/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/Armbian/Armbian.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/Armbian/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/Armbian/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/Armbian/RPICFG.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/Armbian/armbi_root.tar.xz"
+            ],
+            "nominal_size": 1452
+        }
+,
+        {
+            "os_name":	    "ArmbianNoble",
+            "description":  "A highly optimised OS specialised for single board computers.",
+            "release_date": "2025-10-31",
+            "version": "25.8.1",
+            "supported_models": [
+                "Pi 3",
+                "Pi Compute Module",
+                "Pi 4",
+                "Pi 5"
+            ],
+            "url":             "http://www.armbian.com/",
+            "group":           "General",
+            "download_size":   1177369940,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/ArmbianNoble/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/ArmbianNoble/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/ArmbianNoble/ArmbianNoble.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/ArmbianNoble/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/ArmbianNoble/partition_setup.sh",
+            "tarballs": [
+                               "http://downloads.sourceforge.net/project/pinn/os/ArmbianNoble/RPICFG.tar.xz",
+                               "http://downloads.sourceforge.net/project/pinn/os/ArmbianNoble/armbi_root.tar.xz"
+            ],
+            "nominal_size": 6305
+        }
+ ,
+        {
             "os_name":	    "Bareboat",
             "description":  "Marine Linux for Raspberry Pi by Bareboat Necessities",
             "release_date": "2023-01-19",
@@ -1912,6 +1965,37 @@
                 "http://downloads.sourceforge.net/project/pinn/os/moode9/root.tar.xz"
             ],
             "nominal_size": 4563
+        }
+,
+        {
+            "os_name":	     "moode",
+            "description":  "moode 9.4.1 Audiophile-quality music playback for the wonderful Raspberry Pi family of single board computers",
+            "release_date": "2025-10-07",
+            "version":      "9.4.1",
+            "supported_models": [
+                "Pi Model",
+                "Pi 2",
+                "Pi Zero",
+                "Pi 3",
+                "Pi Compute Module 3",
+                "Pi 4",
+                "Pi 5"
+            ],
+            "supports_usb_boot": true,
+            "supports_usb_root": true,
+            "group":            "Media",
+            "download_size":    985664112,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os_next/moode/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os_next/moode/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os_next/moode/moode.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os_next/moode/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os_next/moode/partition_setup.sh",
+            "tarballs": [
+                "http://downloads.sourceforge.net/project/pinn/os_next/moode/boot.tar.xz",
+                "http://downloads.sourceforge.net/project/pinn/os_next/moode/root.tar.xz"
+
+            ],
+            "nominal_size": 4582
         }
 ,
         {
