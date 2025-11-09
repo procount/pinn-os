@@ -1969,9 +1969,9 @@
 ,
         {
             "os_name":	     "moode",
-            "description":  "moode 9.1.5 Audiophile-quality music playback for the wonderful Raspberry Pi family of single board computers",
-            "release_date": "2024-11-26",
-            "version":      "9.1.5",
+            "description":  "moode 9.4.2 Audiophile-quality music playback for the wonderful Raspberry Pi family of single board computers",
+            "release_date": "2025-10-31",
+            "version":      "9.4.2",
             "supported_models": [
                 "Pi Model",
                 "Pi 2",
@@ -1984,48 +1984,18 @@
             "supports_usb_boot": true,
             "supports_usb_root": true,
             "group":            "Media",
-            "download_size":    917069552,
-            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/moode9/os.json",
-            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/moode9/partitions.json",
-            "icon":            "http://downloads.sourceforge.net/project/pinn/os/moode9/moode.png",
-            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/moode9/marketing.tar",
-            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/moode9/partition_setup.sh",
+            "download_size":    982358684,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/moode/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/moode/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/moode/moode.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/moode/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/moode/partition_setup.sh",
             "tarballs": [
-                "http://downloads.sourceforge.net/project/pinn/os/moode9/boot.tar.xz",
-                "http://downloads.sourceforge.net/project/pinn/os/moode9/root.tar.xz"
-            ],
-            "nominal_size": 4563
-        }
-,
-        {
-            "os_name":	     "moode",
-            "description":  "moode 9.4.1 Audiophile-quality music playback for the wonderful Raspberry Pi family of single board computers",
-            "release_date": "2025-10-07",
-            "version":      "9.4.1",
-            "supported_models": [
-                "Pi Model",
-                "Pi 2",
-                "Pi Zero",
-                "Pi 3",
-                "Pi Compute Module 3",
-                "Pi 4",
-                "Pi 5"
-            ],
-            "supports_usb_boot": true,
-            "supports_usb_root": true,
-            "group":            "Media",
-            "download_size":    985664112,
-            "os_info":         "http://downloads.sourceforge.net/project/pinn/os_next/moode/os.json",
-            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os_next/moode/partitions.json",
-            "icon":            "http://downloads.sourceforge.net/project/pinn/os_next/moode/moode.png",
-            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os_next/moode/marketing.tar",
-            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os_next/moode/partition_setup.sh",
-            "tarballs": [
-                "http://downloads.sourceforge.net/project/pinn/os_next/moode/boot.tar.xz",
-                "http://downloads.sourceforge.net/project/pinn/os_next/moode/root.tar.xz"
+                "http://downloads.sourceforge.net/project/pinn/os/moode/boot.tar.xz",
+                "http://downloads.sourceforge.net/project/pinn/os/moode/root.tar.xz"
 
             ],
-            "nominal_size": 4582
+            "nominal_size": 4598
         }
 ,
         {
