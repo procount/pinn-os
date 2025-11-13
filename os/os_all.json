@@ -2304,6 +2304,7 @@
             "partitions_info": "http://download.osmc.tv/installers/noobs/partitions-pi4.json",
             "release_date": "2021-08-08",
             "supported_hex_revisions": "1040,1041,2082",
+            "supports_backup": true,
             "supported_models": [
                 "Pi 4"
             ],
