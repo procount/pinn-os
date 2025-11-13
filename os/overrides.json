@@ -161,6 +161,11 @@
         "+supports_backup": true,
         "+download_size" : 165866012
     },
+    "OSMC_Pi4": {
+        "url": "https://osmc.tv/",
+        "group": "Media",
+        "+supports_backup": true
+    },
     "Pi MusicBox": {
         "group": "Media",
         "+supports_backup": true,
