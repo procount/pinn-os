@@ -1999,6 +1999,37 @@
         }
 ,
         {
+            "os_name":	     "moode",
+            "description":  "moode 10.0.2 Audiophile-quality music playback for the wonderful Raspberry Pi family of single board computers",
+            "release_date": "2025-12-18",
+            "version":      "10.0.2",
+            "supported_models": [
+                "Pi Model",
+                "Pi 2",
+                "Pi Zero",
+                "Pi 3",
+                "Pi Compute Module 3",
+                "Pi 4",
+                "Pi 5"
+            ],
+            "supports_usb_boot": true,
+            "supports_usb_root": true,
+            "group":            "Media",
+            "download_size":    969083252,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/moode10/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/moode10/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/moode10/moode.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/moode10/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/moode10/partition_setup.sh",
+            "tarballs": [
+                "http://downloads.sourceforge.net/project/pinn/os/moode10/boot.tar.xz",
+                "http://downloads.sourceforge.net/project/pinn/os/moode10/root.tar.xz"
+
+            ],
+            "nominal_size": 4771
+        }
+,
+        {
             "os_name":	    "mxlinux",
             "description":  "mxlinux mx23 for RPi4, Pi400, Pi5",
             "release_date": "2024-01-05",
