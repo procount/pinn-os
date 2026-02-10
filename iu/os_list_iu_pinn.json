@@ -32,7 +32,8 @@
             "release_date": "2026-02-10",
             "extract_size": 134217728,
             "extract_sha256": "d40bf6378e8ab6fa3fc257c1cb702f4ed36506f9f48ae743013b84840c9783cd",
-            "image_download_size": 63060648
+            "image_download_size": 63060648,
+            "devices": ["pi5-64bit", "pi4-32bit", "pi3-32bit", "pi2-32bit", "pi1-32bit"]
         }
     ]
 }
