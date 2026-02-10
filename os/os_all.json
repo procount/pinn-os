@@ -820,6 +820,8 @@
             "supported_models": [
                 "Pi 3",
                 "Pi Compute Module 3",
+                "Pi Compute Module 4",
+                "Pi Compute Module 5",
                 "Pi 4",
                 "Pi 5"
             ],
@@ -3264,6 +3266,8 @@
             "release_date": "2025-04-17",
             "supported_models": [
                 "Pi 4",
+                "Pi Compute Module 4",
+                "Pi Compute Module 5",
                 "Pi 5"
             ],
             "url":             "https://ubuntu/",
