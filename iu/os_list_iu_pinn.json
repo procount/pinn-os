@@ -23,7 +23,17 @@
             "image_download_size": 62690237,
             "devices": ["pi5-64bit", "pi4-32bit", "pi3-32bit", "pi2-32bit", "pi1-32bit"]
         }
-  ]
+,
+        {
+            "icon": "http://raw.githubusercontent.com/procount/pinn-os/master/os/pinn.png",
+            "url": "https://github.com/procount/pinn/releases/download/p3.9.8/pinn-lite.img.zip",
+            "description": "PINN beta version for CM5 based Argon One Up Laptop p3.9.8",
+            "name": "PINN",
+            "release_date": "2026-02-10",
+            "extract_size": 134217728,
+            "extract_sha256": "d40bf6378e8ab6fa3fc257c1cb702f4ed36506f9f48ae743013b84840c9783cd",
+            "image_download_size": 63060648
+        }
+    ]
 }
-
 
