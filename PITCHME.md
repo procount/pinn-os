@@ -1,10 +1,11 @@
 # FLiNN OS
 
-## My Subtitlehttp://downloads.sourceforge.net/projects/pinn/pinn-lite.zip
+## Mein Untertitel
+[Pinn Lite Download](http://downloads.sourceforge.net/projects/pinn/pinn-lite.zip)
 
 ---
 
-# Page 2
+# Seite 2
 
-## Subtitle
+## Untertitel
 
