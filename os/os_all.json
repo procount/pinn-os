@@ -607,6 +607,83 @@
         }
 ,
         {
+            "os_name":	    "dietpi_rpi2",
+            "description":  "dietpi_rpi2 10.2.3 32-bit for RPi2",
+            "release_date": "2026-04-08",
+            "version":      "10.2.3",
+            "supported_models": [
+                "Pi 2"
+            ],
+            "supports_usb_boot": true,
+            "supports_usb_root": true,
+            "group":            "Minimal",
+            "download_size":    179832964,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/dietpi_rpi2/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/dietpi_rpi2/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/dietpi_rpi2/dietpi_rpi2.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/dietpi_rpi2/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/dietpi_rpi2/partition_setup.sh",
+            "tarballs": [
+                "http://downloads.sourceforge.net/project/pinn/os/dietpi_rpi2/boot64.tar.xz",
+                "http://downloads.sourceforge.net/project/pinn/os/dietpi_rpi2/root64.tar.xz"
+            ],
+            "nominal_size": 1009
+        }
+,
+        {
+            "os_name":	    "dietpi_rpi234",
+            "description":  "dietpi_rpi234 10.2.3 for RPi 2,3 & 4",
+            "release_date": "2026-04-08",
+            "version":      "10.2.3",
+            "supported_models": [
+                "Pi 2",
+                "Pi 3",
+                "Pi 4",
+                "Pi Compute Module 3",
+                "Pi Compute Module 4"
+            ],
+            "supports_usb_boot": true,
+            "supports_usb_root": true,
+            "group":            "Minimal",
+            "download_size":    187924848,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/dietpi_rpi234/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/dietpi_rpi234/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/dietpi_rpi234/dietpi_rpi234.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/dietpi_rpi234/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/dietpi_rpi234/partition_setup.sh",
+            "tarballs": [
+                "http://downloads.sourceforge.net/project/pinn/os/dietpi_rpi234/boot64.tar.xz",
+                "http://downloads.sourceforge.net/project/pinn/os/dietpi_rpi234/root64.tar.xz"
+            ],
+            "nominal_size": 1077
+        }
+,
+        {
+            "os_name":	    "dietpi_rpi5",
+            "description":  "dietpi_rpi5 10.2.3 64-bit for RPi5",
+            "release_date": "2026-04-08",
+            "version":      "10.2.3",
+            "supported_models": [
+                "Pi 5",
+                "Pi Compute Module 5"
+            ],
+            "supports_usb_boot": true,
+            "supports_usb_root": true,
+            "group":            "Minimal",
+            "download_size":    189074168,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/dietpi_rpi5/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/dietpi_rpi5/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/dietpi_rpi5/dietpi_rpi5.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/dietpi_rpi5/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/dietpi_rpi5/partition_setup.sh",
+            "tarballs": [
+                "http://downloads.sourceforge.net/project/pinn/os/dietpi_rpi5/boot64.tar.xz",
+                "http://downloads.sourceforge.net/project/pinn/os/dietpi_rpi5/root64.tar.xz"
+            ],
+            "nominal_size": 1077
+        }
+,
+        {
             "os_name":	    "dosbian",
             "description":  "dosbian bookworm for RPi4",
             "release_date": "2025-10-07",
