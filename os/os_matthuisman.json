@@ -216,7 +216,8 @@
             "password": "dietpi",
             "release_date": "2025-04-18",
             "supported_models": [
-                "Pi 5"
+                "Pi 5",
+                "Pi COmpute Module 5"
             ],
             "supports_backup": true,
             "tarballs": [

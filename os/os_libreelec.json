@@ -103,7 +103,8 @@
             "release_date": "2025-08-01",
             "version":      "12.2.0",
             "supported_models": [
-                "Pi 5"
+                "Pi 5",
+                "Pi COmpute Module 5"
             ],
             "url": "https://libreelec.tv",
             "group":           "Media",
