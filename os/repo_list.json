@@ -8,10 +8,6 @@
 			"url": "http://raw.githubusercontent.com/procount/pinn-os/master/os/os_raspios.json"
 		},
 		{
-			"name": "Trixie",
-			"url": "http://raw.githubusercontent.com/procount/pinn-os/master/os/os_trixie.json"
-		},
-		{
 			"name": "PINN",
 			"url": "http://raw.githubusercontent.com/procount/pinn-os/master/os/os_all.json"
 		},
