@@ -3,9 +3,10 @@
         {
             "os_name":	    "raspios_arm64",
             "description":  "A 64-bit port of Debian with the Raspberry Pi desktop",
-            "release_date": "2025-10-01",
+            "release_date": "2026-04-13",
             "version": "trixie",
             "supported_models": [
+                "Pi Zero 2",
                 "Pi 3",
                 "Pi Compute Module 3",
                 "Pi Compute Module 4",
@@ -15,7 +16,7 @@
             ],
             "url":             "http://www.raspbian.org/",
             "group":           "General",
-            "download_size":   1298111160,
+            "download_size":   1305745844,
             "os_info":         "http://downloads.sourceforge.net/project/pinn/os_trixie/raspios_arm64/os.json",
             "partitions_info": "http://downloads.sourceforge.net/project/pinn/os_trixie/raspios_arm64/partitions.json",
             "icon":            "http://downloads.sourceforge.net/project/pinn/os_trixie/raspios_arm64/raspios_arm64.png",
@@ -25,14 +26,13 @@
                                "http://downloads.sourceforge.net/project/pinn/os_trixie/raspios_arm64/boot64.tar.xz",
                                "http://downloads.sourceforge.net/project/pinn/os_trixie/raspios_arm64/root64.tar.xz"
             ],
-            "nominal_size": 5950
+            "nominal_size": 6015
         }
-
 ,
         {
             "os_name":	    "raspios_arm64_full",
             "description":  "A 64-bit port of Debian with desktop and recommended applications",
-            "release_date": "2025-10-01",
+            "release_date": "2026-04-13",
             "version": "trixie",
 	    "supported_models": [
 		"Pi Zero 2",
@@ -45,7 +45,7 @@
 	    ],
             "url":             "http://www.raspbian.org/",
             "group":           "General",
-            "download_size":   2010424620,
+            "download_size":   2002870148,
             "os_info":         "http://downloads.sourceforge.net/project/pinn/os_trixie/raspios_arm64_full/os.json",
             "partitions_info": "http://downloads.sourceforge.net/project/pinn/os_trixie/raspios_arm64_full/partitions.json",
             "icon":            "http://downloads.sourceforge.net/project/pinn/os_trixie/raspios_arm64_full/raspios_arm64_full.png",
@@ -55,19 +55,16 @@
                                "http://downloads.sourceforge.net/project/pinn/os_trixie/raspios_arm64_full/boot64.tar.xz",
                                "http://downloads.sourceforge.net/project/pinn/os_trixie/raspios_arm64_full/root64.tar.xz"
             ],
-            "nominal_size": 8949
+            "nominal_size": 9023
         }
-
 ,
         {
             "os_name":	    "raspios_arm64_lite",
             "description":  "A port of Debian with no desktop environment",
-            "release_date": "2025-10-01",
+            "release_date": "2026-04-13",
             "version": "trixie",
             "supported_models": [
-                "Pi Model",
-                "Pi 2",
-                "Pi Zero",
+                "Pi Zero 2",
                 "Pi 3",
                 "Pi Compute Module 3",
                 "Pi Compute Module 4",
@@ -77,7 +74,7 @@
             ],
             "url":             "http://www.raspbian.org/",
             "group":           "Minimal",
-            "download_size":   481847384,
+            "download_size":   535457960,
             "os_info":         "http://downloads.sourceforge.net/project/pinn/os_trixie/raspios_arm64_lite/os.json",
             "partitions_info": "http://downloads.sourceforge.net/project/pinn/os_trixie/raspios_arm64_lite/partitions.json",
             "icon":            "http://downloads.sourceforge.net/project/pinn/os_trixie/raspios_arm64_lite/raspios_arm64_lite.png",
@@ -87,14 +84,13 @@
                                "http://downloads.sourceforge.net/project/pinn/os_trixie/raspios_arm64_lite/boot.tar.xz",
                                "http://downloads.sourceforge.net/project/pinn/os_trixie/raspios_arm64_lite/root.tar.xz"
             ],
-            "nominal_size": 2682
+            "nominal_size": 2952
         }
-
 ,
         {
             "os_name":	    "raspios_armhf",
             "description":  "A port of Debian with the Raspberry Pi Desktop",
-            "release_date": "2025-10-01",
+            "release_date": "2026-04-13",
             "version": "trixie",
             "supported_models": [
                 "Pi Model",
@@ -109,7 +105,7 @@
             ],
             "url":             "http://www.raspbian.org/",
             "group":           "General",
-            "download_size":   1198798708,
+            "download_size":   1221854300,
             "os_info":         "http://downloads.sourceforge.net/project/pinn/os_trixie/raspios_armhf/os.json",
             "partitions_info": "http://downloads.sourceforge.net/project/pinn/os_trixie/raspios_armhf/partitions.json",
             "icon":            "http://downloads.sourceforge.net/project/pinn/os_trixie/raspios_armhf/raspios_armhf.png",
@@ -119,29 +115,28 @@
                                "http://downloads.sourceforge.net/project/pinn/os_trixie/raspios_armhf/boot.tar.xz",
                                "http://downloads.sourceforge.net/project/pinn/os_trixie/raspios_armhf/root.tar.xz"
             ],
-            "nominal_size": 5219
+            "nominal_size": 5292
         }
-
 ,
         {
             "os_name":	    "raspios_armhf_full",
             "description":  "A port of Debian with the Raspberry Pi Desktop",
-            "release_date": "2025-10-01",
+            "release_date": "2026-04-13",
             "version": "trixie",
             "supported_models": [
-                "Pi Model",
-                "Pi 2",
-                "Pi Zero",
-                "Pi 3",
-                "Pi Compute Module 3",
-                "Pi Compute Module 4",
-                "Pi Compute Module 5",
-                "Pi 4",
-                "Pi 5"
+		"Pi Model",
+		"Pi 2",
+		"Pi Zero",
+		"Pi 3",
+		"Pi Compute Module 3",
+		"Pi Compute Module 4",
+		"Pi Compute Module 5",
+		"Pi 4",
+		"Pi 5"
             ],
             "url":             "http://www.raspbian.org/",
             "group":           "General",
-            "download_size":   1903774424,
+            "download_size":   1935084292,
             "os_info":         "http://downloads.sourceforge.net/project/pinn/os_trixie/raspios_armhf_full/os.json",
             "partitions_info": "http://downloads.sourceforge.net/project/pinn/os_trixie/raspios_armhf_full/partitions.json",
             "icon":            "http://downloads.sourceforge.net/project/pinn/os_trixie/raspios_armhf_full/raspios_armhf_full.png",
@@ -151,29 +146,28 @@
                                "http://downloads.sourceforge.net/project/pinn/os_trixie/raspios_armhf_full/boot.tar.xz",
                                "http://downloads.sourceforge.net/project/pinn/os_trixie/raspios_armhf_full/root.tar.xz"
             ],
-            "nominal_size": 8180
+            "nominal_size": 8261
         }
-
 ,
         {
             "os_name":	    "raspios_armhf_lite",
             "description":  "A port of Debian with no desktop environment",
-            "release_date": "2025-10-01",
+            "release_date": "2026-04-13",
             "version": "trixie",
             "supported_models": [
-                "Pi Model",
-                "Pi 2",
-                "Pi Zero",
-                "Pi 3",
-                "Pi Compute Module 3",
-                "Pi Compute Module 4",
-                "Pi Compute Module 5",
-                "Pi 4",
-                "Pi 5"
+		"Pi Model",
+		"Pi 2",
+		"Pi Zero",
+		"Pi 3",
+		"Pi Compute Module 3",
+		"Pi Compute Module 4",
+		"Pi Compute Module 5",
+		"Pi 4",
+		"Pi 5"
             ],
             "url":             "http://www.raspbian.org/",
             "group":           "Minimal",
-            "download_size":   468024764,
+            "download_size":   529684720,
             "os_info":         "http://downloads.sourceforge.net/project/pinn/os_trixie/raspios_armhf_lite/os.json",
             "partitions_info": "http://downloads.sourceforge.net/project/pinn/os_trixie/raspios_armhf_lite/partitions.json",
             "icon":            "http://downloads.sourceforge.net/project/pinn/os_trixie/raspios_armhf_lite/raspios_armhf_lite.png",
@@ -183,7 +177,7 @@
                                "http://downloads.sourceforge.net/project/pinn/os_trixie/raspios_armhf_lite/boot.tar.xz",
                                "http://downloads.sourceforge.net/project/pinn/os_trixie/raspios_armhf_lite/root.tar.xz"
             ],
-            "nominal_size": 2438
+            "nominal_size": 2661
         }
 
   ]
