@@ -2115,11 +2115,12 @@
             "release_date": "2026-09-20",
             "version":      "25.3",
             "supported_models": [
-                "Pi 3 Model B Rev",
-                "Pi 3 Model B Plus Rev",
-                "Pi 3 Model A Plus Rev",
-                "Pi 4 Model B Rev",
-                "Pi 5 Model B Rev"
+                "Pi 3",
+                "Pi 4",
+                "Pi 5",
+                "Pi Compute Module 3",
+                "Pi Compute Module 4",
+                "Pi Compute Module 5"
             ],
             "supports_usb_boot": true,
             "supports_usb_root": true,
