@@ -2110,6 +2110,35 @@
         }
 ,
         {
+            "os_name":	    "mxlinux",
+            "description":  "mxlinux 25.3 for RPi4",
+            "release_date": "2026-09-20",
+            "version":      "25.3",
+            "supported_models": [
+                "Pi 3 Model B Rev",
+                "Pi 3 Model B Plus Rev",
+                "Pi 3 Model A Plus Rev",
+                "Pi 4 Model B Rev",
+                "Pi 5 Model B Rev"
+            ],
+            "supports_usb_boot": true,
+            "supports_usb_root": true,
+            "group":            "General",
+            "download_size":    1552492052,
+            "os_info":         "http://downloads.sourceforge.net/project/pinn/os/mxlinux/os.json",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/mxlinux/partitions.json",
+            "icon":            "http://downloads.sourceforge.net/project/pinn/os/mxlinux/mxlinux.png",
+            "marketing_info":  "http://downloads.sourceforge.net/project/pinn/os/mxlinux/marketing.tar",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/mxlinux/partition_setup.sh",
+            "tarballs": [
+                "http://downloads.sourceforge.net/project/pinn/os/mxlinux/boot64.tar.xz",
+                "http://downloads.sourceforge.net/project/pinn/os/mxlinux/root64.tar.xz"
+
+            ],
+            "nominal_size": 7919
+        }
+,
+        {
             "os_name":	    "OpenPlotter32",
 			"description":  "The open-source sailing platform for ARM computers",
 			"release_date": "2022-07-18",
