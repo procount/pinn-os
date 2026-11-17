@@ -278,19 +278,6 @@
             ],
             "url": "https://thinlinx.com/",
             "version": "4.11.1"
-        },
-        {
-            "Group": "Utility",
-            "description": "Adds an empty 512MB ext4 format partition to the partition layout.",
-            "icon": "http://downloads.raspberrypi.org/data_partition/Data_Partition.png",
-            "nominal_size": 512,
-            "os_info": "http://downloads.raspberrypi.org/data_partition/os.json",
-            "os_name": "Data Partition",
-            "partitions_info": "http://downloads.raspberrypi.org/data_partition/partitions.json",
-            "supports_backup": true,
-            "tarballs": [
-                "http://downloads.raspberrypi.org/data_partition/data.tar.xz"
-            ]
         }
     ]
 }
