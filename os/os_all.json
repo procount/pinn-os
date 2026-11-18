@@ -513,6 +513,20 @@
         }
 ,
         {
+            "Group": "Utility",
+            "description": "Adds an empty 512MB ext4 format partition to the partition layout.",
+            "icon": "http://downloads.sourceforge.net/project/pinn/os/data_partition/Data_Partition.png",
+            "nominal_size": 512,
+            "os_info": "http://downloads.sourceforge.net/project/pinn/os/data_partition/os.json",
+            "os_name": "Data Partition",
+            "partitions_info": "http://downloads.sourceforge.net/project/pinn/os/data_partition/partitions.json",
+            "supports_backup": true,
+            "tarballs": [
+                "http://downloads.sourceforge.net/project/pinn/os/data_partition/data.tar.xz"
+            ]
+        }
+,
+        {
             "os_name":	    "debian-rpi2",
             "description":  "Debian Bookworm for RPi2B",
             "release_date": "2023-06-10",
