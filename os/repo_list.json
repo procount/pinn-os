@@ -28,10 +28,6 @@
 			"url": "http://raw.githubusercontent.com/procount/pinn-os/master/os/os_matthuisman.json"
 		},
 		{
-			"name": "Sakaki",
-			"url": "https://isshoni.org/pinn/os/os_list_v3.json"
-		},
-		{
 			"name": "LibreElec",
 			"url": "http://raw.githubusercontent.com/procount/pinn-os/master/os/os_libreelec.json"
 		},
