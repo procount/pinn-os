@@ -26,6 +26,14 @@ if [ -z $restore ]; then
     cp /mnt/ssh.txt /tmp/1/
   fi
 
+  if [ -f /mnt/userconf ]; then
+    cp /mnt/userconf /tmp/1/
+  fi
+
+  if [ -f /mnt/userconf.txt ]; then
+    cp /mnt/userconf.txt /tmp/1/
+  fi
+
   if [ -f /settings/wpa_supplicant.conf ]; then
     cp /settings/wpa_supplicant.conf /tmp/1/
   fi
